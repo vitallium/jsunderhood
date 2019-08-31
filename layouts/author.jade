@@ -30,7 +30,7 @@ block content
                 = ", "
                 span.glyphicon.glyphicon-map-marker
                 = " " + author.info.location
-          
+
           each weekday in helpers.authorRender.prepareTweets(author.tweets)
             - var weekdayID = helpers.authorRender.unidecode(weekday.weekday);
             h2(id=weekdayID)
@@ -82,7 +82,7 @@ block content
                       for image in images
                         img.img-responsive(src=image)
                 a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
-            
+
           h2(id="links")
             a(href="#links") #
             = " Ссылки"

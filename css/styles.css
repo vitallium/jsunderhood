@@ -1,3 +1,5 @@
+@import "ilyabirman-likely/release/likely.css";
+
 .jumbotron {
   margin-bottom: initial;
   padding-bottom: initial;
@@ -415,8 +417,6 @@ tr {
     font-weight: 500;
   }
 }
-
-@import "ilyabirman-likely/release/likely.css";
 
 .likely-big {
   min-height: 44px;

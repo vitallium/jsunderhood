@@ -1,9 +1,14 @@
-import { readJsonSync } from 'fs-extra';
+import {
+  readJsonSync,
+  existsSync,
+} from 'fs-extra';
 
 export default function getAuthorArea(authorId, area) {
-  try {
-    return readJsonSync(`./dump/${authorId}${area ? '-' + area : ''}.json`);
-  } catch (e) {
-    return {};
+  const areaSuffix = area ? `-${area}` : '';
+  const path = `./dump/${authorId}${areaSuffix}.json`;
+  if (existsSync(path)) {
+    return readJsonSync(path);
   }
+
+  return {};
 }

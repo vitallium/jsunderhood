@@ -26,8 +26,8 @@ loaders.push({
 });
 
 // plugins
-plugins.push(new webpack.optimize.OccurenceOrderPlugin());
-plugins.push(new webpack.optimize.DedupePlugin());
+// plugins.push(new webpack.optimize.OccurenceOrderPlugin());
+// plugins.push(new webpack.optimize.DedupePlugin());
 plugins.push(new webpack.ContextReplacementPlugin(/moment\/locale$/, /ru/));
 if (!DEBUG) {
   plugins.push(new webpack.optimize.UglifyJsPlugin({
@@ -43,7 +43,6 @@ if (!DEBUG) {
 module.exports = {
   entry,
   cache: DEBUG,
-  debug: DEBUG,
   devtool: DEBUG ? 'source-map' : 'hidden-source-map',
   output: {
     path: join(CWD, DEST),
@@ -51,6 +50,6 @@ module.exports = {
     filename: 'app.js',
     pathinfo: DEBUG,
   },
-  module: { loaders },
+  module: { rules: loaders },
   plugins,
 };

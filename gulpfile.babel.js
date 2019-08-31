@@ -2,24 +2,36 @@ import buildbranch from 'buildbranch';
 import rimraf from 'rimraf';
 import each from 'each-done';
 import express from 'express';
-import fs, { outputFile as output } from 'fs-extra';
-import { html } from 'commonmark-helpers';
+import fs, {
+  outputFile as output,
+} from 'fs-extra';
+import {
+  html,
+} from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
 import numd from 'numd';
 import RSS from 'rss';
-import { merge, pipe, prop, head, splitEvery } from 'ramda';
-import sequence from 'run-sequence';
+import {
+  merge,
+  pipe,
+  prop,
+  head,
+  splitEvery,
+} from 'ramda';
 import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
 import pcssImport from 'postcss-import';
 import pcssInitial from 'postcss-initial';
 import webpack from 'webpack';
 
-import gulp, { dest, src, start as _start, task as _task } from 'gulp';
+import gulp from 'gulp';
 import gulpJade from 'gulp-jade';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
-import { log, PluginError } from 'gulp-util';
+import {
+  log,
+  PluginError,
+} from 'gulp-util';
 import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
@@ -33,36 +45,55 @@ import bust from './helpers/bust';
 import lastUpdated from './helpers/last-updated';
 
 import authors from './dump';
-const latestInfo = (head(authors) || {}).info;
 
-const start = _start.bind(gulp);
-const task = _task.bind(gulp);
+const latestInfo = (head(authors) || {}).info;
 
 const jadeDefaults = {
   pretty: true,
   locals: {
     site: underhood.site,
     latestInfo,
-    numbers: input => numbers(input, { locale: 'ru' }),
+    numbers: (input) => numbers(input, {
+      locale: 'ru',
+    }),
     people: numd('человек', 'человека', 'человек'),
   },
 };
 
-const getOptions = (opts = {}) =>
-  Object.assign({}, jadeDefaults, opts, {
-    locals: Object.assign({}, jadeDefaults.locals, opts.locals),
-  });
+const getOptions = (opts = {}) => {
+  const locals = {
+    ...jadeDefaults.locals,
+    ...opts.locals,
+  };
 
-const jade = opts => gulpJade(getOptions(opts));
+  return {
+    ...jadeDefaults,
+    opts,
+    locals,
+  };
+};
+
+const jade = (opts) => gulpJade(getOptions(opts));
 const firstTweet = pipe(prop('tweets'), head);
 const render = pipe(renderTweet, html);
 
 /**
  * MAIN TASKS
  */
-task('index', ['css'], () => {
-  const authorsToPost = authors.filter(author => author.post !== false);
-  return src('layouts/index.jade')
+gulp.task('css', () => {
+  return gulp.src('css/styles.css')
+    .pipe(postcss([
+      pcssImport,
+      pcssInitial,
+      autoprefixer,
+    ]))
+    .pipe(gulp.dest('./dist/css/'));
+});
+
+gulp.task('index', gulp.series('css', () => {
+  const authorsToPost = authors.filter((author) => author.post !== false);
+
+  return gulp.src('layouts/index.jade')
     .pipe(jade({
       locals: {
         title: `Сайт @${underhood.underhood}`,
@@ -70,15 +101,21 @@ task('index', ['css'], () => {
         underhood,
         currentAuthor: head(authors),
         authors: splitEvery(3, authorsToPost),
-        helpers: { bust, firstTweet, render },
+        helpers: {
+          bust,
+          firstTweet,
+          render,
+        },
       },
     }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist'));
-});
+    .pipe(rename({
+      basename: 'index',
+    }))
+    .pipe(gulp.dest('./dist/'));
+}));
 
-task('stats', ['css'], () =>
-  src('layouts/stats.jade')
+gulp.task('stats', gulp.series('css', () => {
+  return gulp.src('./layouts/stats.jade')
     .pipe(jade({
       locals: {
         title: `Статистика @${underhood.underhood}`,
@@ -87,110 +124,147 @@ task('stats', ['css'], () =>
         lastUpdated,
         underhood,
         stats: getStats(authors),
-        helpers: { bust },
+        helpers: {
+          bust,
+        },
       },
     }))
-    .pipe(rename({ dirname: 'stats' }))
-    .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist')));
+    .pipe(rename({
+      dirname: 'stats',
+      basename: 'index',
+    }))
+    .pipe(gulp.dest('./dist/'));
+}));
 
-task('md-pages', ['css'], done => {
-  each([
-    { name: 'about', title: 'О проекте' },
-    { name: 'authoring', title: 'Авторам' },
-    { name: 'instruction', title: 'Инструкция' },
-  ], item => {
-    const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
-    const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
-    return src('layouts/article.jade')
+gulp.task('md-pages', gulp.series('css', (done) => {
+  each([{
+      name: 'about',
+      title: 'О проекте',
+    },
+    {
+      name: 'authoring',
+      title: 'Авторам',
+    },
+    {
+      name: 'instruction',
+      title: 'Инструкция',
+    },
+  ], (item) => {
+    const page = fs.readFileSync(`./pages/${item.name}.md`, {
+      encoding: 'utf8',
+    });
+    // TODO change to 'ru' after moment/moment#2634 will be published
+    const article = articleData(page, 'D MMMM YYYY', 'en');
+    return gulp.src('layouts/article.jade')
       .pipe(jade({
         locals: merge(article, {
           title: item.title,
-          url: item.name + '/',
+          url: `${item.name}/`,
           underhood,
-          helpers: { bust },
+          helpers: {
+            bust,
+          },
         }),
       }))
-      .pipe(rename({ dirname: item.name }))
-      .pipe(rename({ basename: 'index' }))
-      .pipe(dest('dist'));
+      .pipe(rename({
+        dirname: item.name,
+        basename: 'index',
+      }))
+      .pipe(gulp.dest('dist'));
   }, done);
-});
+}));
 
-task('rss', done => {
+gulp.task('rss', (done) => {
   const feed = new RSS(underhood.site);
-  const authorsToPost = authors.filter(author => author.post !== false);
-  authorsToPost.forEach(author => {
+  const authorsToPost = authors.filter((author) => author.post !== false);
+  authorsToPost.forEach((author) => {
+    const renderedFirstTweet = firstTweet(author);
+
     feed.item({
       title: author.username,
-      description: render(firstTweet(author)),
+      description: render(renderedFirstTweet),
       url: `https://jsunderhood.ru/${author.authorId}/`,
-      date: firstTweet(author).created_at,
+      date: renderedFirstTweet ? renderedFirstTweet.created_at : null,
     });
   });
-  output('dist/rss.xml', feed.xml({ indent: true }), done);
+
+  output('dist/rss.xml', feed.xml({
+    indent: true,
+  }), done);
 });
 
-task('authors', ['css'], done => {
-  const authorsToPost = authors.filter(author => author.post !== false);
-  each(authorsToPost, author => {
-    return src('./layouts/author.jade')
-      .pipe(jade({
-        pretty: true,
-        locals: {
-          title: `Неделя @${author.username} в @${underhood.underhood}`,
-          author, underhood,
-          helpers: { authorRender, bust },
+gulp.task('authors', gulp.series('css', (done) => {
+  const authorsToPost = authors
+    .filter((author) => author.tweets.length > 0)
+    .filter((author) => author.post !== false);
+
+  each(authorsToPost, (author) => gulp.src('./layouts/author.jade')
+    .pipe(jade({
+      pretty: true,
+      locals: {
+        title: `Неделя @${author.username} в @${underhood.underhood}`,
+        author,
+        underhood,
+        helpers: {
+          authorRender,
+          bust,
         },
-      }))
-      .pipe(rename({ dirname: author.authorId }))
-      .pipe(rename({ basename: 'index' }))
-      .pipe(dest('dist'));
-  }, done);
+      },
+    }))
+    .pipe(rename({
+      dirname: author.authorId,
+      basename: 'index',
+    }))
+    .pipe(gulp.dest('./dist/')), done);
+}));
+
+gulp.task('userpics', () => {
+  return gulp.src('dump/images/*-image*')
+    .pipe(jimp({
+      resize: {
+        width: 96,
+        height: 96,
+      },
+    }))
+    .pipe(gulp.dest('dist/images'));
 });
 
-task('userpics', () =>
-  src('dump/images/*-image*')
-    .pipe(jimp({ resize: { width: 96, height: 96 }}))
-    .pipe(dest('dist/images')));
-
-task('current-userpic', () =>
-  head(authors) && src(`dump/images/${head(authors).authorId}-image*`)
-    .pipe(jimp({ resize: { width: 192, height: 192 }}))
+gulp.task('current-userpic', () => {
+  return head(authors) && gulp.src(`dump/images/${head(authors).authorId}-image*`)
+    .pipe(jimp({
+      resize: {
+        width: 192,
+        height: 192,
+      },
+    }))
     .pipe(rename('current-image'))
-    .pipe(dest('dist/images')));
+    .pipe(gulp.dest('dist/images'));
+});
 
-task('current-banner', () =>
-  head(authors) && src(`dump/images/${head(authors).authorId}-banner*`)
+gulp.task('current-banner', () => {
+  return head(authors) && gulp.src(`dump/images/${head(authors).authorId}-banner*`)
     .pipe(rename('current-banner'))
-    .pipe(dest('dist/images')));
+    .pipe(gulp.dest('dist/images'));
+});
 
-task('current-media', ['current-userpic', 'current-banner']);
+gulp.task('current-media', gulp.series(['current-userpic', 'current-banner']));
 
-task('css', () =>
-  src('css/styles.css')
-    .pipe(postcss([
-      pcssImport,
-      pcssInitial,
-      autoprefixer,
-    ]))
-    .pipe(dest('dist/css')));
-
-task('js', done => {
-  webpack(webpackConfig, err => {
+gulp.task('js', (done) => {
+  webpack(webpackConfig, (err) => {
     if (err) throw new PluginError('webpack', err);
     done();
   });
 });
 
-task('static', () =>
-  src([
+gulp.task('static', () => {
+  return gulp.src([
     'static/**',
     'static/.**',
     'node_modules/bootstrap/dist/**',
-  ]).pipe(dest('dist')));
+  ]).pipe(gulp.dest('dist'));
+});
 
-task('server', () => {
+gulp.task('server', () => {
   const app = express();
   app.use(express.static('dist'));
   app.listen(4000);
@@ -200,19 +274,23 @@ task('server', () => {
 /**
  * FLOW
  */
-task('clean', done => rimraf('dist', done));
+gulp.task('clean', (done) => {
+  rimraf('dist', done);
+});
+gulp.task('html', gulp.series(['stats', 'authors', 'index', 'rss', 'md-pages']));
+gulp.task('build', gulp.series('html', 'js', 'stats', 'static', 'userpics', 'current-media'));
 
-task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
-
-task('default', done => sequence('clean', 'watch', done));
-
-task('watch', ['server', 'build'], () => {
-  watch(['**/*.jade'], () => start('html'));
-  watch(['css/**/*.css'], () => start('css'));
-  watch('js/**/*.js', () => start('js'));
-  watch('static/**', () => start('static'));
+gulp.task('watch', gulp.series(['build', 'server']), () => {
+  watch(['**/*.jade'], () => gulp.start('html'));
+  watch(['css/**/*.css'], () => gulp.start('css'));
+  watch('js/**/*.js', () => gulp.start('js'));
+  watch('static/**', () => gulp.start('static'));
 });
 
-task('deploy', ['build'], done =>
-  buildbranch({ branch: 'gh-pages', folder: 'dist' }, done));
+gulp.task('default', gulp.series(['clean', 'watch']));
+gulp.task('deploy', gulp.series(['build']), (done) => {
+  buildbranch({
+    branch: 'gh-pages',
+    folder: 'dist',
+  }, done);
+});
