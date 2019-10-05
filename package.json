@@ -1,6 +1,6 @@
 {
   "name": "jsunderhood",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "deploy": "gulp deploy",
     "deploy:ci": "npm-run-all git-setup:ci update save deploy",
     "pretest": "gulp build",
-    "test": "mocha --require babel/register --timeout 240000",
+    "test": "mocha --require @babel/register --timeout 240000",
     "tdd": "npm test -- --watch",
     "posttest": "gulp clean",
     "start": "gulp",
