@@ -1,15 +1,33 @@
 import moment from 'moment';
-import { pipe, filter, groupBy, prop, converge, inc, dec, length,
-  findIndex, propEq, path, map, head, split, nth, replace, toUpper, tail,
-  concat } from 'ramda';
+import {
+  pipe,
+  filter,
+  groupBy,
+  prop,
+  converge,
+  inc,
+  dec,
+  length,
+  findIndex,
+  propEq,
+  path,
+  map,
+  head,
+  split,
+  nth,
+  replace,
+  toUpper,
+  tail,
+  concat,
+} from 'ramda';
 import numd from 'numd';
 import renderTweet from 'tweet.md';
-import getLinks from './get-links';
 import { html } from 'commonmark-helpers';
-import ungroupInto from './ungroup-into';
 import unidecode from 'unidecode';
 import trimTag from 'trim-html-tag';
 import { parse } from 'url';
+import ungroupInto from './ungroup-into';
+import getLinks from './get-links';
 import authors from '../dump';
 import { underhood } from '../.underhoodrc.json';
 
@@ -19,13 +37,19 @@ const getQuotedUser = pipe(
   map(replace('/mobile.twitter.com/', '/twitter.com/')),
   filter(url => parse(url).host === 'twitter.com'),
   head,
-  pipe(parse, prop('path'), split('/'), nth(1)));
+  pipe(
+    parse,
+    prop('path'),
+    split('/'),
+    nth(1),
+  ),
+);
 
 moment.locale('ru');
 
 const weekday = date => moment(new Date(date)).format('dddd');
-const tweetLink = (tweet) => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
-const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
+const tweetLink = tweet => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
+const tweetTime = tweet => moment(new Date(tweet.created_at)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
 
@@ -41,12 +65,24 @@ const prevAuthor = author => {
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
-const capitalize = converge(concat, [pipe(head, toUpper), tail]);
-const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
+const capitalize = converge(concat, [
+  pipe(
+    head,
+    toUpper,
+  ),
+  tail,
+]);
+const filterTimeline = item => item.text[0] !== '@' || item.text.indexOf(`@${underhood}`) === 0;
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), weekday)),
-  ungroupInto('weekday', 'tweets'));
+  groupBy(
+    pipe(
+      prop('created_at'),
+      weekday,
+    ),
+  ),
+  ungroupInto('weekday', 'tweets'),
+);
 
 export default {
   d,
@@ -55,8 +91,14 @@ export default {
   tweetsUnit,
   getQuotedUser,
   unidecode,
-  prevAuthor, nextAuthor,
-  render: pipe(renderTweet, html, trimTag),
-  tweetTime, tweetLink,
+  prevAuthor,
+  nextAuthor,
+  render: pipe(
+    renderTweet,
+    html,
+    trimTag,
+  ),
+  tweetTime,
+  tweetLink,
   getLinks,
 };

@@ -1,10 +1,12 @@
+import diff from 'lodash.difference';
+import R from 'ramda';
 import getAuthorArea from './get-author-area';
 import authors from '../authors';
-import R from 'ramda';
-import diff from 'lodash.difference';
 
-const prev = authorId => (authors[R.inc(R.findIndex(R.propEq('authorId', authorId), authors))] || {}).authorId;
-const followers = authorId => R.map(R.prop('id_str'), (getAuthorArea(authorId, 'followers').followers || []));
+const prev = authorId =>
+  (authors[R.inc(R.findIndex(R.propEq('authorId', authorId), authors))] || {}).authorId;
+const followers = authorId =>
+  R.map(R.prop('id_str'), getAuthorArea(authorId, 'followers').followers || []);
 
 // getDiffFollowers :: String -> Object
 export default function getDiffFollowers(authorId) {

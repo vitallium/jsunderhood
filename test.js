@@ -48,7 +48,11 @@ describe('html', () => {
     it('followers count exists', () => {
       const $ = make$('dist/index.html');
       const followers = numbers(String(latestInfo.followers_count));
-      assert($('.page-header p i').text().indexOf(followers) > 0);
+      assert(
+        $('.page-header p i')
+          .text()
+          .indexOf(followers) > 0,
+      );
     });
   });
 
@@ -69,7 +73,7 @@ describe('html', () => {
 
   describe('archive pages', () => {
     it('tweets list', () => {
-      authors.forEach( author => {
+      authors.forEach(author => {
         if (author.post === false) return;
         const $ = make$(`dist/${author.username}/index.html`);
         assert($('article p').length > 1);
@@ -84,17 +88,17 @@ describe('html', () => {
       { username: 'yolo' },
       { username: 'first' },
       { username: 'yolo' },
-      { username: 'first' }
+      { username: 'first' },
     ];
 
     it('should work', () => {
       const actual = authorId(input);
       const expected = [
         { username: 'first', authorId: 'first-3' },
-        { username: 'yolo',  authorId: 'yolo-2' },
+        { username: 'yolo', authorId: 'yolo-2' },
         { username: 'first', authorId: 'first-2' },
-        { username: 'yolo',  authorId: 'yolo' },
-        { username: 'first', authorId: 'first' }
+        { username: 'yolo', authorId: 'yolo' },
+        { username: 'first', authorId: 'first' },
       ];
       assert.deepEqual(actual, expected);
     });

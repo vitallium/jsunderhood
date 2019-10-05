@@ -50,4 +50,4 @@ function reverseAndRenameTweets({ username }) {
 }
 authors.map(reverseAndRenameTweets);
 
-rimraf.sync('./migration.js')
+rimraf.sync('./migration.js');
