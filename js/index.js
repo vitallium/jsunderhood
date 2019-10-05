@@ -2,8 +2,8 @@ import { initate as likely } from 'ilyabirman-likely';
 
 likely();
 
-const d = document; // eslint-disable-line id-length
-const $ = d.querySelector.bind(d); // eslint-disable-line id-length
+const d = document;
+const $ = d.querySelector.bind(d);
 
 if ($('.js-stats')) {
   require([
@@ -15,6 +15,9 @@ if ($('.js-stats')) {
 
     const lastUpdated = $('.js-last-updated');
     const timestamp = lastUpdated.getAttribute('data-timestamp');
-    lastUpdated.textContent = moment.unix(timestamp).locale('ru').fromNow();
+    lastUpdated.textContent = moment
+      .unix(timestamp)
+      .locale('ru')
+      .fromNow();
   });
 }

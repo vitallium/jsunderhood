@@ -1,13 +1,13 @@
-import authors from './authors';
-import { reverse, merge } from 'ramda';
-import tokens from 'twitter-tokens';
 import getInfo from 'get-twitter-info';
+import tokens from 'twitter-tokens';
+import { reverse, merge } from 'ramda';
+import { remove, outputJSON } from 'fs-extra';
+import rimraf from 'rimraf';
+import authors from './authors';
 import getAuthorArea from './helpers/get-author-area';
 import saveAuthorArea from './helpers/save-author-area';
 import log from './helpers/log';
-import { remove, outputJSON } from 'fs-extra';
 import saveMedia from './helpers/save-media';
-import rimraf from 'rimraf';
 
 const spaces = 2;
 

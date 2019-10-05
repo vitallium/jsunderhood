@@ -8,12 +8,12 @@ import { head } from 'ramda';
 import authors from './dump';
 import authorId from './helpers/author-id';
 
+import getGainedFollowers from './helpers/get-gained-followers';
+import getDiffFollowers from './helpers/get-diff-followers';
+
 const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
-
-import getGainedFollowers from './helpers/get-gained-followers';
-import getDiffFollowers from './helpers/get-diff-followers';
 
 describe('js', () => {
   it('getGainedFollowers ordinary', () => {
@@ -75,7 +75,9 @@ describe('html', () => {
     it('tweets list', () => {
       authors.forEach(author => {
         if (author.post === false) return;
+
         const $ = make$(`dist/${author.username}/index.html`);
+
         assert($('article p').length > 1);
         assert($('article h2 small').length > 1);
       });

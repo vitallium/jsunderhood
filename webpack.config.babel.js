@@ -30,12 +30,16 @@ loaders.push({
 // plugins.push(new webpack.optimize.DedupePlugin());
 plugins.push(new webpack.ContextReplacementPlugin(/moment\/locale$/, /ru/));
 if (!DEBUG) {
-  plugins.push(new webpack.optimize.UglifyJsPlugin({
-    compress: { warnings: false },
-  }));
-  plugins.push(new webpack.DefinePlugin({
-    'process.env': { NODE_ENV: JSON.stringify('production') },
-  }));
+  plugins.push(
+    new webpack.optimize.UglifyJsPlugin({
+      compress: { warnings: false },
+    }),
+  );
+  plugins.push(
+    new webpack.DefinePlugin({
+      'process.env': { NODE_ENV: JSON.stringify('production') },
+    }),
+  );
   plugins.push(new webpack.NoErrorsPlugin());
 }
 

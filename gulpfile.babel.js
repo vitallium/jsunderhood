@@ -23,9 +23,9 @@ import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
 import articleData from 'article-data';
-import getStats from './stats.js';
+import getStats from './stats';
 import underhood from './.underhoodrc.json';
-import webpackConfig from './webpack.config.babel.js';
+import webpackConfig from './webpack.config.babel';
 
 import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
