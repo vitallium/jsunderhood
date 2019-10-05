@@ -1,4 +1,9 @@
 {
-  "extends": "airbnb-base",
-  "plugins": ["require-path-exists"]
+  "extends": [
+    "airbnb-base"
+  ],
+  "plugins": ["require-path-exists"],
+  "rules": {
+    "arrow-parens": ["error", "as-needed"]
+  }
 }
