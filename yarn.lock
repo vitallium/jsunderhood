@@ -2336,11 +2336,6 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-deep-extend@^0.5.0:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.5.1.tgz#b894a9dd90d3023fbf1c55a394fb858eb2066f1f"
-  integrity sha512-N8vBdOa+DF7zkRrDCsaOXoCs/E2fJfx9B9MrKnnSiHNh4ws7eSys6YQE4KvT1cecKmOASYQBhbKjeuDD9lT81w==
-
 deep-extend@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
@@ -3544,6 +3539,13 @@ get-twitter-info@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/get-twitter-info/-/get-twitter-info-1.0.5.tgz#dfdf13283409e1af77294ed28adfdaa78ed23f64"
   integrity sha1-398TKDQJ4a93KU7Sit/ap47SP2Q=
+  dependencies:
+    twit "^2.1.0"
+
+get-twitter-info@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/get-twitter-info/-/get-twitter-info-2.0.2.tgz#2105a4ef29989c33e65ca27ebf5ab66a0cfc67d9"
+  integrity sha1-IQWk7ymYnDPmXKJ+v1q2agz8Z9k=
   dependencies:
     twit "^2.1.0"
 
@@ -6633,7 +6635,7 @@ replace-homedir@^1.0.0:
     is-absolute "^1.0.0"
     remove-trailing-separator "^1.1.0"
 
-request@^2.65.0, request@^2.68.0, request@^2.72.0:
+request@^2.65.0, request@^2.68.0:
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
@@ -7647,25 +7649,17 @@ twitter-mentions@^2.0.5:
     ramda "^0.18.0"
     twit "^2.1.1"
 
-twitter-profile-media@^0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/twitter-profile-media/-/twitter-profile-media-0.1.3.tgz#5ad1b90065bd152f419ef44e7b8a454798fe34db"
-  integrity sha1-WtG5AGW9FS9BnvROe4pFR5j+NNs=
+twitter-profile-media@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/twitter-profile-media/-/twitter-profile-media-2.0.6.tgz#12acd84c574e42b323109ee99bbc25105367a2f4"
+  integrity sha1-EqzYTFdOQrMjEJ7pm7wlEFNnovQ=
   dependencies:
-    twitter "^1.2.5"
+    get-twitter-info "^2.0.2"
 
 twitter-tokens@^1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/twitter-tokens/-/twitter-tokens-1.0.3.tgz#f350c6fb7f879450959d63c3bd2662081ff76964"
   integrity sha1-81DG+3+HlFCVnWPDvSZiCB/3aWQ=
-
-twitter@^1.2.5:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/twitter/-/twitter-1.7.1.tgz#0762378f1dc1c050e48f666aca904e24b1a962f4"
-  integrity sha1-B2I3jx3BwFDkj2ZqypBOJLGpYvQ=
-  dependencies:
-    deep-extend "^0.5.0"
-    request "^2.72.0"
 
 type-check@~0.3.2:
   version "0.3.2"
