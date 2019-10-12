@@ -26,54 +26,271 @@
     }
   },
   "protected": false,
-  "followers_count": 6297,
-  "friends_count": 507,
+  "followers_count": 6333,
+  "friends_count": 505,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2122,
+  "favourites_count": 2145,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 32074,
+  "statuses_count": 32116,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 09 11:34:19 +0000 2019",
-    "id": 1181895663673626600,
-    "id_str": "1181895663673626625",
-    "text": "6. Разное отношение к работникам\n\nНе обязательно руководитель должен относиться к каждому работнику одинаково, но о… https://t.co/gocKXF5p8L",
-    "truncated": true,
+    "created_at": "Sat Oct 12 15:20:38 +0000 2019",
+    "id": 1183039783997706200,
+    "id_str": "1183039783997706240",
+    "text": "RT @xufocoder: Пришёл на доклад по webgl от @subzey, а там контент сплошная мясорубка https://t.co/qS2E4kiOYp",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/gocKXF5p8L",
-          "expanded_url": "https://twitter.com/i/web/status/1181895663673626625",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "xufocoder",
+          "name": "Ufocoder",
+          "id": 474880609,
+          "id_str": "474880609",
           "indices": [
-            117,
-            140
+            3,
+            13
           ]
+        },
+        {
+          "screen_name": "subzey",
+          "name": "subzey",
+          "id": 161396680,
+          "id_str": "161396680",
+          "indices": [
+            44,
+            51
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1183003351023308800,
+          "id_str": "1183003351023308803",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+          "url": "https://t.co/qS2E4kiOYp",
+          "display_url": "pic.twitter.com/qS2E4kiOYp",
+          "expanded_url": "https://twitter.com/xufocoder/status/1183003368408731650/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1155,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1183003368408731600,
+          "source_status_id_str": "1183003368408731650",
+          "source_user_id": 474880609,
+          "source_user_id_str": "474880609"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1183003351023308800,
+          "id_str": "1183003351023308803",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+          "url": "https://t.co/qS2E4kiOYp",
+          "display_url": "pic.twitter.com/qS2E4kiOYp",
+          "expanded_url": "https://twitter.com/xufocoder/status/1183003368408731650/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1155,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1183003368408731600,
+          "source_status_id_str": "1183003368408731650",
+          "source_user_id": 474880609,
+          "source_user_id_str": "474880609"
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1181893456093954000,
-    "in_reply_to_status_id_str": "1181893456093954050",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 12 12:55:56 +0000 2019",
+      "id": 1183003368408731600,
+      "id_str": "1183003368408731650",
+      "text": "Пришёл на доклад по webgl от @subzey, а там контент сплошная мясорубка https://t.co/qS2E4kiOYp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subzey",
+            "name": "subzey",
+            "id": 161396680,
+            "id_str": "161396680",
+            "indices": [
+              29,
+              36
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1183003351023308800,
+            "id_str": "1183003351023308803",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+            "url": "https://t.co/qS2E4kiOYp",
+            "display_url": "pic.twitter.com/qS2E4kiOYp",
+            "expanded_url": "https://twitter.com/xufocoder/status/1183003368408731650/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 677,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1155,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1183003351023308800,
+            "id_str": "1183003351023308803",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGrfR6nXUAMqzJP.jpg",
+            "url": "https://t.co/qS2E4kiOYp",
+            "display_url": "pic.twitter.com/qS2E4kiOYp",
+            "expanded_url": "https://twitter.com/xufocoder/status/1183003368408731650/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 677,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1155,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweet_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
