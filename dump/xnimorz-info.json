@@ -26,125 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 6431,
+  "followers_count": 6437,
   "friends_count": 503,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2167,
+  "favourites_count": 2181,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 32579,
+  "statuses_count": 32602,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 28 09:53:21 +0000 2019",
-    "id": 1188755624336732200,
-    "id_str": "1188755624336732166",
-    "text": "RT @shaukote: @jsunderhood @foodenko Всё так. Стараюсь минимизировать вектор атаки, снижая количество установленных разрешений.",
-    "truncated": false,
+    "created_at": "Mon Oct 28 14:49:34 +0000 2019",
+    "id": 1188830168678387700,
+    "id_str": "1188830168678387712",
+    "text": "Если вы получаете обращение в саппорт \"сайт тормозит\", часто саппорту приходится объяснять пользователю, как сделат… https://t.co/O5WZPQ2WY8",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "shaukote",
-          "name": "Шаукат Амирханов",
-          "id": 383727783,
-          "id_str": "383727783",
+          "url": "https://t.co/O5WZPQ2WY8",
+          "expanded_url": "https://twitter.com/i/web/status/1188830168678387712",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            14,
-            26
-          ]
-        },
-        {
-          "screen_name": "foodenko",
-          "name": "Ащщафратуха",
-          "id": 28521330,
-          "id_str": "28521330",
-          "indices": [
-            27,
-            36
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1188830167499788300,
+    "in_reply_to_status_id_str": "1188830167499788294",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Oct 28 09:52:20 +0000 2019",
-      "id": 1188755367066525700,
-      "id_str": "1188755367066525696",
-      "text": "@jsunderhood @foodenko Всё так. Стараюсь минимизировать вектор атаки, снижая количество установленных разрешений.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          },
-          {
-            "screen_name": "foodenko",
-            "name": "Ащщафратуха",
-            "id": 28521330,
-            "id_str": "28521330",
-            "indices": [
-              13,
-              22
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "in_reply_to_status_id": 1188725164260909000,
-      "in_reply_to_status_id_str": "1188725164260909057",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
