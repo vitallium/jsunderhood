@@ -1,0 +1,33 @@
+name: Update dump
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1.1.0
+      with:
+        node-version: 12.x
+    - run: yarn install
+    - name: Run the update script
+      run: yarn update
+      with:
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+        TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+    - name: Commit changes
+      run: |
+        git config --local user.email "vitaliy.slobodin@gmail.com"
+        git config --local user.name "Vitaly Slobodin"
+        git commit -m "Update dump" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
