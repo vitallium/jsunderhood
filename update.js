@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
 import log from './helpers/log';
 import { outputFile } from 'fs-extra';
 import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
@@ -8,7 +11,13 @@ import { sync as rm } from 'rimraf';
 import { underhood } from './.underhoodrc.json';
 import authors from './authors';
 
-import tokens from 'twitter-tokens';
+const tokens = {
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+};
 import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
