@@ -26,70 +26,130 @@
     }
   },
   "protected": false,
-  "followers_count": 6435,
-  "friends_count": 503,
+  "followers_count": 6440,
+  "friends_count": 504,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2248,
+  "favourites_count": 2266,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 32849,
+  "statuses_count": 32949,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 30 20:53:02 +0000 2019",
-    "id": 1189646415565340700,
-    "id_str": "1189646415565340672",
-    "text": "@theKashey @boriscoder Да, важно добавить, что до этого SSR был не нужен, потому что был только xslt рендер. Реакта… https://t.co/hKt8QGkaFH",
-    "truncated": true,
+    "created_at": "Thu Oct 31 20:08:25 +0000 2019",
+    "id": 1189997573416931300,
+    "id_str": "1189997573416931328",
+    "text": "RT @mr_mig_by: @vfurso @jsunderhood Повлиять на бизнес анализ, продукт, решения других отделов разработчик практически никогда не может. \nП…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "theKashey",
-          "name": "Anton Korzunov",
-          "id": 97456304,
-          "id_str": "97456304",
+          "screen_name": "mr_mig_by",
+          "name": "Alexey Migutsky",
+          "id": 170772902,
+          "id_str": "170772902",
           "indices": [
-            0,
-            10
+            3,
+            13
           ]
         },
         {
-          "screen_name": "boriscoder",
-          "name": "just-boris",
-          "id": 622914775,
-          "id_str": "622914775",
+          "screen_name": "vfurso",
+          "name": "Uladzimir Furso",
+          "id": 30935625,
+          "id_str": "30935625",
           "indices": [
-            11,
+            15,
             22
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            23,
+            35
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/hKt8QGkaFH",
-          "expanded_url": "https://twitter.com/i/web/status/1189646415565340672",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1189645667351892000,
-    "in_reply_to_status_id_str": "1189645667351891971",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 31 16:38:53 +0000 2019",
+      "id": 1189944843163836400,
+      "id_str": "1189944843163836416",
+      "text": "@vfurso @jsunderhood Повлиять на бизнес анализ, продукт, решения других отделов разработчик практически никогда не… https://t.co/oCHczZzwjK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vfurso",
+            "name": "Uladzimir Furso",
+            "id": 30935625,
+            "id_str": "30935625",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              8,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oCHczZzwjK",
+            "expanded_url": "https://twitter.com/i/web/status/1189944843163836416",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1189942320029941800,
+      "in_reply_to_status_id_str": "1189942320029941762",
+      "in_reply_to_user_id": 30935625,
+      "in_reply_to_user_id_str": "30935625",
+      "in_reply_to_screen_name": "vfurso",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
