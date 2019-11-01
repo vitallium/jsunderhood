@@ -1,4 +1,5 @@
 import dotenv from 'dotenv';
+
 dotenv.config();
 
 import log from './helpers/log';
@@ -22,7 +23,7 @@ import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
-import twitterMentions from 'twitter-mentions';
+// import twitterMentions from 'twitter-mentions';
 
 import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
 import getAuthorArea from './helpers/get-author-area';
@@ -33,7 +34,7 @@ const { authorId, first, username } = head(authors);
 ensureFilesForFirstUpdate(authorId);
 
 const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
-const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
+// const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
 getTweets(tokens, underhood, tweetsSinceId, (err, newTweetsRaw) => {
@@ -59,12 +60,14 @@ getFollowers(tokens, underhood, (err, followersWithStatuses) => {
   saveAuthorArea(authorId, 'followers', { followers });
 });
 
-const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
-twitterMentions(tokens, mentionsSinceId, (err, newMentionsRaw) => {
-  if (err) throw err;
-  const concattedMentions = concat(mentions, reverse(newMentionsRaw));
-  saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
-});
+saveAuthorArea(authorId, 'mentions', { mentions: [] });
+
+// const mentionsSinceId = isEmpty(mentions) ? first : last(mentions).id_str;
+// twitterMentions(tokens, mentionsSinceId, (err, newMentionsRaw) => {
+//   if (err) throw err;
+//   const concattedMentions = concat(mentions, reverse(newMentionsRaw));
+//   saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
+// });
 
 outputFile('./dump/.timestamp', moment().unix(), err => {
   log(`${err ? '✗' : '✓'} timestamp`);
