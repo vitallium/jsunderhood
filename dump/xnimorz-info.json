@@ -26,57 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 6449,
-  "friends_count": 505,
-  "listed_count": 232,
+  "followers_count": 6444,
+  "friends_count": 504,
+  "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2274,
+  "favourites_count": 2291,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33031,
+  "statuses_count": 33147,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 01 21:56:47 +0000 2019",
-    "id": 1190387231984369700,
-    "id_str": "1190387231984369670",
-    "text": "Я за желуди ¯\\_(ツ)_/¯ https://t.co/8DzN6WSEEL",
-    "truncated": false,
+    "created_at": "Sat Nov 02 18:26:41 +0000 2019",
+    "id": 1190696749318516700,
+    "id_str": "1190696749318516736",
+    "text": "@myshov Мы идем на питон с клиентского js с указанием Accept хидеров. Питон в случае с html отправляет нам полноцен… https://t.co/iUx5znpmcD",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "myshov",
+          "name": "Alexander Myshov",
+          "id": 168906977,
+          "id_str": "168906977",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/8DzN6WSEEL",
-          "expanded_url": "https://twitter.com/ovrweb/status/1190384845307940864",
-          "display_url": "twitter.com/ovrweb/status/…",
+          "url": "https://t.co/iUx5znpmcD",
+          "expanded_url": "https://twitter.com/i/web/status/1190696749318516736",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            22,
-            45
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1190683975343313000,
+    "in_reply_to_status_id_str": "1190683975343312896",
+    "in_reply_to_user_id": 168906977,
+    "in_reply_to_user_id_str": "168906977",
+    "in_reply_to_screen_name": "myshov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1190384845307940900,
-    "quoted_status_id_str": "1190384845307940864",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
