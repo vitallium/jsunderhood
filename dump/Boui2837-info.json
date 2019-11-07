@@ -4,18 +4,7 @@
   "name": "jsunderhood",
   "screen_name": "jsunderhood",
   "location": "Dublin City, Ireland",
-  "profile_location": {
-    "id": "7dde0febc9ef245b",
-    "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
-    "place_type": "unknown",
-    "name": "Dublin City, Ireland",
-    "full_name": "Dublin City, Ireland",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт о фронтенде. С вами @Boui2837: full stack engineer @facebook",
   "url": null,
   "entities": {
@@ -24,76 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 6511,
+  "followers_count": 6549,
   "friends_count": 506,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2364,
+  "favourites_count": 2376,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33291,
+  "statuses_count": 33336,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 05 23:46:55 +0000 2019",
-    "id": 1191864501471268900,
-    "id_str": "1191864501471268865",
-    "text": "@phyrexianengine @Boui2837 @facebook @AWS Напиши в dm когда надумаешь)",
-    "truncated": false,
+    "created_at": "Thu Nov 07 00:05:17 +0000 2019",
+    "id": 1192231512151748600,
+    "id_str": "1192231512151748608",
+    "text": "@taujavarob Ааа, ок. Самое важное в graphql - чтобы объекты были хорошо продуманы. Логика разделения query по саб-р… https://t.co/2tnekpJVQC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "phyrexianengine",
-          "name": "Vasily K.",
-          "id": 280917430,
-          "id_str": "280917430",
+          "screen_name": "taujavarob",
+          "name": "Andrew Javarob",
+          "id": 188307045,
+          "id_str": "188307045",
           "indices": [
             0,
-            16
-          ]
-        },
-        {
-          "screen_name": "Boui2837",
-          "name": "🌌 Roksana 🌌",
-          "id": 91164181,
-          "id_str": "91164181",
-          "indices": [
-            17,
-            26
-          ]
-        },
-        {
-          "screen_name": "facebook",
-          "name": "Facebook",
-          "id": 2425151,
-          "id_str": "2425151",
-          "indices": [
-            27,
-            36
-          ]
-        },
-        {
-          "screen_name": "AWS",
-          "name": "Amazon Web Services",
-          "id": 793528302140989400,
-          "id_str": "793528302140989440",
-          "indices": [
-            37,
-            41
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/2tnekpJVQC",
+          "expanded_url": "https://twitter.com/i/web/status/1192231512151748608",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1191864134259937300,
-    "in_reply_to_status_id_str": "1191864134259937280",
-    "in_reply_to_user_id": 280917430,
-    "in_reply_to_user_id_str": "280917430",
-    "in_reply_to_screen_name": "phyrexianengine",
+    "in_reply_to_status_id": 1192226723972206600,
+    "in_reply_to_status_id_str": "1192226723972206598",
+    "in_reply_to_user_id": 188307045,
+    "in_reply_to_user_id_str": "188307045",
+    "in_reply_to_screen_name": "taujavarob",
     "geo": null,
     "coordinates": null,
     "place": null,
