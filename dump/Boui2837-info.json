@@ -24,50 +24,63 @@
     }
   },
   "protected": false,
-  "followers_count": 6583,
+  "followers_count": 6588,
   "friends_count": 506,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2388,
+  "favourites_count": 2390,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33418,
+  "statuses_count": 33420,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 08 19:32:21 +0000 2019",
-    "id": 1192887600052342800,
-    "id_str": "1192887600052342784",
-    "text": "Спасибо за музыку 🖤\n\nНа этом тред заканчивается,\nно не обсуждение и взаимное распространие любимой музыки)\n\nНаписат… https://t.co/GjCffXkkHt",
-    "truncated": true,
+    "created_at": "Sat Nov 09 12:13:30 +0000 2019",
+    "id": 1193139547082764300,
+    "id_str": "1193139547082764288",
+    "text": "@svart0222 3 сообщения сверху это треды\nМой вот\nhttps://t.co/4SqsmYlSK1",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "svart0222",
+          "name": "uda",
+          "id": 1166008800656183300,
+          "id_str": "1166008800656183296",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/GjCffXkkHt",
-          "expanded_url": "https://twitter.com/i/web/status/1192887600052342784",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/4SqsmYlSK1",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1192881217940729856?s=19",
+          "display_url": "twitter.com/jsunderhood/st…",
           "indices": [
-            117,
-            140
+            48,
+            71
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1192881217940729900,
-    "in_reply_to_status_id_str": "1192881217940729856",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1193134628992929800,
+    "in_reply_to_status_id_str": "1193134628992929793",
+    "in_reply_to_user_id": 1166008800656183300,
+    "in_reply_to_user_id_str": "1166008800656183296",
+    "in_reply_to_screen_name": "svart0222",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1192881217940729900,
+    "quoted_status_id_str": "1192881217940729856",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
