@@ -3,77 +3,169 @@
   "id_str": "3014054307",
   "name": "jsunderhood",
   "screen_name": "jsunderhood",
-  "location": "Dublin City, Ireland",
-  "profile_location": {
-    "id": "7dde0febc9ef245b",
-    "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
-    "place_type": "unknown",
-    "name": "Dublin City, Ireland",
-    "full_name": "Dublin City, Ireland",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный твиттер-аккаунт о фронтенде. С вами @Boui2837: full stack engineer @facebook",
-  "url": null,
+  "location": "Planet Earth",
+  "profile_location": null,
+  "description": "Compilers Hacker @igalia\nCore Collaborator @nodejs\nWorks on @v8js and @tc39",
+  "url": "https://t.co/sT7z2H5pq4",
   "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/sT7z2H5pq4",
+          "expanded_url": "http://ryzokuken.js.org",
+          "display_url": "ryzokuken.js.org",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
     "description": {
       "urls": []
     }
   },
   "protected": false,
-  "followers_count": 6618,
+  "followers_count": 6653,
   "friends_count": 506,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2393,
+  "favourites_count": 2409,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33442,
+  "statuses_count": 33463,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 10 20:48:01 +0000 2019",
-    "id": 1193631417261056000,
-    "id_str": "1193631417261056000",
-    "text": "@growtofill 👏 fair point, повод начать говорить про multiplexing в http2 и почему использовать http 1.1 не надо",
-    "truncated": false,
+    "created_at": "Mon Nov 11 19:27:58 +0000 2019",
+    "id": 1193973662606454800,
+    "id_str": "1193973662606454784",
+    "text": "@ryzokuken @igalia @v8js @TC39 @nodejs @HolyJSconf @gopiterjs @DmitryMakhnev @chicoxyzzy Generally, I'd be working… https://t.co/Q9F3cNmT48",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "growtofill",
-          "name": "Pavlo Mykhalov",
-          "id": 729379692,
-          "id_str": "729379692",
+          "screen_name": "ryzokuken",
+          "name": "Ujjwal Sharma ✈️🇷🇺 HolyJS",
+          "id": 453076986,
+          "id_str": "453076986",
           "indices": [
             0,
-            11
+            10
+          ]
+        },
+        {
+          "screen_name": "igalia",
+          "name": "Igalia",
+          "id": 81058375,
+          "id_str": "81058375",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "screen_name": "v8js",
+          "name": "V8",
+          "id": 881815625441718300,
+          "id_str": "881815625441718272",
+          "indices": [
+            19,
+            24
+          ]
+        },
+        {
+          "screen_name": "TC39",
+          "name": "TC39",
+          "id": 1149983106,
+          "id_str": "1149983106",
+          "indices": [
+            25,
+            30
+          ]
+        },
+        {
+          "screen_name": "nodejs",
+          "name": "Node.js",
+          "id": 91985735,
+          "id_str": "91985735",
+          "indices": [
+            31,
+            38
+          ]
+        },
+        {
+          "screen_name": "HolyJSconf",
+          "name": "HolyJS",
+          "id": 720566256663969800,
+          "id_str": "720566256663969792",
+          "indices": [
+            39,
+            50
+          ]
+        },
+        {
+          "screen_name": "gopiterjs",
+          "name": "PiterJS",
+          "id": 3176569665,
+          "id_str": "3176569665",
+          "indices": [
+            51,
+            61
+          ]
+        },
+        {
+          "screen_name": "DmitryMakhnev",
+          "name": "Dmitry Makhnev",
+          "id": 98732570,
+          "id_str": "98732570",
+          "indices": [
+            62,
+            76
+          ]
+        },
+        {
+          "screen_name": "chicoxyzzy",
+          "name": "Sergey Rubanov",
+          "id": 2913789579,
+          "id_str": "2913789579",
+          "indices": [
+            77,
+            88
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Q9F3cNmT48",
+          "expanded_url": "https://twitter.com/i/web/status/1193973662606454784",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1193627988551782400,
-    "in_reply_to_status_id_str": "1193627988551782402",
-    "in_reply_to_user_id": 729379692,
-    "in_reply_to_user_id_str": "729379692",
-    "in_reply_to_screen_name": "growtofill",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1193963953287618600,
+    "in_reply_to_status_id_str": "1193963953287618561",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -82,9 +174,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1193502493285720064/G1RaKoJf_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193502493285720064/G1RaKoJf_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1573388143",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1193944478089789441/lOARjA61_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193944478089789441/lOARjA61_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1573494609",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
