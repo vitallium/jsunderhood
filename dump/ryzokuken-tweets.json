@@ -7332,6 +7332,158 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 15:56:40 +0000 2019",
+      "id": 1195370037697081300,
+      "id_str": "1195370037697081344",
+      "text": "I just realized that @CodeFestRu and @HolyJSconf are like... one weekend apart.\n\nJust for a quick vibe check, anyon… https://t.co/SFVA03Cry4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CodeFestRu",
+            "name": "CodeFest",
+            "id": 181906881,
+            "id_str": "181906881",
+            "indices": [
+              21,
+              32
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              37,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SFVA03Cry4",
+            "expanded_url": "https://twitter.com/i/web/status/1195370037697081344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 15 15:57:02 +0000 2019",
+      "id": 1195370129137123300,
+      "id_str": "1195370129137123328",
+      "text": "RT @RickByers: Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the different pe…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RickByers",
+            "name": "Rick Byers",
+            "id": 16983864,
+            "id_str": "16983864",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 15 14:29:28 +0000 2019",
+        "id": 1195348094436696000,
+        "id_str": "1195348094436696065",
+        "text": "Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the dif… https://t.co/uFbunrVjUk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/uFbunrVjUk",
+              "expanded_url": "https://twitter.com/i/web/status/1195348094436696065",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16983864,
+          "id_str": "16983864"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

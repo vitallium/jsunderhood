@@ -26,72 +26,92 @@
     }
   },
   "protected": false,
-  "followers_count": 6658,
+  "followers_count": 6660,
   "friends_count": 506,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2465,
+  "favourites_count": 2466,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33519,
+  "statuses_count": 33521,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 14 21:22:19 +0000 2019",
-    "id": 1195089600374616000,
-    "id_str": "1195089600374616077",
-    "text": "@cakeinpanic @chicoxyzzy Actually, yes. I could join another member company and become a delegate for my new compan… https://t.co/itTkLEK8Df",
-    "truncated": true,
+    "created_at": "Fri Nov 15 15:57:02 +0000 2019",
+    "id": 1195370129137123300,
+    "id_str": "1195370129137123328",
+    "text": "RT @RickByers: Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the different pe…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "cakeinpanic",
-          "name": "Katerina",
-          "id": 15921931,
-          "id_str": "15921931",
+          "screen_name": "RickByers",
+          "name": "Rick Byers",
+          "id": 16983864,
+          "id_str": "16983864",
           "indices": [
-            0,
-            12
-          ]
-        },
-        {
-          "screen_name": "chicoxyzzy",
-          "name": "Sergey Rubanov",
-          "id": 2913789579,
-          "id_str": "2913789579",
-          "indices": [
-            13,
-            24
+            3,
+            13
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/itTkLEK8Df",
-          "expanded_url": "https://twitter.com/i/web/status/1195089600374616077",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1195082986754125800,
-    "in_reply_to_status_id_str": "1195082986754125830",
-    "in_reply_to_user_id": 15921931,
-    "in_reply_to_user_id_str": "15921931",
-    "in_reply_to_screen_name": "cakeinpanic",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 15 14:29:28 +0000 2019",
+      "id": 1195348094436696000,
+      "id_str": "1195348094436696065",
+      "text": "Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the dif… https://t.co/uFbunrVjUk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uFbunrVjUk",
+            "expanded_url": "https://twitter.com/i/web/status/1195348094436696065",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 51,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 18,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
