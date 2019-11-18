@@ -1,0 +1,2380 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 18 12:24:24 +0000 2019",
+      "id": 1196403781484843000,
+      "id_str": "1196403781484843009",
+      "text": "Привет!\n\nМеня зовут Рома Пономарев. Везде можно отыскать как @maksugr. Работаю старшим разработчиком в… https://t.co/Ll6n3tKpzx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maksUgr",
+            "name": "Roman Ponomarev",
+            "id": 89272520,
+            "id_str": "89272520",
+            "indices": [
+              61,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ll6n3tKpzx",
+            "expanded_url": "https://twitter.com/i/web/status/1196403781484843009",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 12:52:45 +0000 2019",
+      "id": 1196410916214055000,
+      "id_str": "1196410916214054913",
+      "text": "На самом деле... нет. План примерной такой: аквариумистика, кино, юриспруденция, конференции, книги, нубский взгляд… https://t.co/ch1npoSIFX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ch1npoSIFX",
+            "expanded_url": "https://twitter.com/i/web/status/1196410916214054913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196407600730034200,
+      "quoted_status_id_str": "1196407600730034178",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 12:39:34 +0000 2019",
+        "id": 1196407600730034200,
+        "id_str": "1196407600730034178",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml Токсичный jsunderthehood  на этой неделе?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1098149507785809900,
+          "id_str": "1098149507785809920"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:23:36 +0000 2019",
+      "id": 1196418680390922200,
+      "id_str": "1196418680390922244",
+      "text": "История по накалу страстей совсем не в стиле шпионских боевиков, но ближе к концу будет экшен! Начинается все задол… https://t.co/N9R2LDX1zt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/N9R2LDX1zt",
+            "expanded_url": "https://twitter.com/i/web/status/1196418680390922244",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196404614175830000,
+      "quoted_status_id_str": "1196404614175830018",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 12:27:42 +0000 2019",
+        "id": 1196404614175830000,
+        "id_str": "1196404614175830018",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml Расскажи, пожалуйста, как получилось взять интервью у @dan_abramov",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            },
+            {
+              "screen_name": "dan_abramov",
+              "name": "Dan Abramov",
+              "id": 70345946,
+              "id_str": "70345946",
+              "indices": [
+                105,
+                117
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98732570,
+          "id_str": "98732570"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:27:06 +0000 2019",
+      "id": 1196419560875921400,
+      "id_str": "1196419560875921410",
+      "text": "Я пару раз писал Дэну в DM с различными вопросами. Например, на предыдущем месте работы для одного из митапов мы хо… https://t.co/GPiImPsdqV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GPiImPsdqV",
+            "expanded_url": "https://twitter.com/i/web/status/1196419560875921410",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:29:39 +0000 2019",
+      "id": 1196420205196566500,
+      "id_str": "1196420205196566529",
+      "text": "Обратился к Дэну в DM, он разрешил. Но стикер в итоге мы не сделали, так как подтверждение требовалось серьезное пи… https://t.co/ka3888itRR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ka3888itRR",
+            "expanded_url": "https://twitter.com/i/web/status/1196420205196566529",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:32:04 +0000 2019",
+      "id": 1196420813186117600,
+      "id_str": "1196420813186117634",
+      "text": "Прошли годы, захотелось на React Conf (прошлая уж больно хороша была!). Но просто купить билет нельзя. Можно только… https://t.co/AG5YJErnOu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AG5YJErnOu",
+            "expanded_url": "https://twitter.com/i/web/status/1196420813186117634",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:33:27 +0000 2019",
+      "id": 1196421158557630500,
+      "id_str": "1196421158557630464",
+      "text": "Сделал визу, стало понятно, что точно еду и сразу же пришла идея, что там будет Дэн и можно у него взять интервью д… https://t.co/Q2m8fbe4OW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Q2m8fbe4OW",
+            "expanded_url": "https://twitter.com/i/web/status/1196421158557630464",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:35:16 +0000 2019",
+      "id": 1196421616407908400,
+      "id_str": "1196421616407908353",
+      "text": "И вообще, я, мягко говоря, был нечастым пользователем твиттера. @rm_baad скинул твит, где Дэн подтвердил поездку. П… https://t.co/z1AYWrCwEX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rm_baad",
+            "name": "R.M.",
+            "id": 15205824,
+            "id_str": "15205824",
+            "indices": [
+              64,
+              72
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/z1AYWrCwEX",
+            "expanded_url": "https://twitter.com/i/web/status/1196421616407908353",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:37:24 +0000 2019",
+      "id": 1196422154952282000,
+      "id_str": "1196422154952282112",
+      "text": "В первый день конференции я его не встретил, увидел только во второй. Отстоял бесконечную очередь почитателей, мы д… https://t.co/ISRv8WnA1Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ISRv8WnA1Z",
+            "expanded_url": "https://twitter.com/i/web/status/1196422154952282112",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:39:36 +0000 2019",
+      "id": 1196422705953808400,
+      "id_str": "1196422705953808389",
+      "text": "Конференция проходила в городке Henderson, мой отель - в Лас-Вегасе, в 30-40 минутах езды. Прыгаю в арендованный Ca… https://t.co/7mR23w0UvX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7mR23w0UvX",
+            "expanded_url": "https://twitter.com/i/web/status/1196422705953808389",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:40:24 +0000 2019",
+      "id": 1196422907905347600,
+      "id_str": "1196422907905347584",
+      "text": "Опять через лабиринт казино на ресепшн, стою в очереди, объясняю проблему, прохожу секьюрити чек у специального чел… https://t.co/5f67XapGTY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5f67XapGTY",
+            "expanded_url": "https://twitter.com/i/web/status/1196422907905347584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:42:03 +0000 2019",
+      "id": 1196423324689162200,
+      "id_str": "1196423324689162242",
+      "text": "Забегаю в номер, решаю, что надо быть красавчиком и погладить футболку (интервью все-таки с видео). Начинаю гладить… https://t.co/8hHSC4Vgtb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8hHSC4Vgtb",
+            "expanded_url": "https://twitter.com/i/web/status/1196423324689162242",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:43:05 +0000 2019",
+      "id": 1196423583100223500,
+      "id_str": "1196423583100223489",
+      "text": "Приезжаю за 20 минут до назначенного времени, думаю о локации для съемки. Варианта два: душный гулкий скучный конфе… https://t.co/ndo1LBF822",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ndo1LBF822",
+            "expanded_url": "https://twitter.com/i/web/status/1196423583100223489",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:44:52 +0000 2019",
+      "id": 1196424031744004000,
+      "id_str": "1196424031744004096",
+      "text": "Начинаю готовить под себя вопросы, которые @rm_baad и @underoot заранее накидали (спасибо!). Честно говоря, почти в… https://t.co/EtXzmji1ae",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rm_baad",
+            "name": "R.M.",
+            "id": 15205824,
+            "id_str": "15205824",
+            "indices": [
+              43,
+              51
+            ]
+          },
+          {
+            "screen_name": "underoot",
+            "name": "Aleksandr Shoronov",
+            "id": 475281496,
+            "id_str": "475281496",
+            "indices": [
+              54,
+              63
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EtXzmji1ae",
+            "expanded_url": "https://twitter.com/i/web/status/1196424031744004096",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:45:23 +0000 2019",
+      "id": 1196424162463670300,
+      "id_str": "1196424162463670272",
+      "text": "Время пришло, ищу Дэна, не нахожу, опять ищу. Нахожу. Отстаиваю очередь, двигаемся к месту записи. Пока я настраива… https://t.co/4dDgc2a6eS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4dDgc2a6eS",
+            "expanded_url": "https://twitter.com/i/web/status/1196424162463670272",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:49:10 +0000 2019",
+      "id": 1196425114499330000,
+      "id_str": "1196425114499330049",
+      "text": "В видео только одна склейка, когда после 15 минут тремора, что запись не включена, я сбегал до камеры и проверил, в… https://t.co/v0kR4SHcai",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v0kR4SHcai",
+            "expanded_url": "https://twitter.com/i/web/status/1196425114499330049",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:50:40 +0000 2019",
+      "id": 1196425491789570000,
+      "id_str": "1196425491789570053",
+      "text": "По оборудованию: заранее купили двойную петличку, уже в Америке купил трипод с держателем для айфона и, собственно,… https://t.co/EcVSolcSfm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EcVSolcSfm",
+            "expanded_url": "https://twitter.com/i/web/status/1196425491789570053",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 13:52:41 +0000 2019",
+      "id": 1196426001158410200,
+      "id_str": "1196426001158410243",
+      "text": "Кто не видел, видео по-прежнему здесь https://t.co/WcoiVI9gdk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WcoiVI9gdk",
+            "expanded_url": "https://www.youtube.com/watch?v=9aXRJ8Z-kxA&t=1469s",
+            "display_url": "youtube.com/watch?v=9aXRJ8…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196418680390922200,
+      "in_reply_to_status_id_str": "1196418680390922244",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 14:54:38 +0000 2019",
+      "id": 1196441590618894300,
+      "id_str": "1196441590618894337",
+      "text": "Нет, не используем. Были эксперименты с NLP через Dialogflow для чат-бота, но дальше эксперимента пока дело не пошл… https://t.co/VSkYrj7guh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VSkYrj7guh",
+            "expanded_url": "https://twitter.com/i/web/status/1196441590618894337",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196416634891776000,
+      "quoted_status_id_str": "1196416634891776000",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 13:15:28 +0000 2019",
+        "id": 1196416634891776000,
+        "id_str": "1196416634891776000",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml Как то используете AI/ML у себя на фронте?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3387902321,
+          "id_str": "3387902321"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:12:51 +0000 2019",
+      "id": 1196446172585582600,
+      "id_str": "1196446172585582593",
+      "text": "@addamove @rm_baad @underoot Итак дольше запланированного общались и в личные вопросы не хотелось. Задавать вопросы… https://t.co/1nQ78hdx7z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "addamove",
+            "name": "Adamov Aleksandr",
+            "id": 1062766664079630300,
+            "id_str": "1062766664079630337",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "rm_baad",
+            "name": "R.M.",
+            "id": 15205824,
+            "id_str": "15205824",
+            "indices": [
+              10,
+              18
+            ]
+          },
+          {
+            "screen_name": "underoot",
+            "name": "Aleksandr Shoronov",
+            "id": 475281496,
+            "id_str": "475281496",
+            "indices": [
+              19,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1nQ78hdx7z",
+            "expanded_url": "https://twitter.com/i/web/status/1196446172585582593",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196444595716006000,
+      "in_reply_to_status_id_str": "1196444595716005888",
+      "in_reply_to_user_id": 1062766664079630300,
+      "in_reply_to_user_id_str": "1062766664079630337",
+      "in_reply_to_screen_name": "addamove",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 16:36:23 +0000 2019",
+      "id": 1196467196320534500,
+      "id_str": "1196467196320534528",
+      "text": "@5minreact @maksUgr @frontend_u @mariamachine_ml Электрические транспортные средства общее, но B2B.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5minreact",
+            "name": "Пятиминутка React",
+            "id": 800675127939600400,
+            "id_str": "800675127939600385",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "maksUgr",
+            "name": "Roman Ponomarev",
+            "id": 89272520,
+            "id_str": "89272520",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "frontend_u",
+            "name": "Фронтенд Юность",
+            "id": 862650785942908900,
+            "id_str": "862650785942908928",
+            "indices": [
+              20,
+              31
+            ]
+          },
+          {
+            "screen_name": "mariamachine_ml",
+            "name": "Maria Machine",
+            "id": 1146691806161227800,
+            "id_str": "1146691806161227777",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1196465544419061800,
+      "in_reply_to_status_id_str": "1196465544419061760",
+      "in_reply_to_user_id": 800675127939600400,
+      "in_reply_to_user_id_str": "800675127939600385",
+      "in_reply_to_screen_name": "5minreact",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 16:44:05 +0000 2019",
+      "id": 1196469132138438700,
+      "id_str": "1196469132138438656",
+      "text": "Я совсем не знаток, но в кратчайшие! Технологии близки к экономической выгоде, инфраструктура развивается (не Росси… https://t.co/ymE0RTIkUx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ymE0RTIkUx",
+            "expanded_url": "https://twitter.com/i/web/status/1196469132138438656",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196408491243712500,
+      "quoted_status_id_str": "1196408491243712513",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 12:43:07 +0000 2019",
+        "id": 1196408491243712500,
+        "id_str": "1196408491243712513",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml В какие сроки лучше всего инвестировать а електротранспорте?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 91164181,
+          "id_str": "91164181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7dde0febc9ef245b",
+          "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+          "place_type": "city",
+          "name": "Dublin City",
+          "full_name": "Dublin City, Ireland",
+          "country_code": "IE",
+          "country": "Ireland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.387438,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.4110598
+                ],
+                [
+                  -6.387438,
+                  53.4110598
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 16:46:44 +0000 2019",
+      "id": 1196469802434539500,
+      "id_str": "1196469802434539521",
+      "text": "@Sergey24816 @maksUgr Конечно, стоит. Сейчас это как минимум одна из основных технологий на рынке, уходить никуда н… https://t.co/92rZcaAzWg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sergey24816",
+            "name": "Sergei Komarov",
+            "id": 3218151837,
+            "id_str": "3218151837",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "maksUgr",
+            "name": "Roman Ponomarev",
+            "id": 89272520,
+            "id_str": "89272520",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/92rZcaAzWg",
+            "expanded_url": "https://twitter.com/i/web/status/1196469802434539521",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1196407065171964000,
+      "in_reply_to_status_id_str": "1196407065171963905",
+      "in_reply_to_user_id": 3218151837,
+      "in_reply_to_user_id_str": "3218151837",
+      "in_reply_to_screen_name": "Sergey24816",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196407065171964000,
+      "quoted_status_id_str": "1196407065171963905",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 12:37:27 +0000 2019",
+        "id": 1196407065171964000,
+        "id_str": "1196407065171963905",
+        "text": "@maksUgr @jsunderhood имеет ли смысл копать в промышленный реакт в 2К19 / 2К20, или только для общего развития изуч… https://t.co/1Y3UsbwJvF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                9,
+                21
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/1Y3UsbwJvF",
+              "expanded_url": "https://twitter.com/i/web/status/1196407065171963905",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1196406052113338400,
+        "in_reply_to_status_id_str": "1196406052113338368",
+        "in_reply_to_user_id": 89272520,
+        "in_reply_to_user_id_str": "89272520",
+        "in_reply_to_screen_name": "maksUgr",
+        "user": {
+          "id": 3218151837,
+          "id_str": "3218151837"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 16:49:12 +0000 2019",
+      "id": 1196470422470119400,
+      "id_str": "1196470422470119424",
+      "text": "Очень волнительно. Для меня противоестественно задавать столько вопросов человеку. В остальном, кажется, что все кр… https://t.co/N0MhZV3XQ4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/N0MhZV3XQ4",
+            "expanded_url": "https://twitter.com/i/web/status/1196470422470119424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196406438878421000,
+      "quoted_status_id_str": "1196406438878420992",
+      "quoted_status": {
+        "created_at": "Mon Nov 18 12:34:57 +0000 2019",
+        "id": 1196406438878421000,
+        "id_str": "1196406438878420992",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml Поддерживаю. В двух словах хотя бы. И как по твоим ощущениям в ц… https://t.co/qR4lZyn7O9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/qR4lZyn7O9",
+              "expanded_url": "https://twitter.com/i/web/status/1196406438878420992",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 902536425123565600,
+          "id_str": "902536425123565568"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:51:06 +0000 2019",
+      "id": 1196486001243365400,
+      "id_str": "1196486001243365376",
+      "text": "Давайте продолжим знакомство и я немного расскажу, как я попал в IT и фронтенд. Профильного образования у меня нет… https://t.co/B5uXSoQmcp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/B5uXSoQmcp",
+            "expanded_url": "https://twitter.com/i/web/status/1196486001243365376",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:51:57 +0000 2019",
+      "id": 1196486213466837000,
+      "id_str": "1196486213466836992",
+      "text": "В детстве я увлекался поделками сайтов, создавал странички об играх, кино. Но все это осуществлялось практически без знаний html и css.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486001243365400,
+      "in_reply_to_status_id_str": "1196486001243365376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:51:57 +0000 2019",
+      "id": 1196486214607659000,
+      "id_str": "1196486214607659008",
+      "text": "Основным моим инструментом бы Microsoft Frontpage в офисном пакете: накидываешь на белый лист тексты, картинки, таб… https://t.co/Ktpm21Pwbu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ktpm21Pwbu",
+            "expanded_url": "https://twitter.com/i/web/status/1196486214607659008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486213466837000,
+      "in_reply_to_status_id_str": "1196486213466836992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:53:11 +0000 2019",
+      "id": 1196486521697771500,
+      "id_str": "1196486521697771520",
+      "text": "Моим максимумом стало желание управлять машинкой, подключенной по usb, с компьютера. Спросил двоюродного брата, как… https://t.co/cDON4tVNcw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cDON4tVNcw",
+            "expanded_url": "https://twitter.com/i/web/status/1196486521697771520",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486214607659000,
+      "in_reply_to_status_id_str": "1196486214607659008",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:54:13 +0000 2019",
+      "id": 1196486781836939300,
+      "id_str": "1196486781836939264",
+      "text": "После школы отправился в университет учиться на юриста. Хотел быть политологом или теологом, но родители сказали, ч… https://t.co/ULexmNjs8W",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ULexmNjs8W",
+            "expanded_url": "https://twitter.com/i/web/status/1196486781836939264",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486521697771500,
+      "in_reply_to_status_id_str": "1196486521697771520",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:56:05 +0000 2019",
+      "id": 1196487253343789000,
+      "id_str": "1196487253343789056",
+      "text": "На первых курсах было очень много истории, которую я люблю, а тогда я в ней даже был хорош. Дальше пошла бездумная… https://t.co/oeTojhLdJj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oeTojhLdJj",
+            "expanded_url": "https://twitter.com/i/web/status/1196487253343789056",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486781836939300,
+      "in_reply_to_status_id_str": "1196486781836939264",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:56:31 +0000 2019",
+      "id": 1196487363079426000,
+      "id_str": "1196487363079426050",
+      "text": "В Питере оказалось, что юристы, наверно, действительно хорош зарабатывают, но это какие-то другие юристы, не такие,… https://t.co/1NFV4aecCt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1NFV4aecCt",
+            "expanded_url": "https://twitter.com/i/web/status/1196487363079426050",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487253343789000,
+      "in_reply_to_status_id_str": "1196487253343789056",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:57:05 +0000 2019",
+      "id": 1196487506314825700,
+      "id_str": "1196487506314825728",
+      "text": "Устроился на 16 тысяч рублей в месяц в госучреждение (альтернативой было другое госучреждение на 8 тысяч рублей в м… https://t.co/XuCHtJNMBe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XuCHtJNMBe",
+            "expanded_url": "https://twitter.com/i/web/status/1196487506314825728",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487363079426000,
+      "in_reply_to_status_id_str": "1196487363079426050",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:57:28 +0000 2019",
+      "id": 1196487600619569200,
+      "id_str": "1196487600619569158",
+      "text": "Точно не нравилось только одно: бесконечное Юмор FM в долгих поездках, скажем, до Новой Ладоги или Кириши. Зато мно… https://t.co/hGceU9zSRf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hGceU9zSRf",
+            "expanded_url": "https://twitter.com/i/web/status/1196487600619569158",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487506314825700,
+      "in_reply_to_status_id_str": "1196487506314825728",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:57:47 +0000 2019",
+      "id": 1196487682102308900,
+      "id_str": "1196487682102308875",
+      "text": "С зарплатой все было не так плохо, как может показаться: были квартальные и годовые премии, которые увеличивали мес… https://t.co/14X0gatmKW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/14X0gatmKW",
+            "expanded_url": "https://twitter.com/i/web/status/1196487682102308875",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487600619569200,
+      "in_reply_to_status_id_str": "1196487600619569158",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 17:58:16 +0000 2019",
+      "id": 1196487803951079400,
+      "id_str": "1196487803951079426",
+      "text": "Так я проработал 2,5 года, стал старшим юристом (это даже круче, чем быть старшим программистом) и ушел в частную к… https://t.co/sTHhte1MQx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sTHhte1MQx",
+            "expanded_url": "https://twitter.com/i/web/status/1196487803951079426",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487682102308900,
+      "in_reply_to_status_id_str": "1196487682102308875",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 18:00:44 +0000 2019",
+      "id": 1196488423680462800,
+      "id_str": "1196488423680462850",
+      "text": "@AnonovVaasya @Sergey24816 @maksUgr В больших компаниях все далеко не так динамично. И выпилить какой-нибудь extjs… https://t.co/u457e1GZ3n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AnonovVaasya",
+            "name": "Вася Анонов",
+            "id": 1185868659069243400,
+            "id_str": "1185868659069243392",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Sergey24816",
+            "name": "Sergei Komarov",
+            "id": 3218151837,
+            "id_str": "3218151837",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "screen_name": "maksUgr",
+            "name": "Roman Ponomarev",
+            "id": 89272520,
+            "id_str": "89272520",
+            "indices": [
+              27,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u457e1GZ3n",
+            "expanded_url": "https://twitter.com/i/web/status/1196488423680462850",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196486768427720700,
+      "in_reply_to_status_id_str": "1196486768427720710",
+      "in_reply_to_user_id": 1185868659069243400,
+      "in_reply_to_user_id_str": "1185868659069243392",
+      "in_reply_to_screen_name": "AnonovVaasya",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 18:05:27 +0000 2019",
+      "id": 1196489612509757400,
+      "id_str": "1196489612509757440",
+      "text": "В тот момент я уже слышал как прогрессивно живут программисты. Об индустрии писали многие непрофильные издания: Афи… https://t.co/gjQfkvKa5P",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gjQfkvKa5P",
+            "expanded_url": "https://twitter.com/i/web/status/1196489612509757440",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196487803951079400,
+      "in_reply_to_status_id_str": "1196487803951079426",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 18:07:07 +0000 2019",
+      "id": 1196490031210356700,
+      "id_str": "1196490031210356737",
+      "text": "Чтобы проветрить мозги, я прокатился маршрутом СПб - Хельсинки - Париж - Лондон - Хельсинки - СПб на 25 тысяч рубле… https://t.co/Gnc4Z1TYcE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gnc4Z1TYcE",
+            "expanded_url": "https://twitter.com/i/web/status/1196490031210356737",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196489612509757400,
+      "in_reply_to_status_id_str": "1196489612509757440",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 18:14:09 +0000 2019",
+      "id": 1196491801424732200,
+      "id_str": "1196491801424732161",
+      "text": "Все просто: я не понимал (и не понимаю), как развиваться в юриспруденции, где черпать знания, что нужно сделать, чт… https://t.co/1iwBGBkCBE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1iwBGBkCBE",
+            "expanded_url": "https://twitter.com/i/web/status/1196491801424732161",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196490031210356700,
+      "in_reply_to_status_id_str": "1196490031210356737",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 18:15:03 +0000 2019",
+      "id": 1196492027246055400,
+      "id_str": "1196492027246055424",
+      "text": "Приехал из поездки и на полгода закрылся дома: с 14:00 до 22:00 смотрел сериалы (золотое время!), с 22:00 до 06:00… https://t.co/KSWwndQhVd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KSWwndQhVd",
+            "expanded_url": "https://twitter.com/i/web/status/1196492027246055424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196491801424732200,
+      "in_reply_to_status_id_str": "1196491801424732161",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
