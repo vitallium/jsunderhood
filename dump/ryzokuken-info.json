@@ -26,93 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 6662,
+  "followers_count": 6670,
   "friends_count": 506,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2467,
+  "favourites_count": 2491,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33521,
+  "statuses_count": 33549,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 15 15:57:02 +0000 2019",
-    "id": 1195370129137123300,
-    "id_str": "1195370129137123328",
-    "text": "RT @RickByers: Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the different pe…",
-    "truncated": false,
+    "created_at": "Sun Nov 17 19:47:04 +0000 2019",
+    "id": 1196152796648591400,
+    "id_str": "1196152796648591360",
+    "text": "@addamove I went through the curriculum quickly and it looks pretty amazing. I am wrapping up a traditional CS degr… https://t.co/JOo8i4QGg5",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "RickByers",
-          "name": "Rick Byers",
-          "id": 16983864,
-          "id_str": "16983864",
+          "screen_name": "addamove",
+          "name": "Adamov Aleksandr",
+          "id": 1062766664079630300,
+          "id_str": "1062766664079630337",
           "indices": [
-            3,
-            13
+            0,
+            9
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/JOo8i4QGg5",
+          "expanded_url": "https://twitter.com/i/web/status/1196152796648591360",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1196152364270526500,
+    "in_reply_to_status_id_str": "1196152364270526464",
+    "in_reply_to_user_id": 1062766664079630300,
+    "in_reply_to_user_id_str": "1062766664079630337",
+    "in_reply_to_screen_name": "addamove",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Nov 15 14:29:28 +0000 2019",
-      "id": 1195348094436696000,
-      "id_str": "1195348094436696065",
-      "text": "Contributions to Blink (chromium's rendering engine) are becoming more diverse! It's been great to hear all the dif… https://t.co/uFbunrVjUk",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/uFbunrVjUk",
-            "expanded_url": "https://twitter.com/i/web/status/1195348094436696065",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 21,
-      "favorite_count": 72,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
     "is_quote_status": false,
-    "retweet_count": 21,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
