@@ -54,52 +54,53 @@
     }
   },
   "protected": false,
-  "followers_count": 6673,
+  "followers_count": 6672,
   "friends_count": 506,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2501,
+  "favourites_count": 2504,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33597,
+  "statuses_count": 33604,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 18 18:15:03 +0000 2019",
-    "id": 1196492027246055400,
-    "id_str": "1196492027246055424",
-    "text": "Приехал из поездки и на полгода закрылся дома: с 14:00 до 22:00 смотрел сериалы (золотое время!), с 22:00 до 06:00… https://t.co/KSWwndQhVd",
-    "truncated": true,
+    "created_at": "Mon Nov 18 19:33:17 +0000 2019",
+    "id": 1196511715921408000,
+    "id_str": "1196511715921408002",
+    "text": "@dstdkv Хотелось принять участие в создании продукта и выстраивании всех процессов в компании с самого нуля.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/KSWwndQhVd",
-          "expanded_url": "https://twitter.com/i/web/status/1196492027246055424",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "dstdkv",
+          "name": "Daniil Sitdikov",
+          "id": 881188723060338700,
+          "id_str": "881188723060338690",
           "indices": [
-            116,
-            139
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1196491801424732200,
-    "in_reply_to_status_id_str": "1196491801424732161",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1196509052471300000,
+    "in_reply_to_status_id_str": "1196509052471300097",
+    "in_reply_to_user_id": 881188723060338700,
+    "in_reply_to_user_id_str": "881188723060338690",
+    "in_reply_to_screen_name": "dstdkv",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
