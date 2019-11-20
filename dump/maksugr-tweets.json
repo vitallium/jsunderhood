@@ -2677,6 +2677,2526 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 07:42:06 +0000 2019",
+      "id": 1196695129001730000,
+      "id_str": "1196695129001730048",
+      "text": "Так это ровно моя ситуация в начале. Мне кажется, что на этом уровне работы уже достаточно много, чтобы даже выбира… https://t.co/MRSzCIIrSM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MRSzCIIrSM",
+            "expanded_url": "https://twitter.com/i/web/status/1196695129001730048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196630600930734000,
+      "quoted_status_id_str": "1196630600930734080",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 03:25:42 +0000 2019",
+        "id": 1196630600930734000,
+        "id_str": "1196630600930734080",
+        "text": "@jsunderhood Вот бы мне тоже так вот знать, куда, а то вроде как HTML хорошо, CSS сносно, js совсем чуть-чуть, а что делать непонятно",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1196498712199139300,
+        "in_reply_to_status_id_str": "1196498712199139329",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1193316798793425000,
+          "id_str": "1193316798793424907"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 11:35:01 +0000 2019",
+      "id": 1196753741585768400,
+      "id_str": "1196753741585768448",
+      "text": "Давайте поговорим о лайтингах. Опишу свой небольшой опыт. Знаю, что @DmitryMakhnev может добавить интересную истори… https://t.co/InjhAG1CH5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              68,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/InjhAG1CH5",
+            "expanded_url": "https://twitter.com/i/web/status/1196753741585768448",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:35:02 +0000 2019",
+      "id": 1196768844460769300,
+      "id_str": "1196768844460769280",
+      "text": "@DmitryMakhnev Да, как верно заметили в комментариях, я имел ввиду lighting talks: небольшие (часто менее формальны… https://t.co/rPF6kP0qNe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rPF6kP0qNe",
+            "expanded_url": "https://twitter.com/i/web/status/1196768844460769280",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196753741585768400,
+      "in_reply_to_status_id_str": "1196753741585768448",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:36:51 +0000 2019",
+      "id": 1196769304148168700,
+      "id_str": "1196769304148168707",
+      "text": "@DmitryMakhnev Впервые на лайтинги я подался на React Conf. Меня не страшил мой уровень разговорного английского, т… https://t.co/nqqbRKVDBu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nqqbRKVDBu",
+            "expanded_url": "https://twitter.com/i/web/status/1196769304148168707",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196768844460769300,
+      "in_reply_to_status_id_str": "1196768844460769280",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:37:14 +0000 2019",
+      "id": 1196769401514709000,
+      "id_str": "1196769401514708992",
+      "text": "@DmitryMakhnev @BeerJSSummit На самом @BeerJSSummit я выступал ранее, но к лайтингам его все-таки не отношу: абсолю… https://t.co/2o9DpTwwAb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              38,
+              51
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2o9DpTwwAb",
+            "expanded_url": "https://twitter.com/i/web/status/1196769401514708992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196769304148168700,
+      "in_reply_to_status_id_str": "1196769304148168707",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:37:52 +0000 2019",
+      "id": 1196769560088711200,
+      "id_str": "1196769560088711170",
+      "text": "@DmitryMakhnev @BeerJSSummit В выступлении с лайтингом на React Conf мне отказали организаторы. Большое им за это с… https://t.co/G642S4OLZF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/G642S4OLZF",
+            "expanded_url": "https://twitter.com/i/web/status/1196769560088711170",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196769401514709000,
+      "in_reply_to_status_id_str": "1196769401514708992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:39:18 +0000 2019",
+      "id": 1196769921809748000,
+      "id_str": "1196769921809747972",
+      "text": "@DmitryMakhnev @BeerJSSummit Как я понял, это такой формат, перекочевавший из университетских практик в США. Твоя з… https://t.co/qsyNhL5p1W",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qsyNhL5p1W",
+            "expanded_url": "https://twitter.com/i/web/status/1196769921809747972",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196769560088711200,
+      "in_reply_to_status_id_str": "1196769560088711170",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:40:30 +0000 2019",
+      "id": 1196770221706625000,
+      "id_str": "1196770221706625025",
+      "text": "@DmitryMakhnev @BeerJSSummit В большинстве случаев на React Conf так все и происходило: люди очень очень быстро рас… https://t.co/rQIAMQ7yWf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rQIAMQ7yWf",
+            "expanded_url": "https://twitter.com/i/web/status/1196770221706625025",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196769921809748000,
+      "in_reply_to_status_id_str": "1196769921809747972",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 12:42:17 +0000 2019",
+      "id": 1196770669138186200,
+      "id_str": "1196770669138186240",
+      "text": "@DmitryMakhnev @BeerJSSummit Также я участвовал в лайтингах на @HolyJSconf. В очередной раз корю себя за уровень по… https://t.co/DZBx9bbNog",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DZBx9bbNog",
+            "expanded_url": "https://twitter.com/i/web/status/1196770669138186240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196770221706625000,
+      "in_reply_to_status_id_str": "1196770221706625025",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 14:45:20 +0000 2019",
+      "id": 1196801638826160000,
+      "id_str": "1196801638826160129",
+      "text": "@DmitryMakhnev @BeerJSSummit @HolyJSconf Отличительной особенностью лайтинга на @HolyJSconf для меня стала возможно… https://t.co/ip6h5ZVJcE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              29,
+              40
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              80,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ip6h5ZVJcE",
+            "expanded_url": "https://twitter.com/i/web/status/1196801638826160129",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196770669138186200,
+      "in_reply_to_status_id_str": "1196770669138186240",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 14:47:10 +0000 2019",
+      "id": 1196802098752565200,
+      "id_str": "1196802098752565248",
+      "text": "@DmitryMakhnev @BeerJSSummit @HolyJSconf Вообще, лайтинги - отличный инструмент пробы своих сил в качестве докладчи… https://t.co/OVCo6oYdqC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              29,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OVCo6oYdqC",
+            "expanded_url": "https://twitter.com/i/web/status/1196802098752565248",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196801638826160000,
+      "in_reply_to_status_id_str": "1196801638826160129",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 14:55:01 +0000 2019",
+      "id": 1196804075888746500,
+      "id_str": "1196804075888746497",
+      "text": "@rage_monk @DmitryMakhnev @BeerJSSummit Вот не считаю, что это релевантно лайтингу. По ощущниям это конференция, но… https://t.co/zfUHyfdzil",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rage_monk",
+            "name": "Artem",
+            "id": 1077527957533528000,
+            "id_str": "1077527957533528070",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              26,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zfUHyfdzil",
+            "expanded_url": "https://twitter.com/i/web/status/1196804075888746497",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196755063122923500,
+      "in_reply_to_status_id_str": "1196755063122923520",
+      "in_reply_to_user_id": 1077527957533528000,
+      "in_reply_to_user_id_str": "1077527957533528070",
+      "in_reply_to_screen_name": "rage_monk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 14:55:21 +0000 2019",
+      "id": 1196804158675914800,
+      "id_str": "1196804158675914752",
+      "text": "@Realetive Да!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Realetive",
+            "name": "Roman Ganin",
+            "id": 154728550,
+            "id_str": "154728550",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196756153713275000,
+      "in_reply_to_status_id_str": "1196756153713274881",
+      "in_reply_to_user_id": 154728550,
+      "in_reply_to_user_id_str": "154728550",
+      "in_reply_to_screen_name": "Realetive",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 14:59:35 +0000 2019",
+      "id": 1196805225077788700,
+      "id_str": "1196805225077788672",
+      "text": "RT @DmitryMakhnev: @jsunderhood История простая: благодаря лайтингам мне удалось первый раз выступить на английском на @jsconfbp.\nПеред кон…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              19,
+              31
+            ]
+          },
+          {
+            "screen_name": "jsconfbp",
+            "name": "JSConf Budapest",
+            "id": 2975324465,
+            "id_str": "2975324465",
+            "indices": [
+              119,
+              128
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 14:57:24 +0000 2019",
+        "id": 1196804672457203700,
+        "id_str": "1196804672457203714",
+        "text": "@jsunderhood История простая: благодаря лайтингам мне удалось первый раз выступить на английском на @jsconfbp.\nПере… https://t.co/2uuYUZGssw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "jsconfbp",
+              "name": "JSConf Budapest",
+              "id": 2975324465,
+              "id_str": "2975324465",
+              "indices": [
+                100,
+                109
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2uuYUZGssw",
+              "expanded_url": "https://twitter.com/i/web/status/1196804672457203714",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1196753741585768400,
+        "in_reply_to_status_id_str": "1196753741585768448",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 98732570,
+          "id_str": "98732570"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 15:58:40 +0000 2019",
+      "id": 1196820093084295200,
+      "id_str": "1196820093084295168",
+      "text": "@Ok_dybr @lookdur Возможно мой опыт уже не очень релевантен, достаточно давно это было. Плюс тогда еще по-прежнему… https://t.co/v2dDBgXZLn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ok_dybr",
+            "name": "Ok",
+            "id": 1193316798793425000,
+            "id_str": "1193316798793424907",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "lookdur",
+            "name": "Матвей Викторович",
+            "id": 910229233309536300,
+            "id_str": "910229233309536256",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/v2dDBgXZLn",
+            "expanded_url": "https://twitter.com/i/web/status/1196820093084295168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196770661777186800,
+      "in_reply_to_status_id_str": "1196770661777186817",
+      "in_reply_to_user_id": 1193316798793425000,
+      "in_reply_to_user_id_str": "1193316798793424907",
+      "in_reply_to_screen_name": "Ok_dybr",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 15:59:56 +0000 2019",
+      "id": 1196820411251658800,
+      "id_str": "1196820411251658753",
+      "text": "@Ok67937477 @lookdur Но это не отменят наличия сейчас кадрового голода и того, что React старается себя позициониро… https://t.co/oEZT2abA2s",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lookdur",
+            "name": "Матвей Викторович",
+            "id": 910229233309536300,
+            "id_str": "910229233309536256",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oEZT2abA2s",
+            "expanded_url": "https://twitter.com/i/web/status/1196820411251658753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196820093084295200,
+      "in_reply_to_status_id_str": "1196820093084295168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:01:18 +0000 2019",
+      "id": 1196820753091612700,
+      "id_str": "1196820753091612672",
+      "text": "@Ok_dybr @lookdur Точно не стоит отчаиваться. Работа найдется, работы много. Главное - первый раз прорваться, почув… https://t.co/gRamd61L2e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ok_dybr",
+            "name": "Ok",
+            "id": 1193316798793425000,
+            "id_str": "1193316798793424907",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "lookdur",
+            "name": "Матвей Викторович",
+            "id": 910229233309536300,
+            "id_str": "910229233309536256",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gRamd61L2e",
+            "expanded_url": "https://twitter.com/i/web/status/1196820753091612672",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196820411251658800,
+      "in_reply_to_status_id_str": "1196820411251658753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:03:09 +0000 2019",
+      "id": 1196821220425130000,
+      "id_str": "1196821220425129997",
+      "text": "@swa1ps В самом начале до первой работы и затем в течении лет трех😀 Потом уже проще, поддерживаешь актуальность зна… https://t.co/wBraqqWD71",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "swa1ps",
+            "name": "Александр Ергин",
+            "id": 890533117768998900,
+            "id_str": "890533117768998913",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wBraqqWD71",
+            "expanded_url": "https://twitter.com/i/web/status/1196821220425129997",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196795536222949400,
+      "in_reply_to_status_id_str": "1196795536222949379",
+      "in_reply_to_user_id": 890533117768998900,
+      "in_reply_to_user_id_str": "890533117768998913",
+      "in_reply_to_screen_name": "swa1ps",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:04:40 +0000 2019",
+      "id": 1196821603105071000,
+      "id_str": "1196821603105071104",
+      "text": "@SanichKotikov Хорошие кандидаты уже \"пристроены\", не хотят шевелиться. Не думаю, что это что-то плохое. Больших хо… https://t.co/7evN8Elqjk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7evN8Elqjk",
+            "expanded_url": "https://twitter.com/i/web/status/1196821603105071104",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196772935723311000,
+      "in_reply_to_status_id_str": "1196772935723311105",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:05:08 +0000 2019",
+      "id": 1196821721141174300,
+      "id_str": "1196821721141174272",
+      "text": "RT @jsunderhood: Так это ровно моя ситуация в начале. Мне кажется, что на этом уровне работы уже достаточно много, чтобы даже выбирать. Зак…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 07:42:06 +0000 2019",
+        "id": 1196695129001730000,
+        "id_str": "1196695129001730048",
+        "text": "Так это ровно моя ситуация в начале. Мне кажется, что на этом уровне работы уже достаточно много, чтобы даже выбира… https://t.co/MRSzCIIrSM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/MRSzCIIrSM",
+              "expanded_url": "https://twitter.com/i/web/status/1196695129001730048",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1196630600930734000,
+        "quoted_status_id_str": "1196630600930734080",
+        "quoted_status": {
+          "created_at": "Tue Nov 19 03:25:42 +0000 2019",
+          "id": 1196630600930734000,
+          "id_str": "1196630600930734080",
+          "text": "@jsunderhood Вот бы мне тоже так вот знать, куда, а то вроде как HTML хорошо, CSS сносно, js совсем чуть-чуть, а что делать непонятно",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "jsunderhood",
+                "name": "jsunderhood",
+                "id": 3014054307,
+                "id_str": "3014054307",
+                "indices": [
+                  0,
+                  12
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": 1196498712199139300,
+          "in_reply_to_status_id_str": "1196498712199139329",
+          "in_reply_to_user_id": 3014054307,
+          "in_reply_to_user_id_str": "3014054307",
+          "in_reply_to_screen_name": "jsunderhood",
+          "user": {
+            "id": 1193316798793425000,
+            "id_str": "1193316798793424907"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "ru"
+        },
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1196630600930734000,
+      "quoted_status_id_str": "1196630600930734080",
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:06:20 +0000 2019",
+      "id": 1196822022048944000,
+      "id_str": "1196822022048944128",
+      "text": "RT @MeFCorvi: @Ok67937477 @jsunderhood Развиваться нужно. Взять и сделать какой-нибудь проект для себя: todo лист, список покупок, игрушку…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MeFCorvi",
+            "name": "Bulat Aykaev",
+            "id": 41120860,
+            "id_str": "41120860",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "Ok67937477",
+            "name": "Ok",
+            "id": 1193316798793425000,
+            "id_str": "1193316798793424907",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 08:52:41 +0000 2019",
+        "id": 1196712892143407000,
+        "id_str": "1196712892143407104",
+        "text": "@Ok67937477 @jsunderhood Развиваться нужно. Взять и сделать какой-нибудь проект для себя: todo лист, список покупок… https://t.co/ocj0fyXtX9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Ok67937477",
+              "name": "Ok",
+              "id": 1193316798793425000,
+              "id_str": "1193316798793424907",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                12,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ocj0fyXtX9",
+              "expanded_url": "https://twitter.com/i/web/status/1196712892143407104",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1196630600930734000,
+        "in_reply_to_status_id_str": "1196630600930734080",
+        "in_reply_to_user_id": 1193316798793425000,
+        "in_reply_to_user_id_str": "1193316798793424907",
+        "in_reply_to_screen_name": "Ok67937477",
+        "user": {
+          "id": 41120860,
+          "id_str": "41120860"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:10:01 +0000 2019",
+      "id": 1196822947291377700,
+      "id_str": "1196822947291377664",
+      "text": "@leshadarko А в каком плане сложно выбрать, куда пойти дальше? Технологии причина или бизнес-направление?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "leshadarko",
+            "name": "Lesha Permyakov",
+            "id": 877855184717832200,
+            "id_str": "877855184717832193",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196706968657903600,
+      "in_reply_to_status_id_str": "1196706968657903616",
+      "in_reply_to_user_id": 877855184717832200,
+      "in_reply_to_user_id_str": "877855184717832193",
+      "in_reply_to_screen_name": "leshadarko",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:13:40 +0000 2019",
+      "id": 1196823865365815300,
+      "id_str": "1196823865365815296",
+      "text": "@VictoriaStampfl Классический ответ: все под свои задачи. И ни того, ни другого не знаю на уровне, чтобы делать какие-то выводы:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VictoriaStampfl",
+            "name": "Victoria Stampfli",
+            "id": 1858380931,
+            "id_str": "1858380931",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196782693427662800,
+      "in_reply_to_status_id_str": "1196782693427662848",
+      "in_reply_to_user_id": 1858380931,
+      "in_reply_to_user_id_str": "1858380931",
+      "in_reply_to_screen_name": "VictoriaStampfl",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:25:29 +0000 2019",
+      "id": 1196826839974645800,
+      "id_str": "1196826839974645760",
+      "text": "Сложный вопрос. Задумался. Не скажу, чтобы я на кого-то ровнялся или кем-то восхищался, но так сходу могу выделить… https://t.co/p1ve27aveY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/p1ve27aveY",
+            "expanded_url": "https://twitter.com/i/web/status/1196826839974645760",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1196695869749375000,
+      "quoted_status_id_str": "1196695869749374976",
+      "quoted_status": {
+        "created_at": "Tue Nov 19 07:45:03 +0000 2019",
+        "id": 1196695869749375000,
+        "id_str": "1196695869749374976",
+        "text": "@jsunderhood @maksUgr @frontend_u @mariamachine_ml На кого ты «равняешься» или кем восхищаешься в IT индустрии? Ест… https://t.co/0bLLCd3rpz",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "maksUgr",
+              "name": "Roman Ponomarev",
+              "id": 89272520,
+              "id_str": "89272520",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "frontend_u",
+              "name": "Фронтенд Юность",
+              "id": 862650785942908900,
+              "id_str": "862650785942908928",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "mariamachine_ml",
+              "name": "Maria Machine",
+              "id": 1146691806161227800,
+              "id_str": "1146691806161227777",
+              "indices": [
+                34,
+                50
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/0bLLCd3rpz",
+              "expanded_url": "https://twitter.com/i/web/status/1196695869749374976",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1196403781484843000,
+        "in_reply_to_status_id_str": "1196403781484843009",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 862738522788290600,
+          "id_str": "862738522788290561"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:28:25 +0000 2019",
+      "id": 1196827577085767700,
+      "id_str": "1196827577085767685",
+      "text": "Первая. Медийные персоны и/или сообщества, которые они делают. Это могут быть популярный твиттер, подкаст, видеобло… https://t.co/2omqrZuZjG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2omqrZuZjG",
+            "expanded_url": "https://twitter.com/i/web/status/1196827577085767685",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196826839974645800,
+      "in_reply_to_status_id_str": "1196826839974645760",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:31:53 +0000 2019",
+      "id": 1196828452915175400,
+      "id_str": "1196828452915175425",
+      "text": "Почему? Потому что это занимает катастрофическое количество времени. Написанную статью нужно вычитать и оформить, п… https://t.co/0J6e3B8N6U",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0J6e3B8N6U",
+            "expanded_url": "https://twitter.com/i/web/status/1196828452915175425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196827577085767700,
+      "in_reply_to_status_id_str": "1196827577085767685",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:34:45 +0000 2019",
+      "id": 1196829171483365400,
+      "id_str": "1196829171483365376",
+      "text": "И ведь это все лишь неполный список того, что нужно сделать, чтобы придать ФОРМУ. А ведь еще нужно осмысленное СОДЕ… https://t.co/z7PJKKKA2p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z7PJKKKA2p",
+            "expanded_url": "https://twitter.com/i/web/status/1196829171483365376",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196828452915175400,
+      "in_reply_to_status_id_str": "1196828452915175425",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:39:09 +0000 2019",
+      "id": 1196830280281137200,
+      "id_str": "1196830280281137160",
+      "text": "Окей, в большей степени (но далеко не на 100%) СОДЕРЖАНИЕ вытекает из компетенций людей, которая появилась у них в… https://t.co/cA83X4C2Ha",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cA83X4C2Ha",
+            "expanded_url": "https://twitter.com/i/web/status/1196830280281137160",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196829171483365400,
+      "in_reply_to_status_id_str": "1196829171483365376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:41:54 +0000 2019",
+      "id": 1196830974262337500,
+      "id_str": "1196830974262337538",
+      "text": "Именно подобные активности создают сообщество, поддерживают новичков и не дают заскучать опытным разработчикам. Вес… https://t.co/8j85A2JPSp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8j85A2JPSp",
+            "expanded_url": "https://twitter.com/i/web/status/1196830974262337538",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196830280281137200,
+      "in_reply_to_status_id_str": "1196830280281137160",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:43:49 +0000 2019",
+      "id": 1196831453008605200,
+      "id_str": "1196831453008605185",
+      "text": "Лично я не знаю практически ни одного подобного примера развития сообщества в других индустриях. Есть искусственно… https://t.co/kImXQx7xy9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kImXQx7xy9",
+            "expanded_url": "https://twitter.com/i/web/status/1196831453008605185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196830974262337500,
+      "in_reply_to_status_id_str": "1196830974262337538",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:48:19 +0000 2019",
+      "id": 1196832587240611800,
+      "id_str": "1196832587240611840",
+      "text": "Например, знаю в медицине (и то потому, что жена у меня офтальмолог) - сообщество Медач. Ребята в сильно консервати… https://t.co/50EOrRjnLW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/50EOrRjnLW",
+            "expanded_url": "https://twitter.com/i/web/status/1196832587240611840",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196831453008605200,
+      "in_reply_to_status_id_str": "1196831453008605185",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:51:18 +0000 2019",
+      "id": 1196833338612502500,
+      "id_str": "1196833338612502529",
+      "text": "Но главное - они показывают, что у медицины может быть другое лицо, а не только то, что мы наблюдаем в государствен… https://t.co/aXGesRSQNj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aXGesRSQNj",
+            "expanded_url": "https://twitter.com/i/web/status/1196833338612502529",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196832587240611800,
+      "in_reply_to_status_id_str": "1196832587240611840",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:52:19 +0000 2019",
+      "id": 1196833595257692200,
+      "id_str": "1196833595257692160",
+      "text": "Это было первое направление - медийные персоны / сообщества.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196833338612502500,
+      "in_reply_to_status_id_str": "1196833338612502529",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:54:20 +0000 2019",
+      "id": 1196834100763594800,
+      "id_str": "1196834100763594752",
+      "text": "Второе. Докладчики. Думаю, все мы любим ходить на конференции и слушать доклады. Еще больше мы любим в кулуарах эти… https://t.co/OOKwsAS6rU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OOKwsAS6rU",
+            "expanded_url": "https://twitter.com/i/web/status/1196834100763594752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196833595257692200,
+      "in_reply_to_status_id_str": "1196833595257692160",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:55:54 +0000 2019",
+      "id": 1196834493618905000,
+      "id_str": "1196834493618905088",
+      "text": "Здесь актуальны все те же мысли о содержании и форме, что были в треде выше. Останавливаться не будем. Хочется отме… https://t.co/R6r4l8aBk1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/R6r4l8aBk1",
+            "expanded_url": "https://twitter.com/i/web/status/1196834493618905088",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196834100763594800,
+      "in_reply_to_status_id_str": "1196834100763594752",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 16:58:13 +0000 2019",
+      "id": 1196835077218611200,
+      "id_str": "1196835077218611201",
+      "text": "Индустрия сама поддерживает необходимый уровень образованности своих членов. Это не история о том, что один раз оту… https://t.co/wkYHr0AVCO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wkYHr0AVCO",
+            "expanded_url": "https://twitter.com/i/web/status/1196835077218611201",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196834493618905000,
+      "in_reply_to_status_id_str": "1196834493618905088",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 17:00:36 +0000 2019",
+      "id": 1196835678165835800,
+      "id_str": "1196835678165835777",
+      "text": "Доклад может выйти плохим или хорошим, а докладчик выспавшимся или нет, но каждый доклад что-то несет для нас и упр… https://t.co/DiebK23Arp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DiebK23Arp",
+            "expanded_url": "https://twitter.com/i/web/status/1196835678165835777",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196835077218611200,
+      "in_reply_to_status_id_str": "1196835077218611201",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 17:04:51 +0000 2019",
+      "id": 1196836745939165200,
+      "id_str": "1196836745939165184",
+      "text": "Докладчик не зарывает свои знания в стол и не прячет как Скрудж их только для своей работы, он ими делится и тратит… https://t.co/BdCMEHTcc0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BdCMEHTcc0",
+            "expanded_url": "https://twitter.com/i/web/status/1196836745939165184",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196835678165835800,
+      "in_reply_to_status_id_str": "1196835678165835777",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 19 19:37:17 +0000 2019",
+      "id": 1196875109572722700,
+      "id_str": "1196875109572722689",
+      "text": "RT @bunopus: @jsunderhood @DmitryMakhnev @BeerJSSummit Такой формат пришел Японии и называется печа куча https://t.co/3lscmHjlmW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bunopus",
+            "name": "Evgeny Kot",
+            "id": 2832757882,
+            "id_str": "2832757882",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              26,
+              40
+            ]
+          },
+          {
+            "screen_name": "BeerJSSummit",
+            "name": "BeerJS Summit",
+            "id": 1006574010019254300,
+            "id_str": "1006574010019254273",
+            "indices": [
+              41,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3lscmHjlmW",
+            "expanded_url": "https://en.m.wikipedia.org/wiki/PechaKucha",
+            "display_url": "en.m.wikipedia.org/wiki/PechaKucha",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Nov 19 19:35:41 +0000 2019",
+        "id": 1196874707053764600,
+        "id_str": "1196874707053764608",
+        "text": "@jsunderhood @DmitryMakhnev @BeerJSSummit Такой формат пришел Японии и называется печа куча https://t.co/3lscmHjlmW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "DmitryMakhnev",
+              "name": "Dmitry Makhnev",
+              "id": 98732570,
+              "id_str": "98732570",
+              "indices": [
+                13,
+                27
+              ]
+            },
+            {
+              "screen_name": "BeerJSSummit",
+              "name": "BeerJS Summit",
+              "id": 1006574010019254300,
+              "id_str": "1006574010019254273",
+              "indices": [
+                28,
+                41
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/3lscmHjlmW",
+              "expanded_url": "https://en.m.wikipedia.org/wiki/PechaKucha",
+              "display_url": "en.m.wikipedia.org/wiki/PechaKucha",
+              "indices": [
+                92,
+                115
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1196769560088711200,
+        "in_reply_to_status_id_str": "1196769560088711170",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2832757882,
+          "id_str": "2832757882"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
