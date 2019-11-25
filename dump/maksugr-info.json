@@ -54,216 +54,93 @@
     }
   },
   "protected": false,
-  "followers_count": 6667,
-  "friends_count": 505,
+  "followers_count": 6659,
+  "friends_count": 507,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2600,
+  "favourites_count": 2605,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33737,
+  "statuses_count": 33746,
   "lang": null,
   "status": {
-    "created_at": "Sat Nov 23 22:01:20 +0000 2019",
-    "id": 1198360910257107000,
-    "id_str": "1198360910257106944",
-    "text": "Магия чисел продолжает меня преследовать https://t.co/K1C9hlaaF1 https://t.co/5kjOxw8bfx",
-    "truncated": false,
+    "created_at": "Sun Nov 24 15:50:02 +0000 2019",
+    "id": 1198629858991063000,
+    "id_str": "1198629858991063042",
+    "text": "@Oleg75113370 @mr_kashlakov @without_head @yalovek Нет. Мой максимум - Camaro SS на американских дорогах общего пол… https://t.co/j3j9HcClqT",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/K1C9hlaaF1",
-          "expanded_url": "https://twitter.com/maksugr/status/1194531700035985408",
-          "display_url": "twitter.com/maksugr/status…",
+          "screen_name": "Oleg75113370",
+          "name": "Oleg",
+          "id": 1168070769294942200,
+          "id_str": "1168070769294942208",
           "indices": [
-            41,
-            64
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "mr_kashlakov",
+          "name": "Ilya Kashlakov",
+          "id": 131765742,
+          "id_str": "131765742",
+          "indices": [
+            14,
+            27
+          ]
+        },
+        {
+          "screen_name": "without_head",
+          "name": "Leonid",
+          "id": 484480336,
+          "id_str": "484480336",
+          "indices": [
+            28,
+            41
+          ]
+        },
+        {
+          "screen_name": "yalovek",
+          "name": "Vadim Yalovenko",
+          "id": 137789621,
+          "id_str": "137789621",
+          "indices": [
+            42,
+            50
           ]
         }
       ],
-      "media": [
+      "urls": [
         {
-          "id": 1198360904317968400,
-          "id_str": "1198360904317968384",
+          "url": "https://t.co/j3j9HcClqT",
+          "expanded_url": "https://twitter.com/i/web/status/1198629858991063042",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            65,
-            88
-          ],
-          "media_url": "http://pbs.twimg.com/media/EKFu5K6WoAAK1R9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EKFu5K6WoAAK1R9.jpg",
-          "url": "https://t.co/5kjOxw8bfx",
-          "display_url": "pic.twitter.com/5kjOxw8bfx",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1198360910257106944/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 946,
-              "h": 2048,
-              "resize": "fit"
-            }
-          },
-          "features": {
-            "medium": {
-              "faces": [
-                {
-                  "x": 51,
-                  "y": 108,
-                  "h": 43,
-                  "w": 43
-                }
-              ]
-            },
-            "small": {
-              "faces": [
-                {
-                  "x": 29,
-                  "y": 61,
-                  "h": 24,
-                  "w": 24
-                }
-              ]
-            },
-            "large": {
-              "faces": [
-                {
-                  "x": 88,
-                  "y": 186,
-                  "h": 74,
-                  "w": 74
-                }
-              ]
-            },
-            "orig": {
-              "faces": [
-                {
-                  "x": 88,
-                  "y": 186,
-                  "h": 74,
-                  "w": 74
-                }
-              ]
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1198360904317968400,
-          "id_str": "1198360904317968384",
-          "indices": [
-            65,
-            88
-          ],
-          "media_url": "http://pbs.twimg.com/media/EKFu5K6WoAAK1R9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EKFu5K6WoAAK1R9.jpg",
-          "url": "https://t.co/5kjOxw8bfx",
-          "display_url": "pic.twitter.com/5kjOxw8bfx",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1198360910257106944/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 946,
-              "h": 2048,
-              "resize": "fit"
-            }
-          },
-          "features": {
-            "medium": {
-              "faces": [
-                {
-                  "x": 51,
-                  "y": 108,
-                  "h": 43,
-                  "w": 43
-                }
-              ]
-            },
-            "small": {
-              "faces": [
-                {
-                  "x": 29,
-                  "y": 61,
-                  "h": 24,
-                  "w": 24
-                }
-              ]
-            },
-            "large": {
-              "faces": [
-                {
-                  "x": 88,
-                  "y": 186,
-                  "h": 74,
-                  "w": 74
-                }
-              ]
-            },
-            "orig": {
-              "faces": [
-                {
-                  "x": 88,
-                  "y": 186,
-                  "h": 74,
-                  "w": 74
-                }
-              ]
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1198627321445523500,
+    "in_reply_to_status_id_str": "1198627321445523457",
+    "in_reply_to_user_id": 1168070769294942200,
+    "in_reply_to_user_id_str": "1168070769294942208",
+    "in_reply_to_screen_name": "Oleg75113370",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1194531700035985400,
-    "quoted_status_id_str": "1194531700035985408",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
