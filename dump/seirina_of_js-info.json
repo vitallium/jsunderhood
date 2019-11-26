@@ -13,176 +13,75 @@
     }
   },
   "protected": false,
-  "followers_count": 6659,
-  "friends_count": 507,
+  "followers_count": 6654,
+  "friends_count": 508,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2650,
+  "favourites_count": 2693,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33822,
+  "statuses_count": 33882,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 25 19:35:21 +0000 2019",
-    "id": 1199048951221117000,
-    "id_str": "1199048951221116929",
-    "text": "RT @denisbalyko: @govorov_n @jsunderhood @kalabro @yandex Это не совсем так, после выхода v16 сам renderToString() стал примерно сопоставим…",
-    "truncated": false,
+    "created_at": "Tue Nov 26 00:07:21 +0000 2019",
+    "id": 1199117400408498200,
+    "id_str": "1199117400408498176",
+    "text": "@hotcoldwave Как раз серия Kyle Simpson, хм, и еще https://t.co/14EBqgScmb\nЯ долгое время упорно сопротивлялась чит… https://t.co/MIT6rj9A4K",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "denisbalyko",
-          "name": "denisbalyko",
-          "id": 130799736,
-          "id_str": "130799736",
+          "screen_name": "hotcoldwave",
+          "name": "а я вот вообще по другой теме",
+          "id": 348670351,
+          "id_str": "348670351",
           "indices": [
-            3,
-            15
-          ]
-        },
-        {
-          "screen_name": "govorov_n",
-          "name": "Николай Говоров",
-          "id": 894717826140954600,
-          "id_str": "894717826140954624",
-          "indices": [
-            17,
-            27
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            28,
-            40
-          ]
-        },
-        {
-          "screen_name": "kalabro",
-          "name": "Kate",
-          "id": 23295037,
-          "id_str": "23295037",
-          "indices": [
-            41,
-            49
-          ]
-        },
-        {
-          "screen_name": "yandex",
-          "name": "Яндекс",
-          "id": 25697989,
-          "id_str": "25697989",
-          "indices": [
-            50,
-            57
+            0,
+            12
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/14EBqgScmb",
+          "expanded_url": "http://learn.javascript.ru",
+          "display_url": "learn.javascript.ru",
+          "indices": [
+            51,
+            74
+          ]
+        },
+        {
+          "url": "https://t.co/MIT6rj9A4K",
+          "expanded_url": "https://twitter.com/i/web/status/1199117400408498176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1199114509476085800,
+    "in_reply_to_status_id_str": "1199114509476085760",
+    "in_reply_to_user_id": 348670351,
+    "in_reply_to_user_id_str": "348670351",
+    "in_reply_to_screen_name": "hotcoldwave",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Nov 25 19:24:49 +0000 2019",
-      "id": 1199046299519197200,
-      "id_str": "1199046299519197189",
-      "text": "@govorov_n @jsunderhood @kalabro @yandex Это не совсем так, после выхода v16 сам renderToString() стал примерно соп… https://t.co/21McFggJQJ",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "govorov_n",
-            "name": "Николай Говоров",
-            "id": 894717826140954600,
-            "id_str": "894717826140954624",
-            "indices": [
-              0,
-              10
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              11,
-              23
-            ]
-          },
-          {
-            "screen_name": "kalabro",
-            "name": "Kate",
-            "id": 23295037,
-            "id_str": "23295037",
-            "indices": [
-              24,
-              32
-            ]
-          },
-          {
-            "screen_name": "yandex",
-            "name": "Яндекс",
-            "id": 25697989,
-            "id_str": "25697989",
-            "indices": [
-              33,
-              40
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/21McFggJQJ",
-            "expanded_url": "https://twitter.com/i/web/status/1199046299519197189",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1199035031462842400,
-      "in_reply_to_status_id_str": "1199035031462842374",
-      "in_reply_to_user_id": 894717826140954600,
-      "in_reply_to_user_id_str": "894717826140954624",
-      "in_reply_to_screen_name": "govorov_n",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
