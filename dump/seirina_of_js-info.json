@@ -13,51 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 6654,
-  "friends_count": 508,
+  "followers_count": 6657,
+  "friends_count": 509,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2693,
+  "favourites_count": 2880,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 33882,
+  "statuses_count": 33979,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 26 00:07:21 +0000 2019",
-    "id": 1199117400408498200,
-    "id_str": "1199117400408498176",
-    "text": "@hotcoldwave Как раз серия Kyle Simpson, хм, и еще https://t.co/14EBqgScmb\nЯ долгое время упорно сопротивлялась чит… https://t.co/MIT6rj9A4K",
+    "created_at": "Tue Nov 26 23:01:02 +0000 2019",
+    "id": 1199463098266144800,
+    "id_str": "1199463098266144769",
+    "text": "@andrey_sitnik @hgenru Да, видимо, да. Этот мысль возникла, скорее, в контексте того, что некоторые интерфейсы авто… https://t.co/qEmUSMJDiD",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "hotcoldwave",
-          "name": "а я вот вообще по другой теме",
-          "id": 348670351,
-          "id_str": "348670351",
+          "screen_name": "andrey_sitnik",
+          "name": "Андрей Ситник",
+          "id": 62229769,
+          "id_str": "62229769",
           "indices": [
             0,
-            12
+            14
+          ]
+        },
+        {
+          "screen_name": "hgenru",
+          "name": "Александр Плесовских",
+          "id": 363219096,
+          "id_str": "363219096",
+          "indices": [
+            15,
+            22
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/14EBqgScmb",
-          "expanded_url": "http://learn.javascript.ru",
-          "display_url": "learn.javascript.ru",
-          "indices": [
-            51,
-            74
-          ]
-        },
-        {
-          "url": "https://t.co/MIT6rj9A4K",
-          "expanded_url": "https://twitter.com/i/web/status/1199117400408498176",
+          "url": "https://t.co/qEmUSMJDiD",
+          "expanded_url": "https://twitter.com/i/web/status/1199463098266144769",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -67,11 +68,11 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1199114509476085800,
-    "in_reply_to_status_id_str": "1199114509476085760",
-    "in_reply_to_user_id": 348670351,
-    "in_reply_to_user_id_str": "348670351",
-    "in_reply_to_screen_name": "hotcoldwave",
+    "in_reply_to_status_id": 1199462479316820000,
+    "in_reply_to_status_id_str": "1199462479316819969",
+    "in_reply_to_user_id": 62229769,
+    "in_reply_to_user_id_str": "62229769",
+    "in_reply_to_screen_name": "andrey_sitnik",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -81,7 +82,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
