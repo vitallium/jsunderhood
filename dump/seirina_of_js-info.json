@@ -13,53 +13,73 @@
     }
   },
   "protected": false,
-  "followers_count": 6645,
+  "followers_count": 6644,
   "friends_count": 519,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 2969,
+  "favourites_count": 2981,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34059,
+  "statuses_count": 34081,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 28 21:13:21 +0000 2019",
-    "id": 1200160776411070500,
-    "id_str": "1200160776411070464",
-    "text": "@Figmenyaznae Да, идея ништяковая) Сижу, читаю про ноду, но в фоне думаю о биржс =)",
-    "truncated": false,
+    "created_at": "Fri Nov 29 23:24:49 +0000 2019",
+    "id": 1200556247092740000,
+    "id_str": "1200556247092740096",
+    "text": "@shaukote @beraliv Вообще, подразумевалось, что уже примерно сейчас последует какая-то реакция) Но не знаю, может \"… https://t.co/61cgLlJClJ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Figmenyaznae",
-          "name": "Неро Випус",
-          "id": 241243926,
-          "id_str": "241243926",
+          "screen_name": "shaukote",
+          "name": "Шаукат Амирханов",
+          "id": 383727783,
+          "id_str": "383727783",
           "indices": [
             0,
-            13
+            9
+          ]
+        },
+        {
+          "screen_name": "beraliv",
+          "name": "Alexey Berezin",
+          "id": 456383131,
+          "id_str": "456383131",
+          "indices": [
+            10,
+            18
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/61cgLlJClJ",
+          "expanded_url": "https://twitter.com/i/web/status/1200556247092740096",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1200160570726658000,
-    "in_reply_to_status_id_str": "1200160570726658052",
-    "in_reply_to_user_id": 241243926,
-    "in_reply_to_user_id_str": "241243926",
-    "in_reply_to_screen_name": "Figmenyaznae",
+    "in_reply_to_status_id": 1200554520637509600,
+    "in_reply_to_status_id_str": "1200554520637509634",
+    "in_reply_to_user_id": 383727783,
+    "in_reply_to_user_id_str": "383727783",
+    "in_reply_to_screen_name": "shaukote",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
