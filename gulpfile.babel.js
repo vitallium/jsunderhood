@@ -1,4 +1,3 @@
-import buildbranch from 'buildbranch';
 import rimraf from 'rimraf';
 import each from 'each-done';
 import express from 'express';
@@ -327,12 +326,3 @@ gulp.task('watch', gulp.series(['build', 'server']), () => {
 });
 
 gulp.task('default', gulp.series(['clean', 'watch']));
-gulp.task('deploy', gulp.series(['build']), done => {
-  buildbranch(
-    {
-      branch: 'gh-pages',
-      folder: 'dist',
-    },
-    done,
-  );
-});
