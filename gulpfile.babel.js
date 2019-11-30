@@ -12,12 +12,13 @@ import autoprefixer from 'autoprefixer';
 import pcssImport from 'postcss-import';
 import pcssInitial from 'postcss-initial';
 import webpackStream from 'webpack-stream';
+import imagemin from 'gulp-imagemin';
 
 import gulp from 'gulp';
 import gulpPug from 'gulp-pug';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
-import { log, PluginError } from 'gulp-util';
+import { log } from 'gulp-util';
 import jimp from 'gulp-jimp';
 import postcss from 'gulp-postcss';
 
@@ -258,6 +259,7 @@ gulp.task('userpics', () => {
           height: 96,
         },
       }),
+      imagemin(),
     )
     .pipe(gulp.dest('dist/images'));
 });
@@ -274,6 +276,7 @@ gulp.task('current-userpic', () => {
             height: 192,
           },
         }),
+        imagemin(),
       )
       .pipe(rename('current-image'))
       .pipe(gulp.dest('dist/images'))
