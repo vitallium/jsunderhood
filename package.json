@@ -48,8 +48,8 @@
     "got": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-debug": "^4.0.0",
-    "gulp-pug": "4.0.1",
     "gulp-jimp": "^0.1.0",
+    "gulp-pug": "4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
@@ -94,7 +94,9 @@
     "eslint-plugin-require-path-exists": "^1.1.9",
     "gulp-postcss": "^8.0.0",
     "mocha": "^6.2.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-stream": "^5.2.1"
   },
   "babel": {
     "presets": [

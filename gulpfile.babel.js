@@ -12,7 +12,7 @@ import renderTweet from 'tweet.md';
 import autoprefixer from 'autoprefixer';
 import pcssImport from 'postcss-import';
 import pcssInitial from 'postcss-initial';
-import webpack from 'webpack';
+import webpackStream from 'webpack-stream';
 
 import gulp from 'gulp';
 import gulpPug from 'gulp-pug';
@@ -25,7 +25,7 @@ import postcss from 'gulp-postcss';
 import articleData from 'article-data';
 import getStats from './stats';
 import underhood from './.underhoodrc.json';
-import webpackConfig from './webpack.config.babel';
+import webpackConfig from './webpack.config';
 
 import authorRender from './helpers/author-render';
 import bust from './helpers/bust';
@@ -293,11 +293,8 @@ gulp.task('current-banner', () => {
 
 gulp.task('current-media', gulp.series(['current-userpic', 'current-banner']));
 
-gulp.task('js', done => {
-  webpack(webpackConfig, err => {
-    if (err) throw new PluginError('webpack', err);
-    done();
-  });
+gulp.task('js', () => {
+  return webpackStream(webpackConfig).pipe(gulp.dest('dist'));
 });
 
 gulp.task('static', () => {

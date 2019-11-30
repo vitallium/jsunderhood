@@ -1,5 +1,5 @@
-import { join } from 'path';
-import webpack from 'webpack';
+const { join } = require('path');
+const webpack = require('webpack');
 
 // constants
 const CWD = process.cwd();
@@ -8,26 +8,23 @@ const DEST = 'dist';
 
 // variables
 const entry = [];
-const loaders = [];
+const rules = [];
 const plugins = [];
 
 // entry points
 entry.push('./js');
 
-loaders.push({
+rules.push({
   test: /\.js$/,
   exclude: /node_modules/,
-  loaders: ['babel-loader'],
+  use: ['babel-loader'],
 });
 
-loaders.push({
+rules.push({
   test: /\.json$/,
-  loaders: ['json-loader'],
+  use: ['json-loader'],
 });
 
-// plugins
-// plugins.push(new webpack.optimize.OccurenceOrderPlugin());
-// plugins.push(new webpack.optimize.DedupePlugin());
 plugins.push(new webpack.ContextReplacementPlugin(/moment\/locale$/, /ru/));
 if (!DEBUG) {
   plugins.push(
@@ -46,6 +43,7 @@ if (!DEBUG) {
 // configuration
 module.exports = {
   entry,
+  mode: DEBUG ? 'development' : 'production',
   cache: DEBUG,
   devtool: DEBUG ? 'source-map' : 'hidden-source-map',
   output: {
@@ -54,6 +52,6 @@ module.exports = {
     filename: 'app.js',
     pathinfo: DEBUG,
   },
-  module: { rules: loaders },
+  module: { rules },
   plugins,
 };
