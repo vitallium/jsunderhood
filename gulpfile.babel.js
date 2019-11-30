@@ -15,7 +15,7 @@ import pcssInitial from 'postcss-initial';
 import webpack from 'webpack';
 
 import gulp from 'gulp';
-import gulpJade from 'gulp-jade';
+import gulpPug from 'gulp-pug';
 import rename from 'gulp-rename';
 import watch from 'gulp-watch';
 import { log, PluginError } from 'gulp-util';
@@ -35,7 +35,7 @@ import authors from './dump';
 
 const latestInfo = (head(authors) || {}).info;
 
-const jadeDefaults = {
+const pugDefaults = {
   pretty: true,
   locals: {
     site: underhood.site,
@@ -50,26 +50,20 @@ const jadeDefaults = {
 
 const getOptions = (opts = {}) => {
   const locals = {
-    ...jadeDefaults.locals,
+    ...pugDefaults.locals,
     ...opts.locals,
   };
 
   return {
-    ...jadeDefaults,
+    ...pugDefaults,
     opts,
     locals,
   };
 };
 
-const jade = opts => gulpJade(getOptions(opts));
-const firstTweet = pipe(
-  prop('tweets'),
-  head,
-);
-const render = pipe(
-  renderTweet,
-  html,
-);
+const pug = opts => gulpPug(getOptions(opts));
+const firstTweet = pipe(prop('tweets'), head);
+const render = pipe(renderTweet, html);
 
 /**
  * MAIN TASKS
@@ -87,9 +81,9 @@ gulp.task(
     const authorsToPost = authors.filter(author => author.post !== false);
 
     return gulp
-      .src('layouts/index.jade')
+      .src('layouts/index.pug')
       .pipe(
-        jade({
+        pug({
           locals: {
             title: `Сайт @${underhood.underhood}`,
             desc: underhood.underhoodDesc,
@@ -117,9 +111,9 @@ gulp.task(
   'stats',
   gulp.series('css', () => {
     return gulp
-      .src('./layouts/stats.jade')
+      .src('./layouts/stats.pug')
       .pipe(
-        jade({
+        pug({
           locals: {
             title: `Статистика @${underhood.underhood}`,
             url: 'stats/',
@@ -168,9 +162,9 @@ gulp.task(
         // TODO change to 'ru' after moment/moment#2634 will be published
         const article = articleData(page, 'D MMMM YYYY', 'en');
         return gulp
-          .src('layouts/article.jade')
+          .src('layouts/article.pug')
           .pipe(
-            jade({
+            pug({
               locals: merge(article, {
                 title: item.title,
                 url: `${item.name}/`,
@@ -228,9 +222,9 @@ gulp.task(
       authorsToPost,
       author =>
         gulp
-          .src('./layouts/author.jade')
+          .src('./layouts/author.pug')
           .pipe(
-            jade({
+            pug({
               pretty: true,
               locals: {
                 title: `Неделя @${author.username} в @${underhood.underhood}`,
@@ -329,7 +323,7 @@ gulp.task('html', gulp.series(['stats', 'authors', 'index', 'rss', 'md-pages']))
 gulp.task('build', gulp.series('html', 'js', 'stats', 'static', 'userpics', 'current-media'));
 
 gulp.task('watch', gulp.series(['build', 'server']), () => {
-  watch(['**/*.jade'], () => gulp.start('html'));
+  watch(['**/*.pug'], () => gulp.start('html'));
   watch(['css/**/*.css'], () => gulp.start('css'));
   watch('js/**/*.js', () => gulp.start('js'));
   watch('static/**', () => gulp.start('static'));
