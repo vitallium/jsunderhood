@@ -3,6 +3,7 @@ import authorId from './helpers/author-id';
 // prettier-ignore
 export default authorId([
   // post: false
+  { username: 'alekseikhlebaev' , start: '02 Dec 2019', first: '1201419806089633792' },
   { username: 'seirina_of_js'   , start: '25 Nov 2019', first: '1198882337347518464' },
   { username: 'maksugr'         , start: '18 Nov 2019', first: '1196403781484843009' },
   { username: 'ryzokuken'       , start: '11 Nov 2019', first: '1193948844578332673' },
