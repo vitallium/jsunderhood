@@ -10,12 +10,9 @@ import {
   length,
   findIndex,
   propEq,
-  path,
   map,
   head,
-  split,
   nth,
-  replace,
   toUpper,
   tail,
   concat,
@@ -25,25 +22,34 @@ import renderTweet from 'tweet.md';
 import { html } from 'commonmark-helpers';
 import unidecode from 'unidecode';
 import trimTag from 'trim-html-tag';
-import { parse } from 'url';
 import ungroupInto from './ungroup-into';
 import getLinks from './get-links';
 import authors from '../dump';
 import { underhood } from '../.underhoodrc.json';
 
-const getQuotedUser = pipe(
-  path(['entities', 'urls']),
-  map(prop('expanded_url')),
-  map(replace('/mobile.twitter.com/', '/twitter.com/')),
-  filter(url => parse(url).host === 'twitter.com'),
-  head,
-  pipe(
-    parse,
-    prop('path'),
-    split('/'),
-    nth(1),
-  ),
-);
+const prepareTweets = (tweets, _) => {
+  return map(fullText, tweets)
+    .filter(filterTimeline, tweets)
+    .groupBy(item => prop(item.created_at, dayOfYear), tweets)
+    .ungroupInto(
+      'weekday',
+      'tweets',
+    )(tweets);
+};
+
+const fullText = item => {
+  item.text = item.full_text || item.text;
+
+  if (item.quoted_status) {
+    item.quoted_status.text = item.quoted_status.full_text || item.quoted_status.text;
+  }
+
+  if (item.retweeted_status) {
+    item.retweeted_status.text = item.retweeted_status.full_text || item.retweeted_status.text;
+  }
+
+  return item;
+};
 
 moment.locale('ru');
 
@@ -65,22 +71,11 @@ const prevAuthor = author => {
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
-const capitalize = converge(concat, [
-  pipe(
-    head,
-    toUpper,
-  ),
-  tail,
-]);
+const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => item.text[0] !== '@' || item.text.indexOf(`@${underhood}`) === 0;
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(
-    pipe(
-      prop('created_at'),
-      weekday,
-    ),
-  ),
+  groupBy(pipe(prop('created_at'), weekday)),
   ungroupInto('weekday', 'tweets'),
 );
 
@@ -93,11 +88,7 @@ export default {
   unidecode,
   prevAuthor,
   nextAuthor,
-  render: pipe(
-    renderTweet,
-    html,
-    trimTag,
-  ),
+  render: pipe(renderTweet, html, trimTag),
   tweetTime,
   tweetLink,
   getLinks,

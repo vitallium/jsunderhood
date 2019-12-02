@@ -4,23 +4,17 @@
       "created_at": "Mon Dec 02 08:36:17 +0000 2019",
       "id": 1201419806089633800,
       "id_str": "1201419806089633792",
-      "text": "Привет! Меня зовут Алексей Хлебаев. Я старший разработчик в Яндекс.Деньгах и просто замечательный человек. И ведущи… https://t.co/ccoNkUqNF5",
-      "truncated": true,
+      "full_text": "Привет! Меня зовут Алексей Хлебаев. Я старший разработчик в Яндекс.Деньгах и просто замечательный человек. И ведущий подкаста ФронтендЮность.\nГотов ответить на все вопросы и поделится проблемами синьоров)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/ccoNkUqNF5",
-            "expanded_url": "https://twitter.com/i/web/status/1201419806089633792",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": null,
@@ -37,8 +31,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 43,
+      "retweet_count": 3,
+      "favorite_count": 80,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -47,8 +41,12 @@
       "created_at": "Mon Dec 02 09:01:41 +0000 2019",
       "id": 1201426196271128600,
       "id_str": "1201426196271128576",
-      "text": "@timbochkarev Добавил. Как-то не привык пиарить себя)",
+      "full_text": "@timbochkarev Добавил. Как-то не привык пиарить себя)",
       "truncated": false,
+      "display_text_range": [
+        14,
+        53
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -91,8 +89,12 @@
       "created_at": "Mon Dec 02 09:18:53 +0000 2019",
       "id": 1201430526902644700,
       "id_str": "1201430526902644738",
-      "text": "@trueboris Лично я, всех спрашиваю примерно одинаково. Наращивую уровень вопросов в зависимости от ответов. Классич… https://t.co/iTsF7EOiv9",
-      "truncated": true,
+      "full_text": "@trueboris Лично я, всех спрашиваю примерно одинаково. Наращивую уровень вопросов в зависимости от ответов. Классические вопросы про JS, общий кругозор и задачки, если остается время.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        183
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -108,17 +110,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/iTsF7EOiv9",
-            "expanded_url": "https://twitter.com/i/web/status/1201430526902644738",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1201420655390052400,
@@ -145,8 +137,12 @@
       "created_at": "Mon Dec 02 09:19:45 +0000 2019",
       "id": 1201430742208852000,
       "id_str": "1201430742208851968",
-      "text": "@4rontender Я увидел, что Рома вел jsunderhood. И понял, что мне тоже есть, что сказать. Поэтому я здесь. За остальных не могу сказать",
+      "full_text": "@4rontender Я увидел, что Рома вел jsunderhood. И понял, что мне тоже есть, что сказать. Поэтому я здесь. За остальных не могу сказать",
       "truncated": false,
+      "display_text_range": [
+        12,
+        134
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -180,7 +176,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -189,8 +185,12 @@
       "created_at": "Mon Dec 02 09:22:34 +0000 2019",
       "id": 1201431453210464300,
       "id_str": "1201431453210464256",
-      "text": "@nanot1m Да. Сейчас мы переходим на Nest Js. И это довольно приятно",
+      "full_text": "@nanot1m Да. Сейчас мы переходим на Nest Js. И это довольно приятно",
       "truncated": false,
+      "display_text_range": [
+        9,
+        67
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -224,7 +224,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 4,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -233,8 +233,12 @@
       "created_at": "Mon Dec 02 09:25:38 +0000 2019",
       "id": 1201432224689725400,
       "id_str": "1201432224689725440",
-      "text": "Для разогрева предлагаю написать в комментариях\nтвой топ 3 российских фронтендеров. В конце я поделюсь своим мнением)",
+      "full_text": "Для разогрева предлагаю написать в комментариях\nтвой топ 3 российских фронтендеров. В конце я поделюсь своим мнением)",
       "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -257,7 +261,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 11,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -266,8 +270,12 @@
       "created_at": "Mon Dec 02 09:26:23 +0000 2019",
       "id": 1201432414331064300,
       "id_str": "1201432414331064321",
-      "text": "@a250188 Я не работаю по 12 часов. Я не работаю в Яндексе) Подгораю иногда",
+      "full_text": "@a250188 Я не работаю по 12 часов. Я не работаю в Яндексе) Подгораю иногда",
       "truncated": false,
+      "display_text_range": [
+        9,
+        74
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -310,8 +318,12 @@
       "created_at": "Mon Dec 02 09:27:17 +0000 2019",
       "id": 1201432638411747300,
       "id_str": "1201432638411747329",
-      "text": "@a250188 Если серьезно. Все зависит от человека и его мотивации. Многие люди живут работой и любят ее, поэтому и работают 24 на 7",
+      "full_text": "@a250188 Если серьезно. Все зависит от человека и его мотивации. Многие люди живут работой и любят ее, поэтому и работают 24 на 7",
       "truncated": false,
+      "display_text_range": [
+        9,
+        129
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -354,8 +366,12 @@
       "created_at": "Mon Dec 02 09:28:08 +0000 2019",
       "id": 1201432851801096200,
       "id_str": "1201432851801096193",
-      "text": "@a250188 Не совсем\nhttps://t.co/rv6rVt2VRe",
+      "full_text": "@a250188 Не совсем\nhttps://t.co/rv6rVt2VRe",
       "truncated": false,
+      "display_text_range": [
+        9,
+        42
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -409,8 +425,12 @@
       "created_at": "Mon Dec 02 09:32:00 +0000 2019",
       "id": 1201433828193116200,
       "id_str": "1201433828193116160",
-      "text": "@4rontender Я - ретроград. Не гонюсь за новыми штучками типо  налиш куралесинг'a) Отношусь к языку и технологиям ка… https://t.co/jGS7keg3YQ",
-      "truncated": true,
+      "full_text": "@4rontender Я - ретроград. Не гонюсь за новыми штучками типо  налиш куралесинг'a) Отношусь к языку и технологиям как к молотку. Пока молоток эффективно забивает гвозди  не нужно вешать на него рюшечки. Считаю, что в языке все хорошо. А если чего-то не хватает есть typescript",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        275
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -426,17 +446,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/jGS7keg3YQ",
-            "expanded_url": "https://twitter.com/i/web/status/1201433828193116160",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1201432743562887200,
@@ -454,7 +464,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 7,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -463,8 +473,12 @@
       "created_at": "Mon Dec 02 09:34:06 +0000 2019",
       "id": 1201434356604178400,
       "id_str": "1201434356604178432",
-      "text": "@happyozka @nikitonsky @andrey_sitnik @SatiataOff Чувствую все неделю нам с тобой будет весело, друг)",
+      "full_text": "@happyozka @nikitonsky @andrey_sitnik @SatiataOff Чувствую все неделю нам с тобой будет весело, друг)",
       "truncated": false,
+      "display_text_range": [
+        50,
+        101
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -528,7 +542,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 4,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -537,8 +551,12 @@
       "created_at": "Mon Dec 02 09:36:28 +0000 2019",
       "id": 1201434951343857700,
       "id_str": "1201434951343857664",
-      "text": "@maxxcorp @nanot1m Мы не работаем с базой напрямую, у нас для этого есть java-бекенды. Поэтому ORM нет",
+      "full_text": "@maxxcorp @nanot1m Мы не работаем с базой напрямую, у нас для этого есть java-бекенды. Поэтому ORM нет",
       "truncated": false,
+      "display_text_range": [
+        19,
+        102
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -591,8 +609,12 @@
       "created_at": "Mon Dec 02 09:37:57 +0000 2019",
       "id": 1201435323068231700,
       "id_str": "1201435323068231680",
-      "text": "@xufocoder Так это твой субъективный топ. Можешь три раза себя написать",
+      "full_text": "@xufocoder Так это твой субъективный топ. Можешь три раза себя написать",
       "truncated": false,
+      "display_text_range": [
+        11,
+        71
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -635,8 +657,12 @@
       "created_at": "Mon Dec 02 09:40:05 +0000 2019",
       "id": 1201435859658182700,
       "id_str": "1201435859658182658",
-      "text": "@happyozka @SatiataOff @nikitonsky @andrey_sitnik не надо отправлять пенисы, если тебя никто об этом не просит",
+      "full_text": "@happyozka @SatiataOff @nikitonsky @andrey_sitnik не надо отправлять пенисы, если тебя никто об этом не просит",
       "truncated": false,
+      "display_text_range": [
+        50,
+        110
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -700,7 +726,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 4,
+      "favorite_count": 5,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -709,8 +735,12 @@
       "created_at": "Mon Dec 02 09:41:29 +0000 2019",
       "id": 1201436211530928000,
       "id_str": "1201436211530928128",
-      "text": "@i_kabirov Это не только провокация, но и способ найти кого-то нового свежего и неизвестного:)",
+      "full_text": "@i_kabirov Это не только провокация, но и способ найти кого-то нового свежего и неизвестного:)",
       "truncated": false,
+      "display_text_range": [
+        11,
+        94
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -753,8 +783,12 @@
       "created_at": "Mon Dec 02 09:45:54 +0000 2019",
       "id": 1201437322811728000,
       "id_str": "1201437322811727873",
-      "text": "@maxxcorp @nanot1m конечно. Опять же нужно понимать подходит ли нода под вашу задачу. Если подходит - то использова… https://t.co/KJlgonWQJu",
-      "truncated": true,
+      "full_text": "@maxxcorp @nanot1m конечно. Опять же нужно понимать подходит ли нода под вашу задачу. Если подходит - то использовать можно. Это интерпрайз решение. У нас Node.js больше 5 лет и все хорошо",
+      "truncated": false,
+      "display_text_range": [
+        19,
+        188
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -780,17 +814,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/KJlgonWQJu",
-            "expanded_url": "https://twitter.com/i/web/status/1201437322811727873",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "in_reply_to_status_id": 1201436586673610800,
@@ -798,6 +822,1017 @@
       "in_reply_to_user_id": 170233883,
       "in_reply_to_user_id_str": "170233883",
       "in_reply_to_screen_name": "maxxcorp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:21:10 +0000 2019",
+      "id": 1201446201759064000,
+      "id_str": "1201446201759064066",
+      "full_text": "@5minreact Решение крымского вопроса возможно в соответствии с дорожной картой, выработанной в рамках специально созванной Международной конференции.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5minreact",
+            "name": "Пятиминутка React",
+            "id": 800675127939600400,
+            "id_str": "800675127939600385",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201436492268294100,
+      "in_reply_to_status_id_str": "1201436492268294144",
+      "in_reply_to_user_id": 800675127939600400,
+      "in_reply_to_user_id_str": "800675127939600385",
+      "in_reply_to_screen_name": "5minreact",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:32:18 +0000 2019",
+      "id": 1201449002396504000,
+      "id_str": "1201449002396504064",
+      "full_text": "Моя любимая история. Как я попал во фронтенд.\nШел 2014 год. Я клепал сайты на битриксе за 30 тысяч в месяц.  Считался php-разработчиком. И тут нам в команду приходит дерзкий верстак. С ходу получает больше меня и делает совсем не рокетСайнс. \nПостоянно ноет, что ему мало платят.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:32:40 +0000 2019",
+      "id": 1201449095535218700,
+      "id_str": "1201449095535218688",
+      "full_text": "И этот верстак в итоге уходит в другое место на 60 тысяч. В этот момент, я задумался, я же ничем не хуже него, надо тоже идти во фронт-енд!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201449002396504000,
+      "in_reply_to_status_id_str": "1201449002396504064",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:33:06 +0000 2019",
+      "id": 1201449204725506000,
+      "id_str": "1201449204725506049",
+      "full_text": "Параллельно, этот парень мне пишет в личку, что устроился на 60 тысяч, но ему не понравилось и он не вышел на работу. Я взял у него вакансию, и устроился туда сам. Вот так я стал фронтендером.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        192
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201449095535218700,
+      "in_reply_to_status_id_str": "1201449095535218688",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:38:40 +0000 2019",
+      "id": 1201450605241413600,
+      "id_str": "1201450605241413633",
+      "full_text": "@taujavarob Санкт-Петербург. Кажется, бутстрап тогда был 2-ой. А курс около 30 рублей за доллар.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        96
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201450303859708000,
+      "in_reply_to_status_id_str": "1201450303859707905",
+      "in_reply_to_user_id": 188307045,
+      "in_reply_to_user_id_str": "188307045",
+      "in_reply_to_screen_name": "taujavarob",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:40:17 +0000 2019",
+      "id": 1201451010373357600,
+      "id_str": "1201451010373357568",
+      "full_text": "@taujavarob @5minreact согласен",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "5minreact",
+            "name": "Пятиминутка React",
+            "id": 800675127939600400,
+            "id_str": "800675127939600385",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201450851564425200,
+      "in_reply_to_status_id_str": "1201450851564425216",
+      "in_reply_to_user_id": 188307045,
+      "in_reply_to_user_id_str": "188307045",
+      "in_reply_to_screen_name": "taujavarob",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:44:16 +0000 2019",
+      "id": 1201452012132548600,
+      "id_str": "1201452012132548610",
+      "full_text": "@taujavarob Все зависит от вашей конкретной ситуации. Может вам и не нужно.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201451529041064000,
+      "in_reply_to_status_id_str": "1201451529041063936",
+      "in_reply_to_user_id": 188307045,
+      "in_reply_to_user_id_str": "188307045",
+      "in_reply_to_screen_name": "taujavarob",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:56:57 +0000 2019",
+      "id": 1201455205465890800,
+      "id_str": "1201455205465890816",
+      "full_text": "RT @snowy_robolamp: Смотрите, мы тут организуем хакатон в поддержку политических заключённых! ✨ https://t.co/Up2xKYEPkH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "snowy_robolamp",
+            "name": "Yuλya Yakovλeva🐙",
+            "id": 4870424872,
+            "id_str": "4870424872",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Up2xKYEPkH",
+            "expanded_url": "https://twitter.com/devs_against/status/1200376567748272130",
+            "display_url": "twitter.com/devs_against/s…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 29 12:10:19 +0000 2019",
+        "id": 1200386504209715200,
+        "id_str": "1200386504209715201",
+        "full_text": "Смотрите, мы тут организуем хакатон в поддержку политических заключённых! ✨ https://t.co/Up2xKYEPkH",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          75
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Up2xKYEPkH",
+              "expanded_url": "https://twitter.com/devs_against/status/1200376567748272130",
+              "display_url": "twitter.com/devs_against/s…",
+              "indices": [
+                76,
+                99
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4870424872,
+          "id_str": "4870424872"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1200376567748272000,
+        "quoted_status_id_str": "1200376567748272130",
+        "quoted_status_permalink": {
+          "url": "https://t.co/Up2xKYEPkH",
+          "expanded": "https://twitter.com/devs_against/status/1200376567748272130",
+          "display": "twitter.com/devs_against/s…"
+        },
+        "quoted_status": {
+          "created_at": "Fri Nov 29 11:30:50 +0000 2019",
+          "id": 1200376567748272000,
+          "id_str": "1200376567748272130",
+          "full_text": "Привет, это создатели письма айтишников против московского дела. Теперь мы решили объявляем онлайн-хакатон в поддержку политзаключенных! Зовем участвовать IT-специалистов, правозащитников, дизайнеров, общественные организации. Подробности на гитхабе: \nhttps://t.co/ukLz8dWkOY",
+          "truncated": false,
+          "display_text_range": [
+            0,
+            275
+          ],
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/ukLz8dWkOY",
+                "expanded_url": "https://github.com/developers-against-repressions/devs-against-the-machine",
+                "display_url": "github.com/developers-aga…",
+                "indices": [
+                  252,
+                  275
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 1200347783628238800,
+            "id_str": "1200347783628238848"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 185,
+          "favorite_count": 431,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 12,
+        "favorite_count": 66,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1200376567748272000,
+      "quoted_status_id_str": "1200376567748272130",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Up2xKYEPkH",
+        "expanded": "https://twitter.com/devs_against/status/1200376567748272130",
+        "display": "twitter.com/devs_against/s…"
+      },
+      "retweet_count": 12,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 10:58:17 +0000 2019",
+      "id": 1201455539395412000,
+      "id_str": "1201455539395411970",
+      "full_text": "Я считаю, что важно поддерживать тех, кому сейчас тяжело, и пытаться своими силами что-то изменить. https://t.co/BOOmTQ3YKU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BOOmTQ3YKU",
+            "expanded_url": "https://twitter.com/snowy_robolamp/status/1200386504209715201",
+            "display_url": "twitter.com/snowy_robolamp…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1200386504209715200,
+      "quoted_status_id_str": "1200386504209715201",
+      "quoted_status_permalink": {
+        "url": "https://t.co/BOOmTQ3YKU",
+        "expanded": "https://twitter.com/snowy_robolamp/status/1200386504209715201",
+        "display": "twitter.com/snowy_robolamp…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Nov 29 12:10:19 +0000 2019",
+        "id": 1200386504209715200,
+        "id_str": "1200386504209715201",
+        "full_text": "Смотрите, мы тут организуем хакатон в поддержку политических заключённых! ✨ https://t.co/Up2xKYEPkH",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          75
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Up2xKYEPkH",
+              "expanded_url": "https://twitter.com/devs_against/status/1200376567748272130",
+              "display_url": "twitter.com/devs_against/s…",
+              "indices": [
+                76,
+                99
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4870424872,
+          "id_str": "4870424872"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1200376567748272000,
+        "quoted_status_id_str": "1200376567748272130",
+        "quoted_status_permalink": {
+          "url": "https://t.co/Up2xKYEPkH",
+          "expanded": "https://twitter.com/devs_against/status/1200376567748272130",
+          "display": "twitter.com/devs_against/s…"
+        },
+        "retweet_count": 12,
+        "favorite_count": 66,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 13:02:34 +0000 2019",
+      "id": 1201486815598928000,
+      "id_str": "1201486815598927872",
+      "full_text": "@4rontender Я думаю, это складывается от восприятия мира. Думаю к российским коллегам нет предвзятого отношения. По крайней мере такого не встречал.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "4rontender",
+            "name": "Ринат Валиуллов",
+            "id": 862738522788290600,
+            "id_str": "862738522788290561",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201482840682180600,
+      "in_reply_to_status_id_str": "1201482840682180608",
+      "in_reply_to_user_id": 862738522788290600,
+      "in_reply_to_user_id_str": "862738522788290561",
+      "in_reply_to_screen_name": "4rontender",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 13:03:26 +0000 2019",
+      "id": 1201487035460194300,
+      "id_str": "1201487035460194306",
+      "full_text": "@4rontender Но если и есть. То скорее всего из-за каких-то стереотипов и несовпадения культурного кода.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "4rontender",
+            "name": "Ринат Валиуллов",
+            "id": 862738522788290600,
+            "id_str": "862738522788290561",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201482840682180600,
+      "in_reply_to_status_id_str": "1201482840682180608",
+      "in_reply_to_user_id": 862738522788290600,
+      "in_reply_to_user_id_str": "862738522788290561",
+      "in_reply_to_screen_name": "4rontender",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 13:05:26 +0000 2019",
+      "id": 1201487538520776700,
+      "id_str": "1201487538520776705",
+      "full_text": "@ch_ronik В моем восприятии это фронтендер, который говорит по-русски и находится внутри нашего комьюнити.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ch_ronik",
+            "name": "ch",
+            "id": 93405480,
+            "id_str": "93405480",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201442824626921500,
+      "in_reply_to_status_id_str": "1201442824626921472",
+      "in_reply_to_user_id": 93405480,
+      "in_reply_to_user_id_str": "93405480",
+      "in_reply_to_screen_name": "ch_ronik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 14:07:38 +0000 2019",
+      "id": 1201503191285878800,
+      "id_str": "1201503191285878786",
+      "full_text": "На первый взгляд, Наша индустрия дает идеальные условия для работы: печеньки, свободный график, белая зп, оплата нештяков и тп. Это все круто. Но мы живем в своем мире. Если выйти за пределы этого мира увидим, что не все так хорошо.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 14:07:51 +0000 2019",
+      "id": 1201503248412237800,
+      "id_str": "1201503248412237829",
+      "full_text": "Стал искать офис, чтобы в нем мог работать инвалид-колясочник. И оказалось, что среди крупных IT-компаний такое найти в Санкт-Петербурге довольно сложно. Если знаете компании, где такое возможно - пишите.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201503191285878800,
+      "in_reply_to_status_id_str": "1201503191285878786",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 14:10:07 +0000 2019",
+      "id": 1201503818195853300,
+      "id_str": "1201503818195853312",
+      "full_text": "А у вас какие примеры того, что в нашей индустрии не все так идеально, как кажется?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201503248412237800,
+      "in_reply_to_status_id_str": "1201503248412237829",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 14:11:07 +0000 2019",
+      "id": 1201504068855849000,
+      "id_str": "1201504068855848960",
+      "full_text": "@happyozka Он имеет право сам выбирать, где хочет работать",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "happyozka",
+            "name": "Кирилл",
+            "id": 1189444144638447600,
+            "id_str": "1189444144638447621",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201503884390342700,
+      "in_reply_to_status_id_str": "1201503884390342656",
+      "in_reply_to_user_id": 1189444144638447600,
+      "in_reply_to_user_id_str": "1189444144638447621",
+      "in_reply_to_screen_name": "happyozka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 14:16:53 +0000 2019",
+      "id": 1201505517895635000,
+      "id_str": "1201505517895634946",
+      "full_text": "@mtvkand Есть, конечно. Из моего опыта - желание это самое важное. И главное не запариваться на своих слабых сторонах, а говорить о том, в чем ты силен.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mtvkand",
+            "name": "▒▒▒▒▒ ▒▒▒▒▒▒▒",
+            "id": 1057203336368320500,
+            "id_str": "1057203336368320513",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201504633845436400,
+      "in_reply_to_status_id_str": "1201504633845436418",
+      "in_reply_to_user_id": 1057203336368320500,
+      "in_reply_to_user_id_str": "1057203336368320513",
+      "in_reply_to_screen_name": "mtvkand",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 02 15:35:10 +0000 2019",
+      "id": 1201525220282183700,
+      "id_str": "1201525220282183681",
+      "full_text": "@Vizantiyec Выбираем обычно либо из музыки которые любят @alekseikhlebaev или @rm_baad . Иногда подбираем под событие. Еще реже предлагают слушатели или гости.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vizantiyec",
+            "name": "Andrew",
+            "id": 23217272,
+            "id_str": "23217272",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "alekseikhlebaev",
+            "name": "Алексей Хлебаев",
+            "id": 445424054,
+            "id_str": "445424054",
+            "indices": [
+              57,
+              73
+            ]
+          },
+          {
+            "screen_name": "rm_baad",
+            "name": "R.M.",
+            "id": 15205824,
+            "id_str": "15205824",
+            "indices": [
+              78,
+              86
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1201521905917927400,
+      "in_reply_to_status_id_str": "1201521905917927424",
+      "in_reply_to_user_id": 23217272,
+      "in_reply_to_user_id_str": "23217272",
+      "in_reply_to_screen_name": "Vizantiyec",
       "user": {
         "id": 3014054307,
         "id_str": "3014054307"
