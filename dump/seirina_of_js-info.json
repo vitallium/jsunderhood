@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 6652,
+  "followers_count": 6650,
   "friends_count": 520,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,44 +22,43 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34092,
+  "statuses_count": 34093,
   "lang": null,
   "status": {
-    "created_at": "Sat Nov 30 22:50:51 +0000 2019",
-    "id": 1200910087604383700,
-    "id_str": "1200910087604383746",
-    "text": "@AnonovVaasya Да, я думала. Но там же аудитория больше уже англоязычная.",
-    "truncated": false,
+    "created_at": "Sun Dec 01 18:43:42 +0000 2019",
+    "id": 1201210278672830500,
+    "id_str": "1201210278672830465",
+    "text": "Ребята, неделя подходит к концу, спасибо, что были со мной все это время. Мне очень хотелось получше узнать наше ко… https://t.co/iQuwoEPEO0",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "AnonovVaasya",
-          "name": "Вася Анонов",
-          "id": 1185868659069243400,
-          "id_str": "1185868659069243392",
+          "url": "https://t.co/iQuwoEPEO0",
+          "expanded_url": "https://twitter.com/i/web/status/1201210278672830465",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            13
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1200908442879307800,
-    "in_reply_to_status_id_str": "1200908442879307776",
-    "in_reply_to_user_id": 1185868659069243400,
-    "in_reply_to_user_id_str": "1185868659069243392",
-    "in_reply_to_screen_name": "AnonovVaasya",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
