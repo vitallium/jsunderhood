@@ -26,85 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 6664,
+  "followers_count": 6679,
   "friends_count": 520,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3018,
+  "favourites_count": 3021,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34127,
+  "statuses_count": 34139,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 02 15:35:10 +0000 2019",
-    "id": 1201525220282183700,
-    "id_str": "1201525220282183681",
-    "text": "@Vizantiyec Выбираем обычно либо из музыки которые любят @alekseikhlebaev или @rm_baad . Иногда подбираем под событ… https://t.co/IxzM92qrkc",
-    "truncated": true,
+    "created_at": "Mon Dec 02 22:35:33 +0000 2019",
+    "id": 1201631013220339700,
+    "id_str": "1201631013220339713",
+    "text": "Нашли крутой офис! https://t.co/gkhiA1T44z",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Vizantiyec",
-          "name": "Andrew",
-          "id": 23217272,
-          "id_str": "23217272",
-          "indices": [
-            0,
-            11
-          ]
-        },
-        {
-          "screen_name": "alekseikhlebaev",
-          "name": "Алексей Хлебаев",
-          "id": 445424054,
-          "id_str": "445424054",
-          "indices": [
-            57,
-            73
-          ]
-        },
-        {
-          "screen_name": "rm_baad",
-          "name": "R.M.",
-          "id": 15205824,
-          "id_str": "15205824",
-          "indices": [
-            78,
-            86
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/IxzM92qrkc",
-          "expanded_url": "https://twitter.com/i/web/status/1201525220282183681",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/gkhiA1T44z",
+          "expanded_url": "https://twitter.com/Fat_Cat23/status/1201614777950375936",
+          "display_url": "twitter.com/Fat_Cat23/stat…",
           "indices": [
-            117,
-            140
+            19,
+            42
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1201521905917927400,
-    "in_reply_to_status_id_str": "1201521905917927424",
-    "in_reply_to_user_id": 23217272,
-    "in_reply_to_user_id_str": "23217272",
-    "in_reply_to_screen_name": "Vizantiyec",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1201614777950376000,
+    "quoted_status_id_str": "1201614777950375936",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
