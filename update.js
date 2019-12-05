@@ -19,7 +19,7 @@ const tokens = {
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 };
-import getTweets from './helpers/get-tweets';
+import getTweets from 'get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
