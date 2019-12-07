@@ -26,55 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 6711,
+  "followers_count": 6712,
   "friends_count": 518,
-  "listed_count": 228,
+  "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 3058,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34170,
+  "statuses_count": 34173,
   "lang": null,
   "status": {
-    "created_at": "Thu Dec 05 19:29:44 +0000 2019",
-    "id": 1202671415645876200,
-    "id_str": "1202671415645876226",
-    "text": "RT @4rontender: @arcdeltax @jsunderhood Как то поглядел работу в vim одного инженера из facebook.\nСкажу честно, мне сразу стало грустно. Я…",
+    "created_at": "Fri Dec 06 17:07:47 +0000 2019",
+    "id": 1202998080469192700,
+    "id_str": "1202998080469192707",
+    "text": "RT @spb_frontend: 11 декабря наши друзья из SEMrush проведут митап, посвященный производительности веб-приложений. Спикеры расскажут доклад…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "4rontender",
-          "name": "Ринат Валиуллов",
-          "id": 862738522788290600,
-          "id_str": "862738522788290561",
+          "screen_name": "spb_frontend",
+          "name": "SPB Frontend",
+          "id": 2799432920,
+          "id_str": "2799432920",
           "indices": [
             3,
-            14
-          ]
-        },
-        {
-          "screen_name": "arcdeltax",
-          "name": "Джонни Весло",
-          "id": 1048652939424931800,
-          "id_str": "1048652939424931841",
-          "indices": [
-            16,
-            26
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            27,
-            39
+            16
           ]
         }
       ],
@@ -91,67 +71,47 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Dec 05 18:05:25 +0000 2019",
-      "id": 1202650194497753000,
-      "id_str": "1202650194497753089",
-      "text": "@arcdeltax @jsunderhood Как то поглядел работу в vim одного инженера из facebook.\nСкажу честно, мне сразу стало гру… https://t.co/wlFiTNamu8",
+      "created_at": "Tue Dec 03 15:27:25 +0000 2019",
+      "id": 1201885657242751000,
+      "id_str": "1201885657242750976",
+      "text": "11 декабря наши друзья из SEMrush проведут митап, посвященный производительности веб-приложений. Спикеры расскажут… https://t.co/wAq6SRBqe2",
       "truncated": true,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "arcdeltax",
-            "name": "Джонни Весло",
-            "id": 1048652939424931800,
-            "id_str": "1048652939424931841",
-            "indices": [
-              0,
-              10
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              11,
-              23
-            ]
-          }
-        ],
+        "user_mentions": [],
         "urls": [
           {
-            "url": "https://t.co/wlFiTNamu8",
-            "expanded_url": "https://twitter.com/i/web/status/1202650194497753089",
+            "url": "https://t.co/wAq6SRBqe2",
+            "expanded_url": "https://twitter.com/i/web/status/1201885657242750976",
             "display_url": "twitter.com/i/web/status/1…",
             "indices": [
-              117,
-              140
+              116,
+              139
             ]
           }
         ]
       },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1201924425899225000,
-      "in_reply_to_status_id_str": "1201924425899225098",
-      "in_reply_to_user_id": 1048652939424931800,
-      "in_reply_to_user_id_str": "1048652939424931841",
-      "in_reply_to_screen_name": "arcdeltax",
+      "source": "<a href=\"https://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 11,
+      "retweet_count": 2,
+      "favorite_count": 3,
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,

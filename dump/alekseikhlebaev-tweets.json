@@ -4244,6 +4244,182 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 06 17:04:39 +0000 2019",
+      "id": 1202997290195202000,
+      "id_str": "1202997290195202048",
+      "text": "@d_valuev Typescript React+Redux. Nest.JS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "d_valuev",
+            "name": "Дмитрий",
+            "id": 1443096673,
+            "id_str": "1443096673",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1202718760244850700,
+      "in_reply_to_status_id_str": "1202718760244850688",
+      "in_reply_to_user_id": 1443096673,
+      "in_reply_to_user_id_str": "1443096673",
+      "in_reply_to_screen_name": "d_valuev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 06 17:05:32 +0000 2019",
+      "id": 1202997515500556300,
+      "id_str": "1202997515500556290",
+      "text": "@svart0222 Я читаю мало книг.\nДля всех советую чистый код.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "svart0222",
+            "name": "svart0222",
+            "id": 1166008800656183300,
+            "id_str": "1166008800656183296",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1202917301886038000,
+      "in_reply_to_status_id_str": "1202917301886038016",
+      "in_reply_to_user_id": 1166008800656183300,
+      "in_reply_to_user_id_str": "1166008800656183296",
+      "in_reply_to_screen_name": "svart0222",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Dec 06 17:07:47 +0000 2019",
+      "id": 1202998080469192700,
+      "id_str": "1202998080469192707",
+      "text": "RT @spb_frontend: 11 декабря наши друзья из SEMrush проведут митап, посвященный производительности веб-приложений. Спикеры расскажут доклад…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spb_frontend",
+            "name": "SPB Frontend",
+            "id": 2799432920,
+            "id_str": "2799432920",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 03 15:27:25 +0000 2019",
+        "id": 1201885657242751000,
+        "id_str": "1201885657242750976",
+        "text": "11 декабря наши друзья из SEMrush проведут митап, посвященный производительности веб-приложений. Спикеры расскажут… https://t.co/wAq6SRBqe2",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/wAq6SRBqe2",
+              "expanded_url": "https://twitter.com/i/web/status/1201885657242750976",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2799432920,
+          "id_str": "2799432920"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
