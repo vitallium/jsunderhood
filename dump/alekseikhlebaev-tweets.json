@@ -4708,6 +4708,50 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 08 08:30:32 +0000 2019",
+      "id": 1203592685602427000,
+      "id_str": "1203592685602426882",
+      "text": "@d_valuev Bff nodejs\nУ беков java",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "d_valuev",
+            "name": "Дмитрий",
+            "id": 1443096673,
+            "id_str": "1443096673",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1203324374272659500,
+      "in_reply_to_status_id_str": "1203324374272659457",
+      "in_reply_to_user_id": 1443096673,
+      "in_reply_to_user_id_str": "1443096673",
+      "in_reply_to_screen_name": "d_valuev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
     }
   ]
 }
