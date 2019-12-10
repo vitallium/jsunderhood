@@ -13,52 +13,113 @@
     }
   },
   "protected": false,
-  "followers_count": 6719,
+  "followers_count": 6726,
   "friends_count": 517,
   "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3059,
+  "favourites_count": 3060,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34187,
+  "statuses_count": 34211,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 09 11:49:56 +0000 2019",
-    "id": 1204005255010308000,
-    "id_str": "1204005255010308102",
-    "text": "А ещё мы стали забывать о сути веба. В его основе идея о доступности знаний и информации для всего человечества. Ко… https://t.co/TJNcsEJ8X3",
-    "truncated": true,
+    "created_at": "Mon Dec 09 18:19:40 +0000 2019",
+    "id": 1204103335223218200,
+    "id_str": "1204103335223218178",
+    "text": "RT @burivuh: @jsunderhood Столкнулся недавно - делаю апп на React Native для людей с диабетом. Одно из осложнений при диабете - проблемы со…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/TJNcsEJ8X3",
-          "expanded_url": "https://twitter.com/i/web/status/1204005255010308102",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "burivuh",
+          "name": "Eugene Molodkin",
+          "id": 28503556,
+          "id_str": "28503556",
           "indices": [
-            117,
-            140
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            13,
+            25
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1204005253529645000,
-    "in_reply_to_status_id_str": "1204005253529645059",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 09 18:12:32 +0000 2019",
+      "id": 1204101539771682800,
+      "id_str": "1204101539771682817",
+      "text": "@jsunderhood Столкнулся недавно - делаю апп на React Native для людей с диабетом. Одно из осложнений при диабете -… https://t.co/6Qyzu4sq7I",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6Qyzu4sq7I",
+            "expanded_url": "https://twitter.com/i/web/status/1204101539771682817",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204075323782058000,
+      "in_reply_to_status_id_str": "1204075323782057984",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
