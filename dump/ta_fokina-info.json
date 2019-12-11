@@ -13,35 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 6726,
+  "followers_count": 6734,
   "friends_count": 517,
-  "listed_count": 230,
+  "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 3060,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34211,
+  "statuses_count": 34245,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 09 18:19:40 +0000 2019",
-    "id": 1204103335223218200,
-    "id_str": "1204103335223218178",
-    "text": "RT @burivuh: @jsunderhood Столкнулся недавно - делаю апп на React Native для людей с диабетом. Одно из осложнений при диабете - проблемы со…",
+    "created_at": "Tue Dec 10 16:28:35 +0000 2019",
+    "id": 1204437768274948000,
+    "id_str": "1204437768274948098",
+    "text": "RT @svknyc: @SelenIT2 @jsunderhood Вот пример моего доклада о субтитрах на исходном языке, которые помогают всем и не только глухим: https:…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "burivuh",
-          "name": "Eugene Molodkin",
-          "id": 28503556,
-          "id_str": "28503556",
+          "screen_name": "svknyc",
+          "name": "Svetlana Kouznetsova (Sveta)",
+          "id": 53573221,
+          "id_str": "53573221",
           "indices": [
             3,
-            11
+            10
+          ]
+        },
+        {
+          "screen_name": "SelenIT2",
+          "name": "Ilya Streltsyn",
+          "id": 455700025,
+          "id_str": "455700025",
+          "indices": [
+            12,
+            21
           ]
         },
         {
@@ -50,14 +60,14 @@
           "id": 3014054307,
           "id_str": "3014054307",
           "indices": [
-            13,
-            25
+            22,
+            34
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -68,57 +78,68 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Mon Dec 09 18:12:32 +0000 2019",
-      "id": 1204101539771682800,
-      "id_str": "1204101539771682817",
-      "text": "@jsunderhood Столкнулся недавно - делаю апп на React Native для людей с диабетом. Одно из осложнений при диабете -… https://t.co/6Qyzu4sq7I",
+      "created_at": "Tue Dec 10 16:07:23 +0000 2019",
+      "id": 1204432431480266800,
+      "id_str": "1204432431480266752",
+      "text": "@SelenIT2 @jsunderhood Вот пример моего доклада о субтитрах на исходном языке, которые помогают всем и не только гл… https://t.co/woq55OyFlr",
       "truncated": true,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [
           {
+            "screen_name": "SelenIT2",
+            "name": "Ilya Streltsyn",
+            "id": 455700025,
+            "id_str": "455700025",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
             "screen_name": "jsunderhood",
             "name": "jsunderhood",
             "id": 3014054307,
             "id_str": "3014054307",
             "indices": [
-              0,
-              12
+              10,
+              22
             ]
           }
         ],
         "urls": [
           {
-            "url": "https://t.co/6Qyzu4sq7I",
-            "expanded_url": "https://twitter.com/i/web/status/1204101539771682817",
+            "url": "https://t.co/woq55OyFlr",
+            "expanded_url": "https://twitter.com/i/web/status/1204432431480266752",
             "display_url": "twitter.com/i/web/status/1…",
             "indices": [
-              116,
-              139
+              117,
+              140
             ]
           }
         ]
       },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1204075323782058000,
-      "in_reply_to_status_id_str": "1204075323782057984",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1204430677803970600,
+      "in_reply_to_status_id_str": "1204430677803970560",
+      "in_reply_to_user_id": 53573221,
+      "in_reply_to_user_id_str": "53573221",
+      "in_reply_to_screen_name": "svknyc",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 4,
+      "retweet_count": 2,
+      "favorite_count": 3,
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 3,
+    "retweet_count": 2,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
