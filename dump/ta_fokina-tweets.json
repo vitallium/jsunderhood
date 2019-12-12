@@ -3802,6 +3802,1261 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:06 +0000 2019",
+      "id": 1204680244772425700,
+      "id_str": "1204680244772425733",
+      "text": "Вчера мы обсудили вспомогательные технологии и теперь переходим к Accessibility API.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:07 +0000 2019",
+      "id": 1204680246034862000,
+      "id_str": "1204680246034862085",
+      "text": "Вспомогательным технологиям нужно брать откуда-то нужную информацию. Он мог бы это делать напрямую из DOM и CSSOM,… https://t.co/LJ5KfCdp8Q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LJ5KfCdp8Q",
+            "expanded_url": "https://twitter.com/i/web/status/1204680246034862085",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680244772425700,
+      "in_reply_to_status_id_str": "1204680244772425733",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:07 +0000 2019",
+      "id": 1204680247863660500,
+      "id_str": "1204680247863660544",
+      "text": "И здесь нам на помощь приходит Accessibility Tree или дерево доступности. Это дерево представляет собой совокупност… https://t.co/fSbQPdBozM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fSbQPdBozM",
+            "expanded_url": "https://twitter.com/i/web/status/1204680247863660544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680246034862000,
+      "in_reply_to_status_id_str": "1204680246034862085",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:07 +0000 2019",
+      "id": 1204680249218420700,
+      "id_str": "1204680249218420736",
+      "text": "Accessibility API как раз принимает участие в его построении. По сути это часть операционной системы, которая обращ… https://t.co/4DrPEYkixM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4DrPEYkixM",
+            "expanded_url": "https://twitter.com/i/web/status/1204680249218420736",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680247863660500,
+      "in_reply_to_status_id_str": "1204680247863660544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:08 +0000 2019",
+      "id": 1204680250552193000,
+      "id_str": "1204680250552193024",
+      "text": "Больше про Accessibility API можно узнать из документа W3C: https://t.co/zRYu3ofihK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zRYu3ofihK",
+            "expanded_url": "https://www.w3.org/TR/core-aam-1.1/",
+            "display_url": "w3.org/TR/core-aam-1.…",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680249218420700,
+      "in_reply_to_status_id_str": "1204680249218420736",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:08 +0000 2019",
+      "id": 1204680251915341800,
+      "id_str": "1204680251915341824",
+      "text": "Объект — это один или несколько HTML-элементов. Событие — программное сообщение об изменении состояния объекта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680250552193000,
+      "in_reply_to_status_id_str": "1204680250552193024",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:08 +0000 2019",
+      "id": 1204680253190365200,
+      "id_str": "1204680253190365185",
+      "text": "Получается, что Accessibility API берёт из DOM и CSSOM нужную вспомогательным технологиям информацию и строит на её… https://t.co/KGNSdANkZU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KGNSdANkZU",
+            "expanded_url": "https://twitter.com/i/web/status/1204680253190365185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680251915341800,
+      "in_reply_to_status_id_str": "1204680251915341824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:09 +0000 2019",
+      "id": 1204680254687785000,
+      "id_str": "1204680254687784960",
+      "text": "Насколько я знаю, из CSSOM в дерево доступности попадает не так много данных. Это информация о значениях свойства d… https://t.co/OdXPAYClBK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OdXPAYClBK",
+            "expanded_url": "https://twitter.com/i/web/status/1204680254687784960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680253190365200,
+      "in_reply_to_status_id_str": "1204680253190365185",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:09 +0000 2019",
+      "id": 1204680256063492000,
+      "id_str": "1204680256063492098",
+      "text": "Если знаете о ещё каких-то CSS-свойствах, которые попадают в дерево доступности, то делитесь ими :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680254687785000,
+      "in_reply_to_status_id_str": "1204680254687784960",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:09 +0000 2019",
+      "id": 1204680257774801000,
+      "id_str": "1204680257774800896",
+      "text": "Так что же содержится в объектах доступности такого важного? Это их описание, состояние, события, действия, которые… https://t.co/00O8J7TVak",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/00O8J7TVak",
+            "expanded_url": "https://twitter.com/i/web/status/1204680257774800896",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680256063492000,
+      "in_reply_to_status_id_str": "1204680256063492098",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:10 +0000 2019",
+      "id": 1204680259146260500,
+      "id_str": "1204680259146260499",
+      "text": "Ещё Accessibility API собирает некоторую информацию о User Agent: их названия и версии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680257774801000,
+      "in_reply_to_status_id_str": "1204680257774800896",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:10 +0000 2019",
+      "id": 1204680260740112400,
+      "id_str": "1204680260740112384",
+      "text": "Роль — это функция элемента. Роли могут быть заданы явно в атрибуте role или неявно, по умолчанию. У &lt;a&gt; неявная, в… https://t.co/T4odQHcRgh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T4odQHcRgh",
+            "expanded_url": "https://twitter.com/i/web/status/1204680260740112384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680259146260500,
+      "in_reply_to_status_id_str": "1204680259146260499",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:11 +0000 2019",
+      "id": 1204680262136868900,
+      "id_str": "1204680262136868865",
+      "text": "Имя (name или accessible name) — название объекта. Имя может содержаться в разных местах. Например, для &lt;input&gt; оно… https://t.co/nSX4tDDTe4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nSX4tDDTe4",
+            "expanded_url": "https://twitter.com/i/web/status/1204680262136868865",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680260740112400,
+      "in_reply_to_status_id_str": "1204680260740112384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:11 +0000 2019",
+      "id": 1204680263680159700,
+      "id_str": "1204680263680159744",
+      "text": "Содержимое элемента (textual content) — текст, который в нём содержится.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680262136868900,
+      "in_reply_to_status_id_str": "1204680262136868865",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:11 +0000 2019",
+      "id": 1204680265085390800,
+      "id_str": "1204680265085390853",
+      "text": "Действие: что именно пользователи могут делать с объектами. Например, интерактивный ли это элемент.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680263680159700,
+      "in_reply_to_status_id_str": "1204680263680159744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:12 +0000 2019",
+      "id": 1204680266326954000,
+      "id_str": "1204680266326953985",
+      "text": "Состояние (state): каким образом в данный момент времени себя ведёт элемент. Например, чекбокс может быть сейчас checked.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680265085390800,
+      "in_reply_to_status_id_str": "1204680265085390853",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:12 +0000 2019",
+      "id": 1204680267602038800,
+      "id_str": "1204680267602038784",
+      "text": "Событие: из-за чего изменилось состояние объекта. Например, на кнопку нажали или кликнули по чекбоксу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680266326954000,
+      "in_reply_to_status_id_str": "1204680266326953985",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 08:32:12 +0000 2019",
+      "id": 1204680268935782400,
+      "id_str": "1204680268935782400",
+      "text": "На тему Accessibility API есть клёвая статья Леони Ватсон \"Accessibility APIs: A Key To Web Accessibility\": https://t.co/DLrtfbnDNK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DLrtfbnDNK",
+            "expanded_url": "https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/",
+            "display_url": "smashingmagazine.com/2015/03/web-ac…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680267602038800,
+      "in_reply_to_status_id_str": "1204680267602038784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:50 +0000 2019",
+      "id": 1204725977189945300,
+      "id_str": "1204725977189945344",
+      "text": "Посмотреть дерево доступности можно в инструменте разработчика в Chrome во вкладке «Доступность». В ней вы найдёте… https://t.co/GYLsz2M04z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GYLsz2M04z",
+            "expanded_url": "https://twitter.com/i/web/status/1204725977189945344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204680268935782400,
+      "in_reply_to_status_id_str": "1204680268935782400",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:53 +0000 2019",
+      "id": 1204725990943076400,
+      "id_str": "1204725990943076353",
+      "text": "Чтобы изучить дерево доступности в Firefox, нужно включить режим поддержки доступности. Тогда вы сможете найти дере… https://t.co/DMAY8QRP3z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DMAY8QRP3z",
+            "expanded_url": "https://twitter.com/i/web/status/1204725990943076353",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204725977189945300,
+      "in_reply_to_status_id_str": "1204725977189945344",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:55 +0000 2019",
+      "id": 1204725998677373000,
+      "id_str": "1204725998677372929",
+      "text": "В Safari тоже можно найти много интересного про дерево доступности в консоли разработчика во вкладке Node: список A… https://t.co/lz03s4z2x1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lz03s4z2x1",
+            "expanded_url": "https://twitter.com/i/web/status/1204725998677372929",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204725990943076400,
+      "in_reply_to_status_id_str": "1204725990943076353",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:56 +0000 2019",
+      "id": 1204726001193881600,
+      "id_str": "1204726001193881605",
+      "text": "Есть много реализаций Accessibility API: Microsoft Active Accessibility (MSAA), IAccessible, IAccessible2 (IA2), Mi… https://t.co/RY42yWemJI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RY42yWemJI",
+            "expanded_url": "https://twitter.com/i/web/status/1204726001193881605",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204725998677373000,
+      "in_reply_to_status_id_str": "1204725998677372929",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:56 +0000 2019",
+      "id": 1204726002900967400,
+      "id_str": "1204726002900967424",
+      "text": "Разные браузеры работают с разными реализациями API. Chrome полностью поддерживает MSAA, IAccessible, почти полност… https://t.co/2j6QYtIEYM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2j6QYtIEYM",
+            "expanded_url": "https://twitter.com/i/web/status/1204726002900967424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726001193881600,
+      "in_reply_to_status_id_str": "1204726001193881605",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:56 +0000 2019",
+      "id": 1204726004419309600,
+      "id_str": "1204726004419309569",
+      "text": "Firefox поддерживает MSAA, IAccessible и IAccessible2, ISimpleDOM, ATK и AT-SPI.\nhttps://t.co/DRb4iV94ik",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DRb4iV94ik",
+            "expanded_url": "https://developer.mozilla.org/ru/docs/Web/Accessibility/AT-APIs",
+            "display_url": "developer.mozilla.org/ru/docs/Web/Ac…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726002900967400,
+      "in_reply_to_status_id_str": "1204726002900967424",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:57 +0000 2019",
+      "id": 1204726006260666400,
+      "id_str": "1204726006260666369",
+      "text": "Internet Explorer: MSAA, IAccessible и UIA-EXPRESS. В Edge реализована поддержка UI Automation.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726004419309600,
+      "in_reply_to_status_id_str": "1204726004419309569",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:57 +0000 2019",
+      "id": 1204726007745458200,
+      "id_str": "1204726007745458176",
+      "text": "Safari: NSAccessibility на OS X, UIAccessibility на iOS.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726006260666400,
+      "in_reply_to_status_id_str": "1204726006260666369",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:57 +0000 2019",
+      "id": 1204726009188245500,
+      "id_str": "1204726009188245504",
+      "text": "Их главное отличие друг от друга в том, сколько они поддерживают ролей объектов, их имён, состояний.\nhttps://t.co/M1MDHAMS5Y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M1MDHAMS5Y",
+            "expanded_url": "https://developer.mozilla.org/en-US/docs/Mozilla/Accessibility/Accessibility_API_cross-reference",
+            "display_url": "developer.mozilla.org/en-US/docs/Moz…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726007745458200,
+      "in_reply_to_status_id_str": "1204726007745458176",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 11:33:58 +0000 2019",
+      "id": 1204726010819862500,
+      "id_str": "1204726010819862528",
+      "text": "На сегодня всё :) Завтра расскажу о том, почему для доступности так важен семантический HTML-код.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204726009188245500,
+      "in_reply_to_status_id_str": "1204726009188245504",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 14:36:39 +0000 2019",
+      "id": 1204771986691514400,
+      "id_str": "1204771986691514368",
+      "text": "@yourbestpine Всё так! О WCAG я планировала рассказать ближе к концу недели :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yourbestpine",
+            "name": "Дарья",
+            "id": 2182827281,
+            "id_str": "2182827281",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1204736162058735600,
+      "in_reply_to_status_id_str": "1204736162058735616",
+      "in_reply_to_user_id": 2182827281,
+      "in_reply_to_user_id_str": "2182827281",
+      "in_reply_to_screen_name": "yourbestpine",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Dec 11 14:37:32 +0000 2019",
+      "id": 1204772208368898000,
+      "id_str": "1204772208368898049",
+      "text": "Веб-версия чек-листа по мотивам WCAG: https://t.co/0QX5s8pwtq https://t.co/o65Oqt5IKL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0QX5s8pwtq",
+            "expanded_url": "https://webaim.org/standards/wcag/checklist",
+            "display_url": "webaim.org/standards/wcag…",
+            "indices": [
+              38,
+              61
+            ]
+          },
+          {
+            "url": "https://t.co/o65Oqt5IKL",
+            "expanded_url": "https://twitter.com/yourbestpine/status/1204735813549879296",
+            "display_url": "twitter.com/yourbestpine/s…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1204735813549879300,
+      "quoted_status_id_str": "1204735813549879296",
+      "quoted_status": {
+        "created_at": "Wed Dec 11 12:12:55 +0000 2019",
+        "id": 1204735813549879300,
+        "id_str": "1204735813549879296",
+        "text": "@jsunderhood есть еще классный чеклист, с которого легче начинать знакомство с web accessibility. тут все описано п… https://t.co/u3ieQwpSDg",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/u3ieQwpSDg",
+              "expanded_url": "https://twitter.com/i/web/status/1204735813549879296",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1204680250552193000,
+        "in_reply_to_status_id_str": "1204680250552193024",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 2182827281,
+          "id_str": "2182827281"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
     }
   ]
 }

@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 6734,
+  "followers_count": 6743,
   "friends_count": 517,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,50 +22,38 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34245,
+  "statuses_count": 34275,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 10 16:28:35 +0000 2019",
-    "id": 1204437768274948000,
-    "id_str": "1204437768274948098",
-    "text": "RT @svknyc: @SelenIT2 @jsunderhood Вот пример моего доклада о субтитрах на исходном языке, которые помогают всем и не только глухим: https:…",
+    "created_at": "Wed Dec 11 14:37:32 +0000 2019",
+    "id": 1204772208368898000,
+    "id_str": "1204772208368898049",
+    "text": "Веб-версия чек-листа по мотивам WCAG: https://t.co/0QX5s8pwtq https://t.co/o65Oqt5IKL",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "svknyc",
-          "name": "Svetlana Kouznetsova (Sveta)",
-          "id": 53573221,
-          "id_str": "53573221",
+          "url": "https://t.co/0QX5s8pwtq",
+          "expanded_url": "https://webaim.org/standards/wcag/checklist",
+          "display_url": "webaim.org/standards/wcag…",
           "indices": [
-            3,
-            10
+            38,
+            61
           ]
         },
         {
-          "screen_name": "SelenIT2",
-          "name": "Ilya Streltsyn",
-          "id": 455700025,
-          "id_str": "455700025",
+          "url": "https://t.co/o65Oqt5IKL",
+          "expanded_url": "https://twitter.com/yourbestpine/status/1204735813549879296",
+          "display_url": "twitter.com/yourbestpine/s…",
           "indices": [
-            12,
-            21
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            22,
-            34
+            62,
+            85
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -77,73 +65,15 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Dec 10 16:07:23 +0000 2019",
-      "id": 1204432431480266800,
-      "id_str": "1204432431480266752",
-      "text": "@SelenIT2 @jsunderhood Вот пример моего доклада о субтитрах на исходном языке, которые помогают всем и не только гл… https://t.co/woq55OyFlr",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "SelenIT2",
-            "name": "Ilya Streltsyn",
-            "id": 455700025,
-            "id_str": "455700025",
-            "indices": [
-              0,
-              9
-            ]
-          },
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              10,
-              22
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/woq55OyFlr",
-            "expanded_url": "https://twitter.com/i/web/status/1204432431480266752",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "in_reply_to_status_id": 1204430677803970600,
-      "in_reply_to_status_id_str": "1204430677803970560",
-      "in_reply_to_user_id": 53573221,
-      "in_reply_to_user_id_str": "53573221",
-      "in_reply_to_screen_name": "svknyc",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 1204735813549879300,
+    "quoted_status_id_str": "1204735813549879296",
+    "retweet_count": 1,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
