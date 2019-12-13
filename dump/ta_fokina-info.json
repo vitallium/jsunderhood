@@ -13,67 +13,66 @@
     }
   },
   "protected": false,
-  "followers_count": 6743,
+  "followers_count": 6749,
   "friends_count": 517,
-  "listed_count": 231,
+  "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 3060,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34275,
+  "statuses_count": 34312,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 11 14:37:32 +0000 2019",
-    "id": 1204772208368898000,
-    "id_str": "1204772208368898049",
-    "text": "Веб-версия чек-листа по мотивам WCAG: https://t.co/0QX5s8pwtq https://t.co/o65Oqt5IKL",
-    "truncated": false,
+    "created_at": "Thu Dec 12 19:45:12 +0000 2019",
+    "id": 1205212020892733400,
+    "id_str": "1205212020892733441",
+    "text": "@amst1el Пустой alt работает для картинок так же, как aria-hidden=\"true\". Скринридеры не объявляют такие изображени… https://t.co/iC8qJvbq1m",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "amst1el",
+          "name": "Алексей Куницкий",
+          "id": 779673454131945500,
+          "id_str": "779673454131945474",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/0QX5s8pwtq",
-          "expanded_url": "https://webaim.org/standards/wcag/checklist",
-          "display_url": "webaim.org/standards/wcag…",
+          "url": "https://t.co/iC8qJvbq1m",
+          "expanded_url": "https://twitter.com/i/web/status/1205212020892733441",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            38,
-            61
-          ]
-        },
-        {
-          "url": "https://t.co/o65Oqt5IKL",
-          "expanded_url": "https://twitter.com/yourbestpine/status/1204735813549879296",
-          "display_url": "twitter.com/yourbestpine/s…",
-          "indices": [
-            62,
-            85
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1205149868676792300,
+    "in_reply_to_status_id_str": "1205149868676792321",
+    "in_reply_to_user_id": 779673454131945500,
+    "in_reply_to_user_id_str": "779673454131945474",
+    "in_reply_to_screen_name": "amst1el",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1204735813549879300,
-    "quoted_status_id_str": "1204735813549879296",
-    "retweet_count": 1,
-    "favorite_count": 7,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
