@@ -13,42 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 6749,
+  "followers_count": 6753,
   "friends_count": 517,
-  "listed_count": 232,
+  "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 3060,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34312,
+  "statuses_count": 34347,
   "lang": null,
   "status": {
-    "created_at": "Thu Dec 12 19:45:12 +0000 2019",
-    "id": 1205212020892733400,
-    "id_str": "1205212020892733441",
-    "text": "@amst1el Пустой alt работает для картинок так же, как aria-hidden=\"true\". Скринридеры не объявляют такие изображени… https://t.co/iC8qJvbq1m",
+    "created_at": "Fri Dec 13 21:45:54 +0000 2019",
+    "id": 1205604786894192600,
+    "id_str": "1205604786894192640",
+    "text": "@banzalik @vasiliy_dudin А с цветовой схемой может особо и не быть проблем, если просто не полагаться на одни цвета… https://t.co/9vVNF7at29",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "amst1el",
-          "name": "Алексей Куницкий",
-          "id": 779673454131945500,
-          "id_str": "779673454131945474",
+          "screen_name": "banzalik",
+          "name": "Oleksandr Boichenko",
+          "id": 36354627,
+          "id_str": "36354627",
           "indices": [
             0,
-            8
+            9
+          ]
+        },
+        {
+          "screen_name": "vasiliy_dudin",
+          "name": "Vasiliy Dudin",
+          "id": 40018726,
+          "id_str": "40018726",
+          "indices": [
+            10,
+            24
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/iC8qJvbq1m",
-          "expanded_url": "https://twitter.com/i/web/status/1205212020892733441",
+          "url": "https://t.co/9vVNF7at29",
+          "expanded_url": "https://twitter.com/i/web/status/1205604786894192640",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -57,19 +67,19 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1205149868676792300,
-    "in_reply_to_status_id_str": "1205149868676792321",
-    "in_reply_to_user_id": 779673454131945500,
-    "in_reply_to_user_id_str": "779673454131945474",
-    "in_reply_to_screen_name": "amst1el",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1204134918898405400,
+    "in_reply_to_status_id_str": "1204134918898405376",
+    "in_reply_to_user_id": 36354627,
+    "in_reply_to_user_id_str": "36354627",
+    "in_reply_to_screen_name": "banzalik",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
