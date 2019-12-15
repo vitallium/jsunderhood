@@ -13,66 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 6753,
+  "followers_count": 6752,
   "friends_count": 517,
-  "listed_count": 233,
+  "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3060,
+  "favourites_count": 3061,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34347,
+  "statuses_count": 34372,
   "lang": null,
   "status": {
-    "created_at": "Fri Dec 13 21:45:54 +0000 2019",
-    "id": 1205604786894192600,
-    "id_str": "1205604786894192640",
-    "text": "@banzalik @vasiliy_dudin А с цветовой схемой может особо и не быть проблем, если просто не полагаться на одни цвета… https://t.co/9vVNF7at29",
-    "truncated": true,
+    "created_at": "Sat Dec 14 12:22:08 +0000 2019",
+    "id": 1205825294818517000,
+    "id_str": "1205825294818516992",
+    "text": "На русский пока переведена только предыдущая версия 2.0: https://t.co/lzDzWSAGzs",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "banzalik",
-          "name": "Oleksandr Boichenko",
-          "id": 36354627,
-          "id_str": "36354627",
-          "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "vasiliy_dudin",
-          "name": "Vasiliy Dudin",
-          "id": 40018726,
-          "id_str": "40018726",
-          "indices": [
-            10,
-            24
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/9vVNF7at29",
-          "expanded_url": "https://twitter.com/i/web/status/1205604786894192640",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/lzDzWSAGzs",
+          "expanded_url": "https://www.w3.org/Translations/WCAG20-ru/",
+          "display_url": "w3.org/Translations/W…",
           "indices": [
-            117,
-            140
+            57,
+            80
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1204134918898405400,
-    "in_reply_to_status_id_str": "1204134918898405376",
-    "in_reply_to_user_id": 36354627,
-    "in_reply_to_user_id_str": "36354627",
-    "in_reply_to_screen_name": "banzalik",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1205825293111439400,
+    "in_reply_to_status_id_str": "1205825293111439360",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -82,6 +61,7 @@
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
