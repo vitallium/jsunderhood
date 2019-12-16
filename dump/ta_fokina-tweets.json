@@ -9363,6 +9363,234 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 15 11:20:17 +0000 2019",
+      "id": 1206172119081607200,
+      "id_str": "1206172119081607168",
+      "text": "Все треды за неделю.\nПочему доступность сейчас так важна: https://t.co/7PpqDWYyhl\n\nЗачем она нужна разработчикам:… https://t.co/GYiGaeXDTL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7PpqDWYyhl",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1204005241559175168",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              58,
+              81
+            ]
+          },
+          {
+            "url": "https://t.co/GYiGaeXDTL",
+            "expanded_url": "https://twitter.com/i/web/status/1206172119081607168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1204680244772425700,
+      "quoted_status_id_str": "1204680244772425733",
+      "quoted_status": {
+        "created_at": "Wed Dec 11 08:32:06 +0000 2019",
+        "id": 1204680244772425700,
+        "id_str": "1204680244772425733",
+        "text": "Вчера мы обсудили вспомогательные технологии и теперь переходим к Accessibility API.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 9,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 15 11:20:17 +0000 2019",
+      "id": 1206172120868409300,
+      "id_str": "1206172120868409346",
+      "text": "Семантическая вёрстка: https://t.co/NIEHHYz5Bu\n\nWAI-ARIA: https://t.co/tAdVC5bP5G\n\nWCAG: https://t.co/gFatfWhyOM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NIEHHYz5Bu",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1205038820699377666",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "url": "https://t.co/tAdVC5bP5G",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1205403301774331906",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              58,
+              81
+            ]
+          },
+          {
+            "url": "https://t.co/gFatfWhyOM",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1205780798844084224",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1206172119081607200,
+      "in_reply_to_status_id_str": "1206172119081607168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1205780798844084200,
+      "quoted_status_id_str": "1205780798844084224",
+      "quoted_status": {
+        "created_at": "Sat Dec 14 09:25:19 +0000 2019",
+        "id": 1205780798844084200,
+        "id_str": "1205780798844084224",
+        "text": "На неделе уже мелькал WCAG, давайте сегодня поговорим о нём.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 15 11:21:00 +0000 2019",
+      "id": 1206172297666715600,
+      "id_str": "1206172297666715651",
+      "text": "Спасибо, что читали меня на этой неделе. Надеюсь, вы узнали что-то новое для себя, заинтересовались доступностью ил… https://t.co/FcI7m0xDzs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FcI7m0xDzs",
+            "expanded_url": "https://twitter.com/i/web/status/1206172297666715651",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
