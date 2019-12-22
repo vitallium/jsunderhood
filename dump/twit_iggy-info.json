@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 6818,
+  "followers_count": 6821,
   "friends_count": 518,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,44 +22,43 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 34434,
+  "statuses_count": 34444,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 18 02:41:53 +0000 2019",
-    "id": 1207128821935288300,
-    "id_str": "1207128821935288326",
-    "text": "@Olekus3 Принято, обязательно учту. Спасибо, что обратили внимание, понял, что не замечал",
-    "truncated": false,
+    "created_at": "Sat Dec 21 16:20:42 +0000 2019",
+    "id": 1208422048650784800,
+    "id_str": "1208422048650784768",
+    "text": "Бизнес - это история о деньгах, ваши действия наносят считаемый ущерб и шансы, что будут включены механизмы юридиче… https://t.co/4HZyiVghoI",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Olekus3",
-          "name": "Oleg",
-          "id": 1089714308,
-          "id_str": "1089714308",
+          "url": "https://t.co/4HZyiVghoI",
+          "expanded_url": "https://twitter.com/i/web/status/1208422048650784768",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            8
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1207124136574771200,
-    "in_reply_to_status_id_str": "1207124136574771201",
-    "in_reply_to_user_id": 1089714308,
-    "in_reply_to_user_id_str": "1089714308",
-    "in_reply_to_screen_name": "Olekus3",
+    "in_reply_to_status_id": 1208422046671224800,
+    "in_reply_to_status_id_str": "1208422046671224832",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
