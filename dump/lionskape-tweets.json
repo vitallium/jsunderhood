@@ -1,0 +1,47 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 23 06:45:24 +0000 2019",
+      "id": 1209002043605573600,
+      "id_str": "1209002043605573634",
+      "text": "Всем привет.\n\nНочь собирается, и начинается мой дозор. А всё потому, что я сейчас в командировке в США и буду писат… https://t.co/lW7mqC9ZG1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lW7mqC9ZG1",
+            "expanded_url": "https://twitter.com/i/web/status/1209002043605573634",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
