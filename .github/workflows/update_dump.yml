@@ -22,8 +22,8 @@ jobs:
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       - name: Commit changes
         run: |
-          git config --local user.email "vitaliy.slobodin@gmail.com"
-          git config --local user.name "Vitaly Slobodin"
+          git config --local user.email "${{ secrets.GIT_COMMIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_COMMIT_NAME }}"
           git commit -m "Update dump" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
