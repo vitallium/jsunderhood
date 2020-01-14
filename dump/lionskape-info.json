@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 6872,
+  "followers_count": 6880,
   "friends_count": 519,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,19 +22,29 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35099,
+  "statuses_count": 35101,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 31 08:00:36 +0000 2019",
-    "id": 1211920074241663000,
-    "id_str": "1211920074241662976",
-    "text": "Всех с Новым годом 🎉🎉🎉\n\nСпасибо вам, что были с нами в этом году 🙏\n\nВернёмся 13.01⏱",
-    "truncated": false,
+    "created_at": "Mon Jan 13 15:28:52 +0000 2020",
+    "id": 1216743926499029000,
+    "id_str": "1216743926499028992",
+    "text": "Ребят, можно у вас узнать: насколько каждый из вас знаком с Facebook не как пользователь соц.сети, а как инженер, и… https://t.co/XtLXjKcUr4",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/XtLXjKcUr4",
+          "expanded_url": "https://twitter.com/i/web/status/1216743926499028992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -47,8 +57,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 25,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
