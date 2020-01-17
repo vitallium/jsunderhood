@@ -13,66 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 6871,
+  "followers_count": 6873,
   "friends_count": 520,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3200,
+  "favourites_count": 3199,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35165,
+  "statuses_count": 35175,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 15 23:20:53 +0000 2020",
-    "id": 1217587488635662300,
-    "id_str": "1217587488635662336",
-    "text": "@andrey_sitnik относительно травли - в античности такое было. Так что ничего нового))) а про категорию \"преступник\"… https://t.co/mPJIwVZczO",
-    "truncated": true,
+    "created_at": "Thu Jan 16 09:10:01 +0000 2020",
+    "id": 1217735750441193500,
+    "id_str": "1217735750441193472",
+    "text": "Итак, новая тема: GraphQL-клиенты. \nРассмотрим с вами Apollo Client и Relay Modern.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "andrey_sitnik",
-          "name": "Андрей Ситник",
-          "id": 62229769,
-          "id_str": "62229769",
-          "indices": [
-            0,
-            14
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mPJIwVZczO",
-          "expanded_url": "https://twitter.com/i/web/status/1217587488635662336",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1217568492401987600,
-    "in_reply_to_status_id_str": "1217568492401987584",
-    "in_reply_to_user_id": 62229769,
-    "in_reply_to_user_id_str": "62229769",
-    "in_reply_to_screen_name": "andrey_sitnik",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
