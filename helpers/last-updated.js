@@ -1,5 +1,5 @@
-import { readFileSync } from 'fs';
-import moment from 'moment';
+const { readFileSync } = require('fs');
+const moment = require('moment');
 
 const cwd = process.cwd();
 const timestamp = (() => {
@@ -18,4 +18,4 @@ function lastUpdated() {
 
 lastUpdated.raw = timestamp;
 
-export default lastUpdated;
+module.exports = lastUpdated;

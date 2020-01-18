@@ -1,6 +1,6 @@
-import { readJsonSync, existsSync } from 'fs-extra';
+const { readJsonSync, existsSync } = require('fs-extra');
 
-export default function getAuthorArea(authorId, area) {
+module.exports = function getAuthorArea(authorId, area) {
   const areaSuffix = area ? `-${area}` : '';
   const path = `./dump/${authorId}${areaSuffix}.json`;
   if (existsSync(path)) {
@@ -8,4 +8,4 @@ export default function getAuthorArea(authorId, area) {
   }
 
   return {};
-}
+};

@@ -1,8 +1,8 @@
-import got from 'got';
-import type from 'file-type';
-import { writeFile } from 'fs';
+const got = require('got');
+const type = require('file-type');
+const { writeFile } = require('fs');
 
-export default function save(image, path, cb) {
+module.exports = function save(image, path, cb) {
   got(image, { encoding: null })
     .then(({ body }) => ({ body, ext: type(body).ext }))
     .then(({ body, ext }) => {
@@ -12,4 +12,4 @@ export default function save(image, path, cb) {
       });
     })
     .catch(cb);
-}
+};

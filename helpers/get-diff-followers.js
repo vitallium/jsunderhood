@@ -1,7 +1,7 @@
-import diff from 'lodash.difference';
-import R from 'ramda';
-import getAuthorArea from './get-author-area';
-import authors from '../authors';
+const diff = require('lodash.difference');
+const R = require('ramda');
+const getAuthorArea = require('./get-author-area');
+const authors = require('../authors');
 
 const prev = authorId =>
   (authors[R.inc(R.findIndex(R.propEq('authorId', authorId), authors))] || {}).authorId;
@@ -9,7 +9,7 @@ const followers = authorId =>
   R.map(R.prop('id_str'), getAuthorArea(authorId, 'followers').followers || []);
 
 // getDiffFollowers :: String -> Object
-export default function getDiffFollowers(authorId) {
+module.exports = function getDiffFollowers(authorId) {
   const currentFollowers = followers(authorId);
   const previousFollowers = followers(prev(authorId));
   if (R.length(previousFollowers) > 0) {
@@ -18,4 +18,4 @@ export default function getDiffFollowers(authorId) {
       loss: R.length(diff(previousFollowers, currentFollowers)),
     };
   }
-}
+};

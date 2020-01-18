@@ -1,15 +1,15 @@
 /* eslint-env mocha */
 
-import assert from 'assert';
-import { readFileSync } from 'fs-extra';
-import cheerio from 'cheerio';
-import typeNumbers from 'typographic-numbers';
-import { head } from 'ramda';
-import authors from './dump';
-import authorId from './helpers/author-id';
+const assert = require('assert');
+const { readFileSync } = require('fs-extra');
+const cheerio = require('cheerio');
+const typeNumbers = require('typographic-numbers');
+const { head } = require('ramda');
+const authors = require('./dump');
+const authorId = require('./helpers/author-id');
 
-import getGainedFollowers from './helpers/get-gained-followers';
-import getDiffFollowers from './helpers/get-diff-followers';
+const getGainedFollowers = require('./helpers/get-gained-followers');
+const getDiffFollowers = require('./helpers/get-diff-followers');
 
 const latestInfo = head(authors).info;
 const numbers = input => typeNumbers(input, { locale: 'ru' });
