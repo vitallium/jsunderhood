@@ -3779,6 +3779,952 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Fri Jan 17 09:39:44 +0000 2020",
+      "id": 1218105612841734100,
+      "id_str": "1218105612841734147",
+      "text": "@bukhalo_a Не так тяжко изучить Relay, как думается с первого взгляда) Если даже взять саму доку, то там все уже ес… https://t.co/IlQeMEGnNY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bukhalo_a",
+            "name": "Aleksandr Bukhalo",
+            "id": 1081921978431426600,
+            "id_str": "1081921978431426560",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IlQeMEGnNY",
+            "expanded_url": "https://twitter.com/i/web/status/1218105612841734147",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217755305116827600,
+      "in_reply_to_status_id_str": "1217755305116827648",
+      "in_reply_to_user_id": 1081921978431426600,
+      "in_reply_to_user_id_str": "1081921978431426560",
+      "in_reply_to_screen_name": "bukhalo_a",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 09:52:37 +0000 2020",
+      "id": 1218108858088009700,
+      "id_str": "1218108858088009730",
+      "text": "По поводу комьюнити в целом: давай вместе подымать его, если у тебя есть интерес к Relay) Под лежачий камень вода н… https://t.co/iuYWsFxFKT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iuYWsFxFKT",
+            "expanded_url": "https://twitter.com/i/web/status/1218108858088009730",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217735750441193500,
+      "in_reply_to_status_id_str": "1217735750441193472",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 10:30:17 +0000 2020",
+      "id": 1218118336103493600,
+      "id_str": "1218118336103493632",
+      "text": "@mato_chu Стоп))) В текущей доке по Relay написано четко - для GraphQL-клиент для React. Хочешь адаптировать для An… https://t.co/vkTWaaXxYV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vkTWaaXxYV",
+            "expanded_url": "https://twitter.com/i/web/status/1218118336103493632",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218110701497147400,
+      "in_reply_to_status_id_str": "1218110701497147393",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 11:52:13 +0000 2020",
+      "id": 1218138954500886500,
+      "id_str": "1218138954500886529",
+      "text": "@mato_chu Вот сразу негативное отношение к Facebook) Объясни, откуда это?)))\nВторой момент: инженер - это специалис… https://t.co/zpuIyvwS3D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zpuIyvwS3D",
+            "expanded_url": "https://twitter.com/i/web/status/1218138954500886529",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218109113017737200,
+      "in_reply_to_status_id_str": "1218109113017737216",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 12:34:25 +0000 2020",
+      "id": 1218149574172463000,
+      "id_str": "1218149574172463104",
+      "text": "@mato_chu Спасибо за твое мнение))) Живи с ним и дальше)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218140107192045600,
+      "in_reply_to_status_id_str": "1218140107192045568",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:24:16 +0000 2020",
+      "id": 1218162118953971700,
+      "id_str": "1218162118953971713",
+      "text": "@mato_chu Ребята, я не работаю в Fb, а принимаю участие в их глобальной программе!!! Прошу на это обратить внимание!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218152737013190700,
+      "in_reply_to_status_id_str": "1218152737013190656",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:25:27 +0000 2020",
+      "id": 1218162417223524400,
+      "id_str": "1218162417223524352",
+      "text": "@mato_chu И давайте не уходить от реальной темы обсуждения!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218152737013190700,
+      "in_reply_to_status_id_str": "1218152737013190656",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:28:53 +0000 2020",
+      "id": 1218163281300508700,
+      "id_str": "1218163281300508672",
+      "text": "@mato_chu и еще момент - представляешь, мне никто ничего не платит))) почитай про программу Developer Circles from Facebook",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218152737013190700,
+      "in_reply_to_status_id_str": "1218152737013190656",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:32:52 +0000 2020",
+      "id": 1218164284921995300,
+      "id_str": "1218164284921995265",
+      "text": "@mato_chu Давай, сменим градус нашей беседы. С твоей стороны изначально идет агрессия. Я здесь не для этого)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218152737013190700,
+      "in_reply_to_status_id_str": "1218152737013190656",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:38:15 +0000 2020",
+      "id": 1218165637467512800,
+      "id_str": "1218165637467512833",
+      "text": "@mato_chu Вооот)))) пасиба)))\nЯ не против здоровой дискуссии) давай, лучше о технологиях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218164057582133200,
+      "in_reply_to_status_id_str": "1218164057582133249",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:42:32 +0000 2020",
+      "id": 1218166718180339700,
+      "id_str": "1218166718180339713",
+      "text": "Вот, представим, что я вообще ничего не знаю, про оба клиента. Начнем с возможностей Apollo и Relay Modern.\nХммм...… https://t.co/qKPg2Gq2T8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qKPg2Gq2T8",
+            "expanded_url": "https://twitter.com/i/web/status/1218166718180339713",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217735750441193500,
+      "in_reply_to_status_id_str": "1217735750441193472",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:49:58 +0000 2020",
+      "id": 1218168588143644700,
+      "id_str": "1218168588143644674",
+      "text": "@blia лайк по первому предложению)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blia",
+            "name": "420ч идшф",
+            "id": 11051452,
+            "id_str": "11051452",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218168337420767200,
+      "in_reply_to_status_id_str": "1218168337420767236",
+      "in_reply_to_user_id": 11051452,
+      "in_reply_to_user_id_str": "11051452",
+      "in_reply_to_screen_name": "blia",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:51:57 +0000 2020",
+      "id": 1218169087005724700,
+      "id_str": "1218169087005724672",
+      "text": "@blia Вместе с тем, аполовцы дали возможность для GraphQL получить большее распространение) За что им низкий поклон)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blia",
+            "name": "420ч идшф",
+            "id": 11051452,
+            "id_str": "11051452",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218168337420767200,
+      "in_reply_to_status_id_str": "1218168337420767236",
+      "in_reply_to_user_id": 11051452,
+      "in_reply_to_user_id_str": "11051452",
+      "in_reply_to_screen_name": "blia",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:57:43 +0000 2020",
+      "id": 1218170538771779600,
+      "id_str": "1218170538771779584",
+      "text": "@_zigi @mato_chu Провокации обхожу стороной, извини) Не стоит обращать внимание на провокационные вопросы, обоснова… https://t.co/duVDSFN7rb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_zigi",
+            "name": "Igor Zinoviev",
+            "id": 42945204,
+            "id_str": "42945204",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              7,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/duVDSFN7rb",
+            "expanded_url": "https://twitter.com/i/web/status/1218170538771779584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218154137940103200,
+      "in_reply_to_status_id_str": "1218154137940103168",
+      "in_reply_to_user_id": 42945204,
+      "in_reply_to_user_id_str": "42945204",
+      "in_reply_to_screen_name": "_zigi",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 13:59:26 +0000 2020",
+      "id": 1218170968365043700,
+      "id_str": "1218170968365043712",
+      "text": "@AnonovVaasya @mato_chu увидел лишь эмоции моего оппонента, и не более того.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AnonovVaasya",
+            "name": "Вася Анонов",
+            "id": 1185868659069243400,
+            "id_str": "1185868659069243392",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218170509994741800,
+      "in_reply_to_status_id_str": "1218170509994741760",
+      "in_reply_to_user_id": 1185868659069243400,
+      "in_reply_to_user_id_str": "1185868659069243392",
+      "in_reply_to_screen_name": "AnonovVaasya",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 14:09:25 +0000 2020",
+      "id": 1218173484758700000,
+      "id_str": "1218173484758700032",
+      "text": "@davert @AnonovVaasya @mato_chu Неее, я и не хотел все свести к этому. Ребят, возвращаемся в тему обсуждения, пожалуйста",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "davert",
+            "name": "davert",
+            "id": 17285085,
+            "id_str": "17285085",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "AnonovVaasya",
+            "name": "Вася Анонов",
+            "id": 1185868659069243400,
+            "id_str": "1185868659069243392",
+            "indices": [
+              8,
+              21
+            ]
+          },
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              22,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218172113758171100,
+      "in_reply_to_status_id_str": "1218172113758171136",
+      "in_reply_to_user_id": 17285085,
+      "in_reply_to_user_id_str": "17285085",
+      "in_reply_to_screen_name": "davert",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 14:44:59 +0000 2020",
+      "id": 1218182432702320600,
+      "id_str": "1218182432702320642",
+      "text": "@mato_chu Вообще, хорошо, что ты с Украины. Мой вопрос - не провокация. Относительно Украины был не единичный случа… https://t.co/tIFhmen1GG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tIFhmen1GG",
+            "expanded_url": "https://twitter.com/i/web/status/1218182432702320642",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218166285714043000,
+      "in_reply_to_status_id_str": "1218166285714042880",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 15:02:10 +0000 2020",
+      "id": 1218186757067497500,
+      "id_str": "1218186757067497485",
+      "text": "@mato_chu Ок, это проблема, серьезно. Идет подмена, жуткая подмена, информационный шум и хейтинг известных брендов.… https://t.co/BLpPHxYmfj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BLpPHxYmfj",
+            "expanded_url": "https://twitter.com/i/web/status/1218186757067497485",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218185085880537000,
+      "in_reply_to_status_id_str": "1218185085880537091",
+      "in_reply_to_user_id": 73635119,
+      "in_reply_to_user_id_str": "73635119",
+      "in_reply_to_screen_name": "mato_chu",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 17 18:34:59 +0000 2020",
+      "id": 1218240313581625300,
+      "id_str": "1218240313581625349",
+      "text": "@yuritkachenko @mato_chu не стоит фразы вырывать из контекста. Не было пренебрежения",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yuritkachenko",
+            "name": "Yuri Tkachenko",
+            "id": 31131087,
+            "id_str": "31131087",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "mato_chu",
+            "name": "Все нормально (ніт)",
+            "id": 73635119,
+            "id_str": "73635119",
+            "indices": [
+              15,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1218186974617620500,
+      "in_reply_to_status_id_str": "1218186974617620480",
+      "in_reply_to_user_id": 31131087,
+      "in_reply_to_user_id_str": "31131087",
+      "in_reply_to_screen_name": "yuritkachenko",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
