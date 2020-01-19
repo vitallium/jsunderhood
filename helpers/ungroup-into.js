@@ -1,9 +1,5 @@
-import { pipe, toPairs, map, zipObj } from 'ramda';
+const { pipe, toPairs, map, zipObj } = require('ramda');
 
-const ungroupInto = (first, second) =>
-  pipe(
-    toPairs,
-    map(zipObj([first, second])),
-  );
+const ungroupInto = (first, second) => pipe(toPairs, map(zipObj([first, second])));
 
-export default ungroupInto;
+module.exports = ungroupInto;

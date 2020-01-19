@@ -1,5 +1,5 @@
-import moment from 'moment';
-import {
+const moment = require('moment');
+const {
   pipe,
   filter,
   groupBy,
@@ -19,17 +19,17 @@ import {
   toUpper,
   tail,
   concat,
-} from 'ramda';
-import numd from 'numd';
-import renderTweet from 'tweet.md';
-import { html } from 'commonmark-helpers';
-import unidecode from 'unidecode';
-import trimTag from 'trim-html-tag';
-import { parse } from 'url';
-import ungroupInto from './ungroup-into';
-import getLinks from './get-links';
-import authors from '../dump';
-import { underhood } from '../.underhoodrc.json';
+} = require('ramda');
+const numd = require('numd');
+const renderTweet = require('tweet.md');
+const { html } = require('commonmark-helpers');
+const unidecode = require('unidecode');
+const trimTag = require('trim-html-tag');
+const { parse } = require('url');
+const ungroupInto = require('./ungroup-into');
+const getLinks = require('./get-links');
+const authors = require('../dump');
+const { underhood } = require('../.underhoodrc.json');
 
 const getQuotedUser = pipe(
   path(['entities', 'urls']),
@@ -37,12 +37,7 @@ const getQuotedUser = pipe(
   map(replace('/mobile.twitter.com/', '/twitter.com/')),
   filter(url => parse(url).host === 'twitter.com'),
   head,
-  pipe(
-    parse,
-    prop('path'),
-    split('/'),
-    nth(1),
-  ),
+  pipe(parse, prop('path'), split('/'), nth(1)),
 );
 
 moment.locale('ru');
@@ -65,26 +60,15 @@ const prevAuthor = author => {
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
-const capitalize = converge(concat, [
-  pipe(
-    head,
-    toUpper,
-  ),
-  tail,
-]);
+const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => item.text[0] !== '@' || item.text.indexOf(`@${underhood}`) === 0;
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(
-    pipe(
-      prop('created_at'),
-      weekday,
-    ),
-  ),
+  groupBy(pipe(prop('created_at'), weekday)),
   ungroupInto('weekday', 'tweets'),
 );
 
-export default {
+module.exports = {
   d,
   prepareTweets,
   capitalize,
@@ -93,11 +77,7 @@ export default {
   unidecode,
   prevAuthor,
   nextAuthor,
-  render: pipe(
-    renderTweet,
-    html,
-    trimTag,
-  ),
+  render: pipe(renderTweet, html, trimTag),
   tweetTime,
   tweetLink,
   getLinks,

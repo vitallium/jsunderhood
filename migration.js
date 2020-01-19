@@ -1,13 +1,13 @@
-import getInfo from 'get-twitter-info';
-import tokens from 'twitter-tokens';
-import { reverse, merge } from 'ramda';
-import { remove, outputJSON } from 'fs-extra';
-import rimraf from 'rimraf';
-import authors from './authors';
-import getAuthorArea from './helpers/get-author-area';
-import saveAuthorArea from './helpers/save-author-area';
-import log from './helpers/log';
-import saveMedia from './helpers/save-media';
+const getInfo = require('get-twitter-info');
+const tokens = require('twitter-tokens');
+const { reverse, merge } = require('ramda');
+const { remove, outputJSON } = require('fs-extra');
+const rimraf = require('rimraf');
+const authors = require('./authors');
+const getAuthorArea = require('./helpers/get-author-area');
+const saveAuthorArea = require('./helpers/save-author-area');
+const log = require('./helpers/log');
+const saveMedia = require('./helpers/save-media');
 
 const spaces = 2;
 

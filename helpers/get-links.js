@@ -1,5 +1,5 @@
-import tweetLinks from 'tweet-links';
-import {
+const tweetLinks = require('tweet-links');
+const {
   values,
   sortBy,
   prop,
@@ -15,43 +15,18 @@ import {
   filter,
   flatten,
   uniq,
-} from 'ramda';
-import { parse, format } from 'url';
-import ungroupInto from './ungroup-into';
+} = require('ramda');
+const { parse, format } = require('url');
+const ungroupInto = require('./ungroup-into');
 
 const notTwitter = url => url.host !== 'twitter.com';
-const obj2arr = pipe(
-  toPairs,
-  map(apply(objOf)),
-);
+const obj2arr = pipe(toPairs, map(apply(objOf)));
 
-const extractLinks = pipe(
-  map(tweetLinks),
-  flatten,
-  uniq,
-);
+const extractLinks = pipe(map(tweetLinks), flatten, uniq);
 
-const filterTwitterLinks = pipe(
-  map(parse),
-  filter(notTwitter),
-  map(format),
-);
+const filterTwitterLinks = pipe(map(parse), filter(notTwitter), map(format));
 
-const groupByHost = pipe(
-  groupBy(
-    pipe(
-      parse,
-      prop('host'),
-    ),
-  ),
-  obj2arr,
-  map(
-    pipe(
-      values,
-      flatten,
-    ),
-  ),
-);
+const groupByHost = pipe(groupBy(pipe(parse, prop('host'))), obj2arr, map(pipe(values, flatten)));
 
 const moveMinorsToOther = pipe(
   groupBy(item => (length(item) < 5 ? 'other' : parse(head(item)).host)),
@@ -69,4 +44,4 @@ const getLinks = pipe(
   moveOtherToEnd,
 );
 
-export default getLinks;
+module.exports = getLinks;

@@ -1,17 +1,17 @@
-import { join as unCurriedJoin } from 'path';
-import { fromFileSync as unCurriedHash } from 'hasha';
-import { pipe, memoize, curryN, __ as _ } from 'ramda';
+const p = require('path');
+const hasha = require('hasha');
+const { pipe, memoize, curryN, __ } = require('ramda');
 
-const join = curryN(3, unCurriedJoin);
-const hash = curryN(2, unCurriedHash);
+const join = curryN(3, p.join);
+const hash = curryN(2, hasha.fromFileSync);
 
 const hashPath = pipe(
   join(process.cwd(), 'dist'),
-  hash(_, {
+  hash(__, {
     algorithm: 'md5',
   }),
 );
 
 const bust = path => `${path}?${hashPath(path)}`;
 
-export default memoize(bust);
+module.exports = memoize(bust);

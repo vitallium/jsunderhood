@@ -1,6 +1,6 @@
-import profileMedia from 'twitter-profile-media';
-import { ensureDirSync } from 'fs-extra';
-import save from './save';
+const profileMedia = require('twitter-profile-media');
+const { ensureDirSync } = require('fs-extra');
+const save = require('./save');
 
 const saveMedia = (tokens, underhood, authorId, cb) => {
   profileMedia(tokens, underhood)
@@ -15,4 +15,4 @@ const saveMedia = (tokens, underhood, authorId, cb) => {
     .catch(err => console.error(err));
 };
 
-export default saveMedia;
+module.exports = saveMedia;

@@ -1,16 +1,9 @@
-import dotenv from 'dotenv';
-
-dotenv.config();
-
-import log from './helpers/log';
-import { outputFile } from 'fs-extra';
-import { isEmpty, concat, reverse, last, dissoc, map, head } from 'ramda';
-import moment from 'moment';
-import dec from 'bignum-dec';
-import { sync as rm } from 'rimraf';
-
-import { underhood } from './.underhoodrc.json';
-import authors from './authors';
+require('dotenv').config();
+const { outputFile } = require('fs-extra');
+const { isEmpty, concat, reverse, last, dissoc, map, head } = require('ramda');
+const moment = require('moment');
+const dec = require('bignum-dec');
+const { sync } = require('rimraf');
 
 const tokens = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
@@ -19,15 +12,18 @@ const tokens = {
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 };
-import getTweets from 'get-tweets';
-import getInfo from 'get-twitter-info';
-import saveMedia from './helpers/save-media';
-import getFollowers from 'get-twitter-followers';
-// import twitterMentions from 'twitter-mentions';
+const getTweets = require('get-tweets');
+const getInfo = require('get-twitter-info');
+const getFollowers = require('get-twitter-followers');
+const log = require('./helpers/log');
+const { underhood } = require('./.underhoodrc.json');
+const authors = require('./authors');
+const saveMedia = require('./helpers/save-media');
+// const twitterMentions = require('twitter-mentions');
 
-import ensureFilesForFirstUpdate from './helpers/ensure-author-files';
-import getAuthorArea from './helpers/get-author-area';
-import saveAuthorArea from './helpers/save-author-area';
+const ensureFilesForFirstUpdate = require('./helpers/ensure-author-files');
+const getAuthorArea = require('./helpers/get-author-area');
+const saveAuthorArea = require('./helpers/save-author-area');
 
 const { authorId, first, username } = head(authors);
 
@@ -48,7 +44,7 @@ getInfo(tokens, underhood, (err, info) => {
   saveAuthorArea(authorId, 'info', info);
 });
 
-rm(`./dump/images/${username}*`);
+sync(`./dump/images/${username}*`);
 saveMedia(tokens, underhood, authorId, (err, media) => {
   if (err) throw err;
   saveAuthorArea(authorId, 'media', media);

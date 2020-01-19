@@ -1,37 +1,36 @@
-import rimraf from 'rimraf';
-import each from 'each-done';
-import express from 'express';
-import fs, { outputFile as output } from 'fs-extra';
-import { html } from 'commonmark-helpers';
-import numbers from 'typographic-numbers';
-import numd from 'numd';
-import RSS from 'rss';
-import { merge, pipe, prop, head, splitEvery } from 'ramda';
-import renderTweet from 'tweet.md';
-import autoprefixer from 'autoprefixer';
-import pcssImport from 'postcss-import';
-import pcssInitial from 'postcss-initial';
-import webpackStream from 'webpack-stream';
-import imagemin from 'gulp-imagemin';
+const rimraf = require('rimraf');
+const each = require('each-done');
+const express = require('express');
+const fs = require('fs');
+const { outputFile } = require('fs-extra');
+const { html } = require('commonmark-helpers');
+const numbers = require('typographic-numbers');
+const numd = require('numd');
+const RSS = require('rss');
+const { merge, pipe, prop, head, splitEvery } = require('ramda');
+const renderTweet = require('tweet.md');
+const autoprefixer = require('autoprefixer');
+const pcssImport = require('postcss-import');
+const pcssInitial = require('postcss-initial');
+const webpackStream = require('webpack-stream');
+const imagemin = require('gulp-imagemin');
+const gulp = require('gulp');
+const gulpPug = require('gulp-pug');
+const rename = require('gulp-rename');
+const watch = require('gulp-watch');
+const jimp = require('gulp-jimp');
+const postcss = require('gulp-postcss');
 
-import gulp from 'gulp';
-import gulpPug from 'gulp-pug';
-import rename from 'gulp-rename';
-import watch from 'gulp-watch';
-import { log } from 'gulp-util';
-import jimp from 'gulp-jimp';
-import postcss from 'gulp-postcss';
+const articleData = require('article-data');
+const getStats = require('./stats');
+const underhood = require('./.underhoodrc.json');
+const webpackConfig = require('./webpack.config');
 
-import articleData from 'article-data';
-import getStats from './stats';
-import underhood from './.underhoodrc.json';
-import webpackConfig from './webpack.config';
+const authorRender = require('./helpers/author-render');
+const bust = require('./helpers/bust');
+const lastUpdated = require('./helpers/last-updated');
 
-import authorRender from './helpers/author-render';
-import bust from './helpers/bust';
-import lastUpdated from './helpers/last-updated';
-
-import authors from './dump';
+const authors = require('./dump');
 
 const latestInfo = (head(authors) || {}).info;
 
@@ -202,7 +201,7 @@ gulp.task('rss', done => {
     });
   });
 
-  output(
+  outputFile(
     'dist/rss.xml',
     feed.xml({
       indent: true,
@@ -309,7 +308,9 @@ gulp.task('server', () => {
   const app = express();
   app.use(express.static('dist'));
   app.listen(4000);
-  log('Server is running on http://localhost:4000');
+
+  // eslint-disable-next-line no-console
+  console.log('Server is running on http://localhost:4000');
 });
 
 /**

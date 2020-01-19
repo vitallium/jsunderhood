@@ -1,8 +1,8 @@
-import stats from 'tweets-stats';
-import maxValues from 'max-values';
-import { merge } from 'ramda';
-import getGainedFollowers from './helpers/get-gained-followers';
-import getDiffFollowers from './helpers/get-diff-followers';
+const stats = require('tweets-stats');
+const maxValues = require('max-values');
+const { merge } = require('ramda');
+const getGainedFollowers = require('./helpers/get-gained-followers');
+const getDiffFollowers = require('./helpers/get-diff-followers');
 
 function getStatsPerAuthor(authors) {
   return authors
@@ -19,7 +19,7 @@ function getStatsPerAuthor(authors) {
     .map(author => merge(author, stats(author.tweets)));
 }
 
-export default function getStats(authors) {
+module.exports = function getStats(authors) {
   if (!authors || authors.length === 0) return;
 
   return maxValues(getStatsPerAuthor(authors), [
@@ -35,4 +35,4 @@ export default function getStats(authors) {
     'retweeted.total',
     'retweeted.average',
   ]);
-}
+};

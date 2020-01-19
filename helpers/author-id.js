@@ -1,4 +1,4 @@
-import R from 'ramda';
+const R = require('ramda');
 
 const filterUsernames = (username, acc) => R.filter(R.propEq('username', username), acc);
 
@@ -11,4 +11,4 @@ const reduceAuthorId = (acc, author) => {
 };
 
 // authorId :: [a] -> [b]
-export default R.reduceRight(reduceAuthorId, []);
+module.exports = R.reduceRight(reduceAuthorId, []);
