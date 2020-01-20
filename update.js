@@ -2,7 +2,7 @@ require('dotenv').config();
 const { outputFile } = require('fs-extra');
 const { isEmpty, concat, reverse, last, dissoc, map, head } = require('ramda');
 const moment = require('moment');
-const dec = require('bignum-dec');
+const { default: dec } = require('bignum-dec');
 const { sync } = require('rimraf');
 
 const tokens = {
@@ -12,7 +12,7 @@ const tokens = {
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 };
-const getTweets = require('get-tweets');
+const { default: getTweets } = require('get-tweets');
 const getInfo = require('get-twitter-info');
 const getFollowers = require('get-twitter-followers');
 const log = require('./helpers/log');
