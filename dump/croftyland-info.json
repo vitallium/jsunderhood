@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 6877,
+  "followers_count": 6878,
   "friends_count": 523,
   "listed_count": 235,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,46 +22,55 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35356,
+  "statuses_count": 35357,
   "lang": null,
   "status": {
-    "created_at": "Sat Jan 25 20:58:51 +0000 2020",
-    "id": 1221175622900252700,
-    "id_str": "1221175622900252672",
-    "text": "@Murenka3 Совершено верно:)",
-    "truncated": false,
+    "created_at": "Sun Jan 26 20:59:40 +0000 2020",
+    "id": 1221538216903430100,
+    "id_str": "1221538216903430146",
+    "text": "Доброго вечера,\n\nВесь день готовила подарок для вас. \n\nhttps://t.co/fn9aeT3g9G\n\nЗдесь практически вся моя коллекция… https://t.co/98gxIXGqWj",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Murenka3",
-          "name": "𝕄𝕦𝕣𝕖𝕟𝕜𝕒",
-          "id": 1019307194733531100,
-          "id_str": "1019307194733531136",
+          "url": "https://t.co/fn9aeT3g9G",
+          "expanded_url": "https://bit.ly/2tIGRvB",
+          "display_url": "bit.ly/2tIGRvB",
           "indices": [
-            0,
-            9
+            55,
+            78
+          ]
+        },
+        {
+          "url": "https://t.co/98gxIXGqWj",
+          "expanded_url": "https://twitter.com/i/web/status/1221538216903430146",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1221174954814775300,
-    "in_reply_to_status_id_str": "1221174954814775297",
-    "in_reply_to_user_id": 1019307194733531100,
-    "in_reply_to_user_id_str": "1019307194733531136",
-    "in_reply_to_screen_name": "Murenka3",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 7,
+    "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
