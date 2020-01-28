@@ -13,8 +13,8 @@
     }
   },
   "protected": false,
-  "followers_count": 6881,
-  "friends_count": 523,
+  "followers_count": 6889,
+  "friends_count": 524,
   "listed_count": 235,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 3216,
@@ -22,46 +22,126 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35378,
+  "statuses_count": 35382,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 27 11:33:48 +0000 2020",
-    "id": 1221758200841674800,
-    "id_str": "1221758200841674752",
-    "text": "Но 2.0 превнес наиважнейшую фичу: nullable types. Возможность сказать: \"Вот здесь будет точно string/number/какой-т… https://t.co/JEEhPpqqsb",
-    "truncated": true,
+    "created_at": "Mon Jan 27 12:54:16 +0000 2020",
+    "id": 1221778448143802400,
+    "id_str": "1221778448143802370",
+    "text": "RT @DanVx77: @musuk @jsunderhood тоже примерно в те годы исползовал angularjs + typescript. не сказал бы что было как-то больно использоват…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/JEEhPpqqsb",
-          "expanded_url": "https://twitter.com/i/web/status/1221758200841674752",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "DanVx77",
+          "name": "Dan",
+          "id": 1155608457179009000,
+          "id_str": "1155608457179009025",
           "indices": [
-            117,
-            140
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "musuk",
+          "name": "musuk",
+          "id": 19105647,
+          "id_str": "19105647",
+          "indices": [
+            13,
+            19
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            20,
+            32
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1221754774971912200,
-    "in_reply_to_status_id_str": "1221754774971912193",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 27 12:53:15 +0000 2020",
+      "id": 1221778194044530700,
+      "id_str": "1221778194044530689",
+      "text": "@musuk @jsunderhood тоже примерно в те годы исползовал angularjs + typescript. не сказал бы что было как-то больно… https://t.co/HLIbAuFlTc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              7,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HLIbAuFlTc",
+            "expanded_url": "https://twitter.com/i/web/status/1221778194044530689",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1221754275887566800,
+      "in_reply_to_status_id_str": "1221754275887566849",
+      "in_reply_to_user_id": 19105647,
+      "in_reply_to_user_id_str": "19105647",
+      "in_reply_to_screen_name": "musuk",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
