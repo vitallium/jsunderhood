@@ -37,7 +37,12 @@ const getQuotedUser = pipe(
   map(replace('/mobile.twitter.com/', '/twitter.com/')),
   filter(url => parse(url).host === 'twitter.com'),
   head,
-  pipe(parse, prop('path'), split('/'), nth(1)),
+  pipe(
+    parse,
+    prop('path'),
+    split('/'),
+    nth(1),
+  ),
 );
 
 moment.locale('ru');
@@ -60,11 +65,24 @@ const prevAuthor = author => {
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
-const capitalize = converge(concat, [pipe(head, toUpper), tail]);
-const filterTimeline = item => item.text[0] !== '@' || item.text.indexOf(`@${underhood}`) === 0;
+const tweetText = tweet => (tweet.full_text ? tweet.full_text : tweet.text);
+const capitalize = converge(concat, [
+  pipe(
+    head,
+    toUpper,
+  ),
+  tail,
+]);
+const filterTimeline = item =>
+  tweetText(item)[0] !== '@' || tweetText(item).indexOf(`@${underhood}`) === 0;
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), weekday)),
+  groupBy(
+    pipe(
+      prop('created_at'),
+      weekday,
+    ),
+  ),
   ungroupInto('weekday', 'tweets'),
 );
 
@@ -77,7 +95,11 @@ module.exports = {
   unidecode,
   prevAuthor,
   nextAuthor,
-  render: pipe(renderTweet, html, trimTag),
+  render: pipe(
+    renderTweet,
+    html,
+    trimTag,
+  ),
   tweetTime,
   tweetLink,
   getLinks,

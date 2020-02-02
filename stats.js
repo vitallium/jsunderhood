@@ -1,6 +1,6 @@
-const stats = require('tweets-stats');
 const maxValues = require('max-values');
 const { merge } = require('ramda');
+const stats = require('./helpers/tweets-stats');
 const getGainedFollowers = require('./helpers/get-gained-followers');
 const getDiffFollowers = require('./helpers/get-diff-followers');
 

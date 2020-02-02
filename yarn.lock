@@ -9253,22 +9253,17 @@ tweet-links@^1.0.0:
   resolved "https://registry.yarnpkg.com/tweet-links/-/tweet-links-1.0.1.tgz#a555243b2df07ac28e1a7ab82dda110af223ccb8"
   integrity sha1-pVUkOy3wesKOGnq4LdoRCvIjzLg=
 
-tweet.md@^1.5.0:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-1.5.2.tgz#a72be82375302e7d71a5ca0073b2add145a8e59f"
-  integrity sha1-pyvoI3UwLn1xpcoAc7Kt0UWo5Z8=
+tweet.md@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-2.2.1.tgz#a6d5ca296dd917adc44c970e3cd53a6331f0130d"
+  integrity sha512-xv6x2lE4Z/9ENW+8O8wiK97wBxEHG5LHmttn6MJvzXhMDjqI62LkhjHFPWH6y/l14KeFmYCNX/OKeqcZgrwn7Q==
+  dependencies:
+    emoji-regex "^7.0.1"
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
-
-tweets-stats@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/tweets-stats/-/tweets-stats-1.0.1.tgz#bcd6d71253bcb3a4e07e200a1bcfeb714f5bc063"
-  integrity sha1-vNbXElO8s6TgfiAKG8/rcU9bwGM=
-  dependencies:
-    ramda "^0.19.1"
 
 twit@^2.1.0, twit@^2.1.1:
   version "2.2.11"

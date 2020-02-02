@@ -5,8 +5,8 @@ block meta
   meta(name="og:url"          content=site.site_url + author.username + "/")
   if (author.media && author.media.image)
     meta(name="og:image"        content=site.site_url + author.media.image.replace('./', ''))
-  meta(property="description" content=author.tweets[0].text)
-  meta(name="og:description"  content=author.tweets[0].text)
+  meta(property="description" content=author.tweets[0].full_text ? author.tweets[0].full_text : author.tweets[0].text)
+  meta(name="og:description"  content=author.tweets[0].full_text ? author.tweets[0].full_text : author.tweets[0].text)
 
 block headerTitle
   a(href="/")= underhood.underhood
