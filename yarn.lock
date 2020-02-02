@@ -3072,6 +3072,11 @@ emoji-regex@^7.0.1:
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-7.0.3.tgz#933a04052860c85e83c122479c4748a8e4c72156"
   integrity sha512-CwBLREIQ7LvYFB0WyRvwhq5N5qPhc6PMjD6bYggFlI5YyDgl+0vxq5VHbMOFqLg7hfWzmu8T5Z1QofhmTIhItA==
 
+emoji-regex@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-8.0.0.tgz#e818fd69ce5ccfcb404594f842963bf53164cc37"
+  integrity sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==
+
 emojis-list@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-2.1.0.tgz#4daa4d9db00f9819880c79fa457ae5b09a1fd389"
@@ -9253,12 +9258,12 @@ tweet-links@^1.0.0:
   resolved "https://registry.yarnpkg.com/tweet-links/-/tweet-links-1.0.1.tgz#a555243b2df07ac28e1a7ab82dda110af223ccb8"
   integrity sha1-pVUkOy3wesKOGnq4LdoRCvIjzLg=
 
-tweet.md@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-2.2.1.tgz#a6d5ca296dd917adc44c970e3cd53a6331f0130d"
-  integrity sha512-xv6x2lE4Z/9ENW+8O8wiK97wBxEHG5LHmttn6MJvzXhMDjqI62LkhjHFPWH6y/l14KeFmYCNX/OKeqcZgrwn7Q==
+tweet.md@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-3.0.0.tgz#cf96d81ed842847d521fa84134c8addede95b24f"
+  integrity sha512-hG9OYfFJ+U+6/iIa+5A92Gffl2bnHgCAyyPcAbniimzJaJdrQZLZkcoR1SZq4/Jg51BEiOTXt3NM9mG20hBLLQ==
   dependencies:
-    emoji-regex "^7.0.1"
+    emoji-regex "^8.0.0"
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
