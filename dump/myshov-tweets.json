@@ -1,0 +1,90 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 03 09:51:14 +0000 2020",
+      "id": 1224269103977959400,
+      "id_str": "1224269103977959424",
+      "text": "Всем привет! На этой неделе с вами будет Мышов Саша. Большинству я знаком как ведущий телеграм-канала Defront. Ещё… https://t.co/7b8pcPjfQk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7b8pcPjfQk",
+            "expanded_url": "https://twitter.com/i/web/status/1224269103977959424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 09:53:10 +0000 2020",
+      "id": 1224269587807658000,
+      "id_str": "1224269587807657984",
+      "text": "Темы этой недели:\n1. Ведение Defront'а и про жизнь в телеграме\n2. Исторические факты про JS\n3. Кодмоды и AST-инстру… https://t.co/hbDRPdIdmD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hbDRPdIdmD",
+            "expanded_url": "https://twitter.com/i/web/status/1224269587807657984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224269103977959400,
+      "in_reply_to_status_id_str": "1224269103977959424",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
