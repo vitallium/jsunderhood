@@ -13,66 +13,65 @@
     }
   },
   "protected": false,
-  "followers_count": 6924,
+  "followers_count": 6929,
   "friends_count": 524,
-  "listed_count": 235,
+  "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3244,
+  "favourites_count": 3248,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35676,
+  "statuses_count": 35722,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 01 21:29:48 +0000 2020",
-    "id": 1223720125980954600,
-    "id_str": "1223720125980954627",
-    "text": "Сам руками не трогал, но coq и idris это конечно круто\n\nКому интересно про типы\nhttps://t.co/zPFBFYC1cW… https://t.co/NEksMq4DID",
+    "created_at": "Sun Feb 02 19:30:18 +0000 2020",
+    "id": 1224052442310107100,
+    "id_str": "1224052442310107138",
+    "text": "@goodhoopoe Дело в том что параметры то позиционные, а не именованные, и в сигнатуру они не входят\n\nВот завезут в ж… https://t.co/nPFZuMgVBc",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "goodhoopoe",
+          "name": "Ilya Blinov",
+          "id": 492108844,
+          "id_str": "492108844",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/zPFBFYC1cW",
-          "expanded_url": "https://youtu.be/nFtO6419A5k",
-          "display_url": "youtu.be/nFtO6419A5k",
-          "indices": [
-            80,
-            103
-          ]
-        },
-        {
-          "url": "https://t.co/NEksMq4DID",
-          "expanded_url": "https://twitter.com/i/web/status/1223720125980954627",
+          "url": "https://t.co/nPFZuMgVBc",
+          "expanded_url": "https://twitter.com/i/web/status/1224052442310107138",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            105,
-            128
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1223312531109879800,
+    "in_reply_to_status_id_str": "1223312531109879808",
+    "in_reply_to_user_id": 492108844,
+    "in_reply_to_user_id_str": "492108844",
+    "in_reply_to_screen_name": "goodhoopoe",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1223717952182157300,
-    "quoted_status_id_str": "1223717952182157313",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
