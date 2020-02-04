@@ -13,52 +13,53 @@
     }
   },
   "protected": false,
-  "followers_count": 6936,
-  "friends_count": 524,
+  "followers_count": 6954,
+  "friends_count": 527,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3249,
+  "favourites_count": 3256,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35724,
+  "statuses_count": 35758,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 03 09:53:10 +0000 2020",
-    "id": 1224269587807658000,
-    "id_str": "1224269587807657984",
-    "text": "Темы этой недели:\n1. Ведение Defront'а и про жизнь в телеграме\n2. Исторические факты про JS\n3. Кодмоды и AST-инстру… https://t.co/hbDRPdIdmD",
-    "truncated": true,
+    "created_at": "Mon Feb 03 18:48:53 +0000 2020",
+    "id": 1224404407577649200,
+    "id_str": "1224404407577649152",
+    "text": "@ODrapeza Интересная штука, кто-то мне про него рассказывал. Надо будет потыкать.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/hbDRPdIdmD",
-          "expanded_url": "https://twitter.com/i/web/status/1224269587807657984",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "ODrapeza",
+          "name": "Oleg Drapeza",
+          "id": 1108807498595745800,
+          "id_str": "1108807498595745797",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1224269103977959400,
-    "in_reply_to_status_id_str": "1224269103977959424",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1224402779948626000,
+    "in_reply_to_status_id_str": "1224402779948625930",
+    "in_reply_to_user_id": 1108807498595745800,
+    "in_reply_to_user_id_str": "1108807498595745797",
+    "in_reply_to_screen_name": "ODrapeza",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 19,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"

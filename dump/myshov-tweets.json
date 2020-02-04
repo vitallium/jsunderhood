@@ -85,6 +85,2337 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:51:59 +0000 2020",
+      "id": 1224284390739542000,
+      "id_str": "1224284390739542016",
+      "text": "Сегодня хочу рассказать про Defront (https://t.co/kGbphbPG75). Это телеграм-канал про web и фронтенд-разработку.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kGbphbPG75",
+            "expanded_url": "https://t.me/defront",
+            "display_url": "t.me/defront",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:52:18 +0000 2020",
+      "id": 1224284471760953300,
+      "id_str": "1224284471760953352",
+      "text": "Концепция канала — небольшие саммари и мысли по поводу прочитанных статей, просмотренных докладов, новости из мира… https://t.co/gLPXk6FBZG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gLPXk6FBZG",
+            "expanded_url": "https://twitter.com/i/web/status/1224284471760953352",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284390739542000,
+      "in_reply_to_status_id_str": "1224284390739542016",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:52:43 +0000 2020",
+      "id": 1224284573485408300,
+      "id_str": "1224284573485408257",
+      "text": "Недавно у канала был первый день рождения (https://t.co/HhKVOEFPYj). Прошедший год был очень крутым. Благодаря кана… https://t.co/IGfnB7ULo6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HhKVOEFPYj",
+            "expanded_url": "https://twitter.com/myshov/status/1222444224571899905?s=20",
+            "display_url": "twitter.com/myshov/status/…",
+            "indices": [
+              43,
+              66
+            ]
+          },
+          {
+            "url": "https://t.co/IGfnB7ULo6",
+            "expanded_url": "https://twitter.com/i/web/status/1224284573485408257",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284471760953300,
+      "in_reply_to_status_id_str": "1224284471760953352",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1222444224571900000,
+      "quoted_status_id_str": "1222444224571899905",
+      "quoted_status": {
+        "created_at": "Wed Jan 29 08:59:49 +0000 2020",
+        "id": 1222444224571900000,
+        "id_str": "1222444224571899905",
+        "text": "Сегодня день рождения у Defront! Первый год прошёл очень круто — каждый день выходил минимум один пост (не пропусти… https://t.co/xRpKRZLlUN",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/xRpKRZLlUN",
+              "expanded_url": "https://twitter.com/i/web/status/1222444224571899905",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 168906977,
+          "id_str": "168906977"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 50,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:53:06 +0000 2020",
+      "id": 1224284669992165400,
+      "id_str": "1224284669992165377",
+      "text": "У меня нет какого-то образования в области журналистики Пишу в первую очередь так, чтобы самому было интересно почитать получившийся текст.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284573485408300,
+      "in_reply_to_status_id_str": "1224284573485408257",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:53:45 +0000 2020",
+      "id": 1224284834694156300,
+      "id_str": "1224284834694156288",
+      "text": "Как создаётся типичный пост. Ищу интересные ссылки в твиттере или телеграм-каналах. Собираю заинтересовавшие ссылки… https://t.co/Zw3EG38ipq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Zw3EG38ipq",
+            "expanded_url": "https://twitter.com/i/web/status/1224284834694156288",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284669992165400,
+      "in_reply_to_status_id_str": "1224284669992165377",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:54:06 +0000 2020",
+      "id": 1224284922845843500,
+      "id_str": "1224284922845843456",
+      "text": "Затем выбираю из вороха ссылок одну статью и начинаю читать. Если что-то непонятно, дополнительно ресёрчу. Рекорд н… https://t.co/tAFzWTNW9W",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tAFzWTNW9W",
+            "expanded_url": "https://twitter.com/i/web/status/1224284922845843456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284834694156300,
+      "in_reply_to_status_id_str": "1224284834694156288",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:54:26 +0000 2020",
+      "id": 1224285007549751300,
+      "id_str": "1224285007549751296",
+      "text": "Это может выглядеть немного странно, так как саммари в канале обычно занимает два-три абзаца, которые можно прочитать за одну минуту.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224284922845843500,
+      "in_reply_to_status_id_str": "1224284922845843456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:55:00 +0000 2020",
+      "id": 1224285151175348200,
+      "id_str": "1224285151175348226",
+      "text": "Кто-то сказал такую фразу (это не точная цитата, пишу как помню): \"Для подготовки часового выступления мне достаточ… https://t.co/gU4OXow7hd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gU4OXow7hd",
+            "expanded_url": "https://twitter.com/i/web/status/1224285151175348226",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224285007549751300,
+      "in_reply_to_status_id_str": "1224285007549751296",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:55:42 +0000 2020",
+      "id": 1224285327684243500,
+      "id_str": "1224285327684243456",
+      "text": "Эта фраза очень хорошо отражает мой творческий процесс. Пытаюсь оптимизировать весь процесс до часа — полчаса читаю… https://t.co/1IK3wV0ONw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1IK3wV0ONw",
+            "expanded_url": "https://twitter.com/i/web/status/1224285327684243456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224285151175348200,
+      "in_reply_to_status_id_str": "1224285151175348226",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:56:24 +0000 2020",
+      "id": 1224285501072511000,
+      "id_str": "1224285501072510976",
+      "text": "Пишу посты так, чтобы даже в этом одном-двух абзацах была какая-то ценная мысль или информация, которая останется с… https://t.co/ULgcDckPgG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ULgcDckPgG",
+            "expanded_url": "https://twitter.com/i/web/status/1224285501072510976",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224285327684243500,
+      "in_reply_to_status_id_str": "1224285327684243456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:57:53 +0000 2020",
+      "id": 1224285874814406700,
+      "id_str": "1224285874814406658",
+      "text": "Пару раз получалось забавно, когда всю статью умещал в два абзаца. И тут какое-то двоякое ощущение, так как в посте… https://t.co/kAENbdXiww",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kAENbdXiww",
+            "expanded_url": "https://twitter.com/i/web/status/1224285874814406658",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224285501072511000,
+      "in_reply_to_status_id_str": "1224285501072510976",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:58:23 +0000 2020",
+      "id": 1224286002208034800,
+      "id_str": "1224286002208034817",
+      "text": "В итоге решил, что честнее всего оставить суждение по этому поводу читателям канала. Всё равно в каждом посте есть… https://t.co/pkYLW7ACot",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pkYLW7ACot",
+            "expanded_url": "https://twitter.com/i/web/status/1224286002208034817",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224285874814406700,
+      "in_reply_to_status_id_str": "1224285874814406658",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:58:44 +0000 2020",
+      "id": 1224286089625645000,
+      "id_str": "1224286089625645062",
+      "text": "Главное, что в выигрыше остаются все: про статью оригинального автора узнают несколько тысяч человек, а читатели по… https://t.co/UYp1F1OuE8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UYp1F1OuE8",
+            "expanded_url": "https://twitter.com/i/web/status/1224286089625645062",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224286002208034800,
+      "in_reply_to_status_id_str": "1224286002208034817",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:59:16 +0000 2020",
+      "id": 1224286225047195600,
+      "id_str": "1224286225047195649",
+      "text": "И тут я подхожу к самому интересному моменту. Что считать самым важным контентом в статье? Я до сих пор не знаю. Об… https://t.co/fgsiPQRs61",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fgsiPQRs61",
+            "expanded_url": "https://twitter.com/i/web/status/1224286225047195649",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224286089625645000,
+      "in_reply_to_status_id_str": "1224286089625645062",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 10:59:31 +0000 2020",
+      "id": 1224286285965095000,
+      "id_str": "1224286285965094915",
+      "text": "Ещё одна очень важная категория постов — новинки в браузерах, node.js и т.п. Тут иногда приходится зарываться с гол… https://t.co/PcnxO6uioH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PcnxO6uioH",
+            "expanded_url": "https://twitter.com/i/web/status/1224286285965094915",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224286225047195600,
+      "in_reply_to_status_id_str": "1224286225047195649",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:04:07 +0000 2020",
+      "id": 1224287442817245200,
+      "id_str": "1224287442817245184",
+      "text": "Иногда какая-то тема вызывает неподдельный интерес. Тогда начинаю экспериментировать, чтобы поделиться своим опытом с другими.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224286285965095000,
+      "in_reply_to_status_id_str": "1224286285965094915",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:10:55 +0000 2020",
+      "id": 1224289155129147400,
+      "id_str": "1224289155129147397",
+      "text": "Иногда какая-то тема требует более глубокого копания (например, не работал ранее с какой-то технологией), чтобы пол… https://t.co/ySwidKlyqM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ySwidKlyqM",
+            "expanded_url": "https://twitter.com/i/web/status/1224289155129147397",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224287442817245200,
+      "in_reply_to_status_id_str": "1224287442817245184",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:13:48 +0000 2020",
+      "id": 1224289881129734100,
+      "id_str": "1224289881129734145",
+      "text": "Бывает так, что думаю: \"Вот завтра напишу пост по этой статье\". Завтра наступает. Читаю. Понимаю, что статья не ого… https://t.co/8VxaIMImvj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8VxaIMImvj",
+            "expanded_url": "https://twitter.com/i/web/status/1224289881129734145",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224289155129147400,
+      "in_reply_to_status_id_str": "1224289155129147397",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:38:29 +0000 2020",
+      "id": 1224296092768133000,
+      "id_str": "1224296092768133121",
+      "text": "Давайте перейдём к теме популяризации канала. Каких-то огромных сил и денег в продвижение я не вкладывал, считаю, ч… https://t.co/Bw705WIYLD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Bw705WIYLD",
+            "expanded_url": "https://twitter.com/i/web/status/1224296092768133121",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224289881129734100,
+      "in_reply_to_status_id_str": "1224289881129734145",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:38:47 +0000 2020",
+      "id": 1224296166365573000,
+      "id_str": "1224296166365573121",
+      "text": "Был забавный случай, когда я рассказывал про канал новому знакомому. А он, не думая, выпалил: \"Да у тебя там одни б… https://t.co/DKlpkiNMDt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DKlpkiNMDt",
+            "expanded_url": "https://twitter.com/i/web/status/1224296166365573121",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296092768133000,
+      "in_reply_to_status_id_str": "1224296092768133121",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:39:01 +0000 2020",
+      "id": 1224296225689821200,
+      "id_str": "1224296225689821185",
+      "text": "Очень много людей пришло в канал, когда про него рассказывали @Chaptykov, @stevep307, @chicoxyzzy, @xufocoder, мног… https://t.co/mLW37xvxkG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              62,
+              72
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              74,
+              84
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              86,
+              97
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              99,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mLW37xvxkG",
+            "expanded_url": "https://twitter.com/i/web/status/1224296225689821185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296166365573000,
+      "in_reply_to_status_id_str": "1224296166365573121",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:40:12 +0000 2020",
+      "id": 1224296525016313900,
+      "id_str": "1224296525016313856",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik Также люди приходят после того, как другие каналы форва… https://t.co/zf0CyfRL4l",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zf0CyfRL4l",
+            "expanded_url": "https://twitter.com/i/web/status/1224296525016313856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296225689821200,
+      "in_reply_to_status_id_str": "1224296225689821185",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:40:54 +0000 2020",
+      "id": 1224296702737354800,
+      "id_str": "1224296702737354752",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Есть ещё такое понятие \"взаимный пиар\" (В… https://t.co/zdM5Glz73y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zdM5Glz73y",
+            "expanded_url": "https://twitter.com/i/web/status/1224296702737354752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296525016313900,
+      "in_reply_to_status_id_str": "1224296525016313856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:41:14 +0000 2020",
+      "id": 1224296783070867500,
+      "id_str": "1224296783070867456",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Конечно, пробовал покупать рекламу. Но эт… https://t.co/Swsoa2RfTI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Swsoa2RfTI",
+            "expanded_url": "https://twitter.com/i/web/status/1224296783070867456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296702737354800,
+      "in_reply_to_status_id_str": "1224296702737354752",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:41:27 +0000 2020",
+      "id": 1224296841111593000,
+      "id_str": "1224296841111592960",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Но после размышлений решил, что на данный… https://t.co/DULge74l2k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DULge74l2k",
+            "expanded_url": "https://twitter.com/i/web/status/1224296841111592960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296783070867500,
+      "in_reply_to_status_id_str": "1224296783070867456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:41:56 +0000 2020",
+      "id": 1224296962029211600,
+      "id_str": "1224296962029211649",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Мне гораздо интереснее наблюдать за естес… https://t.co/X8ZlxcG7Sk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/X8ZlxcG7Sk",
+            "expanded_url": "https://twitter.com/i/web/status/1224296962029211649",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296841111593000,
+      "in_reply_to_status_id_str": "1224296841111592960",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:59:19 +0000 2020",
+      "id": 1224301337086759000,
+      "id_str": "1224301337086758913",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Для анализа того, что происходит в телегр… https://t.co/lvxsZZz53i",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lvxsZZz53i",
+            "expanded_url": "https://twitter.com/i/web/status/1224301337086758913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224296962029211600,
+      "in_reply_to_status_id_str": "1224296962029211649",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:59:35 +0000 2020",
+      "id": 1224301403071447000,
+      "id_str": "1224301403071447040",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Сейчас аудитория канала это фронтендеры (… https://t.co/g6YmZrlEmc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g6YmZrlEmc",
+            "expanded_url": "https://twitter.com/i/web/status/1224301403071447040",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224301337086759000,
+      "in_reply_to_status_id_str": "1224301337086758913",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 11:59:48 +0000 2020",
+      "id": 1224301458792812500,
+      "id_str": "1224301458792812544",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov Благодаря каналу познакомился с большим к… https://t.co/fYzPIh5ONr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fYzPIh5ONr",
+            "expanded_url": "https://twitter.com/i/web/status/1224301458792812544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224301403071447000,
+      "in_reply_to_status_id_str": "1224301403071447040",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 12:01:55 +0000 2020",
+      "id": 1224301989946888200,
+      "id_str": "1224301989946888193",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov На этом, пожалуй, остановлюсь. Если есть… https://t.co/GcMWnJVvHR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GcMWnJVvHR",
+            "expanded_url": "https://twitter.com/i/web/status/1224301989946888193",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224301458792812500,
+      "in_reply_to_status_id_str": "1224301458792812544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 12:16:23 +0000 2020",
+      "id": 1224305629910765600,
+      "id_str": "1224305629910765569",
+      "text": "@Chaptykov @stevep307 @chicoxyzzy @xufocoder @andrey_sitnik @oleg_kovalov P.S. Хотел ещё рассказать про каналы, кот… https://t.co/3rmhu6bv0f",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              34,
+              44
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              45,
+              59
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3rmhu6bv0f",
+            "expanded_url": "https://twitter.com/i/web/status/1224305629910765569",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224301989946888200,
+      "in_reply_to_status_id_str": "1224301989946888193",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 13:30:22 +0000 2020",
+      "id": 1224324250561138700,
+      "id_str": "1224324250561138690",
+      "text": "RT @chicoxyzzy: @klimakov_me @jsunderhood @Chaptykov @stevep307 @xufocoder @andrey_sitnik @oleg_kovalov Александр его уже несколько раз упо…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chicoxyzzy",
+            "name": "Sergey Rubanov",
+            "id": 2913789579,
+            "id_str": "2913789579",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "klimakov_me",
+            "name": "Oleg",
+            "id": 1191377697039147000,
+            "id_str": "1191377697039147010",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              29,
+              41
+            ]
+          },
+          {
+            "screen_name": "Chaptykov",
+            "name": "Timophy Chaptykov",
+            "id": 55578857,
+            "id_str": "55578857",
+            "indices": [
+              42,
+              52
+            ]
+          },
+          {
+            "screen_name": "stevep307",
+            "name": "Nataly Glazyrina",
+            "id": 47425492,
+            "id_str": "47425492",
+            "indices": [
+              53,
+              63
+            ]
+          },
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              64,
+              74
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              75,
+              89
+            ]
+          },
+          {
+            "screen_name": "oleg_kovalov",
+            "name": "Oleg Kovalov",
+            "id": 72828612,
+            "id_str": "72828612",
+            "indices": [
+              90,
+              103
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Feb 03 13:23:22 +0000 2020",
+        "id": 1224322486231236600,
+        "id_str": "1224322486231236610",
+        "text": "@klimakov_me @jsunderhood @Chaptykov @stevep307 @xufocoder @andrey_sitnik @oleg_kovalov Александр его уже несколько… https://t.co/viD57dFum6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "klimakov_me",
+              "name": "Oleg",
+              "id": 1191377697039147000,
+              "id_str": "1191377697039147010",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                13,
+                25
+              ]
+            },
+            {
+              "screen_name": "Chaptykov",
+              "name": "Timophy Chaptykov",
+              "id": 55578857,
+              "id_str": "55578857",
+              "indices": [
+                26,
+                36
+              ]
+            },
+            {
+              "screen_name": "stevep307",
+              "name": "Nataly Glazyrina",
+              "id": 47425492,
+              "id_str": "47425492",
+              "indices": [
+                37,
+                47
+              ]
+            },
+            {
+              "screen_name": "xufocoder",
+              "name": "Сергей Ufocoder",
+              "id": 474880609,
+              "id_str": "474880609",
+              "indices": [
+                48,
+                58
+              ]
+            },
+            {
+              "screen_name": "andrey_sitnik",
+              "name": "Андрей Ситник",
+              "id": 62229769,
+              "id_str": "62229769",
+              "indices": [
+                59,
+                73
+              ]
+            },
+            {
+              "screen_name": "oleg_kovalov",
+              "name": "Oleg Kovalov",
+              "id": 72828612,
+              "id_str": "72828612",
+              "indices": [
+                74,
+                87
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/viD57dFum6",
+              "expanded_url": "https://twitter.com/i/web/status/1224322486231236610",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1224319730644897800,
+        "in_reply_to_status_id_str": "1224319730644897792",
+        "in_reply_to_user_id": 1191377697039147000,
+        "in_reply_to_user_id_str": "1191377697039147010",
+        "in_reply_to_screen_name": "klimakov_me",
+        "user": {
+          "id": 2913789579,
+          "id_str": "2913789579"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 18:47:11 +0000 2020",
+      "id": 1224403979444146200,
+      "id_str": "1224403979444146177",
+      "text": "@Blackrabbit99 Пока не думал. Но если всё-таки такая волна нахлынет, не вижу проблем с тем, чтобы подключить кого-н… https://t.co/7eOayFwTRa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Blackrabbit99",
+            "name": "Blackrabbit",
+            "id": 118088876,
+            "id_str": "118088876",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7eOayFwTRa",
+            "expanded_url": "https://twitter.com/i/web/status/1224403979444146177",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224401240555126800,
+      "in_reply_to_status_id_str": "1224401240555126785",
+      "in_reply_to_user_id": 118088876,
+      "in_reply_to_user_id_str": "118088876",
+      "in_reply_to_screen_name": "Blackrabbit99",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 03 18:48:53 +0000 2020",
+      "id": 1224404407577649200,
+      "id_str": "1224404407577649152",
+      "text": "@ODrapeza Интересная штука, кто-то мне про него рассказывал. Надо будет потыкать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ODrapeza",
+            "name": "Oleg Drapeza",
+            "id": 1108807498595745800,
+            "id_str": "1108807498595745797",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224402779948626000,
+      "in_reply_to_status_id_str": "1224402779948625930",
+      "in_reply_to_user_id": 1108807498595745800,
+      "in_reply_to_user_id_str": "1108807498595745797",
+      "in_reply_to_screen_name": "ODrapeza",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
