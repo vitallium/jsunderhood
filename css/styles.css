@@ -1,4 +1,5 @@
 @import "ilyabirman-likely/release/likely.css";
+@import "font-awesome/css/font-awesome.css";
 
 .jumbotron {
   margin-bottom: initial;
@@ -11,12 +12,30 @@
   border-bottom: initial;
 }
 
-th { cursor: pointer; color: rgb(51,122,183); }
-th span {  border-bottom: 1px dotted rgb(119,179,218); }
-th.no-sort { cursor: default; }
-th .sort-icon { display: none; }
-th.sort-up .sort-down { display: inline; }
-th.sort-down .sort-up   { display: inline; }
+th {
+  cursor: pointer;
+  color: rgb(51, 122, 183);
+}
+
+th span {
+  border-bottom: 1px dotted rgb(119, 179, 218);
+}
+
+th.no-sort {
+  cursor: default;
+}
+
+th .sort-icon {
+  display: none;
+}
+
+th.sort-up .sort-down {
+  display: inline;
+}
+
+th.sort-down .sort-up {
+  display: inline;
+}
 
 .host-stats {
   width: 100%;
@@ -26,7 +45,7 @@ th.sort-down .sort-up   { display: inline; }
 .host-stats__head {
   width: 100%;
   font-size: 16px;
-  border-bottom: 2px solid rgb(221,221,221);
+  border-bottom: 2px solid rgb(221, 221, 221);
 }
 
 @media (max-width: 768px) {
@@ -36,8 +55,8 @@ th.sort-down .sort-up   { display: inline; }
 }
 
 .host-stats__row:hover,
-.host-stats__row:hover + .host-stats__row_graph {
-  background-color: rgba(240,173,78,.1);
+.host-stats__row:hover+.host-stats__row_graph {
+  background-color: rgba(240, 173, 78, .1);
 }
 
 .host-stats__row_head:hover,
@@ -50,7 +69,7 @@ th.sort-down .sort-up   { display: inline; }
     padding-top: 7px;
     padding-bottom: 7px;
     display: block;
-    border-bottom: 1px solid rgb(200,200,200);
+    border-bottom: 1px solid rgb(200, 200, 200);
   }
 }
 
@@ -61,10 +80,21 @@ th.sort-down .sort-up   { display: inline; }
   vertical-align: middle;
 }
 
-.rted--1p { max-width: 135px; }
-.rted--2p { max-width: 75px; }
-.faved--1p { max-width: 125px; }
-.faved--2p { max-width: 75px; }
+.rted--1p {
+  max-width: 135px;
+}
+
+.rted--2p {
+  max-width: 75px;
+}
+
+.faved--1p {
+  max-width: 125px;
+}
+
+.faved--2p {
+  max-width: 75px;
+}
 
 @media (max-width: 768px) {
   .host-stats__col {
@@ -78,11 +108,11 @@ th.sort-down .sort-up   { display: inline; }
 }
 
 th.host-stats__col_favorited {
-  color: rgb(229,156,46);
+  color: rgb(229, 156, 46);
 }
 
 th.host-stats__col_retweeted {
-  color: rgb(92,145,59);
+  color: rgb(92, 145, 59);
 }
 
 th.host-stats__col {
@@ -109,7 +139,7 @@ th.host-stats__col {
     display: inline-block;
     width: 100%;
     max-width: 10em;
-    color: rgb(96,96,96);
+    color: rgb(96, 96, 96);
     font-size: .75em;
     letter-spacing: .1em;
     text-transform: uppercase;
@@ -128,9 +158,11 @@ th.host-stats__col {
   text-align: right;
   display: inline-block;
 }
+
 .cell--followers {
   min-width: 75px;
 }
+
 .cell--small {
   min-width: auto;
 }
@@ -149,7 +181,7 @@ th.host-stats__col {
   margin: -0.1em -0.3em;
   content: '';
   z-index: -1;
-  background-color: rgba(240,200,75,.2);
+  background-color: rgba(240, 200, 75, .2);
 }
 
 .tweet-graph {
@@ -179,15 +211,15 @@ th.host-stats__col {
 }
 
 .tweet-stats_own::before {
-  background-color: rgb(51,122,183);
+  background-color: rgb(51, 122, 183);
 }
 
 .tweet-stats_retweets::before {
-  background-color: rgb(91,192,222);
+  background-color: rgb(91, 192, 222);
 }
 
 .tweet-stats_replies::before {
-  background-color: rgb(92,184,92);
+  background-color: rgb(92, 184, 92);
 }
 
 .tweet-graph__bar_own {
@@ -195,21 +227,21 @@ th.host-stats__col {
 }
 
 .tweet-graph__bar_own {
-  color: rgb(51,122,183);
-  background-color: rgba(51,122,183,.65);
-  border-right: 1px solid rgba(51,122,183,.9);
+  color: rgb(51, 122, 183);
+  background-color: rgba(51, 122, 183, .65);
+  border-right: 1px solid rgba(51, 122, 183, .9);
 }
 
 .tweet-graph__bar_retweets {
-  color: rgb(91,192,222);
-  background-color: rgba(91,192,222,.65);
-  border-right: 1px solid rgba(91,192,222,.9);
+  color: rgb(91, 192, 222);
+  background-color: rgba(91, 192, 222, .65);
+  border-right: 1px solid rgba(91, 192, 222, .9);
 }
 
 .tweet-graph__bar_replies {
-  color: rgb(92,184,92);
-  background-color: rgba(92,184,92,.65);
-  border-right: 1px solid rgba(92,184,92,.9);
+  color: rgb(92, 184, 92);
+  background-color: rgba(92, 184, 92, .65);
+  border-right: 1px solid rgba(92, 184, 92, .9);
 }
 
 .live::after {
@@ -220,10 +252,10 @@ th.host-stats__col {
   font-weight: 700;
   letter-spacing: .05em;
   line-height: 1.1;
-  text-shadow: 0 1px 1px rgba(0,0,0,.25);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .25);
   text-transform: uppercase;
-  background-color: rgb(217,72,43);
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.1));
+  background-color: rgb(217, 72, 43);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, .1));
   border-radius: 2px;
   margin-left: 0.3em;
   vertical-align: super;
@@ -234,7 +266,8 @@ th.host-stats__col {
   border-bottom-color: currentColor;
 }
 
-.sort-up, .sort-down {
+.sort-up,
+.sort-down {
   background-color: rgba(240, 200, 75, .1);
 }
 
@@ -289,7 +322,7 @@ tr {
 }
 
 .list--links {
-	overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 .tweet blockquote {
@@ -345,7 +378,7 @@ tr {
   right: 0;
   z-index: 0;
   display: block;
-  background-color: rgba(0,0,0,.75);
+  background-color: rgba(0, 0, 0, .75);
   transition: .3s background-color;
   content: '';
 }
@@ -355,14 +388,14 @@ tr {
 }
 
 .now-playing-wrapper:hover:before {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0, 0, 0, .5);
 }
 
 .now-playing {
   position: relative;
   z-index: 1;
-  color: rgb(255,255,255);
-  text-shadow: 0 4px 12px 3px rgba(0,0,0,.85);
+  color: rgb(255, 255, 255);
+  text-shadow: 0 4px 12px 3px rgba(0, 0, 0, .85);
 }
 
 .now-playing__userpic {
@@ -427,10 +460,6 @@ tr {
 }
 
 .site-title:before {
-  position: absolute;
-  right: 100%;
-  top: -.25em;
-  font-size: 2em;
   opacity: .2;
   content: '@';
 }
