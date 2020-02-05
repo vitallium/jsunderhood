@@ -3,7 +3,7 @@ const type = require('file-type');
 const { writeFile } = require('fs');
 
 module.exports = function save(image, path, cb) {
-  got(image, { encoding: null })
+  got(image, { responseType: 'buffer' })
     .then(({ body }) => ({ body, ext: type(body).ext }))
     .then(({ body, ext }) => {
       writeFile(`./dump/${path}.${ext}`, body, err => {
