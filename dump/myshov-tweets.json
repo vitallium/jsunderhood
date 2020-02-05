@@ -6149,6 +6149,5145 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:46:57 +0000 2020",
+      "id": 1225007901040881700,
+      "id_str": "1225007901040881664",
+      "text": "@dovhanrg var obj = new Object();\nobj.someProp = 'abc';",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dovhanrg",
+            "name": "rgd",
+            "id": 434227051,
+            "id_str": "434227051",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225006605307170800,
+      "in_reply_to_status_id_str": "1225006605307170817",
+      "in_reply_to_user_id": 434227051,
+      "in_reply_to_user_id_str": "434227051",
+      "in_reply_to_screen_name": "dovhanrg",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 05 10:47:50 +0000 2020",
+      "id": 1225008123674534000,
+      "id_str": "1225008123674533888",
+      "text": "81. Благодаря работе Microsoft в Node.js появился уровень абстракции, который сделал возможным использование альтер… https://t.co/gRSqdQ7Sxc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gRSqdQ7Sxc",
+            "expanded_url": "https://twitter.com/i/web/status/1225008123674533888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224780397088735200,
+      "in_reply_to_status_id_str": "1224780397088735233",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:48:09 +0000 2020",
+      "id": 1225008200363257900,
+      "id_str": "1225008200363257856",
+      "text": "82. Microsoft адаптировала свой js-движок Chakra для Node.js в 2016 году https://t.co/Sqqh44m5LX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Sqqh44m5LX",
+            "expanded_url": "https://github.com/nodejs/node-chakracore",
+            "display_url": "github.com/nodejs/node-ch…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008123674534000,
+      "in_reply_to_status_id_str": "1225008123674533888",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 10:49:41 +0000 2020",
+      "id": 1225008586763526100,
+      "id_str": "1225008586763526144",
+      "text": "83. Самая интересная фича node-chakracore — time travel debugging, который поддерживается в VSCode https://t.co/943yXmOnHR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/943yXmOnHR",
+            "expanded_url": "https://github.com/nodejs/node-chakracore/blob/master/TTD-README.md",
+            "display_url": "github.com/nodejs/node-ch…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008200363257900,
+      "in_reply_to_status_id_str": "1225008200363257856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 10:49:53 +0000 2020",
+      "id": 1225008639976583200,
+      "id_str": "1225008639976583169",
+      "text": "84. Mozilla тоже работала над внедрением SpiderMonkey в Node.js, но проект был заморожен https://t.co/ndENjyUIu7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ndENjyUIu7",
+            "expanded_url": "https://github.com/mozilla/spidernode",
+            "display_url": "github.com/mozilla/spider…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008586763526100,
+      "in_reply_to_status_id_str": "1225008586763526144",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:50:03 +0000 2020",
+      "id": 1225008680917180400,
+      "id_str": "1225008680917180425",
+      "text": "85. Благодаря Node.js стало возможным использовать один и тот же код и на сервере, и на клиенте. Такие приложения с… https://t.co/ip87CfGzRq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ip87CfGzRq",
+            "expanded_url": "https://twitter.com/i/web/status/1225008680917180425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008639976583200,
+      "in_reply_to_status_id_str": "1225008639976583169",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:50:13 +0000 2020",
+      "id": 1225008723204198400,
+      "id_str": "1225008723204198400",
+      "text": "86. Изоморфные приложения позволили создавать полноценные Single Page Application (SPA) приложения, которые могли б… https://t.co/g1do3gyFIw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g1do3gyFIw",
+            "expanded_url": "https://twitter.com/i/web/status/1225008723204198400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008680917180400,
+      "in_reply_to_status_id_str": "1225008680917180425",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:50:38 +0000 2020",
+      "id": 1225008826132451300,
+      "id_str": "1225008826132451329",
+      "text": "87. Термин \"изоморфное приложение\" ввёл в обиход Чарли Роббинс в 2011 году в статье \"Scaling Isomorphic Javascript… https://t.co/o27zgktmsA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o27zgktmsA",
+            "expanded_url": "https://twitter.com/i/web/status/1225008826132451329",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008723204198400,
+      "in_reply_to_status_id_str": "1225008723204198400",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:50:49 +0000 2020",
+      "id": 1225008874413052000,
+      "id_str": "1225008874413051907",
+      "text": "88. В 2015 году Майкл Джексон (другой Майкл Джексон) поделился своим мнением, почему \"изоморфное приложение\" неподх… https://t.co/WxkgqLPTZu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WxkgqLPTZu",
+            "expanded_url": "https://twitter.com/i/web/status/1225008874413051907",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008826132451300,
+      "in_reply_to_status_id_str": "1225008826132451329",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:51:05 +0000 2020",
+      "id": 1225008941383520300,
+      "id_str": "1225008941383520256",
+      "text": "89. Поэтому если вы читаете статьи и видите как в одном месте пишут про \"изоморфные\", а в другом \"универсальные\" пр… https://t.co/d1jsvfIs06",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/d1jsvfIs06",
+            "expanded_url": "https://twitter.com/i/web/status/1225008941383520256",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008874413052000,
+      "in_reply_to_status_id_str": "1225008874413051907",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:51:22 +0000 2020",
+      "id": 1225009009666797600,
+      "id_str": "1225009009666797568",
+      "text": "90. С 2012 года начали появляться изоморфные фреймворки. Первопроходцем стал Meteor, который был выпущен в январе 2012 года.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225008941383520300,
+      "in_reply_to_status_id_str": "1225008941383520256",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:51:34 +0000 2020",
+      "id": 1225009061512478700,
+      "id_str": "1225009061512478721",
+      "text": "91. Затем Yahoo в апреле 2012 года открыла код своего фреймворка Mojito, но из-за сильной привязки к YUI не получил… https://t.co/cxPZypTljP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cxPZypTljP",
+            "expanded_url": "https://twitter.com/i/web/status/1225009061512478721",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009009666797600,
+      "in_reply_to_status_id_str": "1225009009666797568",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:51:46 +0000 2020",
+      "id": 1225009110728544300,
+      "id_str": "1225009110728544256",
+      "text": "92. В середине 2012 года 2GIS начал работу над своим изоморфным фреймворком — Slot — который лёг в основу обновлённ… https://t.co/ElyJk54KDF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ElyJk54KDF",
+            "expanded_url": "https://twitter.com/i/web/status/1225009110728544256",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009061512478700,
+      "in_reply_to_status_id_str": "1225009061512478721",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:52:12 +0000 2020",
+      "id": 1225009219608416300,
+      "id_str": "1225009219608416256",
+      "text": "@Semenov @anrublev 93. В 2014 году Андрей Речкунов при работе над Flamp (тоже проект 2GIS) разработал catberry — из… https://t.co/etH0sttY30",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/etH0sttY30",
+            "expanded_url": "https://twitter.com/i/web/status/1225009219608416256",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009110728544300,
+      "in_reply_to_status_id_str": "1225009110728544256",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:52:22 +0000 2020",
+      "id": 1225009262277152800,
+      "id_str": "1225009262277152768",
+      "text": "@Semenov @anrublev 94. В 2013 году AirBnB представила свой изоморфный фреймворк — rendr, в основе которого лежал ba… https://t.co/1adrh74PLI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1adrh74PLI",
+            "expanded_url": "https://twitter.com/i/web/status/1225009262277152768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009219608416300,
+      "in_reply_to_status_id_str": "1225009219608416256",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:52:38 +0000 2020",
+      "id": 1225009331223048200,
+      "id_str": "1225009331223048198",
+      "text": "@Semenov @anrublev 95. Затем в 2013 году появился React, который стал основой изоморфного рендеринга в очень многих компаниях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009262277152800,
+      "in_reply_to_status_id_str": "1225009262277152768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:53:22 +0000 2020",
+      "id": 1225009516288397300,
+      "id_str": "1225009516288397312",
+      "text": "@Semenov @anrublev 96. В 2016 году компания Zeit открыла исходный код одного из самых популярных современных изомор… https://t.co/f53UQFnLZF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/f53UQFnLZF",
+            "expanded_url": "https://twitter.com/i/web/status/1225009516288397312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009331223048200,
+      "in_reply_to_status_id_str": "1225009331223048198",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:53:46 +0000 2020",
+      "id": 1225009613621342200,
+      "id_str": "1225009613621342208",
+      "text": "@Semenov @anrublev 97. В том же 2016 году была выпущена первая публичная версия Nuxt.js — изоморфного фреймворка на основе Vue.js",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009516288397300,
+      "in_reply_to_status_id_str": "1225009516288397312",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:54:00 +0000 2020",
+      "id": 1225009673398558700,
+      "id_str": "1225009673398558720",
+      "text": "@Semenov @anrublev 98. Полноценная поддержка серверного рендеринга была сделана во второй версии Vue.js, хотя первы… https://t.co/41XqZg5AGV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/41XqZg5AGV",
+            "expanded_url": "https://twitter.com/i/web/status/1225009673398558720",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009613621342200,
+      "in_reply_to_status_id_str": "1225009613621342208",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:54:16 +0000 2020",
+      "id": 1225009742692737000,
+      "id_str": "1225009742692737026",
+      "text": "@Semenov @anrublev 99. В 2017 году был зарелижен изоморфный фреймворк на базе Angular — Nest.js.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009673398558700,
+      "in_reply_to_status_id_str": "1225009673398558720",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Wed Feb 05 10:54:26 +0000 2020",
+      "id": 1225009784623194000,
+      "id_str": "1225009784623194113",
+      "text": "@Semenov @anrublev 100. То есть самые популярные на данный момент фреймворки носят очень похожие друг на друга назв… https://t.co/CXHjA8pLAH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CXHjA8pLAH",
+            "expanded_url": "https://twitter.com/i/web/status/1225009784623194113",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009742692737000,
+      "in_reply_to_status_id_str": "1225009742692737026",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:54:46 +0000 2020",
+      "id": 1225009867359912000,
+      "id_str": "1225009867359911939",
+      "text": "@Semenov @anrublev 101. Node.js — это не единственный js-рантайм для серверных приложений. Первопроходцем был LiveW… https://t.co/nSMjRm2AAt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nSMjRm2AAt",
+            "expanded_url": "https://twitter.com/i/web/status/1225009867359911939",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009784623194000,
+      "in_reply_to_status_id_str": "1225009784623194113",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:55:14 +0000 2020",
+      "id": 1225009984448225300,
+      "id_str": "1225009984448225280",
+      "text": "@Semenov @anrublev 102. В 1997 был разрабатан JS-движок Rhino. Его особенность была в том, что он был написан полно… https://t.co/60OtuJTpIe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/60OtuJTpIe",
+            "expanded_url": "https://twitter.com/i/web/status/1225009984448225280",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009867359912000,
+      "in_reply_to_status_id_str": "1225009867359911939",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:55:29 +0000 2020",
+      "id": 1225010048084201500,
+      "id_str": "1225010048084201472",
+      "text": "@Semenov @anrublev 103. Rhino стал средством исполнения JavaScript-кода в серверных Java-приложениях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225009984448225300,
+      "in_reply_to_status_id_str": "1225009984448225280",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:55:42 +0000 2020",
+      "id": 1225010101662167000,
+      "id_str": "1225010101662167040",
+      "text": "@Semenov @anrublev 104. Были и другие серверные реализации JavaScript. Вот подборка с википедии https://t.co/rDogi36ADQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rDogi36ADQ",
+            "expanded_url": "https://en.wikipedia.org/wiki/List_of_server-side_JavaScript_implementations",
+            "display_url": "en.wikipedia.org/wiki/List_of_s…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010048084201500,
+      "in_reply_to_status_id_str": "1225010048084201472",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:55:56 +0000 2020",
+      "id": 1225010159493185500,
+      "id_str": "1225010159493185537",
+      "text": "@Semenov @anrublev 105. Из относительно недавних серверных реализаций (2016), можно вспомнить движок от Nginx — njs… https://t.co/O6MUDcVMdw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/O6MUDcVMdw",
+            "expanded_url": "https://twitter.com/i/web/status/1225010159493185537",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010101662167000,
+      "in_reply_to_status_id_str": "1225010101662167040",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:56:10 +0000 2020",
+      "id": 1225010221002698800,
+      "id_str": "1225010221002698753",
+      "text": "@Semenov @anrublev 106. njs полностью совместим c ECMAScript 5.1 с некоторыми фичами из ECMAScript 2015. Он использ… https://t.co/C5v46v3M5L",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/C5v46v3M5L",
+            "expanded_url": "https://twitter.com/i/web/status/1225010221002698753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010159493185500,
+      "in_reply_to_status_id_str": "1225010159493185537",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:56:50 +0000 2020",
+      "id": 1225010388405760000,
+      "id_str": "1225010388405760000",
+      "text": "@Semenov @anrublev 107. Существуют js-движки, специально разработанные для работы на микроконтроллерах и оптимизиро… https://t.co/3z1HoHz8Xk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3z1HoHz8Xk",
+            "expanded_url": "https://twitter.com/i/web/status/1225010388405760000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010221002698800,
+      "in_reply_to_status_id_str": "1225010221002698753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:57:03 +0000 2020",
+      "id": 1225010440620605400,
+      "id_str": "1225010440620605441",
+      "text": "@Semenov @anrublev 108. В 2016 году Samsung представил js-движок JerryScript. Может работать на девайсах с 64 KB RA… https://t.co/GEtiXxTMDE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GEtiXxTMDE",
+            "expanded_url": "https://twitter.com/i/web/status/1225010440620605441",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010388405760000,
+      "in_reply_to_status_id_str": "1225010388405760000",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 10:57:15 +0000 2020",
+      "id": 1225010492546146300,
+      "id_str": "1225010492546146305",
+      "text": "@Semenov @anrublev 109. На базе JerryScript Samsung сделал свою версию ноды https://t.co/1yEpwNVNE7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1yEpwNVNE7",
+            "expanded_url": "https://github.com/Samsung/node-jerryscript",
+            "display_url": "github.com/Samsung/node-j…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010440620605400,
+      "in_reply_to_status_id_str": "1225010440620605441",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 10:57:31 +0000 2020",
+      "id": 1225010558308700200,
+      "id_str": "1225010558308700161",
+      "text": "@Semenov @anrublev 110. JS-движок Duktape. Минимальные требования 160kB Flash и 64kB RAM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010492546146300,
+      "in_reply_to_status_id_str": "1225010492546146305",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 10:57:41 +0000 2020",
+      "id": 1225010601681772500,
+      "id_str": "1225010601681772544",
+      "text": "@Semenov @anrublev 111. JS-движок Espruino. Минимальные требования: 128kB Flash и 8kB RAM https://t.co/VKnS6iCQqL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VKnS6iCQqL",
+            "expanded_url": "https://github.com/espruino/Espruino",
+            "display_url": "github.com/espruino/Espru…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010558308700200,
+      "in_reply_to_status_id_str": "1225010558308700161",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 11:00:59 +0000 2020",
+      "id": 1225011433093640200,
+      "id_str": "1225011433093640192",
+      "text": "@Semenov @anrublev 112. Существует много разных JS-движков. Для упрощения работы с ними разработчики Chrome в 2017… https://t.co/usGWIiYRE5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/usGWIiYRE5",
+            "expanded_url": "https://twitter.com/i/web/status/1225011433093640192",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225010601681772500,
+      "in_reply_to_status_id_str": "1225010601681772544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 11:22:19 +0000 2020",
+      "id": 1225016801035202600,
+      "id_str": "1225016801035202561",
+      "text": "@amel_true Почему-то я думал, что там он изоморфный, ок, спасибо за исправление.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225013778259071000,
+      "in_reply_to_status_id_str": "1225013778259070979",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 11:50:59 +0000 2020",
+      "id": 1225024014818607000,
+      "id_str": "1225024014818607105",
+      "text": "RT @amel_true: @jsunderhood @Semenov @anrublev А что изоморфного в nest? Для изоморфного рендера к нему нужно прикручивать изоморфный шабло…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              28,
+              36
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              37,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Feb 05 11:10:19 +0000 2020",
+        "id": 1225013778259071000,
+        "id_str": "1225013778259070979",
+        "text": "@jsunderhood @Semenov @anrublev А что изоморфного в nest? Для изоморфного рендера к нему нужно прикручивать изоморф… https://t.co/qUJw9XsCW9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "Semenov",
+              "name": "Vlad Semënov",
+              "id": 5249341,
+              "id_str": "5249341",
+              "indices": [
+                13,
+                21
+              ]
+            },
+            {
+              "screen_name": "anrublev",
+              "name": "Andrey Rublev",
+              "id": 169412950,
+              "id_str": "169412950",
+              "indices": [
+                22,
+                31
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/qUJw9XsCW9",
+              "expanded_url": "https://twitter.com/i/web/status/1225013778259070979",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 1225009742692737000,
+        "in_reply_to_status_id_str": "1225009742692737026",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 129552957,
+          "id_str": "129552957"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 12:07:28 +0000 2020",
+      "id": 1225028162419032000,
+      "id_str": "1225028162419032064",
+      "text": "усталь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:26:20 +0000 2020",
+      "id": 1225078209743589400,
+      "id_str": "1225078209743589376",
+      "text": "@Semenov @anrublev 113. Где-то выше я писал про то, что в 2009 году стали появляться новые MVC-фреймворки. В этом г… https://t.co/NQBn9FmYMb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NQBn9FmYMb",
+            "expanded_url": "https://twitter.com/i/web/status/1225078209743589376",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225011433093640200,
+      "in_reply_to_status_id_str": "1225011433093640192",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:26:33 +0000 2020",
+      "id": 1225078263875240000,
+      "id_str": "1225078263875239939",
+      "text": "@Semenov @anrublev 114. Фреймворк разработал Мишко Хевери, когда он работал над своим стартапом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078209743589400,
+      "in_reply_to_status_id_str": "1225078209743589376",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:26:45 +0000 2020",
+      "id": 1225078314026643500,
+      "id_str": "1225078314026643456",
+      "text": "@Semenov @anrublev 115. Идея стартапа не взлетела — исходный код Angular был открыт. Google взяло под своё крыло Ми… https://t.co/OBWiZ7GMiD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OBWiZ7GMiD",
+            "expanded_url": "https://twitter.com/i/web/status/1225078314026643456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078263875240000,
+      "in_reply_to_status_id_str": "1225078263875239939",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:26:59 +0000 2020",
+      "id": 1225078374168744000,
+      "id_str": "1225078374168743938",
+      "text": "@Semenov @anrublev 116. Система реактивности первой версии Angular не позволяла эффективно работать с большим колич… https://t.co/KG45YP3l27",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KG45YP3l27",
+            "expanded_url": "https://twitter.com/i/web/status/1225078374168743938",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078314026643500,
+      "in_reply_to_status_id_str": "1225078314026643456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:27:16 +0000 2020",
+      "id": 1225078443034935300,
+      "id_str": "1225078443034935296",
+      "text": "@Semenov @anrublev 117. В 2016 году разработчики выпустили вторую версию фреймворка, в нём была устранена проблема… https://t.co/B8vfcF8yjC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B8vfcF8yjC",
+            "expanded_url": "https://twitter.com/i/web/status/1225078443034935296",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078374168744000,
+      "in_reply_to_status_id_str": "1225078374168743938",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:27:26 +0000 2020",
+      "id": 1225078484571127800,
+      "id_str": "1225078484571127808",
+      "text": "@Semenov @anrublev 118. С этих пор существует две версии Angular: \"Angular.js\" (легаси версия) и \"Angular\" (без \".j… https://t.co/IpI4Dt77Ig",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IpI4Dt77Ig",
+            "expanded_url": "https://twitter.com/i/web/status/1225078484571127808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078443034935300,
+      "in_reply_to_status_id_str": "1225078443034935296",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:29:12 +0000 2020",
+      "id": 1225078931814015000,
+      "id_str": "1225078931814014977",
+      "text": "@Semenov @anrublev :%s/Angular\\.js/AngularJS/g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078484571127800,
+      "in_reply_to_status_id_str": "1225078484571127808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "tl"
+    },
+    {
+      "created_at": "Wed Feb 05 15:29:33 +0000 2020",
+      "id": 1225079020443914200,
+      "id_str": "1225079020443914242",
+      "text": "@Semenov @anrublev 119. В новой версии были решены проблемы с производительностью, добавлен AOT-компиляции, появила… https://t.co/ZrqVomJi4j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZrqVomJi4j",
+            "expanded_url": "https://twitter.com/i/web/status/1225079020443914242",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225078931814015000,
+      "in_reply_to_status_id_str": "1225078931814014977",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:29:46 +0000 2020",
+      "id": 1225079073778602000,
+      "id_str": "1225079073778601984",
+      "text": "@Semenov @anrublev 120. Основными конкурентами первой версии Angular были Ember, Backbone и Knockout.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079020443914200,
+      "in_reply_to_status_id_str": "1225079020443914242",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Feb 05 15:29:58 +0000 2020",
+      "id": 1225079121711071200,
+      "id_str": "1225079121711071232",
+      "text": "@Semenov @anrublev 121. Ember.js - эволюционное развитие SproutCore, фреймворка, который был разработан в Apple (ис… https://t.co/usVsvDtg8b",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/usVsvDtg8b",
+            "expanded_url": "https://twitter.com/i/web/status/1225079121711071232",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079073778602000,
+      "in_reply_to_status_id_str": "1225079073778601984",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:30:09 +0000 2020",
+      "id": 1225079169274581000,
+      "id_str": "1225079169274580992",
+      "text": "@Semenov @anrublev 122. Чарльз Джоли, который был лидом SproutCore, вместе с Йехуда Катц основали стартап, в которо… https://t.co/rn1m79aOoz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rn1m79aOoz",
+            "expanded_url": "https://twitter.com/i/web/status/1225079169274580992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079121711071200,
+      "in_reply_to_status_id_str": "1225079121711071232",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:30:28 +0000 2020",
+      "id": 1225079247770996700,
+      "id_str": "1225079247770996736",
+      "text": "@Semenov @anrublev 123. Первая версия Ember.js вышла в декабре 2011 года. Она представляло собой классический MVC-фреймворк.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079169274581000,
+      "in_reply_to_status_id_str": "1225079169274580992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Wed Feb 05 15:30:38 +0000 2020",
+      "id": 1225079288938016800,
+      "id_str": "1225079288938016769",
+      "text": "@Semenov @anrublev 124. Вторая версия вышла в 2015 году. Для управления состоянием стал использоваться однонаправле… https://t.co/Qpde01m279",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Qpde01m279",
+            "expanded_url": "https://twitter.com/i/web/status/1225079288938016769",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079247770996700,
+      "in_reply_to_status_id_str": "1225079247770996736",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:30:47 +0000 2020",
+      "id": 1225079328028942300,
+      "id_str": "1225079328028942337",
+      "text": "@Semenov @anrublev 125. В феврале 2010 года вышел фреймворк Knockout.js, который был разработан Стивом Сандерсеном.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079288938016800,
+      "in_reply_to_status_id_str": "1225079288938016769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:02 +0000 2020",
+      "id": 1225079390108897300,
+      "id_str": "1225079390108897281",
+      "text": "@Semenov @anrublev 126. Knockout.js реализовывал паттерн Model-View-ViewModel (MVVM). Идеи Knockout были сформирова… https://t.co/Tbiv4A4mek",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tbiv4A4mek",
+            "expanded_url": "https://twitter.com/i/web/status/1225079390108897281",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079328028942300,
+      "in_reply_to_status_id_str": "1225079328028942337",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:11 +0000 2020",
+      "id": 1225079427769544700,
+      "id_str": "1225079427769544705",
+      "text": "@Semenov @anrublev 127. Knockout.js был вытеснен с рынка более популярными фреймворками, но первое время был очень популярен.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079390108897300,
+      "in_reply_to_status_id_str": "1225079390108897281",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:20 +0000 2020",
+      "id": 1225079466818445300,
+      "id_str": "1225079466818445312",
+      "text": "@Semenov @anrublev 128. В октябре 2010 года вышел Backbone.js (в том же году, что и Knockout.js). Он был создан Джереми Ашкенас.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079427769544700,
+      "in_reply_to_status_id_str": "1225079427769544705",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:32 +0000 2020",
+      "id": 1225079515908624400,
+      "id_str": "1225079515908624384",
+      "text": "@Semenov @anrublev 129. Backbone реализовывал MVC-like паттерн. Models и Collections представляли собой модель из M… https://t.co/FaIJbAD3ek",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FaIJbAD3ek",
+            "expanded_url": "https://twitter.com/i/web/status/1225079515908624384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079466818445300,
+      "in_reply_to_status_id_str": "1225079466818445312",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:43 +0000 2020",
+      "id": 1225079563086106600,
+      "id_str": "1225079563086106632",
+      "text": "@Semenov @anrublev 130. Backbone.js был лёгкой библиотекой с jQuery и Underscore в зависимостях. Но по сравнению с… https://t.co/UnzGaKtO2N",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UnzGaKtO2N",
+            "expanded_url": "https://twitter.com/i/web/status/1225079563086106632",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079515908624400,
+      "in_reply_to_status_id_str": "1225079515908624384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:31:53 +0000 2020",
+      "id": 1225079607403131000,
+      "id_str": "1225079607403130886",
+      "text": "@Semenov @anrublev 131. Backbone, Angular и Knockout были частью новой волны, в которой популяризировалась идея соз… https://t.co/z4Yd3pgQ5X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/z4Yd3pgQ5X",
+            "expanded_url": "https://twitter.com/i/web/status/1225079607403130886",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079563086106600,
+      "in_reply_to_status_id_str": "1225079563086106632",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:32:05 +0000 2020",
+      "id": 1225079657554489300,
+      "id_str": "1225079657554489344",
+      "text": "@Semenov @anrublev 132. Появление browserify позволило писать код, который без модификации можно было использовать… https://t.co/vlwpq0rubb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vlwpq0rubb",
+            "expanded_url": "https://twitter.com/i/web/status/1225079657554489344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079607403131000,
+      "in_reply_to_status_id_str": "1225079607403130886",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:32:15 +0000 2020",
+      "id": 1225079695978442800,
+      "id_str": "1225079695978442753",
+      "text": "@Semenov @anrublev 133. Бурный рост использования библиотек на фронтенде привёл к тому, что монолитные фреймворки с… https://t.co/FDahCd32zd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FDahCd32zd",
+            "expanded_url": "https://twitter.com/i/web/status/1225079695978442753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079657554489300,
+      "in_reply_to_status_id_str": "1225079657554489344",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:33:01 +0000 2020",
+      "id": 1225079889109422000,
+      "id_str": "1225079889109422080",
+      "text": "@Semenov @anrublev 133. Давайте вернёмся в 2013-ый год. В этом году Facebook представил новую библиотеку для постро… https://t.co/QP5WzZ79on",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QP5WzZ79on",
+            "expanded_url": "https://twitter.com/i/web/status/1225079889109422080",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079695978442800,
+      "in_reply_to_status_id_str": "1225079695978442753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:33:09 +0000 2020",
+      "id": 1225079926077952000,
+      "id_str": "1225079926077952000",
+      "text": "@Semenov @anrublev 134. Ли Байрон в подкасте JavaScript Jabber рассказал историю  появления React. https://t.co/JboXgnQEZK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JboXgnQEZK",
+            "expanded_url": "https://devchat.tv/my-javascript-story/mjs-094-lee-byron/",
+            "display_url": "devchat.tv/my-javascript-…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079889109422000,
+      "in_reply_to_status_id_str": "1225079889109422080",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:33:25 +0000 2020",
+      "id": 1225079989978173400,
+      "id_str": "1225079989978173445",
+      "text": "@Semenov @anrublev 135. React стал набирать популярность внутри компании в то же самое время, когда в Facebook вела… https://t.co/cqaWdgkZxl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cqaWdgkZxl",
+            "expanded_url": "https://twitter.com/i/web/status/1225079989978173445",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079926077952000,
+      "in_reply_to_status_id_str": "1225079926077952000",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:33:41 +0000 2020",
+      "id": 1225080058341183500,
+      "id_str": "1225080058341183496",
+      "text": "@Semenov @anrublev 136. Автором первого прототипа React был Джордан Волк. В то время он решал проблему реализации к… https://t.co/Qk1hdrTzvK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Qk1hdrTzvK",
+            "expanded_url": "https://twitter.com/i/web/status/1225080058341183496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225079989978173400,
+      "in_reply_to_status_id_str": "1225079989978173445",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:33:53 +0000 2020",
+      "id": 1225080110841303000,
+      "id_str": "1225080110841303042",
+      "text": "@Semenov @anrublev 137. Идея полной перерисовки UI на основе данных была крутой фичей, которая помогла решить эту задачу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080058341183500,
+      "in_reply_to_status_id_str": "1225080058341183496",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:34:31 +0000 2020",
+      "id": 1225080269062987800,
+      "id_str": "1225080269062987777",
+      "text": "@Semenov @anrublev 138. Некоторые разработчики Facebook были очень воодушевлены новой библиотекой, другие, наоборот… https://t.co/fJm7XKwmvF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fJm7XKwmvF",
+            "expanded_url": "https://twitter.com/i/web/status/1225080269062987777",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080110841303000,
+      "in_reply_to_status_id_str": "1225080110841303042",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:34:43 +0000 2020",
+      "id": 1225080319390384000,
+      "id_str": "1225080319390384132",
+      "text": "@Semenov @anrublev 139. Менеджер попросил Ли сходить к Джордану и попросить его успокоиться и не мешать внедрению н… https://t.co/Juv0Uwjxjz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Juv0Uwjxjz",
+            "expanded_url": "https://twitter.com/i/web/status/1225080319390384132",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080269062987800,
+      "in_reply_to_status_id_str": "1225080269062987777",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:35:07 +0000 2020",
+      "id": 1225080417986007000,
+      "id_str": "1225080417986007044",
+      "text": "@Semenov @anrublev 140. React появился внутри Facebook в 2011 году. На протяжении двух лет шла работа над его улучш… https://t.co/ZxUGDAzCid",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZxUGDAzCid",
+            "expanded_url": "https://twitter.com/i/web/status/1225080417986007044",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080319390384000,
+      "in_reply_to_status_id_str": "1225080319390384132",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:35:34 +0000 2020",
+      "id": 1225080534520467500,
+      "id_str": "1225080534520467456",
+      "text": "@Semenov @anrublev 141. Благодаря React появились концепции Virtual DOM и JSX. Подход с построения интерфейсов из к… https://t.co/bGbeYyNEBk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bGbeYyNEBk",
+            "expanded_url": "https://twitter.com/i/web/status/1225080534520467456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080417986007000,
+      "in_reply_to_status_id_str": "1225080417986007044",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:35:45 +0000 2020",
+      "id": 1225080580469076000,
+      "id_str": "1225080580469075969",
+      "text": "@Semenov @anrublev 142. В 2015 году Ден Абрамов на React Europue представил Redux — Flux-библиотеку для управления… https://t.co/ZnxdDhdsRM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZnxdDhdsRM",
+            "expanded_url": "https://twitter.com/i/web/status/1225080580469075969",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080534520467500,
+      "in_reply_to_status_id_str": "1225080534520467456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:35:57 +0000 2020",
+      "id": 1225080629353767000,
+      "id_str": "1225080629353766913",
+      "text": "@Semenov @anrublev 143. React за всё своё время существования кардинально не менял API. Но в 2018 году были предста… https://t.co/aVjAMlWvww",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aVjAMlWvww",
+            "expanded_url": "https://twitter.com/i/web/status/1225080629353766913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080580469076000,
+      "in_reply_to_status_id_str": "1225080580469075969",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:36:12 +0000 2020",
+      "id": 1225080692872183800,
+      "id_str": "1225080692872183808",
+      "text": "@Semenov @anrublev 144. Хуки не заменили классические компоненты с классами, а дали альтернативную возможность упра… https://t.co/fBdGq28vYO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fBdGq28vYO",
+            "expanded_url": "https://twitter.com/i/web/status/1225080692872183808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080629353767000,
+      "in_reply_to_status_id_str": "1225080629353766913",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:36:27 +0000 2020",
+      "id": 1225080756017533000,
+      "id_str": "1225080756017532928",
+      "text": "@Semenov @anrublev 145. Компоненты, написанные с помощью хуков стали более компактны, отпала необходимость держать… https://t.co/3lCtLV9Slj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3lCtLV9Slj",
+            "expanded_url": "https://twitter.com/i/web/status/1225080756017532928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080692872183800,
+      "in_reply_to_status_id_str": "1225080692872183808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:39:06 +0000 2020",
+      "id": 1225081423377444900,
+      "id_str": "1225081423377444864",
+      "text": "@Semenov @anrublev 146. Забавно то, что Себастьян Мекбейдж — один из разработчиков React — работал над спецификацие… https://t.co/OUphVuKha5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OUphVuKha5",
+            "expanded_url": "https://twitter.com/i/web/status/1225081423377444864",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225080756017533000,
+      "in_reply_to_status_id_str": "1225080756017532928",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:39:23 +0000 2020",
+      "id": 1225081493724311600,
+      "id_str": "1225081493724311555",
+      "text": "@Semenov @anrublev 147. Потихоньку количество пользователей React росло. И теперь это один из самых популярных фрей… https://t.co/BwKBnUJhWk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BwKBnUJhWk",
+            "expanded_url": "https://twitter.com/i/web/status/1225081493724311555",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225081423377444900,
+      "in_reply_to_status_id_str": "1225081423377444864",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:39:40 +0000 2020",
+      "id": 1225081564213784600,
+      "id_str": "1225081564213784577",
+      "text": "@Semenov @anrublev 148. В 2013 году Эван Ю работал в Google. Тогда у него появилась идея создания фреймворка похоже… https://t.co/b31nm9rfjg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/b31nm9rfjg",
+            "expanded_url": "https://twitter.com/i/web/status/1225081564213784577",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225081493724311600,
+      "in_reply_to_status_id_str": "1225081493724311555",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:40:51 +0000 2020",
+      "id": 1225081862093181000,
+      "id_str": "1225081862093180930",
+      "text": "@Semenov @anrublev 149. Vue.js набирал популярность благодаря тому, что на него переходили разработчики, которым нр… https://t.co/xxk0BdcvJc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xxk0BdcvJc",
+            "expanded_url": "https://twitter.com/i/web/status/1225081862093180930",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225081564213784600,
+      "in_reply_to_status_id_str": "1225081564213784577",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:41:10 +0000 2020",
+      "id": 1225081943248777200,
+      "id_str": "1225081943248777217",
+      "text": "@Semenov @anrublev 150. В 2016 году вышла вторая версия Vue.js, на которую большое влияние оказал React: в нём появ… https://t.co/qEK7DN6cs5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qEK7DN6cs5",
+            "expanded_url": "https://twitter.com/i/web/status/1225081943248777217",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225081862093181000,
+      "in_reply_to_status_id_str": "1225081862093180930",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:41:32 +0000 2020",
+      "id": 1225082035548704800,
+      "id_str": "1225082035548704769",
+      "text": "@Semenov @anrublev 151. В 2016 году Рич Харрис представил общественности Svelte. Фреймворк с абсолютно новой идеей… https://t.co/QcA8hrGnz4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QcA8hrGnz4",
+            "expanded_url": "https://twitter.com/i/web/status/1225082035548704769",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225081943248777200,
+      "in_reply_to_status_id_str": "1225081943248777217",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:41:48 +0000 2020",
+      "id": 1225082099188818000,
+      "id_str": "1225082099188817921",
+      "text": "@Semenov @anrublev 152. Популярность к Svelte пришла благодаря тому, что интерфейсы, написанные с помощью Svelte оч… https://t.co/zWPl4QwWsc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zWPl4QwWsc",
+            "expanded_url": "https://twitter.com/i/web/status/1225082099188817921",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225082035548704800,
+      "in_reply_to_status_id_str": "1225082035548704769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:44:38 +0000 2020",
+      "id": 1225082812337991700,
+      "id_str": "1225082812337991683",
+      "text": "@Semenov @anrublev И вот на этом моменте хочу остановиться. Рассказал, как мне кажется, про самое важное, но за бор… https://t.co/DCLpVIoJJZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DCLpVIoJJZ",
+            "expanded_url": "https://twitter.com/i/web/status/1225082812337991683",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225082099188818000,
+      "in_reply_to_status_id_str": "1225082099188817921",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:45:15 +0000 2020",
+      "id": 1225082969066438700,
+      "id_str": "1225082969066438656",
+      "text": "@Semenov @anrublev Если вас интересуют больше подробностей про историю развития спецификации ECMAScript, очень реко… https://t.co/spcrEzvu9R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/spcrEzvu9R",
+            "expanded_url": "https://twitter.com/i/web/status/1225082969066438656",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225082812337991700,
+      "in_reply_to_status_id_str": "1225082812337991683",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:45:36 +0000 2020",
+      "id": 1225083055817330700,
+      "id_str": "1225083055817330689",
+      "text": "@Semenov @anrublev Если вам хочется узнать про развитие построения модульных приложений в JS, то приглашаю в репози… https://t.co/LiepjWewQP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LiepjWewQP",
+            "expanded_url": "https://twitter.com/i/web/status/1225083055817330689",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225082969066438700,
+      "in_reply_to_status_id_str": "1225082969066438656",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 15:46:32 +0000 2020",
+      "id": 1225083290396319700,
+      "id_str": "1225083290396319744",
+      "text": "@Semenov @anrublev Спасибо за большое количество лайков, но ещё 202 факта, к сожалению, уже не осилю 🙈",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225083055817330700,
+      "in_reply_to_status_id_str": "1225083055817330689",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 16:18:44 +0000 2020",
+      "id": 1225091395641323500,
+      "id_str": "1225091395641323520",
+      "text": "@Semenov @anrublev Скорее всего есть какие-то неточности, Если что-то заметите, не забудьте рассказать в реплаях или пишите в лс.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Vlad Semënov",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "anrublev",
+            "name": "Andrey Rublev",
+            "id": 169412950,
+            "id_str": "169412950",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1225083290396319700,
+      "in_reply_to_status_id_str": "1225083290396319744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 17:00:17 +0000 2020",
+      "id": 1225101854226440200,
+      "id_str": "1225101854226440203",
+      "text": "Вот отличное исправление по поводу Nest.js. Посыпаю голову пеплом https://t.co/AFiMr4DPvW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AFiMr4DPvW",
+            "expanded_url": "https://twitter.com/siberex/status/1225098475706241026?s=20",
+            "display_url": "twitter.com/siberex/status…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1225098475706241000,
+      "quoted_status_id_str": "1225098475706241026",
+      "quoted_status": {
+        "created_at": "Wed Feb 05 16:46:52 +0000 2020",
+        "id": 1225098475706241000,
+        "id_str": "1225098475706241026",
+        "text": "@jsunderhood Nest.js не на базе Angular, просто идейно вдохновлён им (есть TS декораторы, CLI для генерации кода из… https://t.co/2zMNOw36fA",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2zMNOw36fA",
+              "expanded_url": "https://twitter.com/i/web/status/1225098475706241026",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1225009742692737000,
+        "in_reply_to_status_id_str": "1225009742692737026",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 14395818,
+          "id_str": "14395818"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1207243739309195300,
+        "quoted_status_id_str": "1207243739309195264",
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 05 17:24:18 +0000 2020",
+      "id": 1225107897895526400,
+      "id_str": "1225107897895526400",
+      "text": "Дополнение про Rhino https://t.co/04VHPshd1m",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/04VHPshd1m",
+            "expanded_url": "https://twitter.com/siberex/status/1225102575797776384?s=20",
+            "display_url": "twitter.com/siberex/status…",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1225102575797776400,
+      "quoted_status_id_str": "1225102575797776384",
+      "quoted_status": {
+        "created_at": "Wed Feb 05 17:03:10 +0000 2020",
+        "id": 1225102575797776400,
+        "id_str": "1225102575797776384",
+        "text": "@jsunderhood Затем его сменил Nashhorn, разработанный уже Ораклом. \nА сейчас им на смену пришёл БОМБИЧЕСКИЙ GraalVM… https://t.co/Rbr0SF1bU4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Rbr0SF1bU4",
+              "expanded_url": "https://twitter.com/i/web/status/1225102575797776384",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1225010048084201500,
+        "in_reply_to_status_id_str": "1225010048084201472",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 14395818,
+          "id_str": "14395818"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
     }
   ]
 }
