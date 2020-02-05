@@ -2416,6 +2416,3739 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 07:27:02 +0000 2020",
+      "id": 1224595199294345200,
+      "id_str": "1224595199294345217",
+      "text": "Сегодня будет тред про мою любимую тему — историю JS и JS-экосистемы. Один лайк — один факт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 297,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 12:45:20 +0000 2020",
+      "id": 1224675303391449000,
+      "id_str": "1224675303391449091",
+      "text": "@ibondar_ua @sllavvicc Придётся поднапрячься )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ibondar_ua",
+            "name": "Ihor Bondar",
+            "id": 376082214,
+            "id_str": "376082214",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "sllavvicc",
+            "name": "Artiom Veaceslav",
+            "id": 619405389,
+            "id_str": "619405389",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224664912829526000,
+      "in_reply_to_status_id_str": "1224664912829526016",
+      "in_reply_to_user_id": 376082214,
+      "in_reply_to_user_id_str": "376082214",
+      "in_reply_to_screen_name": "ibondar_ua",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:04:30 +0000 2020",
+      "id": 1224680126669033500,
+      "id_str": "1224680126669033474",
+      "text": "Начну с наиболее известного факта. JavaScript был разработан Бренданом Айком в течение 10 дней.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224595199294345200,
+      "in_reply_to_status_id_str": "1224595199294345217",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:04:57 +0000 2020",
+      "id": 1224680239072268300,
+      "id_str": "1224680239072268288",
+      "text": "2. JavaScript успел поменять два названия: сначала он назывался Mocha, потом LiveScript. Процесс смены имён происхо… https://t.co/FRX0iOGZqS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FRX0iOGZqS",
+            "expanded_url": "https://twitter.com/i/web/status/1224680239072268288",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680126669033500,
+      "in_reply_to_status_id_str": "1224680126669033474",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:05:14 +0000 2020",
+      "id": 1224680310631280600,
+      "id_str": "1224680310631280641",
+      "text": "3. Брендан Айк изначально разрабатывал Scheme-like язык, но из-за маркетинговых соображений новый язык стал напоминать Java.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680239072268300,
+      "in_reply_to_status_id_str": "1224680239072268288",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:05:31 +0000 2020",
+      "id": 1224680384849498000,
+      "id_str": "1224680384849498114",
+      "text": "4. На тот момент Java была очень горячей технологией. И Netscape боролся за то, чтобы Sun (владелец Java) выпустила… https://t.co/zWTd3vh6q9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zWTd3vh6q9",
+            "expanded_url": "https://twitter.com/i/web/status/1224680384849498114",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680310631280600,
+      "in_reply_to_status_id_str": "1224680310631280641",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:05:50 +0000 2020",
+      "id": 1224680462112698400,
+      "id_str": "1224680462112698369",
+      "text": "5. Netscape заполучила Java, а JavaScript начал потихоньку набирать популярность и уже год спустя Netscape выпустил… https://t.co/c3Zfxqic9l",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/c3Zfxqic9l",
+            "expanded_url": "https://twitter.com/i/web/status/1224680462112698369",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680384849498000,
+      "in_reply_to_status_id_str": "1224680384849498114",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:06:12 +0000 2020",
+      "id": 1224680553196269600,
+      "id_str": "1224680553196269569",
+      "text": "6. Microsoft не хотела оставаться в стороне и не хотела терять долю web'а из-за того, что страницы с JavaScript в I… https://t.co/WU3rGEkC3Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WU3rGEkC3Z",
+            "expanded_url": "https://twitter.com/i/web/status/1224680553196269569",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680462112698400,
+      "in_reply_to_status_id_str": "1224680462112698369",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:06:26 +0000 2020",
+      "id": 1224680612256198700,
+      "id_str": "1224680612256198658",
+      "text": "7. Было выбрано такое название, потому что торговая марка \"JavaScript\" принадлежала Sun.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680553196269600,
+      "in_reply_to_status_id_str": "1224680553196269569",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:06:38 +0000 2020",
+      "id": 1224680663984545800,
+      "id_str": "1224680663984545795",
+      "text": "8. Чтобы не допустить фрагментацию web'а, был сформирован комитет TC-39, который начал работать над спецификацией JavaScript.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680612256198700,
+      "in_reply_to_status_id_str": "1224680612256198658",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:07:11 +0000 2020",
+      "id": 1224680803680116700,
+      "id_str": "1224680803680116736",
+      "text": "9. Из-за проблем с торговой маркой для спецификации был выбрано новое название — ECMAScript.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680663984545800,
+      "in_reply_to_status_id_str": "1224680663984545795",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:07:22 +0000 2020",
+      "id": 1224680847296561200,
+      "id_str": "1224680847296561154",
+      "text": "10. В 1997 году была выпущена первая версия стандарта ECMAScript, который курируется ECMA — ассоциацией по стандарт… https://t.co/14llWqL2pE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/14llWqL2pE",
+            "expanded_url": "https://twitter.com/i/web/status/1224680847296561154",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680803680116700,
+      "in_reply_to_status_id_str": "1224680803680116736",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:07:33 +0000 2020",
+      "id": 1224680896269312000,
+      "id_str": "1224680896269312005",
+      "text": "11. В 1998 году вышла вторая версия стандарта, которая практически не отличалась от первой. Все изменения состояли… https://t.co/7LHKiTCVcV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7LHKiTCVcV",
+            "expanded_url": "https://twitter.com/i/web/status/1224680896269312005",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680847296561200,
+      "in_reply_to_status_id_str": "1224680847296561154",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:07:42 +0000 2020",
+      "id": 1224680934370369500,
+      "id_str": "1224680934370369537",
+      "text": "12. У JavaScript в то время не было многих фич: регулярные выражения, try/catch, in, instanceof, do/while и т.п. В… https://t.co/Gf7P7bfdPr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gf7P7bfdPr",
+            "expanded_url": "https://twitter.com/i/web/status/1224680934370369537",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680896269312000,
+      "in_reply_to_status_id_str": "1224680896269312005",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:08:01 +0000 2020",
+      "id": 1224681012824768500,
+      "id_str": "1224681012824768512",
+      "text": "13. Все эти фичи были стандартизированы в третьей версии ECMAScript в декабре 1999 года.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224680934370369500,
+      "in_reply_to_status_id_str": "1224680934370369537",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:08:17 +0000 2020",
+      "id": 1224681078725791700,
+      "id_str": "1224681078725791751",
+      "text": "14. В 2000 году вышел первый браузер Netscape Communicator 6 с поддержкой третьей версии стандарта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681012824768500,
+      "in_reply_to_status_id_str": "1224681012824768512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:08:32 +0000 2020",
+      "id": 1224681144026837000,
+      "id_str": "1224681144026836992",
+      "text": "15. Но до этого в марте 1998 Netscape сделала анонс, что новый браузер будет бесплатным (да, тогда браузер надо был… https://t.co/DPdWCpEsbu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DPdWCpEsbu",
+            "expanded_url": "https://twitter.com/i/web/status/1224681144026836992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681078725791700,
+      "in_reply_to_status_id_str": "1224681078725791751",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:08:43 +0000 2020",
+      "id": 1224681187572174800,
+      "id_str": "1224681187572174850",
+      "text": "16. Для воплощения этих планов была учреждена организация Mozilla, в которой по факту работали инженеры компании Netscape.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681144026837000,
+      "in_reply_to_status_id_str": "1224681144026836992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:08:53 +0000 2020",
+      "id": 1224681230328893400,
+      "id_str": "1224681230328893441",
+      "text": "17. Тем самым Mozilla унаследовала код html-движка Gecko и js-движка SpiderMonkey, которые стали использоваться в н… https://t.co/TgFGTy3mLT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TgFGTy3mLT",
+            "expanded_url": "https://twitter.com/i/web/status/1224681230328893441",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681187572174800,
+      "in_reply_to_status_id_str": "1224681187572174850",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:09:03 +0000 2020",
+      "id": 1224681273622397000,
+      "id_str": "1224681273622396930",
+      "text": "18. SpiderMonkey — это второе название движка. Самое первое название, вернее его кодовое имя, было Mocha. Да, именн… https://t.co/zsDl3eGmE0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zsDl3eGmE0",
+            "expanded_url": "https://twitter.com/i/web/status/1224681273622396930",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681230328893400,
+      "in_reply_to_status_id_str": "1224681230328893441",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:09:21 +0000 2020",
+      "id": 1224681346905362400,
+      "id_str": "1224681346905362432",
+      "text": "19. Из-за переписывания кодовой базы Netscape потерял основную долю рынка. И когда в 2000 году вышел релиз 6-ой вер… https://t.co/KTvXoqluJn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KTvXoqluJn",
+            "expanded_url": "https://twitter.com/i/web/status/1224681346905362432",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681273622397000,
+      "in_reply_to_status_id_str": "1224681273622396930",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:09:35 +0000 2020",
+      "id": 1224681405256470500,
+      "id_str": "1224681405256470528",
+      "text": "20. В начале 2000-ых, когда Internet Explorer задавал тренды в web'е, началась работа над ECMAScript 4. Над стандар… https://t.co/WbKmpBn3S6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WbKmpBn3S6",
+            "expanded_url": "https://twitter.com/i/web/status/1224681405256470528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681346905362400,
+      "in_reply_to_status_id_str": "1224681346905362432",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Feb 04 13:09:45 +0000 2020",
+      "id": 1224681448629768200,
+      "id_str": "1224681448629768193",
+      "text": "21. Объём работ был огромный. В стандарт хотели добавить неймспейсы, интерфейсы, классы, опцианальную статическую т… https://t.co/DVf4fCfmVf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DVf4fCfmVf",
+            "expanded_url": "https://twitter.com/i/web/status/1224681448629768193",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681405256470500,
+      "in_reply_to_status_id_str": "1224681405256470528",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:09:57 +0000 2020",
+      "id": 1224681497988403200,
+      "id_str": "1224681497988403200",
+      "text": "22. На тот момент комитет поделился на две части. Одни хотели революционного развития JS, другие эволюционного.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681448629768200,
+      "in_reply_to_status_id_str": "1224681448629768193",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:10:05 +0000 2020",
+      "id": 1224681532562059300,
+      "id_str": "1224681532562059264",
+      "text": "23. Дуглас Крокфорд, который выступал от Yahoo, убедил участника из Microsoft в том, что огромное количество новых… https://t.co/v1sChQuU4Q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v1sChQuU4Q",
+            "expanded_url": "https://twitter.com/i/web/status/1224681532562059264",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681497988403200,
+      "in_reply_to_status_id_str": "1224681497988403200",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:10:15 +0000 2020",
+      "id": 1224681575247491000,
+      "id_str": "1224681575247491072",
+      "text": "24. Тем самым доминирующий на рынке браузер (Internet Explorer) отказывался поддерживать фичи из нового стандарта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681532562059300,
+      "in_reply_to_status_id_str": "1224681532562059264",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:10:26 +0000 2020",
+      "id": 1224681619203743700,
+      "id_str": "1224681619203743745",
+      "text": "25. Adobe, наоборот, выступала за новый стандарт. ActionScript, который разрабатывался сначала в недрах Macromedia,… https://t.co/snCuOKUA8Q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/snCuOKUA8Q",
+            "expanded_url": "https://twitter.com/i/web/status/1224681619203743745",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681575247491000,
+      "in_reply_to_status_id_str": "1224681575247491072",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:10:37 +0000 2020",
+      "id": 1224681666247037000,
+      "id_str": "1224681666247036929",
+      "text": "26. То есть если вы посмотрите на код ActionScript, то примерно так же бы выглядел и ECMAScript 4, если бы он был у… https://t.co/OwovqbC6Zy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OwovqbC6Zy",
+            "expanded_url": "https://twitter.com/i/web/status/1224681666247036929",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681619203743700,
+      "in_reply_to_status_id_str": "1224681619203743745",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:10:52 +0000 2020",
+      "id": 1224681730449334300,
+      "id_str": "1224681730449334280",
+      "text": "27. Прошло 8 лет, в комитете до сих пор не было консенсуса. Было решено, что так продолжаться не может.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681666247037000,
+      "in_reply_to_status_id_str": "1224681666247036929",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:11:07 +0000 2020",
+      "id": 1224681791031840800,
+      "id_str": "1224681791031840769",
+      "text": "28. Дуглас Крокфорд призвал остановить споры и исправить проблемы в существующей версии стандарта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681730449334300,
+      "in_reply_to_status_id_str": "1224681730449334280",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:11:21 +0000 2020",
+      "id": 1224681852881047600,
+      "id_str": "1224681852881047553",
+      "text": "29. Исправления были запланированы как часть спецификации ECMAScript 3.1, в которую должны были попасть части из че… https://t.co/iNWhpm527R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iNWhpm527R",
+            "expanded_url": "https://twitter.com/i/web/status/1224681852881047553",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681791031840800,
+      "in_reply_to_status_id_str": "1224681791031840769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:12:34 +0000 2020",
+      "id": 1224682157483942000,
+      "id_str": "1224682157483941889",
+      "text": "30. В новый стандарт был добавлен строгий режим, новые нужные методы для упрощения наследования и работы с массивам… https://t.co/iJts8Np6vn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iJts8Np6vn",
+            "expanded_url": "https://twitter.com/i/web/status/1224682157483941889",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224681852881047600,
+      "in_reply_to_status_id_str": "1224681852881047553",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:12:50 +0000 2020",
+      "id": 1224682225016418300,
+      "id_str": "1224682225016418306",
+      "text": "31. В 2009 году работа над 3.1 была закончена. Но стандарт решили переименовать в пятую версию, чтобы избежать пута… https://t.co/eg8biTFmld",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eg8biTFmld",
+            "expanded_url": "https://twitter.com/i/web/status/1224682225016418306",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682157483942000,
+      "in_reply_to_status_id_str": "1224682157483941889",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:13:15 +0000 2020",
+      "id": 1224682330473869300,
+      "id_str": "1224682330473869312",
+      "text": "32. Параллельно с четвёртым стандартом языка разрабатывалось новое расширение ECMAScript - E4X, которое позволило б… https://t.co/K8vXR6y5LN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K8vXR6y5LN",
+            "expanded_url": "https://twitter.com/i/web/status/1224682330473869312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682225016418300,
+      "in_reply_to_status_id_str": "1224682225016418306",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:14:56 +0000 2020",
+      "id": 1224682753922388000,
+      "id_str": "1224682753922387968",
+      "text": "33. Поддержка E4X появилась в SpiderMonkey, но потом была удалена. На mdn до сих пор можно найти этот артефакт — https://t.co/jbtPhXV7gM.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jbtPhXV7gM",
+            "expanded_url": "https://developer.mozilla.org/en-US/docs/Archive/Web/E4X",
+            "display_url": "developer.mozilla.org/en-US/docs/Arc…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682330473869300,
+      "in_reply_to_status_id_str": "1224682330473869312",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:15:08 +0000 2020",
+      "id": 1224682804467961900,
+      "id_str": "1224682804467961856",
+      "text": "34. После выпуска пятой версии комитет решил продолжить над эволюционным развитием языка — проект новой спецификаци… https://t.co/iKlDh4DcPv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iKlDh4DcPv",
+            "expanded_url": "https://twitter.com/i/web/status/1224682804467961856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682753922388000,
+      "in_reply_to_status_id_str": "1224682753922387968",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:15:46 +0000 2020",
+      "id": 1224682962085650400,
+      "id_str": "1224682962085650433",
+      "text": "35. Harmony стал идейным продолжением изменений, которые должны были появиться в четвёртой версии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682804467961900,
+      "in_reply_to_status_id_str": "1224682804467961856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:16:03 +0000 2020",
+      "id": 1224683035288907800,
+      "id_str": "1224683035288907783",
+      "text": "36. От многих идей отказались, например, от статической типизации, другие идеи были переосмыслены, например, классы… https://t.co/4r71izpiPD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4r71izpiPD",
+            "expanded_url": "https://twitter.com/i/web/status/1224683035288907783",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224682962085650400,
+      "in_reply_to_status_id_str": "1224682962085650433",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:16:13 +0000 2020",
+      "id": 1224683076728565800,
+      "id_str": "1224683076728565761",
+      "text": "37. Работа над ECMAScript 6 продолжалась 6 лет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683035288907800,
+      "in_reply_to_status_id_str": "1224683035288907783",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:16:26 +0000 2020",
+      "id": 1224683130319184000,
+      "id_str": "1224683130319183882",
+      "text": "38. К моменту, когда стандарт был закончен, браузеры уже начинали реализовывать новые фичи.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683076728565800,
+      "in_reply_to_status_id_str": "1224683076728565761",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:16:39 +0000 2020",
+      "id": 1224683186460004400,
+      "id_str": "1224683186460004352",
+      "text": "39. ECMAScript 6 в итоге был переименован в ECMAScript 2015. Использование года ознамевало переход к новому процессу стандартизации фич.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683130319184000,
+      "in_reply_to_status_id_str": "1224683130319183882",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:16:59 +0000 2020",
+      "id": 1224683269544906800,
+      "id_str": "1224683269544906753",
+      "text": "40. В новом процессе фичи разрабатываются друг от друга независимо (но с учётом друг друга). Теперь они должны прох… https://t.co/MIgoLVbmW1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MIgoLVbmW1",
+            "expanded_url": "https://twitter.com/i/web/status/1224683269544906753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683186460004400,
+      "in_reply_to_status_id_str": "1224683186460004352",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:17:11 +0000 2020",
+      "id": 1224683318920261600,
+      "id_str": "1224683318920261634",
+      "text": "41. После того как набирается достаточный набор фич в stage 4, формируется новый стандарт, который обозначается текущим годом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683269544906800,
+      "in_reply_to_status_id_str": "1224683269544906753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 13:17:21 +0000 2020",
+      "id": 1224683359185657900,
+      "id_str": "1224683359185657856",
+      "text": "42. На данный момент вышли версии 2016, 2017, 2018 и 2019.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683318920261600,
+      "in_reply_to_status_id_str": "1224683318920261634",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:23:36 +0000 2020",
+      "id": 1224745332543819800,
+      "id_str": "1224745332543819777",
+      "text": "43. В 1999 году разработчики из команды Outlook добавили новую фичу в IE5, с помощью которой страница могла получат… https://t.co/608iHlBVOn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/608iHlBVOn",
+            "expanded_url": "https://twitter.com/i/web/status/1224745332543819777",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224683359185657900,
+      "in_reply_to_status_id_str": "1224683359185657856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:23:48 +0000 2020",
+      "id": 1224745380790833200,
+      "id_str": "1224745380790833152",
+      "text": "44. Фича смогла попасть в браузер только благодаря тому, что в её названии была горячая на тот момент технология — XML.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745332543819800,
+      "in_reply_to_status_id_str": "1224745332543819777",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:24:02 +0000 2020",
+      "id": 1224745442728128500,
+      "id_str": "1224745442728128512",
+      "text": "45. &gt; Which is the real explanation of where the name XMLHTTP comes from- the thing is mostly about HTTP and doesn'… https://t.co/NESh6bWrli",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NESh6bWrli",
+            "expanded_url": "https://twitter.com/i/web/status/1224745442728128512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745380790833200,
+      "in_reply_to_status_id_str": "1224745380790833152",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 04 17:24:14 +0000 2020",
+      "id": 1224745493059776500,
+      "id_str": "1224745493059776512",
+      "text": "46. Эта фича оставалась вне видимости разработчиков, пока Google не выпустил новые сервисы Gmail и Google Maps, кот… https://t.co/2dGbrjMA4t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2dGbrjMA4t",
+            "expanded_url": "https://twitter.com/i/web/status/1224745493059776512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745442728128500,
+      "in_reply_to_status_id_str": "1224745442728128512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:24:28 +0000 2020",
+      "id": 1224745548995088400,
+      "id_str": "1224745548995088384",
+      "text": "47. У такого подхода создания приложений не было названия, пока Джесси Джеймса Гарретта не придумал термин AJAX. Вп… https://t.co/wNapKoJxdU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wNapKoJxdU",
+            "expanded_url": "https://twitter.com/i/web/status/1224745548995088384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745493059776500,
+      "in_reply_to_status_id_str": "1224745493059776512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:24:40 +0000 2020",
+      "id": 1224745599570010000,
+      "id_str": "1224745599570010112",
+      "text": "48. Распространение информации о новом подходе к разработке web-приложений очень сильно повлияло на то, как разрабо… https://t.co/uxHqIvOowZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uxHqIvOowZ",
+            "expanded_url": "https://twitter.com/i/web/status/1224745599570010112",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745548995088400,
+      "in_reply_to_status_id_str": "1224745548995088384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:24:52 +0000 2020",
+      "id": 1224745648962048000,
+      "id_str": "1224745648962048002",
+      "text": "49. Раньше JS был просто неизбежным злом, который пытались подменить с помощью Flash, Java, Silverlight. После появ… https://t.co/mlVLkufmnn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mlVLkufmnn",
+            "expanded_url": "https://twitter.com/i/web/status/1224745648962048002",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745599570010000,
+      "in_reply_to_status_id_str": "1224745599570010112",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:25:03 +0000 2020",
+      "id": 1224745698731733000,
+      "id_str": "1224745698731732994",
+      "text": "50. Примерно в это время (2004-2006) стали появляться js-библиотеки, которые сглаживали различия между браузерами и… https://t.co/955a8jfrun",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/955a8jfrun",
+            "expanded_url": "https://twitter.com/i/web/status/1224745698731732994",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745648962048000,
+      "in_reply_to_status_id_str": "1224745648962048002",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:25:15 +0000 2020",
+      "id": 1224745747125612500,
+      "id_str": "1224745747125612544",
+      "text": "51. В это время же время стали появляться большие монолитные фреймворки, с помощью которых можно было писать GUI-пр… https://t.co/Ezs0X7pJrn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ezs0X7pJrn",
+            "expanded_url": "https://twitter.com/i/web/status/1224745747125612544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745698731733000,
+      "in_reply_to_status_id_str": "1224745698731732994",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:25:27 +0000 2020",
+      "id": 1224745796731646000,
+      "id_str": "1224745796731645952",
+      "text": "52. В конце 2004 года Тим О'Рейли популяризирует термин \"Web 2.0\", которыми стали называть современные web-приложения.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745747125612500,
+      "in_reply_to_status_id_str": "1224745747125612544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:25:39 +0000 2020",
+      "id": 1224745847163969500,
+      "id_str": "1224745847163969536",
+      "text": "53. В 2005 году появился яркий представитель Web 2.0 — первая операционная системаx, полностью работающая в браузер… https://t.co/kSv16LgrZQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kSv16LgrZQ",
+            "expanded_url": "https://twitter.com/i/web/status/1224745847163969536",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745796731646000,
+      "in_reply_to_status_id_str": "1224745796731645952",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:25:50 +0000 2020",
+      "id": 1224745894744154000,
+      "id_str": "1224745894744154118",
+      "text": "54. В 2008 году выходит знаменитая книга Дугласа Крокфорда \"JavaScript: The Good Parts\", которая стала важной вехой… https://t.co/F9vyuqTY5f",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F9vyuqTY5f",
+            "expanded_url": "https://twitter.com/i/web/status/1224745894744154118",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745847163969500,
+      "in_reply_to_status_id_str": "1224745847163969536",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:26:03 +0000 2020",
+      "id": 1224745946828898300,
+      "id_str": "1224745946828898304",
+      "text": "55. Как говорил Дуглас: \"JavaScript — это наиболее неправильно понимаемый язык\".",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745894744154000,
+      "in_reply_to_status_id_str": "1224745894744154118",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:26:43 +0000 2020",
+      "id": 1224746115230249000,
+      "id_str": "1224746115230248966",
+      "text": "56. Работа Дугласа, появление хороших js-библиотек и фреймворков, может считаться первой волной, привлёкших большое… https://t.co/bp0LOID5Jq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bp0LOID5Jq",
+            "expanded_url": "https://twitter.com/i/web/status/1224746115230248966",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224745946828898300,
+      "in_reply_to_status_id_str": "1224745946828898304",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:26:57 +0000 2020",
+      "id": 1224746173812166700,
+      "id_str": "1224746173812166657",
+      "text": "57. В 2008 году балом правил Internet Explorer c ECMAScript 3. Но на это время у Firefox уже была солидная пользова… https://t.co/yrb8pdYYGN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yrb8pdYYGN",
+            "expanded_url": "https://twitter.com/i/web/status/1224746173812166657",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746115230249000,
+      "in_reply_to_status_id_str": "1224746115230248966",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:27:13 +0000 2020",
+      "id": 1224746243466956800,
+      "id_str": "1224746243466956806",
+      "text": "58. В то время как для отладки кода в IE программисты использовали alert'ы, а особенно продвинутые скачивали специа… https://t.co/uxatlSba73",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uxatlSba73",
+            "expanded_url": "https://twitter.com/i/web/status/1224746243466956806",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746173812166700,
+      "in_reply_to_status_id_str": "1224746173812166657",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:27:28 +0000 2020",
+      "id": 1224746305127354400,
+      "id_str": "1224746305127354368",
+      "text": "59. Из-за того что IE был очень сильно интегрирован в операционную систему, Microsoft не могла оперативно делать об… https://t.co/Y6ctkGugRk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y6ctkGugRk",
+            "expanded_url": "https://twitter.com/i/web/status/1224746305127354368",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746243466956800,
+      "in_reply_to_status_id_str": "1224746243466956806",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:27:39 +0000 2020",
+      "id": 1224746352858620000,
+      "id_str": "1224746352858619905",
+      "text": "60. IE стал превращаться в аутсайдера. Дошло до того, что разработчики огромных проектов настолько устали от IE6, ч… https://t.co/dFPt2iKCM6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dFPt2iKCM6",
+            "expanded_url": "https://twitter.com/i/web/status/1224746352858619905",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746305127354400,
+      "in_reply_to_status_id_str": "1224746305127354368",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:27:57 +0000 2020",
+      "id": 1224746424736325600,
+      "id_str": "1224746424736325634",
+      "text": "61. Internet Explorer начал терять рынок. Ситуация для IE стала ещё неблагоприятнее, после того как в 2008 году Goo… https://t.co/5RQiaio6zH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5RQiaio6zH",
+            "expanded_url": "https://twitter.com/i/web/status/1224746424736325634",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746352858620000,
+      "in_reply_to_status_id_str": "1224746352858619905",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:29:09 +0000 2020",
+      "id": 1224746730568196000,
+      "id_str": "1224746730568196097",
+      "text": "62. В это время была выпущена пятая версия спецификации ECMAScript, которая была реализована во всех браузерах к 20… https://t.co/kpHe70GvZU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kpHe70GvZU",
+            "expanded_url": "https://twitter.com/i/web/status/1224746730568196097",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746424736325600,
+      "in_reply_to_status_id_str": "1224746424736325634",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:29:31 +0000 2020",
+      "id": 1224746820166987800,
+      "id_str": "1224746820166987777",
+      "text": "63. Приложения, написанные на JavaScript становились всё больше и больше, что привело к появлению целого вороха MVC… https://t.co/uePsVQDPk6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uePsVQDPk6",
+            "expanded_url": "https://twitter.com/i/web/status/1224746820166987777",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746730568196000,
+      "in_reply_to_status_id_str": "1224746730568196097",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:32:09 +0000 2020",
+      "id": 1224747482581819400,
+      "id_str": "1224747482581819396",
+      "text": "@sllavvicc Рубеж преодолён. Осталось ещё 162😅",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sllavvicc",
+            "name": "Artiom Veaceslav",
+            "id": 619405389,
+            "id_str": "619405389",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224609037565808600,
+      "in_reply_to_status_id_str": "1224609037565808640",
+      "in_reply_to_user_id": 619405389,
+      "in_reply_to_user_id_str": "619405389",
+      "in_reply_to_screen_name": "sllavvicc",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 17:41:49 +0000 2020",
+      "id": 1224749915659739100,
+      "id_str": "1224749915659739139",
+      "text": "@DimonShin Спешка для того чтобы обойти конкурента и получить важное преимущество, запартнёрившись с Sun. Плюс недо… https://t.co/uvoTxNldeB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DimonShin",
+            "name": "Яшин Дмитрий",
+            "id": 1050754896,
+            "id_str": "1050754896",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uvoTxNldeB",
+            "expanded_url": "https://twitter.com/i/web/status/1224749915659739139",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224748790701351000,
+      "in_reply_to_status_id_str": "1224748790701350914",
+      "in_reply_to_user_id": 1050754896,
+      "in_reply_to_user_id_str": "1050754896",
+      "in_reply_to_screen_name": "DimonShin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 18:46:51 +0000 2020",
+      "id": 1224766281531916300,
+      "id_str": "1224766281531916288",
+      "text": "@AntonK52 Хороший пойнт. Я бы даже сказал, что совокупность таких особенностей создали хайп вокруг Chrome.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntonK52",
+            "name": "Anton Kastritskiy",
+            "id": 313253238,
+            "id_str": "313253238",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224763995606917000,
+      "in_reply_to_status_id_str": "1224763995606917120",
+      "in_reply_to_user_id": 313253238,
+      "in_reply_to_user_id_str": "313253238",
+      "in_reply_to_screen_name": "AntonK52",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 18:48:46 +0000 2020",
+      "id": 1224766763402961000,
+      "id_str": "1224766763402960896",
+      "text": "RT @AntonK52: @jsunderhood Как же сендбокс табов? Это позволило не убивать весь браузер, но года одна из вкладок повисла. Это был главный п…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntonK52",
+            "name": "Anton Kastritskiy",
+            "id": 313253238,
+            "id_str": "313253238",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Feb 04 18:37:46 +0000 2020",
+        "id": 1224763995606917000,
+        "id_str": "1224763995606917120",
+        "text": "@jsunderhood Как же сендбокс табов? Это позволило не убивать весь браузер, но года одна из вкладок повисла. Это был… https://t.co/gUuK04frW6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/gUuK04frW6",
+              "expanded_url": "https://twitter.com/i/web/status/1224763995606917120",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1224746424736325600,
+        "in_reply_to_status_id_str": "1224746424736325634",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 313253238,
+          "id_str": "313253238"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:35:57 +0000 2020",
+      "id": 1224778640841375700,
+      "id_str": "1224778640841375750",
+      "text": "64. Основным фактором, который привёл к бурному развитию новых инструментов, можно считать появление Node.js, котор… https://t.co/G4EqpZt0HT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/G4EqpZt0HT",
+            "expanded_url": "https://twitter.com/i/web/status/1224778640841375750",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224746820166987800,
+      "in_reply_to_status_id_str": "1224746820166987777",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:36:14 +0000 2020",
+      "id": 1224778710525661200,
+      "id_str": "1224778710525661184",
+      "text": "65. Node.js был построен на базе JavaScript-движка v8, который был позаимствовал у Chrome, и библиотеки libuv, созд… https://t.co/UQhdBMtLh7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UQhdBMtLh7",
+            "expanded_url": "https://twitter.com/i/web/status/1224778710525661184",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224778640841375700,
+      "in_reply_to_status_id_str": "1224778640841375750",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:36:24 +0000 2020",
+      "id": 1224778751843668000,
+      "id_str": "1224778751843667969",
+      "text": "66. Node.js изначально разрабатывался под эгидой CommonJS, — инициативой, цель которой заключалась в создании набор… https://t.co/TpiueeDe1g",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TpiueeDe1g",
+            "expanded_url": "https://twitter.com/i/web/status/1224778751843667969",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224778710525661200,
+      "in_reply_to_status_id_str": "1224778710525661184",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:37:09 +0000 2020",
+      "id": 1224778941879193600,
+      "id_str": "1224778941879193600",
+      "text": "67. Создание CommonJS было вдохновлено Кевином Дангуром, который описал текущие проблемы в статье \"What Server Side… https://t.co/F1BP0VqvbK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F1BP0VqvbK",
+            "expanded_url": "https://twitter.com/i/web/status/1224778941879193600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224778751843668000,
+      "in_reply_to_status_id_str": "1224778751843667969",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:37:56 +0000 2020",
+      "id": 1224779138483085300,
+      "id_str": "1224779138483085313",
+      "text": "68. Одной из проблем было отсутствие модульной системы, это было критичной проблемой для создания больших серверных приложений.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224778941879193600,
+      "in_reply_to_status_id_str": "1224778941879193600",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:38:26 +0000 2020",
+      "id": 1224779261959196700,
+      "id_str": "1224779261959196675",
+      "text": "69. После публикации статьи Кевина и призыва подключиться к работе над CommonJS, появился стандарт, описывающий мод… https://t.co/pwJw6jyFHY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pwJw6jyFHY",
+            "expanded_url": "https://twitter.com/i/web/status/1224779261959196675",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779138483085300,
+      "in_reply_to_status_id_str": "1224779138483085313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:39:02 +0000 2020",
+      "id": 1224779413679739000,
+      "id_str": "1224779413679738886",
+      "text": "70. Node.js набирал обороты, работа, которая шла в рамках CommonJS, не удовлетворяла разработчиков Node.js и в итог… https://t.co/tOtJsiYcN9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tOtJsiYcN9",
+            "expanded_url": "https://twitter.com/i/web/status/1224779413679738886",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779261959196700,
+      "in_reply_to_status_id_str": "1224779261959196675",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:39:14 +0000 2020",
+      "id": 1224779464204263400,
+      "id_str": "1224779464204263433",
+      "text": "71. Айзек Шлютер (автор npm) в 2013 написал: \"One evening at Joyent, when I mentioned being a bit frustrated [...]… https://t.co/r30M88z1j3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/r30M88z1j3",
+            "expanded_url": "https://twitter.com/i/web/status/1224779464204263433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779413679739000,
+      "in_reply_to_status_id_str": "1224779413679738886",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Feb 04 19:39:34 +0000 2020",
+      "id": 1224779549558395000,
+      "id_str": "1224779549558394885",
+      "text": "72. В 2019 году команда Node.js анонсировала поддержку официального стандарта ECMAScript Modules, что фактически оз… https://t.co/fylDsmVxIG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fylDsmVxIG",
+            "expanded_url": "https://twitter.com/i/web/status/1224779549558394885",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779464204263400,
+      "in_reply_to_status_id_str": "1224779464204263433",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:39:50 +0000 2020",
+      "id": 1224779618038767600,
+      "id_str": "1224779618038767616",
+      "text": "73. Самым важным результатом работы CommonJS помимо модулей можно считать разработку стандарта промисов Promises/A,… https://t.co/wmNfYZ56pC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wmNfYZ56pC",
+            "expanded_url": "https://twitter.com/i/web/status/1224779618038767616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779549558395000,
+      "in_reply_to_status_id_str": "1224779549558394885",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:40:06 +0000 2020",
+      "id": 1224779684795371500,
+      "id_str": "1224779684795371521",
+      "text": "74. Поддержка промисов в качестве работы с асинхронщиной была добавлена в одну из ранних версий Node.js, но была уд… https://t.co/EsJaPtpCEq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EsJaPtpCEq",
+            "expanded_url": "https://twitter.com/i/web/status/1224779684795371521",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779618038767600,
+      "in_reply_to_status_id_str": "1224779618038767616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:40:21 +0000 2020",
+      "id": 1224779748385153000,
+      "id_str": "1224779748385153024",
+      "text": "75. В 2012 году Райан оставляет разработку Node.js и передаёт все права компании работодателю Joyent и Айзеку Шлютеру в частности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779684795371500,
+      "in_reply_to_status_id_str": "1224779684795371521",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:41:18 +0000 2020",
+      "id": 1224779983610089500,
+      "id_str": "1224779983610089473",
+      "text": "76. Разработка Node.js начала стагнировать, Joyent не торопилась обновлять проект на новую версию v8, тем самым наб… https://t.co/HW2PEGhKQQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HW2PEGhKQQ",
+            "expanded_url": "https://twitter.com/i/web/status/1224779983610089473",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779748385153000,
+      "in_reply_to_status_id_str": "1224779748385153024",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:41:33 +0000 2020",
+      "id": 1224780050391801900,
+      "id_str": "1224780050391801856",
+      "text": "77. Сообщество пошло на радикальный шаг и в декабре 2014 года 5 из 7 ключевых разработчиков создали независимый фор… https://t.co/DyVKM0NaG2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DyVKM0NaG2",
+            "expanded_url": "https://twitter.com/i/web/status/1224780050391801856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224779983610089500,
+      "in_reply_to_status_id_str": "1224779983610089473",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:41:44 +0000 2020",
+      "id": 1224780095476437000,
+      "id_str": "1224780095476436998",
+      "text": "78. Спустя всего полгода стало очевидно, что у Node.js проблемы — фокус коммьюнити переключился на io.js.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224780050391801900,
+      "in_reply_to_status_id_str": "1224780050391801856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:42:10 +0000 2020",
+      "id": 1224780203760799700,
+      "id_str": "1224780203760799745",
+      "text": "79. Компания Joyent выразила свою готовность перенести разработку Node.js на независимую площадку и передать права… https://t.co/4bWXLWsWtO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4bWXLWsWtO",
+            "expanded_url": "https://twitter.com/i/web/status/1224780203760799745",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224780095476437000,
+      "in_reply_to_status_id_str": "1224780095476436998",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:42:56 +0000 2020",
+      "id": 1224780397088735200,
+      "id_str": "1224780397088735233",
+      "text": "80. 12 марта 2019 года Node.js Foundation и JS Foundation объявили о слиянии с образованием новой некоммерческой ор… https://t.co/9BSwUq3yLt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9BSwUq3yLt",
+            "expanded_url": "https://twitter.com/i/web/status/1224780397088735233",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224780203760799700,
+      "in_reply_to_status_id_str": "1224780203760799745",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 19:52:15 +0000 2020",
+      "id": 1224782742728126500,
+      "id_str": "1224782742728126467",
+      "text": "Остановитесь! 😅 https://t.co/FWpOyYFVeK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1224782737686573000,
+            "id_str": "1224782737686573056",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP9NaSbWsAABNTm.png",
+            "media_url_https": "https://pbs.twimg.com/media/EP9NaSbWsAABNTm.png",
+            "url": "https://t.co/FWpOyYFVeK",
+            "display_url": "pic.twitter.com/FWpOyYFVeK",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1224782742728126467/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1224782737686573000,
+            "id_str": "1224782737686573056",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP9NaSbWsAABNTm.png",
+            "media_url_https": "https://pbs.twimg.com/media/EP9NaSbWsAABNTm.png",
+            "url": "https://t.co/FWpOyYFVeK",
+            "display_url": "pic.twitter.com/FWpOyYFVeK",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1224782742728126467/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 584,
+                "h": 373,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 04 20:51:12 +0000 2020",
+      "id": 1224797575036973000,
+      "id_str": "1224797575036973056",
+      "text": "@avdeev_alexey Да не, всё ок)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avdeev_alexey",
+            "name": "Aleksei Avdeev",
+            "id": 347279216,
+            "id_str": "347279216",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1224796044636106800,
+      "in_reply_to_status_id_str": "1224796044636106758",
+      "in_reply_to_user_id": 347279216,
+      "in_reply_to_user_id_str": "347279216",
+      "in_reply_to_screen_name": "avdeev_alexey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
