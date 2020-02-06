@@ -13,58 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 6992,
+  "followers_count": 7004,
   "friends_count": 527,
   "listed_count": 235,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3270,
+  "favourites_count": 3274,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 35931,
+  "statuses_count": 35933,
   "lang": null,
   "status": {
-    "created_at": "Wed Feb 05 17:24:18 +0000 2020",
-    "id": 1225107897895526400,
-    "id_str": "1225107897895526400",
-    "text": "Дополнение про Rhino https://t.co/04VHPshd1m",
+    "created_at": "Wed Feb 05 20:09:31 +0000 2020",
+    "id": 1225149475930415000,
+    "id_str": "1225149475930415104",
+    "text": "@a_mashoshyna Да в Netscape",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/04VHPshd1m",
-          "expanded_url": "https://twitter.com/siberex/status/1225102575797776384?s=20",
-          "display_url": "twitter.com/siberex/status…",
+          "screen_name": "a_mashoshyna",
+          "name": "Nastya Mashoshyna",
+          "id": 818186590208061400,
+          "id_str": "818186590208061441",
           "indices": [
-            21,
-            44
+            0,
+            13
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1225147391306870800,
+    "in_reply_to_status_id_str": "1225147391306870786",
+    "in_reply_to_user_id": 818186590208061400,
+    "in_reply_to_user_id_str": "818186590208061441",
+    "in_reply_to_screen_name": "a_mashoshyna",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1225102575797776400,
-    "quoted_status_id_str": "1225102575797776384",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "bg"
+    "lang": "cs"
   },
   "contributors_enabled": false,
   "is_translator": false,
