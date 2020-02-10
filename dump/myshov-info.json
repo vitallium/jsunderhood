@@ -13,72 +13,83 @@
     }
   },
   "protected": false,
-  "followers_count": 7020,
+  "followers_count": 7026,
   "friends_count": 526,
-  "listed_count": 235,
+  "listed_count": 236,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3288,
+  "favourites_count": 3293,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36059,
+  "statuses_count": 36082,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 08 22:09:26 +0000 2020",
-    "id": 1226266817519325200,
-    "id_str": "1226266817519325188",
-    "text": "@djbob84308302 Для дебага есть плагины, например https://t.co/B37SZ9jt7v. Но я дебажу с помощью обычных девтулзов.… https://t.co/1vTygjnEpz",
+    "created_at": "Sun Feb 09 16:57:24 +0000 2020",
+    "id": 1226550676844667000,
+    "id_str": "1226550676844666881",
+    "text": "@myshov 4. Разработка без бандлеров — https://t.co/rJbu0ldX2i\n5. Vim и жизнь в консоли — https://t.co/xS3tyOgMYP\n6.… https://t.co/OiU7KMh780",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "djbob84308302",
-          "name": "djbob",
-          "id": 1097832236701892600,
-          "id_str": "1097832236701892610",
+          "screen_name": "myshov",
+          "name": "Alexander Myshov",
+          "id": 168906977,
+          "id_str": "168906977",
           "indices": [
             0,
-            14
+            7
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/B37SZ9jt7v",
-          "expanded_url": "https://github.com/sidorares/node-vim-debugger",
-          "display_url": "github.com/sidorares/node…",
+          "url": "https://t.co/rJbu0ldX2i",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1225804352729817088?s=20",
+          "display_url": "twitter.com/jsunderhood/st…",
           "indices": [
-            49,
-            72
+            38,
+            61
           ]
         },
         {
-          "url": "https://t.co/1vTygjnEpz",
-          "expanded_url": "https://twitter.com/i/web/status/1226266817519325188",
+          "url": "https://t.co/xS3tyOgMYP",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1226121995114381312?s=20",
+          "display_url": "twitter.com/jsunderhood/st…",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/OiU7KMh780",
+          "expanded_url": "https://twitter.com/i/web/status/1226550676844666881",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1226264252186583000,
-    "in_reply_to_status_id_str": "1226264252186583040",
-    "in_reply_to_user_id": 1097832236701892600,
-    "in_reply_to_user_id_str": "1097832236701892610",
-    "in_reply_to_screen_name": "djbob84308302",
+    "in_reply_to_status_id": 1226550632703758300,
+    "in_reply_to_status_id_str": "1226550632703758336",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 1226527740930777000,
+    "quoted_status_id_str": "1226527740930777089",
+    "retweet_count": 1,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
