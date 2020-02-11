@@ -10,12 +10,12 @@ block meta
 
 block headerTitle
   a(href="/")= underhood.underhood
-  small= " / " + author.username
+  .d-inline-block= " / " + author.username
 
 block content
   .container
     .row
-      .col-md-6.col-md-offset-3
+      .col-md-6.offset-3
         article
           .title
             if (author.media && author.media.image)
@@ -23,12 +23,12 @@ block content
             h1= author.username
               = " "
               small: small: a(href="https://twitter.com/" + author.username)
-                span.glyphicon.glyphicon-new-window
+                i.fa.fa-external-link-alt
             p
               i= helpers.authorRender.d(author.tweets[0].created_at)
               if author.info.location
                 = ", "
-                span.glyphicon.glyphicon-map-marker
+                i.fa.fa-map-marker
                 = " " + author.info.location
 
           each weekday in helpers.authorRender.prepareTweets(author.tweets)
@@ -50,7 +50,7 @@ block content
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
                       for image in images
-                        img.img-responsive(src=image)
+                        img.img-fluid(src=image)
                     footer
                       a(href="https://twitter.com/" + retweetedUser)
                         = "@" + retweetedUser
@@ -62,7 +62,7 @@ block content
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
                       for image in images
-                        img.img-responsive(src=image)
+                        img.img-fluid(src=image)
                     footer
                       a(href="https://twitter.com/" + quotedUser)
                         = "@" + quotedUser
@@ -72,7 +72,7 @@ block content
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
                       for image in images
-                        img.img-responsive(src=image)
+                        img.img-fluid(src=image)
                 else
                   p
                     != helpers.authorRender.render(tweet)
@@ -80,7 +80,7 @@ block content
                       - var getImageHttps = function (item) { return item.media_url_https; };
                       - var images = tweet.entities.media.map(getImageHttps);
                       for image in images
-                        img.img-responsive(src=image)
+                        img.img-fluid(src=image)
                 a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
 
           h2(id="links")
@@ -92,7 +92,7 @@ block content
               each link in group.links
                 li: a(href=link)= link
 
-      .col-md-8.col-md-offset-2
+      .col-md-8.offset-2
           hr
           - var prev = helpers.authorRender.prevAuthor(author);
           - var next = helpers.authorRender.nextAuthor(author);
@@ -107,7 +107,7 @@ block content
                     = " "
                     a(href="/" + prev.authorId)= "@" + prev.username
               if next
-                .col-xs-6.text-right(class= !prev ? 'col-xs-offset-6' : '')
+                .col-xs-6.ml-auto.text-right(class= !prev ? 'offset-6' : '')
                   .h3.author-prev-next
                     a(href="/" + next.authorId)= "@" + next.username
                     = " "

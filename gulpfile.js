@@ -27,7 +27,6 @@ const underhood = require('./.underhoodrc.json');
 const webpackConfig = require('./webpack.config');
 
 const authorRender = require('./helpers/author-render');
-const bust = require('./helpers/bust');
 const lastUpdated = require('./helpers/last-updated');
 
 const authors = require('./dump');
@@ -36,6 +35,7 @@ const latestInfo = (head(authors) || {}).info;
 
 const pugDefaults = {
   pretty: true,
+  baseDir: './',
   locals: {
     site: underhood.site,
     latestInfo,
@@ -74,118 +74,109 @@ gulp.task('css', () => {
     .pipe(gulp.dest('./dist/css/'));
 });
 
-gulp.task(
-  'index',
-  gulp.series('css', () => {
-    const authorsToPost = authors.filter(author => author.post !== false);
+gulp.task('icons', () => {
+  return gulp
+    .src([
+      './node_modules/font-awesome/fonts/**/*',
+      '!./node_modules/font-awesome/{less,less/*}',
+      '!./node_modules/font-awesome/{scss,scss/*}',
+      '!./node_modules/font-awesome/.*',
+      '!./node_modules/font-awesome/*.{txt,json,md}',
+    ])
+    .pipe(gulp.dest('./dist/fonts'));
+});
 
-    return gulp
-      .src('layouts/index.pug')
-      .pipe(
-        pug({
-          locals: {
-            title: `Сайт @${underhood.underhood}`,
-            desc: underhood.underhoodDesc,
-            underhood,
-            currentAuthor: head(authors),
-            authors: splitEvery(3, authorsToPost),
-            helpers: {
-              bust,
-              firstTweet,
-              render,
-            },
+gulp.task('index', () => {
+  const authorsToPost = authors.filter(author => author.post !== false);
+
+  return gulp
+    .src('layouts/index.pug')
+    .pipe(
+      pug({
+        locals: {
+          title: `Сайт @${underhood.underhood}`,
+          desc: underhood.underhoodDesc,
+          underhood,
+          currentAuthor: head(authors),
+          authors: splitEvery(3, authorsToPost),
+          helpers: {
+            firstTweet,
+            render,
           },
-        }),
-      )
-      .pipe(
-        rename({
-          basename: 'index',
-        }),
-      )
-      .pipe(gulp.dest('./dist/'));
-  }),
-);
+        },
+      }),
+    )
+    .pipe(gulp.dest('./dist/'));
+});
 
-gulp.task(
-  'stats',
-  gulp.series('css', () => {
-    return gulp
-      .src('./layouts/stats.pug')
-      .pipe(
-        pug({
-          locals: {
-            title: `Статистика @${underhood.underhood}`,
-            url: 'stats/',
-            desc: underhood.underhoodDesc,
-            lastUpdated,
-            underhood,
-            stats: getStats(authors),
-            helpers: {
-              bust,
-            },
-          },
-        }),
-      )
-      .pipe(
-        rename({
-          dirname: 'stats',
-          basename: 'index',
-        }),
-      )
-      .pipe(gulp.dest('./dist/'));
-  }),
-);
+gulp.task('stats', () => {
+  return gulp
+    .src('./layouts/stats.pug')
+    .pipe(
+      pug({
+        locals: {
+          title: `Статистика @${underhood.underhood}`,
+          url: 'stats/',
+          desc: underhood.underhoodDesc,
+          lastUpdated,
+          underhood,
+          stats: getStats(authors),
+        },
+      }),
+    )
+    .pipe(
+      rename({
+        dirname: 'stats',
+        basename: 'index',
+      })
+    )
+    .pipe(gulp.dest('./dist/'));
+});
 
-gulp.task(
-  'md-pages',
-  gulp.series('css', done => {
-    each(
-      [
-        {
-          name: 'about',
-          title: 'О проекте',
-        },
-        {
-          name: 'authoring',
-          title: 'Авторам',
-        },
-        {
-          name: 'instruction',
-          title: 'Инструкция',
-        },
-      ],
-      item => {
-        const page = fs.readFileSync(`./pages/${item.name}.md`, {
-          encoding: 'utf8',
-        });
-        // TODO change to 'ru' after moment/moment#2634 will be published
-        const article = articleData(page, 'D MMMM YYYY', 'en');
-        return gulp
-          .src('layouts/article.pug')
-          .pipe(
-            pug({
-              locals: merge(article, {
-                title: item.title,
-                url: `${item.name}/`,
-                underhood,
-                helpers: {
-                  bust,
-                },
-              }),
-            }),
-          )
-          .pipe(
-            rename({
-              dirname: item.name,
-              basename: 'index',
-            }),
-          )
-          .pipe(gulp.dest('dist'));
+gulp.task('md-pages', done => {
+  each(
+    [
+      {
+        name: 'about',
+        title: 'О проекте',
       },
-      done,
-    );
-  }),
-);
+      {
+        name: 'authoring',
+        title: 'Авторам',
+      },
+      {
+        name: 'instruction',
+        title: 'Инструкция',
+      },
+    ],
+    item => {
+      const page = fs.readFileSync(`./pages/${item.name}.md`, {
+        encoding: 'utf8',
+      });
+      // TODO change to 'ru' after moment/moment#2634 will be published
+      const article = articleData(page, 'D MMMM YYYY', 'en');
+      return gulp
+        .src('./layouts/article.pug')
+        .pipe(
+          pug({
+            locals: merge(article, {
+              title: item.title,
+              url: `${item.name}/`,
+              underhood,
+            }),
+          }),
+        )
+        .pipe(
+          rename({
+            dirname: item.name,
+            basename: 'index',
+          }),
+        )
+        .pipe(gulp.dest('dist'));
+    },
+    done,
+  );
+});
 
 gulp.task('rss', done => {
   const feed = new RSS(underhood.site);
@@ -210,43 +201,39 @@ gulp.task('rss', done => {
   );
 });
 
-gulp.task(
-  'authors',
-  gulp.series('css', done => {
-    const authorsToPost = authors
-      .filter(author => author.tweets.length > 0)
-      .filter(author => author.post !== false);
+gulp.task('authors', done => {
+  const authorsToPost = authors
+    .filter(author => author.tweets.length > 0)
+    .filter(author => author.post !== false);
 
-    each(
-      authorsToPost,
-      author =>
-        gulp
-          .src('./layouts/author.pug')
-          .pipe(
-            pug({
-              pretty: true,
-              locals: {
-                title: `Неделя @${author.username} в @${underhood.underhood}`,
-                author,
-                underhood,
-                helpers: {
-                  authorRender,
-                  bust,
-                },
+  each(
+    authorsToPost,
+    author =>
+      gulp
+        .src('./layouts/author.pug')
+        .pipe(
+          pug({
+            pretty: true,
+            locals: {
+              title: `Неделя @${author.username} в @${underhood.underhood}`,
+              author,
+              underhood,
+              helpers: {
+                authorRender,
               },
-            }),
-          )
-          .pipe(
-            rename({
-              dirname: author.authorId,
-              basename: 'index',
-            }),
-          )
-          .pipe(gulp.dest('./dist/')),
-      done,
-    );
-  }),
-);
+            },
+          }),
+        )
+        .pipe(
+          rename({
+            dirname: author.authorId,
+            basename: 'index',
+          }),
+        )
+        .pipe(gulp.dest('./dist/')),
+    done,
+  );
+});
 
 gulp.task('userpics', () => {
   return gulp
@@ -258,8 +245,8 @@ gulp.task('userpics', () => {
           height: 96,
         },
       }),
-      imagemin(),
     )
+    .pipe(imagemin())
     .pipe(gulp.dest('dist/images'));
 });
 
@@ -275,8 +262,8 @@ gulp.task('current-userpic', () => {
             height: 192,
           },
         }),
-        imagemin(),
       )
+      .pipe(imagemin())
       .pipe(rename('current-image'))
       .pipe(gulp.dest('dist/images'))
   );
@@ -319,14 +306,14 @@ gulp.task('server', () => {
 gulp.task('clean', done => {
   rimraf('dist', done);
 });
-gulp.task('html', gulp.series(['stats', 'authors', 'index', 'rss', 'md-pages']));
+gulp.task('html', gulp.series(['css', 'icons', 'stats', 'authors', 'index', 'rss', 'md-pages']));
 gulp.task('build', gulp.series('html', 'js', 'stats', 'static', 'userpics', 'current-media'));
 
-gulp.task('watch', gulp.series(['build', 'server']), () => {
-  watch(['**/*.pug'], () => gulp.start('html'));
-  watch(['css/**/*.css'], () => gulp.start('css'));
-  watch('js/**/*.js', () => gulp.start('js'));
-  watch('static/**', () => gulp.start('static'));
+gulp.task('watch', gulp.parallel(['build', 'server']), () => {
+  watch('**/*.pug', ['html']);
+  watch('css/**/*.css', ['css']);
+  watch('js/**/*.js', ['js']);
+  watch('static/**', ['static']);
 });
 
-gulp.task('default', gulp.series(['clean', 'watch']));
+gulp.task('default', gulp.series(['clean', 'build']));
