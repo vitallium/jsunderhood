@@ -128,7 +128,7 @@ gulp.task('stats', () => {
       rename({
         dirname: 'stats',
         basename: 'index',
-      })
+      }),
     )
     .pipe(gulp.dest('./dist/'));
 });
