@@ -9400,10 +9400,17 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typographic-numbers@^0.2.1:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/typographic-numbers/-/typographic-numbers-0.2.2.tgz#b83ba84760dbefbd7e31870cb6c3fcee427b8e40"
-  integrity sha1-uDuoR2Db771+MYcMtsP87kJ7jkA=
+typographic-numbers-l10n-db@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/typographic-numbers-l10n-db/-/typographic-numbers-l10n-db-0.1.1.tgz#2c86004d3841ecdf30212e4c082a0d06dd2687e0"
+  integrity sha1-LIYATThB7N8wIS5MCCoNBt0mh+A=
+
+typographic-numbers@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/typographic-numbers/-/typographic-numbers-2.0.3.tgz#e802ed5d4f50b9eb0d43374d3c867a0f938bf326"
+  integrity sha1-6ALtXU9QuesNQzdNPIZ6D5OL8yY=
+  dependencies:
+    typographic-numbers-l10n-db "^0.1.0"
 
 uglify-js@^2.6.1:
   version "2.8.29"
