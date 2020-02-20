@@ -13,53 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 7090,
+  "followers_count": 7092,
   "friends_count": 526,
   "listed_count": 237,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3286,
+  "favourites_count": 3289,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36085,
+  "statuses_count": 36098,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 10 17:25:55 +0000 2020",
-    "id": 1226920242049421300,
-    "id_str": "1226920242049421312",
-    "text": "@4rontender Надеемся ещё будет.\nТак что пока пусть останется в тайне.",
-    "truncated": false,
+    "created_at": "Wed Feb 19 20:20:43 +0000 2020",
+    "id": 1230225723870281700,
+    "id_str": "1230225723870281732",
+    "text": "Резюмируя. Сколько компаний столько и подходов к собеседованиям. Но представьте как тяжело собеседовать ваших кумир… https://t.co/8Vauh8N4fj",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "4rontender",
-          "name": "Ринат Валиуллов",
-          "id": 862738522788290600,
-          "id_str": "862738522788290561",
+          "url": "https://t.co/8Vauh8N4fj",
+          "expanded_url": "https://twitter.com/i/web/status/1230225723870281732",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            11
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1226892568912420900,
-    "in_reply_to_status_id_str": "1226892568912420869",
-    "in_reply_to_user_id": 862738522788290600,
-    "in_reply_to_user_id_str": "862738522788290561",
-    "in_reply_to_screen_name": "4rontender",
+    "in_reply_to_status_id": 1230225722154848300,
+    "in_reply_to_status_id_str": "1230225722154848256",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
