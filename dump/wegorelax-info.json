@@ -13,93 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 7101,
-  "friends_count": 526,
+  "followers_count": 7103,
+  "friends_count": 528,
   "listed_count": 237,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3297,
+  "favourites_count": 3302,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36123,
+  "statuses_count": 36142,
   "lang": null,
   "status": {
-    "created_at": "Fri Feb 21 06:16:31 +0000 2020",
-    "id": 1230738048523985000,
-    "id_str": "1230738048523984898",
-    "text": "RT @andrey_sitnik: Бесплатный CI типа Travis CI — общественный ресурс. Мне хочется его экономить и запускать задачи, которые не зависят от…",
-    "truncated": false,
+    "created_at": "Sat Feb 22 19:01:09 +0000 2020",
+    "id": 1231292861620117500,
+    "id_str": "1231292861620117504",
+    "text": "И так уход в свой маленький бизнес, не вариант. Накопить сразу на старость и выйти на пенсию, но у нас и ЗП не те..… https://t.co/e6uBcLjQcV",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "andrey_sitnik",
-          "name": "Андрей Ситник",
-          "id": 62229769,
-          "id_str": "62229769",
+          "url": "https://t.co/e6uBcLjQcV",
+          "expanded_url": "https://twitter.com/i/web/status/1231292861620117504",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            3,
-            17
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1231292860286324700,
+    "in_reply_to_status_id_str": "1231292860286324736",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Feb 20 13:03:33 +0000 2020",
-      "id": 1230478096006074400,
-      "id_str": "1230478096006074368",
-      "text": "Бесплатный CI типа Travis CI — общественный ресурс. Мне хочется его экономить и запускать задачи, которые не завися… https://t.co/fT7zi9UCyC",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/fT7zi9UCyC",
-            "expanded_url": "https://twitter.com/i/web/status/1230478096006074368",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 6,
-      "favorite_count": 26,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
