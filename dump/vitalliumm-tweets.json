@@ -1,0 +1,68 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 24 13:19:14 +0000 2020",
+      "id": 1231931590554595300,
+      "id_str": "1231931590554595328",
+      "text": "Всем привет! Эту неделю с вами будет @Vitalliumm. Я занимаюсь фронтендом в @gitlab, вношу вклад в OSS (это я закрыл… https://t.co/Ff8chEGDzE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitalliumm",
+            "name": "Vitaly Slobodin",
+            "id": 203317967,
+            "id_str": "203317967",
+            "indices": [
+              37,
+              48
+            ]
+          },
+          {
+            "screen_name": "gitlab",
+            "name": "GitLab",
+            "id": 390167291,
+            "id_str": "390167291",
+            "indices": [
+              75,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ff8chEGDzE",
+            "expanded_url": "https://twitter.com/i/web/status/1231931590554595328",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
