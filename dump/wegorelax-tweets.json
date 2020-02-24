@@ -3208,6 +3208,1245 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 06:36:19 +0000 2020",
+      "id": 1231467806107066400,
+      "id_str": "1231467806107066373",
+      "text": "Всех с 23 февраля, желаю вам больше строгих типов на границах качества вашего кода 🤠😉🥳🤥🥰 https://t.co/4hVRz4r7Jt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4hVRz4r7Jt",
+            "expanded_url": "https://twitter.com/JavaScriptFeed/status/1231365611038470144",
+            "display_url": "twitter.com/JavaScriptFeed…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1231365611038470100,
+      "quoted_status_id_str": "1231365611038470144",
+      "quoted_status": {
+        "created_at": "Sat Feb 22 23:50:13 +0000 2020",
+        "id": 1231365611038470100,
+        "id_str": "1231365611038470144",
+        "text": "Great New Features Released in TypeScript 3.5 via @gitconnected\n\n#javascript #typescript #programming… https://t.co/S3R4QhrGEx",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "javascript",
+              "indices": [
+                65,
+                76
+              ]
+            },
+            {
+              "text": "typescript",
+              "indices": [
+                77,
+                88
+              ]
+            },
+            {
+              "text": "programming",
+              "indices": [
+                89,
+                101
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gitconnected",
+              "name": "gitconnected | Developer Community 💻",
+              "id": 827693758527332400,
+              "id_str": "827693758527332352",
+              "indices": [
+                50,
+                63
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/S3R4QhrGEx",
+              "expanded_url": "https://twitter.com/i/web/status/1231365611038470144",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://javascriptfeed.com\" rel=\"nofollow\">javascript-feed</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 945366261000822800,
+          "id_str": "945366261000822789"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:51 +0000 2020",
+      "id": 1231520539757465600,
+      "id_str": "1231520539757465600",
+      "text": "Воскресенье, время ретроспектив и Scrum митингов в кафешках...\n\nA это значит, что пришло время пообсуждать Agile в… https://t.co/JA2W5cE8Pb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JA2W5cE8Pb",
+            "expanded_url": "https://twitter.com/i/web/status/1231520539757465600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:52 +0000 2020",
+      "id": 1231520541636518000,
+      "id_str": "1231520541636517890",
+      "text": "В разработке все знакомы с Agile подходами:\n\n- разбивай большую задачу на мелкие задачи;\n- разрабатывай мелкими ите… https://t.co/8nC34fIz1d",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8nC34fIz1d",
+            "expanded_url": "https://twitter.com/i/web/status/1231520541636517890",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520539757465600,
+      "in_reply_to_status_id_str": "1231520539757465600",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:52 +0000 2020",
+      "id": 1231520543070969900,
+      "id_str": "1231520543070969856",
+      "text": "Многие книжки по Agile приводят в пример стройку и строителей:  бригады, прорабов, и тп.\n\nЯ решил поговорить со стр… https://t.co/07fiu5UbIO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/07fiu5UbIO",
+            "expanded_url": "https://twitter.com/i/web/status/1231520543070969856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520541636518000,
+      "in_reply_to_status_id_str": "1231520541636517890",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:52 +0000 2020",
+      "id": 1231520544446713900,
+      "id_str": "1231520544446713856",
+      "text": "А утопия в том, что Agile преподносится как серебряная пуля по решению всех проблем. Да много фрэймворков, но не от… https://t.co/qXK7HAWfv5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qXK7HAWfv5",
+            "expanded_url": "https://twitter.com/i/web/status/1231520544446713856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520543070969900,
+      "in_reply_to_status_id_str": "1231520543070969856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:53 +0000 2020",
+      "id": 1231520545734348800,
+      "id_str": "1231520545734348800",
+      "text": "Дальше больше... Работа с заказчиком выставляется таким образом, что документация не может быть важнее прямой работ… https://t.co/dwcpfmtWpq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dwcpfmtWpq",
+            "expanded_url": "https://twitter.com/i/web/status/1231520545734348800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520544446713900,
+      "in_reply_to_status_id_str": "1231520544446713856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:53 +0000 2020",
+      "id": 1231520547151978500,
+      "id_str": "1231520547151978496",
+      "text": "Хорошо разложено как работать на результат в книжке: https://t.co/vndd5tGMmC\n\nОдна ремарка, они улучшают уже имеющи… https://t.co/o4iZTUd33I",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vndd5tGMmC",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/4341360/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              53,
+              76
+            ]
+          },
+          {
+            "url": "https://t.co/o4iZTUd33I",
+            "expanded_url": "https://twitter.com/i/web/status/1231520547151978496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520545734348800,
+      "in_reply_to_status_id_str": "1231520545734348800",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:54 +0000 2020",
+      "id": 1231520548657782800,
+      "id_str": "1231520548657782784",
+      "text": "Методики и фрэймворки используемые в Agile давным давно используются в реальном производстве. Где есть физические о… https://t.co/IpkTgwnZ5L",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IpkTgwnZ5L",
+            "expanded_url": "https://twitter.com/i/web/status/1231520548657782784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520547151978500,
+      "in_reply_to_status_id_str": "1231520547151978496",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:54 +0000 2020",
+      "id": 1231520550578720800,
+      "id_str": "1231520550578720768",
+      "text": "Очень много вопросов по измерению объемов труда. Это самый большой вопрос для менеджеров, как?\n\nСтори поинтами? Бер… https://t.co/1iJ2Ah6UWH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1iJ2Ah6UWH",
+            "expanded_url": "https://twitter.com/i/web/status/1231520550578720768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520548657782800,
+      "in_reply_to_status_id_str": "1231520548657782784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:54 +0000 2020",
+      "id": 1231520551845400600,
+      "id_str": "1231520551845400577",
+      "text": "Кажется, что Agile это маркетинговый ход одного человека, который взял все методики и подходы к созданию чего либо.… https://t.co/2tDZD1fxsK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2tDZD1fxsK",
+            "expanded_url": "https://twitter.com/i/web/status/1231520551845400577",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520550578720800,
+      "in_reply_to_status_id_str": "1231520550578720768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:55 +0000 2020",
+      "id": 1231520553162432500,
+      "id_str": "1231520553162432512",
+      "text": "А еще надо не забывать, что программистам, я именно про кодеров... Давольно тяжело общаться, проф деформация делает… https://t.co/3klxxHnlDd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3klxxHnlDd",
+            "expanded_url": "https://twitter.com/i/web/status/1231520553162432512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520551845400600,
+      "in_reply_to_status_id_str": "1231520551845400577",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 10:05:55 +0000 2020",
+      "id": 1231520554777272300,
+      "id_str": "1231520554777272320",
+      "text": "Резюмируя, можно построить в компании культуру, общение и процессы на много лучше той классики которую предлагает A… https://t.co/AIxlSKeYPc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AIxlSKeYPc",
+            "expanded_url": "https://twitter.com/i/web/status/1231520554777272320",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1231520553162432500,
+      "in_reply_to_status_id_str": "1231520553162432512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 11:24:58 +0000 2020",
+      "id": 1231540446637314000,
+      "id_str": "1231540446637314048",
+      "text": "@Ray75253172 Да и в этом косяк, люди это люди. У них есть эмоции. Настроение и жизнь вне работы.\n\nКак бы ты сильно… https://t.co/jCn2YA3qnX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ray75253172",
+            "name": "Рептилоид из гимназии",
+            "id": 1034470796058603500,
+            "id_str": "1034470796058603520",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jCn2YA3qnX",
+            "expanded_url": "https://twitter.com/i/web/status/1231540446637314048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1231532016769863700,
+      "in_reply_to_status_id_str": "1231532016769863680",
+      "in_reply_to_user_id": 1034470796058603500,
+      "in_reply_to_user_id_str": "1034470796058603520",
+      "in_reply_to_screen_name": "Ray75253172",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 11:28:25 +0000 2020",
+      "id": 1231541318423367700,
+      "id_str": "1231541318423367682",
+      "text": "@Ray75253172 На самом деле, замечаю, что у кодеров плохо с абстрактным мышлением. Мало читают художку. Им тяжело из… https://t.co/Sdv3e8LPTS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ray75253172",
+            "name": "Рептилоид из гимназии",
+            "id": 1034470796058603500,
+            "id_str": "1034470796058603520",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Sdv3e8LPTS",
+            "expanded_url": "https://twitter.com/i/web/status/1231541318423367682",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1231530626353897500,
+      "in_reply_to_status_id_str": "1231530626353897472",
+      "in_reply_to_user_id": 1034470796058603500,
+      "in_reply_to_user_id_str": "1034470796058603520",
+      "in_reply_to_screen_name": "Ray75253172",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 11:32:39 +0000 2020",
+      "id": 1231542381188653000,
+      "id_str": "1231542381188653057",
+      "text": "@Ray75253172 Самое страшное, что есть проблемма в межличностом общении.\n\nТяжело выстроить границы, договориться о с… https://t.co/ZxqhoOSpDr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ray75253172",
+            "name": "Рептилоид из гимназии",
+            "id": 1034470796058603500,
+            "id_str": "1034470796058603520",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZxqhoOSpDr",
+            "expanded_url": "https://twitter.com/i/web/status/1231542381188653057",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1231541318423367700,
+      "in_reply_to_status_id_str": "1231541318423367682",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 12:13:37 +0000 2020",
+      "id": 1231552690875969500,
+      "id_str": "1231552690875969537",
+      "text": "RT @apalevich: Законы Артура Кларка:\n1) Когда пожилой учёный утверждает, что что-то невозможно, — он, весьма вероятно, ошибается.\n\n2) Единс…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "apalevich",
+            "name": "Бложе мой",
+            "id": 75287968,
+            "id_str": "75287968",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Feb 23 12:09:24 +0000 2020",
+        "id": 1231551631285739500,
+        "id_str": "1231551631285739521",
+        "text": "Законы Артура Кларка:\n1) Когда пожилой учёный утверждает, что что-то невозможно, — он, весьма вероятно, ошибается.… https://t.co/Lt5L3IGo8Y",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Lt5L3IGo8Y",
+              "expanded_url": "https://twitter.com/i/web/status/1231551631285739521",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 75287968,
+          "id_str": "75287968"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 16:26:46 +0000 2020",
+      "id": 1231616396993482800,
+      "id_str": "1231616396993482752",
+      "text": "RT @maRx_flowers: Елкин максимально точно отразил, как взаимодействую я и праздник 23 февраля 🙂 https://t.co/qWYmNag6EB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maRx_flowers",
+            "name": "Tsvetkov Maksim",
+            "id": 499086501,
+            "id_str": "499086501",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1231614259936800800,
+            "id_str": "1231614259936800768",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+            "url": "https://t.co/qWYmNag6EB",
+            "display_url": "pic.twitter.com/qWYmNag6EB",
+            "expanded_url": "https://twitter.com/maRx_flowers/status/1231614264600907776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1231614264600907800,
+            "source_status_id_str": "1231614264600907776",
+            "source_user_id": 499086501,
+            "source_user_id_str": "499086501"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1231614259936800800,
+            "id_str": "1231614259936800768",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+            "url": "https://t.co/qWYmNag6EB",
+            "display_url": "pic.twitter.com/qWYmNag6EB",
+            "expanded_url": "https://twitter.com/maRx_flowers/status/1231614264600907776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1231614264600907800,
+            "source_status_id_str": "1231614264600907776",
+            "source_user_id": 499086501,
+            "source_user_id_str": "499086501"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Feb 23 16:18:17 +0000 2020",
+        "id": 1231614264600907800,
+        "id_str": "1231614264600907776",
+        "text": "Елкин максимально точно отразил, как взаимодействую я и праздник 23 февраля 🙂 https://t.co/qWYmNag6EB",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1231614259936800800,
+              "id_str": "1231614259936800768",
+              "indices": [
+                78,
+                101
+              ],
+              "media_url": "http://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+              "url": "https://t.co/qWYmNag6EB",
+              "display_url": "pic.twitter.com/qWYmNag6EB",
+              "expanded_url": "https://twitter.com/maRx_flowers/status/1231614264600907776/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1231614259936800800,
+              "id_str": "1231614259936800768",
+              "indices": [
+                78,
+                101
+              ],
+              "media_url": "http://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EReSpN_WsAAT3B9.jpg",
+              "url": "https://t.co/qWYmNag6EB",
+              "display_url": "pic.twitter.com/qWYmNag6EB",
+              "expanded_url": "https://twitter.com/maRx_flowers/status/1231614264600907776/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 499086501,
+          "id_str": "499086501"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "cba60fe77bc80469",
+          "url": "https://api.twitter.com/1.1/geo/id/cba60fe77bc80469.json",
+          "place_type": "city",
+          "name": "Tallinn",
+          "full_name": "Tallinn, Estonia",
+          "country_code": "EE",
+          "country": "Estonia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  24.5501404,
+                  59.3518286
+                ],
+                [
+                  24.9262886,
+                  59.3518286
+                ],
+                [
+                  24.9262886,
+                  59.4981855
+                ],
+                [
+                  24.5501404,
+                  59.4981855
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 94,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 18:29:32 +0000 2020",
+      "id": 1231647294015049700,
+      "id_str": "1231647294015049735",
+      "text": "@Ray75253172 Любая анархия в конце концов приводит к порядку.\n\nЯ не говорю про компании аля Яндекс, с монополией в… https://t.co/edb9Eb2P6k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ray75253172",
+            "name": "Рептилоид из гимназии",
+            "id": 1034470796058603500,
+            "id_str": "1034470796058603520",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/edb9Eb2P6k",
+            "expanded_url": "https://twitter.com/i/web/status/1231647294015049735",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1231644147863507000,
+      "in_reply_to_status_id_str": "1231644147863506944",
+      "in_reply_to_user_id": 1034470796058603500,
+      "in_reply_to_user_id_str": "1034470796058603520",
+      "in_reply_to_screen_name": "Ray75253172",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 23 18:31:34 +0000 2020",
+      "id": 1231647804914897000,
+      "id_str": "1231647804914896896",
+      "text": "@Ray75253172 Развести их по разным углам, убрать между ними перекрестные задачи. Узнать в чем у них проблемма, если… https://t.co/n6LlY5u6VF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ray75253172",
+            "name": "Рептилоид из гимназии",
+            "id": 1034470796058603500,
+            "id_str": "1034470796058603520",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/n6LlY5u6VF",
+            "expanded_url": "https://twitter.com/i/web/status/1231647804914896896",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1231643418327122000,
+      "in_reply_to_status_id_str": "1231643418327121922",
+      "in_reply_to_user_id": 1034470796058603500,
+      "in_reply_to_user_id_str": "1034470796058603520",
+      "in_reply_to_screen_name": "Ray75253172",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
