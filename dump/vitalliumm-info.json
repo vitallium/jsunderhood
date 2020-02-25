@@ -13,35 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 7113,
+  "followers_count": 7141,
   "friends_count": 528,
   "listed_count": 237,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3306,
+  "favourites_count": 3308,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36160,
+  "statuses_count": 36170,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 24 13:19:14 +0000 2020",
-    "id": 1231931590554595300,
-    "id_str": "1231931590554595328",
-    "text": "Всем привет! Эту неделю с вами будет @Vitalliumm. Я занимаюсь фронтендом в @gitlab, вношу вклад в OSS (это я закрыл… https://t.co/Ff8chEGDzE",
+    "created_at": "Mon Feb 24 19:33:42 +0000 2020",
+    "id": 1232025830601240600,
+    "id_str": "1232025830601240576",
+    "text": "@mittuss @Vitalliumm @gitlab @PhantomJS Я для себя разделяю так: GL для работы, GH для души и остального. Для детал… https://t.co/VkKwDLyxpX",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
+          "screen_name": "mittuss",
+          "name": "Митя Колесников",
+          "id": 119317313,
+          "id_str": "119317313",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
           "screen_name": "Vitalliumm",
           "name": "Vitaly Slobodin",
           "id": 203317967,
           "id_str": "203317967",
           "indices": [
-            37,
-            48
+            9,
+            20
           ]
         },
         {
@@ -50,15 +60,25 @@
           "id": 390167291,
           "id_str": "390167291",
           "indices": [
-            75,
-            82
+            21,
+            28
+          ]
+        },
+        {
+          "screen_name": "PhantomJS",
+          "name": "PhantomJS",
+          "id": 519617982,
+          "id_str": "519617982",
+          "indices": [
+            29,
+            39
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/Ff8chEGDzE",
-          "expanded_url": "https://twitter.com/i/web/status/1231931590554595328",
+          "url": "https://t.co/VkKwDLyxpX",
+          "expanded_url": "https://twitter.com/i/web/status/1232025830601240576",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -67,21 +87,22 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": 1232022877966389200,
+    "in_reply_to_status_id_str": "1232022877966389249",
+    "in_reply_to_user_id": 119317313,
+    "in_reply_to_user_id_str": "119317313",
+    "in_reply_to_screen_name": "mittuss",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 7,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
