@@ -13,53 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 7233,
+  "followers_count": 7237,
   "friends_count": 529,
   "listed_count": 237,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3321,
+  "favourites_count": 3324,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36285,
+  "statuses_count": 36317,
   "lang": null,
   "status": {
-    "created_at": "Wed Feb 26 16:29:58 +0000 2020",
-    "id": 1232704366223790000,
-    "id_str": "1232704366223790088",
-    "text": "@mezhstr_ronin Сторонняя: менеджер или другие коллеги. Но такое, повторюсь, бывают почти никогда :)",
+    "created_at": "Thu Feb 27 11:59:26 +0000 2020",
+    "id": 1232998672557912000,
+    "id_str": "1232998672557912064",
+    "text": "@theKashey @PaulMaly Так и было. В конце первого дня у нас были костры, песни под гитару и шашлыки на берегу Азовского моря.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mezhstr_ronin",
-          "name": "Kirill Tatchihin",
-          "id": 1194278261280399400,
-          "id_str": "1194278261280399362",
+          "screen_name": "theKashey",
+          "name": "Anton Korzunov",
+          "id": 97456304,
+          "id_str": "97456304",
           "indices": [
             0,
-            14
+            10
+          ]
+        },
+        {
+          "screen_name": "PaulMaly",
+          "name": "Paul Maly",
+          "id": 327273678,
+          "id_str": "327273678",
+          "indices": [
+            11,
+            20
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1232703981455118300,
-    "in_reply_to_status_id_str": "1232703981455118341",
-    "in_reply_to_user_id": 1194278261280399400,
-    "in_reply_to_user_id_str": "1194278261280399362",
-    "in_reply_to_screen_name": "mezhstr_ronin",
+    "in_reply_to_status_id": 1232950238060531700,
+    "in_reply_to_status_id_str": "1232950238060531713",
+    "in_reply_to_user_id": 97456304,
+    "in_reply_to_user_id_str": "97456304",
+    "in_reply_to_screen_name": "theKashey",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
