@@ -4283,15 +4283,14 @@ get-stream@^5.0.0, get-stream@^5.1.0:
   dependencies:
     pump "^3.0.0"
 
-get-tweets@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/get-tweets/-/get-tweets-3.0.0.tgz#26a6df58056cddeb8e7d877fd260dde3f47dd86a"
-  integrity sha1-JqbfWAVs3euOfYd/0mDd4/R92Go=
+get-tweets@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/get-tweets/-/get-tweets-4.0.0.tgz#f108a2eb17db90c46a44a2ff47146d94b0fc9993"
+  integrity sha1-8Qii6xfbkMRqRKL/RxRtlLD8mZM=
   dependencies:
     bignum-dec "^1.0.0"
-    object-assign "^4.0.1"
-    ramda "^0.18.0"
-    twit "^2.1.0"
+    ramda "^0.19.1"
+    twit "^2.2.2"
 
 get-twitter-followers@^1.1.0:
   version "1.1.0"
@@ -9402,7 +9401,7 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
-twit@^2.1.0, twit@^2.1.1:
+twit@^2.1.0, twit@^2.1.1, twit@^2.2.2:
   version "2.2.11"
   resolved "https://registry.yarnpkg.com/twit/-/twit-2.2.11.tgz#554343d1cf343ddf503280db821f61be5ab407c3"
   integrity sha512-BkdwvZGRVoUTcEBp0zuocuqfih4LB+kEFUWkWJOVBg6pAE9Ebv9vmsYTTrfXleZGf45Bj5H3A1/O9YhF2uSYNg==
