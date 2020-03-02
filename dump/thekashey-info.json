@@ -22,33 +22,22 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36358,
+  "statuses_count": 36363,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 02 08:21:41 +0000 2020",
-    "id": 1234393427984281600,
-    "id_str": "1234393427984281601",
-    "text": "@frontend_2017 Это смотря что называть летом. Если лето это когда +20 на улице, тогда оно тут с сентября по май.\n\nТ… https://t.co/fp606GQXqw",
+    "created_at": "Mon Mar 02 08:42:58 +0000 2020",
+    "id": 1234398783531675600,
+    "id_str": "1234398783531675648",
+    "text": "Что я могу сказать про работу в Сиднее?\nПроцессы совершенно по другому поставлены. И люди другие. И отношение друго… https://t.co/RsHEcE4r6w",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "frontend_2017",
-          "name": "web stranger",
-          "id": 865342245280464900,
-          "id_str": "865342245280464896",
-          "indices": [
-            0,
-            14
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/fp606GQXqw",
-          "expanded_url": "https://twitter.com/i/web/status/1234393427984281601",
+          "url": "https://t.co/RsHEcE4r6w",
+          "expanded_url": "https://twitter.com/i/web/status/1234398783531675648",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -58,11 +47,11 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1234392317278113800,
-    "in_reply_to_status_id_str": "1234392317278113793",
-    "in_reply_to_user_id": 865342245280464900,
-    "in_reply_to_user_id_str": "865342245280464896",
-    "in_reply_to_screen_name": "frontend_2017",
+    "in_reply_to_status_id": 1234398782109831200,
+    "in_reply_to_status_id_str": "1234398782109831168",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
