@@ -12,7 +12,7 @@ const tokens = {
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 };
-const { default: getTweets } = require('get-tweets');
+const getTweets = require('get-tweets');
 const getInfo = require('get-twitter-info');
 const getFollowers = require('get-twitter-followers');
 const log = require('./helpers/log');
