@@ -9399,7 +9399,7 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
-twit@^2.1.0, twit@^2.1.1, twit@^2.2.2:
+twit@^2.1.0, twit@^2.2.2:
   version "2.2.11"
   resolved "https://registry.yarnpkg.com/twit/-/twit-2.2.11.tgz#554343d1cf343ddf503280db821f61be5ab407c3"
   integrity sha512-BkdwvZGRVoUTcEBp0zuocuqfih4LB+kEFUWkWJOVBg6pAE9Ebv9vmsYTTrfXleZGf45Bj5H3A1/O9YhF2uSYNg==
@@ -9408,14 +9408,14 @@ twit@^2.1.0, twit@^2.1.1, twit@^2.2.2:
     mime "^1.3.4"
     request "^2.68.0"
 
-twitter-mentions@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/twitter-mentions/-/twitter-mentions-2.0.5.tgz#dd19474f0a8d6da3bc797187d3a93d6548b79d72"
-  integrity sha1-3RlHTwqNbaO8eXGH06k9ZUi3nXI=
+twitter-mentions@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/twitter-mentions/-/twitter-mentions-3.0.0.tgz#4077cd17a518de04ca1f3f6ca50389c982e07049"
+  integrity sha1-QHfNF6UY3gTKHz9spQOJyYLgcEk=
   dependencies:
     bignum-dec "^1.0.1"
-    ramda "^0.18.0"
-    twit "^2.1.1"
+    ramda "^0.19.1"
+    twit "^2.2.2"
 
 twitter-profile-media@^2.0.6:
   version "2.0.6"
