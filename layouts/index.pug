@@ -28,10 +28,11 @@ block content
             div.row
               .col-md-2
                 .row.text-center
-                  div.rounded-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
+                  img.rounded-circle(src=author.media.image)
               .col-md-10
-                h2(style="margin: 0"): a(href="/" + author.authorId + '/')
-                  = "@" + author.username
+                h2
+                  a(href="/" + author.authorId + '/')
+                    = "@" + author.username
                 if author.info.location
                   small
                     i.fa.fa-map-marker
