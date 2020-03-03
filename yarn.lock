@@ -9389,12 +9389,10 @@ tweet-links@^1.0.0:
   resolved "https://registry.yarnpkg.com/tweet-links/-/tweet-links-1.0.1.tgz#a555243b2df07ac28e1a7ab82dda110af223ccb8"
   integrity sha1-pVUkOy3wesKOGnq4LdoRCvIjzLg=
 
-tweet.md@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-3.0.0.tgz#cf96d81ed842847d521fa84134c8addede95b24f"
-  integrity sha512-hG9OYfFJ+U+6/iIa+5A92Gffl2bnHgCAyyPcAbniimzJaJdrQZLZkcoR1SZq4/Jg51BEiOTXt3NM9mG20hBLLQ==
-  dependencies:
-    emoji-regex "^8.0.0"
+tweet.md@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/tweet.md/-/tweet.md-3.0.1.tgz#2379beadd3bcc43a055bcec450e7149d613c0dc0"
+  integrity sha512-R92qY+OEh64oMgv7wr+Hi6rJ01BR4W3Y/rJlGqMD7ioyqi2JUhK5u4iGvzRLD8b4xowY4CzEESsjcNHhdMwXEQ==
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
