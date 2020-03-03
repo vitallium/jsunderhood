@@ -19,8 +19,8 @@ function getStatsPerAuthor(authors) {
     .map(author => merge(author, stats(author.tweets)));
 }
 
-module.exports = function getStats(authors) {
-  if (!authors || authors.length === 0) return;
+const getStats = authors => {
+  if (!authors || authors.length === 0) return null;
 
   return maxValues(getStatsPerAuthor(authors), [
     'tweets',
@@ -36,3 +36,5 @@ module.exports = function getStats(authors) {
     'retweeted.average',
   ]);
 };
+
+module.exports = getStats;

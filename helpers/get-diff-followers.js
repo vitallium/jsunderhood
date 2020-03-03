@@ -8,14 +8,18 @@ const prev = authorId =>
 const followers = authorId =>
   R.map(R.prop('id_str'), getAuthorArea(authorId, 'followers').followers || []);
 
-// getDiffFollowers :: String -> Object
-module.exports = function getDiffFollowers(authorId) {
+const getDiffFollowers = authorId => {
   const currentFollowers = followers(authorId);
   const previousFollowers = followers(prev(authorId));
+
   if (R.length(previousFollowers) > 0) {
     return {
       gain: R.length(diff(currentFollowers, previousFollowers)),
       loss: R.length(diff(previousFollowers, currentFollowers)),
     };
   }
+
+  return null;
 };
+
+module.exports = getDiffFollowers;

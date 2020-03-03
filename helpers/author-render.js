@@ -51,12 +51,10 @@ const authorsToPost = filter(author => author.post !== false, authors);
 const authorIndex = author => findIndex(propEq('authorId', author.authorId))(authorsToPost);
 const isFirstAuthor = author => authorIndex(author) === dec(length(authorsToPost));
 const isLastAuthor = author => author.authorId === prop('authorId', head(authorsToPost));
-const nextAuthor = author => {
-  if (!isLastAuthor(author)) return nth(dec(authorIndex(author)), authorsToPost);
-};
-const prevAuthor = author => {
-  if (!isFirstAuthor(author)) return nth(inc(authorIndex(author)), authorsToPost);
-};
+const nextAuthor = author =>
+  isLastAuthor(author) ? null : nth(dec(authorIndex(author)), authorsToPost);
+const prevAuthor = author =>
+  isFirstAuthor(prevAuthor) ? null : nth(inc(authorIndex(author)), authorsToPost);
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');

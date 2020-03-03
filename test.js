@@ -28,8 +28,8 @@ describe('js', () => {
     assert.deepEqual(getDiffFollowers('milk_is_my_life'), { gain: 60, loss: 28 });
   });
   it('getDiffFollowers obsolete', () => {
-    assert.equal(getDiffFollowers('ihorzenich'), undefined);
-    assert.equal(getDiffFollowers('oleg008'), undefined);
+    assert.equal(getDiffFollowers('ihorzenich'), null);
+    assert.equal(getDiffFollowers('oleg008'), null);
   });
 });
 

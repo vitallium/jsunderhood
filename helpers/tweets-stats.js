@@ -1,12 +1,12 @@
 const { is } = require('ramda');
 const { twitterId } = require('./../.underhoodrc.json');
 
-const isOwn = tweet => !isReply(tweet) && !isRetweet(tweet);
-const isReply = tweet => !!tweet.in_reply_to_screen_name && !isSelfReply(tweet);
 const isSelfReply = tweet => tweet.in_reply_to_user_id === twitterId;
+const isReply = tweet => !!tweet.in_reply_to_screen_name && !isSelfReply(tweet);
 const isRetweet = tweet => !!tweet.retweeted_status;
 const sumRetweeted = (state, tweet) => state + tweet.retweet_count;
 const sumFavorited = (state, tweet) => state + tweet.favorite_count;
+const isOwn = tweet => !isReply(tweet) && !isRetweet(tweet);
 
 const getObject = (array, percent) => ({
   total: array.length,
@@ -18,8 +18,8 @@ const getIntObject = (sum, divider) => ({
   average: Number(sum / divider || 0).toFixed(2),
 });
 
-module.exports = function tweetsStats(input) {
-  if (!input || !is(Array, input)) return;
+const tweetsStats = input => {
+  if (!input || !is(Array, input)) return null;
 
   const tweets = input.length;
   const percent = tweets / 100;
@@ -28,7 +28,7 @@ module.exports = function tweetsStats(input) {
   const retweets = input.filter(isRetweet);
 
   return {
-    tweets: tweets,
+    tweets,
     own: getObject(own, percent),
     replies: getObject(replies, percent),
     retweets: getObject(retweets, percent),
@@ -36,3 +36,5 @@ module.exports = function tweetsStats(input) {
     favorited: getIntObject(own.reduce(sumFavorited, 0), own.length),
   };
 };
+
+module.exports = tweetsStats;

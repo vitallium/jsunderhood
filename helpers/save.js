@@ -8,7 +8,8 @@ module.exports = function save(image, path, cb) {
     .then(({ body, ext }) => {
       writeFile(`./dump/${path}.${ext}`, body, err => {
         if (err) return cb(err);
-        cb(null, `${path}.${ext}`.replace('dump/', ''));
+
+        return cb(null, `${path}.${ext}`.replace('dump/', ''));
       });
     })
     .catch(cb);
