@@ -103,7 +103,7 @@ block content
                   .h3.author-prev-next
                     = "← "
                     if (prev.media && prev.media.image)
-                      div.rounded-circle.author-image.author-image--small(style="background-image: url(" + prev.media.image.replace('./', '/') + ");")
+                      img.rounded-circle.author-image.author-image--small(src=prev.media.image.replace('./', '/'))
                     = " "
                     a(href="/" + prev.authorId)= "@" + prev.username
               if next
@@ -112,6 +112,6 @@ block content
                     a(href="/" + next.authorId)= "@" + next.username
                     = " "
                     if (next.media && next.media.image)
-                      div.rounded-circle.author-image.author-image--small(style="background-image: url(" + next.media.image.replace('./', '/') + ");")
+                      img.rounded-circle.author-image.author-image--small(src=next.media.image.replace('./', '/'))
                     =" →"
           hr
