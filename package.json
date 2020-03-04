@@ -12,7 +12,8 @@
     "tdd": "npm test -- --watch",
     "posttest": "gulp clean",
     "start": "gulp",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "dev": "gulp watch"
   },
   "repository": {
     "type": "git",
@@ -81,6 +82,7 @@
     "@babel/node": "^7.8.4",
     "assert": "^2.0.0",
     "babel-eslint": "^10.0.3",
+    "browser-sync": "^2.26.7",
     "cheerio": "^0.22.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",

@@ -1,9 +1,10 @@
 const rimraf = require('rimraf');
+const browsersync = require('browser-sync').create();
 const each = require('each-done');
 const express = require('express');
 const fs = require('fs');
 const { outputFile } = require('fs-extra');
-const { html } = require('commonmark-helpers');
+const commonmark = require('commonmark-helpers');
 const numbers = require('typographic-numbers');
 const numd = require('numd');
 const RSS = require('rss');
@@ -17,7 +18,6 @@ const imagemin = require('gulp-imagemin');
 const gulp = require('gulp');
 const gulpPug = require('gulp-pug');
 const rename = require('gulp-rename');
-const watch = require('gulp-watch');
 const jimp = require('gulp-jimp');
 const postcss = require('gulp-postcss');
 
@@ -62,17 +62,32 @@ const getOptions = (opts = {}) => {
 
 const pug = opts => gulpPug(getOptions(opts));
 const firstTweet = pipe(prop('tweets'), head);
-const render = pipe(renderTweet, html);
+const render = pipe(renderTweet, commonmark.html);
+
+function browserSync(done) {
+  browsersync.init({
+    server: {
+      baseDir: './dist/',
+    },
+    port: 3000,
+  });
+  done();
+}
+
+function browserSyncReload(done) {
+  browsersync.reload();
+  done();
+}
 
 /**
  * MAIN TASKS
  */
-gulp.task('css', () => {
+function css() {
   return gulp
     .src('css/styles.css')
     .pipe(postcss([pcssImport, pcssInitial, autoprefixer]))
     .pipe(gulp.dest('./dist/css/'));
-});
+}
 
 gulp.task('icons', () => {
   return gulp
@@ -281,39 +296,35 @@ gulp.task('current-banner', () => {
 
 gulp.task('current-media', gulp.series(['current-userpic', 'current-banner']));
 
-gulp.task('js', () => {
+function js() {
   return webpackStream(webpackConfig).pipe(gulp.dest('dist'));
-});
+}
 
-gulp.task('static', () => {
+function staticFiles() {
   return gulp
     .src(['static/**', 'static/.**', 'node_modules/bootstrap/dist/**'])
     .pipe(gulp.dest('dist'));
-});
+}
 
-gulp.task('server', () => {
-  const app = express();
-  app.use(express.static('dist'));
-  app.listen(4000);
+const html = gulp.series(css, 'icons', 'stats', 'authors', 'index', 'rss', 'md-pages');
 
-  // eslint-disable-next-line no-console
-  console.log('Server is running on http://localhost:4000');
-});
+function watchFiles() {
+  gulp.watch('layouts/*.pug', gulp.series(html, browserSyncReload));
+  gulp.watch('css/**/*.css', css);
+  gulp.watch('js/**/*.js', js);
+  gulp.watch('static/**', staticFiles);
+}
+
+const watch = gulp.parallel(watchFiles, browserSync);
+const build = gulp.series(html, js, 'stats', staticFiles, 'userpics', 'current-media');
 
 /**
  * FLOW
  */
-gulp.task('clean', done => {
+exports.clean = gulp.task('clean', done => {
   rimraf('dist', done);
 });
-gulp.task('html', gulp.series(['css', 'icons', 'stats', 'authors', 'index', 'rss', 'md-pages']));
-gulp.task('build', gulp.series('html', 'js', 'stats', 'static', 'userpics', 'current-media'));
-
-gulp.task('watch', gulp.parallel(['build', 'server']), () => {
-  watch('**/*.pug', ['html']);
-  watch('css/**/*.css', ['css']);
-  watch('js/**/*.js', ['js']);
-  watch('static/**', ['static']);
-});
-
-gulp.task('default', gulp.series(['clean', 'build']));
+exports.html = html;
+exports.build = build;
+exports.watch = watch;
+exports.default = gulp.series(['clean', build]);
