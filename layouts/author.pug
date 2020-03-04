@@ -19,7 +19,7 @@ block content
         article
           .title
             if (author.media && author.media.image)
-              div.rounded-circle.author-image(style="background-image: url(" + author.media.image.replace('./', '/') + ");")
+              img.rounded-circle.author-image(src=author.media.image.replace('./', '/'))
             h1= author.username
               = " "
               small: small: a(href="https://twitter.com/" + author.username)
