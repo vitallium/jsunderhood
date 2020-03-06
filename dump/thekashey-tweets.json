@@ -9474,6 +9474,1430 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 00:09:19 +0000 2020",
+      "id": 1235356681833296000,
+      "id_str": "1235356681833295872",
+      "text": "@webholt Прикольная чтука. Очень похожа на https://t.co/YGQgXMok3F, только чуть более контролируемая.\n\nЭээхх, еще б… https://t.co/ALO7wMZyUT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YGQgXMok3F",
+            "expanded_url": "https://github.com/bem/bem-react/tree/master/packages/classname",
+            "display_url": "github.com/bem/bem-react/…",
+            "indices": [
+              43,
+              66
+            ]
+          },
+          {
+            "url": "https://t.co/ALO7wMZyUT",
+            "expanded_url": "https://twitter.com/i/web/status/1235356681833295872",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235354292384682000,
+      "in_reply_to_status_id_str": "1235354292384681986",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 00:12:37 +0000 2020",
+      "id": 1235357513370894300,
+      "id_str": "1235357513370894336",
+      "text": "@xwoody Любой элемент может быть блоком, но не обязан.\nБлок не может НЕ быть элементом, так как елемент ему задает… https://t.co/jeGH2lXgkV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xwoody",
+            "name": "Aleks Hudochenkov",
+            "id": 8035442,
+            "id_str": "8035442",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jeGH2lXgkV",
+            "expanded_url": "https://twitter.com/i/web/status/1235357513370894336",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235353781631676400,
+      "in_reply_to_status_id_str": "1235353781631676419",
+      "in_reply_to_user_id": 8035442,
+      "in_reply_to_user_id_str": "8035442",
+      "in_reply_to_screen_name": "xwoody",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 00:15:32 +0000 2020",
+      "id": 1235358245151072300,
+      "id_str": "1235358245151072256",
+      "text": "@webholt Нет, это не \"типы\".\n\nЯ хочу чтобы нельзя было `em` того чего нет и `foo(...)` того, что не определено.\nК с… https://t.co/zmtoW0ghaE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zmtoW0ghaE",
+            "expanded_url": "https://twitter.com/i/web/status/1235358245151072256",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235357114802958300,
+      "in_reply_to_status_id_str": "1235357114802958336",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:06:29 +0000 2020",
+      "id": 1235446566216818700,
+      "id_str": "1235446566216818688",
+      "text": "@voischev Давай разделять BEM как концепт и все то что было накручено вокруг него включая уровни переопределения, i… https://t.co/sOS6pOI87i",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sOS6pOI87i",
+            "expanded_url": "https://twitter.com/i/web/status/1235446566216818688",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235439491017474000,
+      "in_reply_to_status_id_str": "1235439491017474051",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:15:37 +0000 2020",
+      "id": 1235448863252603000,
+      "id_str": "1235448863252602882",
+      "text": "@voischev @mursya_ru @tadatuta Я там даже по чей-то просьбе передавал наклейки bem-man местным любителям, и честно… https://t.co/PnR4Vf33oL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "mursya_ru",
+            "name": "Елена Джетпыспаева",
+            "id": 68250765,
+            "id_str": "68250765",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "tadatuta",
+            "name": "Vladimir Grinenko",
+            "id": 90833662,
+            "id_str": "90833662",
+            "indices": [
+              21,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PnR4Vf33oL",
+            "expanded_url": "https://twitter.com/i/web/status/1235448863252602882",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235443440449699800,
+      "in_reply_to_status_id_str": "1235443440449699840",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:36:37 +0000 2020",
+      "id": 1235454148193083400,
+      "id_str": "1235454148193083392",
+      "text": "@voischev Проблема в том что с \"этим не только CSS\" вас в зашей погонят из любой компании с немного отличными станд… https://t.co/ETeC4W44Sc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ETeC4W44Sc",
+            "expanded_url": "https://twitter.com/i/web/status/1235454148193083392",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235451811533815800,
+      "in_reply_to_status_id_str": "1235451811533815808",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:38:12 +0000 2020",
+      "id": 1235454548115722200,
+      "id_str": "1235454548115722240",
+      "text": "@musuk БЕМ вандало устойчив - сложно накосячить, легко увидеть косяк. \nИдеален для контрактно-ориентированных проек… https://t.co/rExrZpDr76",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rExrZpDr76",
+            "expanded_url": "https://twitter.com/i/web/status/1235454548115722240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235451123437314000,
+      "in_reply_to_status_id_str": "1235451123437314048",
+      "in_reply_to_user_id": 19105647,
+      "in_reply_to_user_id_str": "19105647",
+      "in_reply_to_screen_name": "musuk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:42:08 +0000 2020",
+      "id": 1235455538441273300,
+      "id_str": "1235455538441273346",
+      "text": "@voischev Я надеюсь вы там  https://t.co/4qkfgGIQjp больше не пользуетесь. \nДолжны быть какие-то разумные рамки, за… https://t.co/zhW14XV7RE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4qkfgGIQjp",
+            "expanded_url": "https://github.com/bem/webpack-bem-loader",
+            "display_url": "github.com/bem/webpack-be…",
+            "indices": [
+              28,
+              51
+            ]
+          },
+          {
+            "url": "https://t.co/zhW14XV7RE",
+            "expanded_url": "https://twitter.com/i/web/status/1235455538441273346",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235454120041033700,
+      "in_reply_to_status_id_str": "1235454120041033729",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:45:25 +0000 2020",
+      "id": 1235456364702388200,
+      "id_str": "1235456364702388224",
+      "text": "@voischev Насчет bem-react - ничего против не имею. Но он совершенно не приспособлен к использованию в других компа… https://t.co/MW2X5Do531",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MW2X5Do531",
+            "expanded_url": "https://twitter.com/i/web/status/1235456364702388224",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235455538441273300,
+      "in_reply_to_status_id_str": "1235455538441273346",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:48:11 +0000 2020",
+      "id": 1235457058570260500,
+      "id_str": "1235457058570260481",
+      "text": "@voischev Ну вот - оно или все модификаторы в бандл загрузит, или будет тупить и падать в SSR.\n\nЯ надеюсь вы там в… https://t.co/PcMfVy3LYl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PcMfVy3LYl",
+            "expanded_url": "https://twitter.com/i/web/status/1235457058570260481",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235456364702388200,
+      "in_reply_to_status_id_str": "1235456364702388224",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:51:58 +0000 2020",
+      "id": 1235458010387898400,
+      "id_str": "1235458010387898368",
+      "text": "@voischev Проблема тут в том что есть\n- или разработчики которые пишут Компоненты( и CSS) исключительно рука-лицо.… https://t.co/SDVBgEQI2S",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SDVBgEQI2S",
+            "expanded_url": "https://twitter.com/i/web/status/1235458010387898368",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235457197515006000,
+      "in_reply_to_status_id_str": "1235457197515005952",
+      "in_reply_to_user_id": 258854658,
+      "in_reply_to_user_id_str": "258854658",
+      "in_reply_to_screen_name": "voischev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 06:53:23 +0000 2020",
+      "id": 1235458367650332700,
+      "id_str": "1235458367650332673",
+      "text": "@voischev @Atlassian @yandex А посередине нет ничего.\n\nПотому что первым это не нужно, слишком сложно для них, а вт… https://t.co/0IFqyvUjF0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "voischev",
+            "name": "Ваня Воищев",
+            "id": 258854658,
+            "id_str": "258854658",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "Atlassian",
+            "name": "Atlassian",
+            "id": 18060279,
+            "id_str": "18060279",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "yandex",
+            "name": "Яндекс",
+            "id": 25697989,
+            "id_str": "25697989",
+            "indices": [
+              21,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0IFqyvUjF0",
+            "expanded_url": "https://twitter.com/i/web/status/1235458367650332673",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235458010387898400,
+      "in_reply_to_status_id_str": "1235458010387898368",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 07:06:48 +0000 2020",
+      "id": 1235461747131080700,
+      "id_str": "1235461747131080704",
+      "text": "@shuvalov_js @ifedyukin О! А ведь это же по теме!\n\nВы там свойства по алфавиту сортируете, или по смыслу группирует… https://t.co/rlziMXNdVs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Loa of the Frontend",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "ifedyukin",
+            "name": "Igor Fedyukin",
+            "id": 173546227,
+            "id_str": "173546227",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rlziMXNdVs",
+            "expanded_url": "https://twitter.com/i/web/status/1235461747131080704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235460787923079200,
+      "in_reply_to_status_id_str": "1235460787923079168",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 07:15:22 +0000 2020",
+      "id": 1235463899517833200,
+      "id_str": "1235463899517833216",
+      "text": "@exdeniz Два блока могут быть расположены рядом друг с другом только если являются соседними элементами в другом бл… https://t.co/L4tcphmbT5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "exdeniz",
+            "name": "exdeniz",
+            "id": 14585677,
+            "id_str": "14585677",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/L4tcphmbT5",
+            "expanded_url": "https://twitter.com/i/web/status/1235463899517833216",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235462194541650000,
+      "in_reply_to_status_id_str": "1235462194541649922",
+      "in_reply_to_user_id": 14585677,
+      "in_reply_to_user_id_str": "14585677",
+      "in_reply_to_screen_name": "exdeniz",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 07:27:11 +0000 2020",
+      "id": 1235466874038521900,
+      "id_str": "1235466874038521858",
+      "text": "@shuvalov_js @ifedyukin csscomb до сих пор это делает, но я предпочитаю https://t.co/VCoGKkmQhi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Loa of the Frontend",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "ifedyukin",
+            "name": "Igor Fedyukin",
+            "id": 173546227,
+            "id_str": "173546227",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VCoGKkmQhi",
+            "expanded_url": "https://github.com/constverum/stylelint-config-rational-order",
+            "display_url": "github.com/constverum/sty…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235465903178780700,
+      "in_reply_to_status_id_str": "1235465903178780672",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 08:56:19 +0000 2020",
+      "id": 1235489306514346000,
+      "id_str": "1235489306514345984",
+      "text": "За три года в Сиднее я ни разу не серфил.  Вот такая большая часть местной жизни прошла мимо меня.\nВ то же время у… https://t.co/IylU5q0i1t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IylU5q0i1t",
+            "expanded_url": "https://twitter.com/i/web/status/1235489306514345984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 08:56:20 +0000 2020",
+      "id": 1235489308271759400,
+      "id_str": "1235489308271759361",
+      "text": "Хотя, не, вру. На доске я стоял. И именно так я узнал что iPhone XR не являются water proof. https://t.co/hworhVQPlq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1235489156320473000,
+            "id_str": "1235489156320473088",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESVW135UMAATTDo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESVW135UMAATTDo.jpg",
+            "url": "https://t.co/hworhVQPlq",
+            "display_url": "pic.twitter.com/hworhVQPlq",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1235489308271759361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1235489156320473000,
+            "id_str": "1235489156320473088",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESVW135UMAATTDo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESVW135UMAATTDo.jpg",
+            "url": "https://t.co/hworhVQPlq",
+            "display_url": "pic.twitter.com/hworhVQPlq",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1235489308271759361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235489306514346000,
+      "in_reply_to_status_id_str": "1235489306514345984",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 10:10:16 +0000 2020",
+      "id": 1235507915496157200,
+      "id_str": "1235507915496157186",
+      "text": "@musuk Я тоже не люблю подчерки - они плохо автокомплитятся и технически не нужны при наличии CSSModules.\nПотом при… https://t.co/dwnyCEglS3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dwnyCEglS3",
+            "expanded_url": "https://twitter.com/i/web/status/1235507915496157186",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235505593651212300,
+      "in_reply_to_status_id_str": "1235505593651212288",
+      "in_reply_to_user_id": 19105647,
+      "in_reply_to_user_id_str": "19105647",
+      "in_reply_to_screen_name": "musuk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 11:36:02 +0000 2020",
+      "id": 1235529498210136000,
+      "id_str": "1235529498210136064",
+      "text": "Choose webpack - одно из лучших выступлений на @sydjs\n\nhttps://t.co/Z4bc8M5D0I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sydjs",
+            "name": "Sydney JavaScript",
+            "id": 131395879,
+            "id_str": "131395879",
+            "indices": [
+              47,
+              53
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Z4bc8M5D0I",
+            "expanded_url": "https://twitter.com/200okpublic/status/1235528515862183936",
+            "display_url": "twitter.com/200okpublic/st…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1235528515862184000,
+      "quoted_status_id_str": "1235528515862183936",
+      "quoted_status": {
+        "created_at": "Thu Mar 05 11:32:07 +0000 2020",
+        "id": 1235528515862184000,
+        "id_str": "1235528515862183936",
+        "text": "Thanks to @theKashey for capturing the Buildspotting intro to my talk at @sydjs in January :) \n\n(not my best delive… https://t.co/uFgK4zSj3h",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "theKashey",
+              "name": "Anton Korzunov",
+              "id": 97456304,
+              "id_str": "97456304",
+              "indices": [
+                10,
+                20
+              ]
+            },
+            {
+              "screen_name": "sydjs",
+              "name": "Sydney JavaScript",
+              "id": 131395879,
+              "id_str": "131395879",
+              "indices": [
+                73,
+                79
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uFgK4zSj3h",
+              "expanded_url": "https://twitter.com/i/web/status/1235528515862183936",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 389309790,
+          "id_str": "389309790"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 20:27:15 +0000 2020",
+      "id": 1235663184133886000,
+      "id_str": "1235663184133885952",
+      "text": "@vvscode @fliptheweb Reselect помнит 👉одно👈 значение. Поэтому для компонента или используют его одинаково, или не и… https://t.co/PURXKoTvgo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vvscode",
+            "name": "Vasiliy Vanchuk",
+            "id": 4074037515,
+            "id_str": "4074037515",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "fliptheweb",
+            "name": "Artur Kornakov",
+            "id": 99717399,
+            "id_str": "99717399",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PURXKoTvgo",
+            "expanded_url": "https://twitter.com/i/web/status/1235663184133885952",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235559813079154700,
+      "in_reply_to_status_id_str": "1235559813079154692",
+      "in_reply_to_user_id": 4074037515,
+      "in_reply_to_user_id_str": "4074037515",
+      "in_reply_to_screen_name": "vvscode",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 20:27:39 +0000 2020",
+      "id": 1235663284847575000,
+      "id_str": "1235663284847575040",
+      "text": "@donukr_ptnxuy 🤷‍♂️ ну кто же знал 🤷‍♂️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "donukr_ptnxuy",
+            "name": "Донецкий укр",
+            "id": 968984126,
+            "id_str": "968984126",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235556290157514800,
+      "in_reply_to_status_id_str": "1235556290157514752",
+      "in_reply_to_user_id": 968984126,
+      "in_reply_to_user_id_str": "968984126",
+      "in_reply_to_screen_name": "donukr_ptnxuy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 20:36:00 +0000 2020",
+      "id": 1235665385900269600,
+      "id_str": "1235665385900269568",
+      "text": "@stay_positive - зато мой отдел получил клевые фоточки\n- и я был единственный кто \"покупался\". Два раза.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stay_positive",
+            "name": "Dmitrii Sorin",
+            "id": 17783501,
+            "id_str": "17783501",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235539907512172500,
+      "in_reply_to_status_id_str": "1235539907512172545",
+      "in_reply_to_user_id": 17783501,
+      "in_reply_to_user_id_str": "17783501",
+      "in_reply_to_screen_name": "stay_positive",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 05 21:25:56 +0000 2020",
+      "id": 1235677952383127600,
+      "id_str": "1235677952383127552",
+      "text": "@stay_positive Нарабин. Нужна же спокойная вода.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stay_positive",
+            "name": "Dmitrii Sorin",
+            "id": 17783501,
+            "id_str": "17783501",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1235675926647558100,
+      "in_reply_to_status_id_str": "1235675926647558145",
+      "in_reply_to_user_id": 17783501,
+      "in_reply_to_user_id_str": "17783501",
+      "in_reply_to_screen_name": "stay_positive",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
