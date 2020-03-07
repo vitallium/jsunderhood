@@ -13,53 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 7320,
+  "followers_count": 7323,
   "friends_count": 529,
-  "listed_count": 239,
+  "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3364,
+  "favourites_count": 3365,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36543,
+  "statuses_count": 36592,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 05 21:25:56 +0000 2020",
-    "id": 1235677952383127600,
-    "id_str": "1235677952383127552",
-    "text": "@stay_positive Нарабин. Нужна же спокойная вода.",
-    "truncated": false,
+    "created_at": "Fri Mar 06 22:45:56 +0000 2020",
+    "id": 1236060474002657300,
+    "id_str": "1236060474002657282",
+    "text": "Но смысл всегда один - делайте паузы. Не погружайтесь глубоко в поток. Ничего кроме высера неких рандомых мыслей (к… https://t.co/eTzD9sOFoJ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "stay_positive",
-          "name": "Dmitrii Sorin",
-          "id": 17783501,
-          "id_str": "17783501",
+          "url": "https://t.co/eTzD9sOFoJ",
+          "expanded_url": "https://twitter.com/i/web/status/1236060474002657282",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            14
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1235675926647558100,
-    "in_reply_to_status_id_str": "1235675926647558145",
-    "in_reply_to_user_id": 17783501,
-    "in_reply_to_user_id_str": "17783501",
-    "in_reply_to_screen_name": "stay_positive",
+    "in_reply_to_status_id": 1236060471972618200,
+    "in_reply_to_status_id_str": "1236060471972618241",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
