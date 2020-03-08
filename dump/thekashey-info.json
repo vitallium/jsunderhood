@@ -13,31 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 7323,
+  "followers_count": 7320,
   "friends_count": 529,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3365,
+  "favourites_count": 3369,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36592,
+  "statuses_count": 36617,
   "lang": null,
   "status": {
-    "created_at": "Fri Mar 06 22:45:56 +0000 2020",
-    "id": 1236060474002657300,
-    "id_str": "1236060474002657282",
-    "text": "Но смысл всегда один - делайте паузы. Не погружайтесь глубоко в поток. Ничего кроме высера неких рандомых мыслей (к… https://t.co/eTzD9sOFoJ",
+    "created_at": "Sat Mar 07 23:41:11 +0000 2020",
+    "id": 1236436764828393500,
+    "id_str": "1236436764828393475",
+    "text": "@Xypc Критика это хорошо. Критиковать это хорошо. Позволяет развиваться и исправлять свои ошибки.\n\nА вот то, что на… https://t.co/l5Vmbw3A91",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Xypc",
+          "name": "Антон",
+          "id": 80115492,
+          "id_str": "80115492",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/eTzD9sOFoJ",
-          "expanded_url": "https://twitter.com/i/web/status/1236060474002657282",
+          "url": "https://t.co/l5Vmbw3A91",
+          "expanded_url": "https://twitter.com/i/web/status/1236436764828393475",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,18 +58,18 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1236060471972618200,
-    "in_reply_to_status_id_str": "1236060471972618241",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1236432366870179800,
+    "in_reply_to_status_id_str": "1236432366870179841",
+    "in_reply_to_user_id": 80115492,
+    "in_reply_to_user_id_str": "80115492",
+    "in_reply_to_screen_name": "Xypc",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
