@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 7315,
+  "followers_count": 7318,
   "friends_count": 529,
   "listed_count": 241,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,37 +22,44 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 36833,
+  "statuses_count": 36847,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 11 20:41:25 +0000 2020",
-    "id": 1237841078406926300,
-    "id_str": "1237841078406926338",
-    "text": "@_sgolovin Чтобы обеспечить отзывчивость интерфейса независимо от объёма данных.",
-    "truncated": false,
+    "created_at": "Thu Mar 12 16:53:03 +0000 2020",
+    "id": 1238145996208537600,
+    "id_str": "1238145996208537600",
+    "text": "$mol компонент является плоским классом, а view.tree позволяет объявлять его лаконично и не теряя в наглядности иер… https://t.co/DLMbY6luqW",
+    "truncated": true,
     "entities": {
       "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
+      "symbols": [
         {
-          "screen_name": "_sgolovin",
-          "name": "Sergey Golovin",
-          "id": 235633814,
-          "id_str": "235633814",
+          "text": "mol",
           "indices": [
             0,
-            10
+            4
           ]
         }
       ],
-      "urls": []
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DLMbY6luqW",
+          "expanded_url": "https://twitter.com/i/web/status/1238145996208537600",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1237830167151722500,
-    "in_reply_to_status_id_str": "1237830167151722496",
-    "in_reply_to_user_id": 235633814,
-    "in_reply_to_user_id_str": "235633814",
-    "in_reply_to_screen_name": "_sgolovin",
+    "in_reply_to_status_id": 1237798585808363500,
+    "in_reply_to_status_id_str": "1237798585808363521",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -62,6 +69,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
