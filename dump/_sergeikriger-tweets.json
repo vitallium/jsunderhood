@@ -1,0 +1,953 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 16 07:11:22 +0000 2020",
+      "id": 1239449159264075800,
+      "id_str": "1239449159264075778",
+      "text": "Всем привет,\n\nЯ Сергей (@_sergeikriger) - фронтенд разработчик из Германии и большой фанат доступного веба.  По при… https://t.co/1MK2tslviF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeikriger",
+            "name": "Sergei Kriger",
+            "id": 1851448286,
+            "id_str": "1851448286",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1MK2tslviF",
+            "expanded_url": "https://twitter.com/i/web/status/1239449159264075778",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:12:36 +0000 2020",
+      "id": 1239449473182548000,
+      "id_str": "1239449473182547968",
+      "text": "Просмотрел посты на канале за этот год - ребята жгут, конечно. Ощущение, что ошибся дверью. Хардкора на канале было… https://t.co/3Uw7eLGVUO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3Uw7eLGVUO",
+            "expanded_url": "https://twitter.com/i/web/status/1239449473182547968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239449159264075800,
+      "in_reply_to_status_id_str": "1239449159264075778",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:13:21 +0000 2020",
+      "id": 1239449660231684000,
+      "id_str": "1239449660231684097",
+      "text": "Я не считаю себя супер разработчиком, но за те 5 лет, что я работаю в индустрии, накопился кое-какой опыт, которым… https://t.co/Lpp15WvOS0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Lpp15WvOS0",
+            "expanded_url": "https://twitter.com/i/web/status/1239449660231684097",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239449473182548000,
+      "in_reply_to_status_id_str": "1239449473182547968",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:13:49 +0000 2020",
+      "id": 1239449778351726600,
+      "id_str": "1239449778351726592",
+      "text": "Писать буду не очень много, потому что, во-первых, \"кр. сестр. тлнт\", а во-вторых, все давно сказано, чего повторят… https://t.co/FTyZWZ96xp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FTyZWZ96xp",
+            "expanded_url": "https://twitter.com/i/web/status/1239449778351726592",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239449660231684000,
+      "in_reply_to_status_id_str": "1239449660231684097",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:14:16 +0000 2020",
+      "id": 1239449891761533000,
+      "id_str": "1239449891761532929",
+      "text": "Вот список тем на неделю:\n\n- Доступность\n- Около фронтенда\n- Выступление на конференциях\n- Soft skills (мой приорит… https://t.co/lr6aaYZkIh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lr6aaYZkIh",
+            "expanded_url": "https://twitter.com/i/web/status/1239449891761532929",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239449660231684000,
+      "in_reply_to_status_id_str": "1239449660231684097",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:18:18 +0000 2020",
+      "id": 1239450904132288500,
+      "id_str": "1239450904132288512",
+      "text": "Сегодня говорим про доступность.\n\nНа этом канале какое-то время назад @ta_fokina очень здорово разобрала эту тему.… https://t.co/dy7r4EmkQr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ta_fokina",
+            "name": "Tatiana Fokina",
+            "id": 1049992777151467500,
+            "id_str": "1049992777151467521",
+            "indices": [
+              70,
+              80
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dy7r4EmkQr",
+            "expanded_url": "https://twitter.com/i/web/status/1239450904132288512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:18:36 +0000 2020",
+      "id": 1239450981412286500,
+      "id_str": "1239450981412286466",
+      "text": "Доступность - это не фича, которую можно либо иметь, либо нет. Доступность - это естественное состояние сайта, когд… https://t.co/VkYIarqzkz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VkYIarqzkz",
+            "expanded_url": "https://twitter.com/i/web/status/1239450981412286466",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:18:56 +0000 2020",
+      "id": 1239451066808307700,
+      "id_str": "1239451066808307713",
+      "text": "Доступность не должна быть бездумной - если Drag-end-Drop компоненты не доступны для незрячих по своей сути, найдит… https://t.co/9p75RJVvjV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9p75RJVvjV",
+            "expanded_url": "https://twitter.com/i/web/status/1239451066808307713",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:19:50 +0000 2020",
+      "id": 1239451290368970800,
+      "id_str": "1239451290368970752",
+      "text": "Бизнес пока не готов активно двигаться в сторону доступности и это понятно - этой темы никогда не было на виду и ту… https://t.co/pB425u57rP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pB425u57rP",
+            "expanded_url": "https://twitter.com/i/web/status/1239451290368970752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:20:10 +0000 2020",
+      "id": 1239451376515768300,
+      "id_str": "1239451376515768320",
+      "text": "Я лично был свидетелем того, как несколько разработчиков ушли из компании, когда клиент попросил седлать большой и… https://t.co/KyMoSXBUq6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KyMoSXBUq6",
+            "expanded_url": "https://twitter.com/i/web/status/1239451376515768320",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:20:30 +0000 2020",
+      "id": 1239451461580468200,
+      "id_str": "1239451461580468225",
+      "text": "Доступность - это часть профессии как JavaScript, React, flexbox, grid и еще тысяча вещей. Доступность надо учить,… https://t.co/0hfb9wkL1Y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0hfb9wkL1Y",
+            "expanded_url": "https://twitter.com/i/web/status/1239451461580468225",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:20:49 +0000 2020",
+      "id": 1239451537459630000,
+      "id_str": "1239451537459630081",
+      "text": "Чтобы по настоящему понять важность доступного веба, пообщайтесь с людьми с разными ограничениями, посмотрите как о… https://t.co/OvU05r7DSR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OvU05r7DSR",
+            "expanded_url": "https://twitter.com/i/web/status/1239451537459630081",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:21:07 +0000 2020",
+      "id": 1239451615217811500,
+      "id_str": "1239451615217811456",
+      "text": "Если не можете лично пообщаться с людьми с ограничениями, есть несколько ресурсов на эту тему. Важно быть в теме, к… https://t.co/h0RMhNTyth",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h0RMhNTyth",
+            "expanded_url": "https://twitter.com/i/web/status/1239451615217811456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:21:30 +0000 2020",
+      "id": 1239451710919237600,
+      "id_str": "1239451710919237637",
+      "text": "Youtube канал с миллионными просмотрами от слепого блоггера Molly Burke. Девица просто жжет!\n.\n.\n.\nhttps://t.co/Oun2J4Byjr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Oun2J4Byjr",
+            "expanded_url": "https://www.youtube.com/user/MollyBurkeOfficial",
+            "display_url": "youtube.com/user/MollyBurk…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239451615217811500,
+      "in_reply_to_status_id_str": "1239451615217811456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:21:53 +0000 2020",
+      "id": 1239451806499049500,
+      "id_str": "1239451806499049473",
+      "text": "Тифлострим на канале https://t.co/n4L9NDEUop - передача про незрячих и не только. Посмотреть на мир со стороны не з… https://t.co/wgEbQhPvi0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n4L9NDEUop",
+            "expanded_url": "http://tiflo.info",
+            "display_url": "tiflo.info",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "url": "https://t.co/wgEbQhPvi0",
+            "expanded_url": "https://twitter.com/i/web/status/1239451806499049473",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239451615217811500,
+      "in_reply_to_status_id_str": "1239451615217811456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:22:06 +0000 2020",
+      "id": 1239451861251502000,
+      "id_str": "1239451861251502080",
+      "text": "Истории незрячих людей на канале @aliya_nurullina \"Типичный незрячий\". Много историй на разные темы, включая интерн… https://t.co/WfQHbRyAQs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aliya_nurullina",
+            "name": "Алия",
+            "id": 244566824,
+            "id_str": "244566824",
+            "indices": [
+              33,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WfQHbRyAQs",
+            "expanded_url": "https://twitter.com/i/web/status/1239451861251502080",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239451615217811500,
+      "in_reply_to_status_id_str": "1239451615217811456",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:22:27 +0000 2020",
+      "id": 1239451950338449400,
+      "id_str": "1239451950338449411",
+      "text": "Вместо заучивания известных паттернов доступных интерфейсов, попробуйте поставить себя на место людей с ограничения… https://t.co/bGXV5Sisrz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bGXV5Sisrz",
+            "expanded_url": "https://twitter.com/i/web/status/1239451950338449411",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:22:42 +0000 2020",
+      "id": 1239452014876283000,
+      "id_str": "1239452014876282880",
+      "text": "Есть мнение, что доступность нужно уметь \"продать\" бизнесу, чтобы получить на это бюджет.\n\nНет!\n\nДоступность это ча… https://t.co/W2hJYoR1wU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W2hJYoR1wU",
+            "expanded_url": "https://twitter.com/i/web/status/1239452014876282880",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:22:57 +0000 2020",
+      "id": 1239452076024967200,
+      "id_str": "1239452076024967168",
+      "text": "Вы (не начальник) должны быть инициатором доступной верстки. Вас наняли как специалиста, у вас экспертиза и нет нео… https://t.co/0dxkD76f8q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0dxkD76f8q",
+            "expanded_url": "https://twitter.com/i/web/status/1239452076024967168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:23:10 +0000 2020",
+      "id": 1239452132165722000,
+      "id_str": "1239452132165722113",
+      "text": "На первых порах доступность занимает какое-то время. Научитесь верстать доступные интерфейсы быстро и у бизнеса не… https://t.co/x2kuP1TjGH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x2kuP1TjGH",
+            "expanded_url": "https://twitter.com/i/web/status/1239452132165722113",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 16 07:23:22 +0000 2020",
+      "id": 1239452180962214000,
+      "id_str": "1239452180962213888",
+      "text": "При оценке времени на разработку включайте туда время на доступность по умолчанию и умейте аргументированно объясни… https://t.co/Rp6YPDwe1X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rp6YPDwe1X",
+            "expanded_url": "https://twitter.com/i/web/status/1239452180962213888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1239450904132288500,
+      "in_reply_to_status_id_str": "1239450904132288512",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
