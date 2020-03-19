@@ -13,65 +13,66 @@
     }
   },
   "protected": false,
-  "followers_count": 7439,
+  "followers_count": 7447,
   "friends_count": 529,
-  "listed_count": 241,
+  "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3408,
+  "favourites_count": 3410,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37147,
+  "statuses_count": 37168,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 17 17:04:53 +0000 2020",
-    "id": 1239960912146116600,
-    "id_str": "1239960912146116608",
-    "text": "@vlad_starkovsky @_jin_nin_ чего нет, того нет 😅",
-    "truncated": false,
+    "created_at": "Wed Mar 18 22:09:49 +0000 2020",
+    "id": 1240400037433180200,
+    "id_str": "1240400037433180169",
+    "text": "@arhangeliq Если нужно подписать фоновую картинку, visually-hidden, конечно лучше, чем ничего, но повторюсь - это п… https://t.co/vZOqv5oPdo",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "vlad_starkovsky",
-          "name": "Vlad Starkovsky",
-          "id": 230498572,
-          "id_str": "230498572",
+          "screen_name": "arhangeliq",
+          "name": "arhangeliq",
+          "id": 1153573207791870000,
+          "id_str": "1153573207791869952",
           "indices": [
             0,
-            16
-          ]
-        },
-        {
-          "screen_name": "_jin_nin_",
-          "name": "Jin",
-          "id": 1084497636491751400,
-          "id_str": "1084497636491751424",
-          "indices": [
-            17,
-            27
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/vZOqv5oPdo",
+          "expanded_url": "https://twitter.com/i/web/status/1240400037433180169",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1239942584803434500,
-    "in_reply_to_status_id_str": "1239942584803434503",
-    "in_reply_to_user_id": 230498572,
-    "in_reply_to_user_id_str": "230498572",
-    "in_reply_to_screen_name": "vlad_starkovsky",
+    "in_reply_to_status_id": 1240397340420292600,
+    "in_reply_to_status_id_str": "1240397340420292610",
+    "in_reply_to_user_id": 1153573207791870000,
+    "in_reply_to_user_id_str": "1153573207791869952",
+    "in_reply_to_screen_name": "arhangeliq",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
