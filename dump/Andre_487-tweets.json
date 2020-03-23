@@ -1,0 +1,782 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 23 13:57:54 +0000 2020",
+      "id": 1242088185615847400,
+      "id_str": "1242088185615847425",
+      "text": "Всем привет!\n\nЯ @Andre_487 (Андрей по-простому) – разработчик, аналитик, менеджер. Занимаюсь тем, что делаю веб-сер… https://t.co/bepkNLpu4B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andre_487",
+            "name": "Andrey Prokopyuk",
+            "id": 332200454,
+            "id_str": "332200454",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bepkNLpu4B",
+            "expanded_url": "https://twitter.com/i/web/status/1242088185615847425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:01:21 +0000 2020",
+      "id": 1242089053052448800,
+      "id_str": "1242089053052448770",
+      "text": "Работаю я в Яндексе, основной объект приложения моих усилий – Поиск. Вместе с командой из 7 человек делаем его быст… https://t.co/RV44I2wOr6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RV44I2wOr6",
+            "expanded_url": "https://twitter.com/i/web/status/1242089053052448770",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:05:05 +0000 2020",
+      "id": 1242089989623689200,
+      "id_str": "1242089989623689219",
+      "text": "@kozeretskovsky @Andre_487 @DmitryMakhnev Всенепременно покажу этот твит ответственным",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kozeretskovsky",
+            "name": "Kirill Ozeretskovsky",
+            "id": 1220746205849948200,
+            "id_str": "1220746205849948161",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "Andre_487",
+            "name": "Andrey Prokopyuk",
+            "id": 332200454,
+            "id_str": "332200454",
+            "indices": [
+              16,
+              26
+            ]
+          },
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242089198728986600,
+      "in_reply_to_status_id_str": "1242089198728986624",
+      "in_reply_to_user_id": 1220746205849948200,
+      "in_reply_to_user_id_str": "1220746205849948161",
+      "in_reply_to_screen_name": "kozeretskovsky",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:17:10 +0000 2020",
+      "id": 1242093032725495800,
+      "id_str": "1242093032725495810",
+      "text": "Раз будем говорить о скорости, пожалуй, следует начать с методик измерения. Так уж у нас заведено – не измерил, зна… https://t.co/5268lRwTyL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5268lRwTyL",
+            "expanded_url": "https://twitter.com/i/web/status/1242093032725495810",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:20:56 +0000 2020",
+      "id": 1242093978981466000,
+      "id_str": "1242093978981466118",
+      "text": "В классической модели скорости мы смотрели вот на что:\n\n  * FCP – время первой отрисовки контента\n  * FMP – время о… https://t.co/qzNcgBsPCJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qzNcgBsPCJ",
+            "expanded_url": "https://twitter.com/i/web/status/1242093978981466118",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242093032725495800,
+      "in_reply_to_status_id_str": "1242093032725495810",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:25:43 +0000 2020",
+      "id": 1242095185326112800,
+      "id_str": "1242095185326112769",
+      "text": "FCP – время первой отрисовки. Оно должно быть минимальным. Но для всех ли проектов и для любых ли переходов? Пользо… https://t.co/lO8Xcq7lFP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lO8Xcq7lFP",
+            "expanded_url": "https://twitter.com/i/web/status/1242095185326112769",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242093978981466000,
+      "in_reply_to_status_id_str": "1242093978981466118",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:31:58 +0000 2020",
+      "id": 1242096756462178300,
+      "id_str": "1242096756462178308",
+      "text": "@ilnurkhalilov Я так решил!\n\nШутка, я не выбираю технологии.\n\nНаверно, стоит начать с того, а почему именно на нём должны были писать?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242094743758217200,
+      "in_reply_to_status_id_str": "1242094743758217216",
+      "in_reply_to_user_id": 229002458,
+      "in_reply_to_user_id_str": "229002458",
+      "in_reply_to_screen_name": "ilnurkhalilov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:42:31 +0000 2020",
+      "id": 1242099410852630500,
+      "id_str": "1242099410852630528",
+      "text": "@ilnurkhalilov Возможно, на этой неделе дойдёт и до рекламы BASHHTML – разработанной нами со @st00nsa методологией… https://t.co/eibYqrtyOK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "st00nsa",
+            "name": "Alex-k",
+            "id": 17665480,
+            "id_str": "17665480",
+            "indices": [
+              93,
+              101
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eibYqrtyOK",
+            "expanded_url": "https://twitter.com/i/web/status/1242099410852630528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242098744243433500,
+      "in_reply_to_status_id_str": "1242098744243433476",
+      "in_reply_to_user_id": 229002458,
+      "in_reply_to_user_id_str": "229002458",
+      "in_reply_to_screen_name": "ilnurkhalilov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:45:47 +0000 2020",
+      "id": 1242100234001494000,
+      "id_str": "1242100234001494021",
+      "text": "FMP – время отрисовки значимого контента. Очень показательная метрика, для которой нет стандартного способа измерен… https://t.co/iR1JPd6sTh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iR1JPd6sTh",
+            "expanded_url": "https://twitter.com/i/web/status/1242100234001494021",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242095185326112800,
+      "in_reply_to_status_id_str": "1242095185326112769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:46:39 +0000 2020",
+      "id": 1242100451664892000,
+      "id_str": "1242100451664891904",
+      "text": "@23slider @ilnurkhalilov Вот вы и раскрыли меня – я слаб в мемах :(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "23slider",
+            "name": "23slider",
+            "id": 20034108,
+            "id_str": "20034108",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242099977788313600,
+      "in_reply_to_status_id_str": "1242099977788313610",
+      "in_reply_to_user_id": 20034108,
+      "in_reply_to_user_id_str": "20034108",
+      "in_reply_to_screen_name": "23slider",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 14:51:14 +0000 2020",
+      "id": 1242101606277156900,
+      "id_str": "1242101606277156866",
+      "text": "JS inited в первой своей версии был прост – время, когда фреймворк закончил развешивать обработчики после DOMConten… https://t.co/OynVUaxEu8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OynVUaxEu8",
+            "expanded_url": "https://twitter.com/i/web/status/1242101606277156866",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242093978981466000,
+      "in_reply_to_status_id_str": "1242093978981466118",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 15:49:36 +0000 2020",
+      "id": 1242116295644139500,
+      "id_str": "1242116295644139521",
+      "text": "@_jin_nin_ @ilnurkhalilov Большие решения (например, React, Vue или Angular, TypeScript или Flow) принимаются комит… https://t.co/fURIsKCDcp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "ilnurkhalilov",
+            "name": "Ilnur Khalilov",
+            "id": 229002458,
+            "id_str": "229002458",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fURIsKCDcp",
+            "expanded_url": "https://twitter.com/i/web/status/1242116295644139521",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242104587231924200,
+      "in_reply_to_status_id_str": "1242104587231924237",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 15:53:35 +0000 2020",
+      "id": 1242117296925147100,
+      "id_str": "1242117296925147145",
+      "text": "Как выбрать значимый контент для измерения FMP? Очень индивидуально для проекта. Google пробовали разработать униве… https://t.co/rOhEfUQAkj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rOhEfUQAkj",
+            "expanded_url": "https://twitter.com/i/web/status/1242117296925147145",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 15:59:06 +0000 2020",
+      "id": 1242118683536904200,
+      "id_str": "1242118683536904195",
+      "text": "Для ЯндексПоиска FMP – это отрисовка выдачи. И это можно вычислить приблизительно.\n\nОтрисовку контента можно оценит… https://t.co/GcYA7EdRNM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GcYA7EdRNM",
+            "expanded_url": "https://twitter.com/i/web/status/1242118683536904195",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242117296925147100,
+      "in_reply_to_status_id_str": "1242117296925147145",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 16:02:26 +0000 2020",
+      "id": 1242119523190399000,
+      "id_str": "1242119523190398982",
+      "text": "Однажды мы научились исследовать UX в разрезе скорости с помощью краудсорсинговой платформе Толока. И вот оказалось… https://t.co/77eWm8jF1e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/77eWm8jF1e",
+            "expanded_url": "https://twitter.com/i/web/status/1242119523190398982",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242118683536904200,
+      "in_reply_to_status_id_str": "1242118683536904195",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 16:05:23 +0000 2020",
+      "id": 1242120264315519000,
+      "id_str": "1242120264315518977",
+      "text": "В данный момент работаем над метрикой FMPv2, которая будет учитывать также и время отрисовки (или загрузки) видимых… https://t.co/VycgQVsMpw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VycgQVsMpw",
+            "expanded_url": "https://twitter.com/i/web/status/1242120264315518977",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242119523190399000,
+      "in_reply_to_status_id_str": "1242119523190398982",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
