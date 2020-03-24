@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 7467,
+  "followers_count": 7475,
   "friends_count": 529,
   "listed_count": 244,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,22 +22,33 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37237,
+  "statuses_count": 37252,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 23 16:05:23 +0000 2020",
-    "id": 1242120264315519000,
-    "id_str": "1242120264315518977",
-    "text": "В данный момент работаем над метрикой FMPv2, которая будет учитывать также и время отрисовки (или загрузки) видимых… https://t.co/VycgQVsMpw",
+    "created_at": "Mon Mar 23 20:07:58 +0000 2020",
+    "id": 1242181311894257700,
+    "id_str": "1242181311894257673",
+    "text": "@ODrapeza Сам по себе onload измерять близко к бесполезности. Можно замерять в А/Б-тестировании как сигнал новых ме… https://t.co/5BHixAXCq5",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "ODrapeza",
+          "name": "Oleg Drapeza",
+          "id": 1108807498595745800,
+          "id_str": "1108807498595745797",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/VycgQVsMpw",
-          "expanded_url": "https://twitter.com/i/web/status/1242120264315518977",
+          "url": "https://t.co/5BHixAXCq5",
+          "expanded_url": "https://twitter.com/i/web/status/1242181311894257673",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,21 +58,20 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1242119523190399000,
-    "in_reply_to_status_id_str": "1242119523190398982",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1242180822343483400,
+    "in_reply_to_status_id_str": "1242180822343483399",
+    "in_reply_to_user_id": 1108807498595745800,
+    "in_reply_to_user_id_str": "1108807498595745797",
+    "in_reply_to_screen_name": "ODrapeza",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
