@@ -13,28 +13,38 @@
     }
   },
   "protected": false,
-  "followers_count": 7486,
+  "followers_count": 7490,
   "friends_count": 529,
-  "listed_count": 244,
+  "listed_count": 243,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3424,
+  "favourites_count": 3445,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37277,
+  "statuses_count": 37334,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 24 19:55:43 +0000 2020",
-    "id": 1242540619924463600,
-    "id_str": "1242540619924463616",
-    "text": "А сегодня перед сном будет не метрика, а утверждение.\n\nФуллстек существует! Всем спокойной ночи.",
-    "truncated": false,
+    "created_at": "Wed Mar 25 22:27:06 +0000 2020",
+    "id": 1242941103835213800,
+    "id_str": "1242941103835213824",
+    "text": "Среда – это маленькая пятница, поэтому финальный твит в 1:27.\n\nЧтобы не выгорать (о чём позже), нужно иногда добавл… https://t.co/1OCbKgsymD",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/1OCbKgsymD",
+          "expanded_url": "https://twitter.com/i/web/status/1242941103835213824",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -48,7 +58,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 13,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
