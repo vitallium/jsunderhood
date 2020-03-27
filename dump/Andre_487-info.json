@@ -13,52 +13,53 @@
     }
   },
   "protected": false,
-  "followers_count": 7490,
+  "followers_count": 7495,
   "friends_count": 529,
   "listed_count": 243,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3445,
+  "favourites_count": 3456,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37334,
+  "statuses_count": 37360,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 25 22:27:06 +0000 2020",
-    "id": 1242941103835213800,
-    "id_str": "1242941103835213824",
-    "text": "Среда – это маленькая пятница, поэтому финальный твит в 1:27.\n\nЧтобы не выгорать (о чём позже), нужно иногда добавл… https://t.co/1OCbKgsymD",
-    "truncated": true,
+    "created_at": "Thu Mar 26 22:10:01 +0000 2020",
+    "id": 1243299190773612500,
+    "id_str": "1243299190773612544",
+    "text": "@timofeipl Что интересно, самый популярный. В одну калитку обыгрывает все метрики и оптимизации.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1OCbKgsymD",
-          "expanded_url": "https://twitter.com/i/web/status/1242941103835213824",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "timofeipl",
+          "name": "Tim Pλotnikov",
+          "id": 484358903,
+          "id_str": "484358903",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1243292615971307500,
+    "in_reply_to_status_id_str": "1243292615971307521",
+    "in_reply_to_user_id": 484358903,
+    "in_reply_to_user_id_str": "484358903",
+    "in_reply_to_screen_name": "timofeipl",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
