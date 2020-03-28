@@ -13,46 +13,86 @@
     }
   },
   "protected": false,
-  "followers_count": 7495,
-  "friends_count": 529,
+  "followers_count": 7499,
+  "friends_count": 528,
   "listed_count": 243,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3456,
+  "favourites_count": 3458,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37360,
+  "statuses_count": 37387,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 26 22:10:01 +0000 2020",
-    "id": 1243299190773612500,
-    "id_str": "1243299190773612544",
-    "text": "@timofeipl Что интересно, самый популярный. В одну калитку обыгрывает все метрики и оптимизации.",
-    "truncated": false,
+    "created_at": "Fri Mar 27 16:39:36 +0000 2020",
+    "id": 1243578426222694400,
+    "id_str": "1243578426222694400",
+    "text": "@Tom910ru @ZhandosKz @themagicworldof @ryaposoff Вот я не находил. Мы сами справились, но весь этот путь я не помню… https://t.co/BHehNGGt3Y",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "timofeipl",
-          "name": "Tim Pλotnikov",
-          "id": 484358903,
-          "id_str": "484358903",
+          "screen_name": "Tom910ru",
+          "name": "Marchenko Andrey",
+          "id": 101550320,
+          "id_str": "101550320",
           "indices": [
             0,
-            10
+            9
+          ]
+        },
+        {
+          "screen_name": "ZhandosKz",
+          "name": "Zhanчик",
+          "id": 272556895,
+          "id_str": "272556895",
+          "indices": [
+            10,
+            20
+          ]
+        },
+        {
+          "screen_name": "themagicworldof",
+          "name": "Vitaly Y.",
+          "id": 1027958007227932700,
+          "id_str": "1027958007227932672",
+          "indices": [
+            21,
+            37
+          ]
+        },
+        {
+          "screen_name": "ryaposoff",
+          "name": "Pavel Ryaposov",
+          "id": 142405281,
+          "id_str": "142405281",
+          "indices": [
+            38,
+            48
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/BHehNGGt3Y",
+          "expanded_url": "https://twitter.com/i/web/status/1243578426222694400",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1243292615971307500,
-    "in_reply_to_status_id_str": "1243292615971307521",
-    "in_reply_to_user_id": 484358903,
-    "in_reply_to_user_id_str": "484358903",
-    "in_reply_to_screen_name": "timofeipl",
+    "in_reply_to_status_id": 1243577898256101400,
+    "in_reply_to_status_id_str": "1243577898256101376",
+    "in_reply_to_user_id": 101550320,
+    "in_reply_to_user_id_str": "101550320",
+    "in_reply_to_screen_name": "Tom910ru",
     "geo": null,
     "coordinates": null,
     "place": null,
