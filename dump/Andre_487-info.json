@@ -13,46 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 7499,
-  "friends_count": 528,
+  "followers_count": 7509,
+  "friends_count": 529,
   "listed_count": 243,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3464,
+  "favourites_count": 3476,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37415,
+  "statuses_count": 37456,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 28 23:50:42 +0000 2020",
-    "id": 1244049307793326000,
-    "id_str": "1244049307793326081",
-    "text": "@evzelenkov Возможно, работает. У меня нет. У вас как?",
-    "truncated": false,
+    "created_at": "Sun Mar 29 22:21:43 +0000 2020",
+    "id": 1244389300319522800,
+    "id_str": "1244389300319522817",
+    "text": "@taujavarob Сейчас маловато. Но мне больше нравилось гулять час-два перед тем, как ехать домой на такси\n\nХотя по оф… https://t.co/Q5JptJxiQK",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "evzelenkov",
-          "name": "Evgeny 🌔🌎",
-          "id": 400182590,
-          "id_str": "400182590",
+          "screen_name": "taujavarob",
+          "name": "Andrew Javarob",
+          "id": 188307045,
+          "id_str": "188307045",
           "indices": [
             0,
             11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Q5JptJxiQK",
+          "expanded_url": "https://twitter.com/i/web/status/1244389300319522817",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1244029773959123000,
-    "in_reply_to_status_id_str": "1244029773959122945",
-    "in_reply_to_user_id": 400182590,
-    "in_reply_to_user_id_str": "400182590",
-    "in_reply_to_screen_name": "evzelenkov",
+    "in_reply_to_status_id": 1244384364655456300,
+    "in_reply_to_status_id_str": "1244384364655456262",
+    "in_reply_to_user_id": 188307045,
+    "in_reply_to_user_id_str": "188307045",
+    "in_reply_to_screen_name": "taujavarob",
     "geo": null,
     "coordinates": null,
     "place": null,
