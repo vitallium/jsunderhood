@@ -1,0 +1,164 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 30 09:17:58 +0000 2020",
+      "id": 1244554452088094700,
+      "id_str": "1244554452088094722",
+      "text": "Всем привет! Меня зовут Старовойт Андрей @anstarovoyt и я разработчик @WebStormIDE в @JetBrains. На этой неделе рас… https://t.co/eFQLKaJOpy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anstarovoyt",
+            "name": "Andrey Starovoyt",
+            "id": 316274593,
+            "id_str": "316274593",
+            "indices": [
+              41,
+              53
+            ]
+          },
+          {
+            "screen_name": "WebStormIDE",
+            "name": "JetBrains WebStorm",
+            "id": 1307796572,
+            "id_str": "1307796572",
+            "indices": [
+              70,
+              82
+            ]
+          },
+          {
+            "screen_name": "jetbrains",
+            "name": "JetBrains",
+            "id": 14146389,
+            "id_str": "14146389",
+            "indices": [
+              85,
+              95
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eFQLKaJOpy",
+            "expanded_url": "https://twitter.com/i/web/status/1244554452088094722",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 77,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 30 09:25:02 +0000 2020",
+      "id": 1244556228791095300,
+      "id_str": "1244556228791095299",
+      "text": "Чтобы не возникло недопонимания — я Java-разработчик и знаком с веб-разработкой именно со стороны поддержки в IDE.… https://t.co/Lj3He94GkK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Lj3He94GkK",
+            "expanded_url": "https://twitter.com/i/web/status/1244556228791095299",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 30 10:19:16 +0000 2020",
+      "id": 1244569878742339600,
+      "id_str": "1244569878742339584",
+      "text": "А что бы вы хотели услышать от меня на этой неделе? У меня, конечно, есть план, но я могу его не придерживаться, ес… https://t.co/2Ubb8J49vA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2Ubb8J49vA",
+            "expanded_url": "https://twitter.com/i/web/status/1244569878742339584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
