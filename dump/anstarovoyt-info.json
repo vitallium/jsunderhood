@@ -13,66 +13,106 @@
     }
   },
   "protected": false,
-  "followers_count": 7592,
+  "followers_count": 7616,
   "friends_count": 529,
   "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3476,
+  "favourites_count": 3477,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37486,
+  "statuses_count": 37504,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 30 19:05:41 +0000 2020",
-    "id": 1244702353191821300,
-    "id_str": "1244702353191821312",
-    "text": "@A_Shestakov В первом посте есть:\n&gt;о команде, об IDE, о поддержке языков и о том, как менялся веб за последние пять… https://t.co/0o4ZvTij89",
-    "truncated": true,
+    "created_at": "Tue Mar 31 21:17:20 +0000 2020",
+    "id": 1245097875350139000,
+    "id_str": "1245097875350138883",
+    "text": "RT @He4eT: @jsunderhood Очень долго привыкал к феномену \"оператор запятая\"\n\nconst f = x =&gt; (g(x), x)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "A_Shestakov",
-          "name": "Alex Shestakov",
-          "id": 272643138,
-          "id_str": "272643138",
+          "screen_name": "He4eT",
+          "name": "He4eTHb1u'",
+          "id": 354384216,
+          "id_str": "354384216",
           "indices": [
-            0,
-            12
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            11,
+            23
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/0o4ZvTij89",
-          "expanded_url": "https://twitter.com/i/web/status/1244702353191821312",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            120,
-            143
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1244580615942475800,
-    "in_reply_to_status_id_str": "1244580615942475778",
-    "in_reply_to_user_id": 272643138,
-    "in_reply_to_user_id_str": "272643138",
-    "in_reply_to_screen_name": "A_Shestakov",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 31 19:18:26 +0000 2020",
+      "id": 1245067951738421200,
+      "id_str": "1245067951738421248",
+      "text": "@jsunderhood Очень долго привыкал к феномену \"оператор запятая\"\n\nconst f = x =&gt; (g(x), x)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1245064849450832000,
+      "in_reply_to_status_id_str": "1245064849450831877",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
