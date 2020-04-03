@@ -13,31 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 7628,
+  "followers_count": 7632,
   "friends_count": 529,
   "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3481,
+  "favourites_count": 3483,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37525,
+  "statuses_count": 37543,
   "lang": null,
   "status": {
-    "created_at": "Wed Apr 01 16:33:36 +0000 2020",
-    "id": 1245388855764811800,
-    "id_str": "1245388855764811776",
-    "text": "Возвращаясь к вопросам синтаксиса языков.\n\nВ TypeScript довольно развитая система типов. Используете ли вы Mapped t… https://t.co/UdVGmiWqFg",
+    "created_at": "Thu Apr 02 15:54:26 +0000 2020",
+    "id": 1245741389184409600,
+    "id_str": "1245741389184409608",
+    "text": "@themagicworldof Это просто информация, что тип параметра нигде не объявляется и выведен как any. \nСкриншот делался… https://t.co/wGoGwidAoi",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "themagicworldof",
+          "name": "Vitaly Y.",
+          "id": 1027958007227932700,
+          "id_str": "1027958007227932672",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/UdVGmiWqFg",
-          "expanded_url": "https://twitter.com/i/web/status/1245388855764811776",
+          "url": "https://t.co/wGoGwidAoi",
+          "expanded_url": "https://twitter.com/i/web/status/1245741389184409608",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,18 +58,18 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1245736732735217700,
+    "in_reply_to_status_id_str": "1245736732735217664",
+    "in_reply_to_user_id": 1027958007227932700,
+    "in_reply_to_user_id_str": "1027958007227932672",
+    "in_reply_to_screen_name": "themagicworldof",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 16,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
