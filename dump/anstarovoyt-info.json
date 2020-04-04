@@ -13,56 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 7632,
+  "followers_count": 7637,
   "friends_count": 529,
   "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3483,
+  "favourites_count": 3485,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37543,
+  "statuses_count": 37570,
   "lang": null,
   "status": {
-    "created_at": "Thu Apr 02 15:54:26 +0000 2020",
-    "id": 1245741389184409600,
-    "id_str": "1245741389184409608",
-    "text": "@themagicworldof Это просто информация, что тип параметра нигде не объявляется и выведен как any. \nСкриншот делался… https://t.co/wGoGwidAoi",
+    "created_at": "Fri Apr 03 15:24:26 +0000 2020",
+    "id": 1246096225352515600,
+    "id_str": "1246096225352515584",
+    "text": "Почему не делаем какие-то задачи*\nНет уверенности о реальной потребности\nСлишком мало пользователей\nПротиворечие с… https://t.co/MEe6ilmWR2",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "themagicworldof",
-          "name": "Vitaly Y.",
-          "id": 1027958007227932700,
-          "id_str": "1027958007227932672",
-          "indices": [
-            0,
-            16
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/wGoGwidAoi",
-          "expanded_url": "https://twitter.com/i/web/status/1245741389184409608",
+          "url": "https://t.co/MEe6ilmWR2",
+          "expanded_url": "https://twitter.com/i/web/status/1246096225352515584",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1245736732735217700,
-    "in_reply_to_status_id_str": "1245736732735217664",
-    "in_reply_to_user_id": 1027958007227932700,
-    "in_reply_to_user_id_str": "1027958007227932672",
-    "in_reply_to_screen_name": "themagicworldof",
+    "in_reply_to_status_id": 1246095329172361200,
+    "in_reply_to_status_id_str": "1246095329172361216",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,6 +61,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
