@@ -13,66 +13,44 @@
     }
   },
   "protected": false,
-  "followers_count": 7639,
+  "followers_count": 7648,
   "friends_count": 531,
   "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3500,
+  "favourites_count": 3505,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37708,
+  "statuses_count": 37763,
   "lang": null,
   "status": {
-    "created_at": "Mon Apr 06 21:03:35 +0000 2020",
-    "id": 1247268739592196000,
-    "id_str": "1247268739592196098",
-    "text": "Вот если бы помержили мой ПР в cypress (https://t.co/R0xVgNDuQr)  - то это стало бы супер легко. \n\nТестирование ком… https://t.co/dGRXtgGd1m",
-    "truncated": true,
+    "created_at": "Tue Apr 07 20:03:47 +0000 2020",
+    "id": 1247616078991237000,
+    "id_str": "1247616078991237122",
+    "text": "(очень сомневаюсь что мне это как-то поможет, но а вдруг XD)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/R0xVgNDuQr",
-          "expanded_url": "https://github.com/cypress-io/cypress/pull/5923",
-          "display_url": "github.com/cypress-io/cyp…",
-          "indices": [
-            40,
-            63
-          ]
-        },
-        {
-          "url": "https://t.co/dGRXtgGd1m",
-          "expanded_url": "https://twitter.com/i/web/status/1247268739592196098",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1247615978290262000,
+    "in_reply_to_status_id_str": "1247615978290262023",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1247267236856901600,
-    "quoted_status_id_str": "1247267236856901638",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -84,7 +62,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/1247056254834442242/HvIuSC22_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247056254834442242/HvIuSC22_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1585559725",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1586238865",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
