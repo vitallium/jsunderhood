@@ -6282,6 +6282,3956 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 06:07:13 +0000 2020",
+      "id": 1247767937491951600,
+      "id_str": "1247767937491951616",
+      "text": "@lionskape В тесте, который должен проверить клик по кнопке или инпуту? Выбросить клик? C:",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247651716901802000,
+      "in_reply_to_status_id_str": "1247651716901801986",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 06:08:16 +0000 2020",
+      "id": 1247768200336441300,
+      "id_str": "1247768200336441344",
+      "text": "@lionskape А в том, что многие считают что их тесты ведут себя точно так же, как и реальное приложение – а это не так.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247651286713086000,
+      "in_reply_to_status_id_str": "1247651286713085954",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 06:12:20 +0000 2020",
+      "id": 1247769226728706000,
+      "id_str": "1247769226728706055",
+      "text": "@lionskape @xanf_ua Точно та же причина что и всегда. Проверить что видит пользователь – а он видит не компонент &lt;M… https://t.co/tCH0fmoHkt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "xanf_ua",
+            "name": "Illya Klymov",
+            "id": 16112270,
+            "id_str": "16112270",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tCH0fmoHkt",
+            "expanded_url": "https://twitter.com/i/web/status/1247769226728706055",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247648865232224300,
+      "in_reply_to_status_id_str": "1247648865232224261",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:43:58 +0000 2020",
+      "id": 1247792284017389600,
+      "id_str": "1247792284017389568",
+      "text": "@lionskape А что если эта функция вообще не вызывается? \nКакой смыыысл от этого теста? https://t.co/2EMWREvoRX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1247792160730001400,
+            "id_str": "1247792160730001410",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEMW-3UMAIhdCN.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVEMW-3UMAIhdCN.png",
+            "url": "https://t.co/2EMWREvoRX",
+            "display_url": "pic.twitter.com/2EMWREvoRX",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247792284017389568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1247792160730001400,
+            "id_str": "1247792160730001410",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEMW-3UMAIhdCN.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVEMW-3UMAIhdCN.png",
+            "url": "https://t.co/2EMWREvoRX",
+            "display_url": "pic.twitter.com/2EMWREvoRX",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247792284017389568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 650,
+                "h": 440,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247791331784528000,
+      "in_reply_to_status_id_str": "1247791331784527874",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:47:32 +0000 2020",
+      "id": 1247793183808872400,
+      "id_str": "1247793183808872450",
+      "text": "@tusaeff @lionskape @xanf_ua Мы говорим про такую ситуацию. И вот как-раз в такой ситуации вам ПРИ ЛЮБОМ изменении… https://t.co/7pi77oylw0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tusaeff",
+            "name": "Дмитрий Тусаев",
+            "id": 1239678369291276300,
+            "id_str": "1239678369291276288",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              9,
+              19
+            ]
+          },
+          {
+            "screen_name": "xanf_ua",
+            "name": "Illya Klymov",
+            "id": 16112270,
+            "id_str": "16112270",
+            "indices": [
+              20,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7pi77oylw0",
+            "expanded_url": "https://twitter.com/i/web/status/1247793183808872450",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247776302695714800,
+      "in_reply_to_status_id_str": "1247776302695714823",
+      "in_reply_to_user_id": 1239678369291276300,
+      "in_reply_to_user_id_str": "1239678369291276288",
+      "in_reply_to_screen_name": "tusaeff",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:49:27 +0000 2020",
+      "id": 1247793665742753800,
+      "id_str": "1247793665742753792",
+      "text": "@lionskape Да, вот только бесполезно писать юнит тесты в данной конкретной ситуации, они пользы никакой тебе не дад… https://t.co/zyX8z4y9OQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zyX8z4y9OQ",
+            "expanded_url": "https://twitter.com/i/web/status/1247793665742753792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247792878731944000,
+      "in_reply_to_status_id_str": "1247792878731943939",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:51:54 +0000 2020",
+      "id": 1247794283240804400,
+      "id_str": "1247794283240804354",
+      "text": "@lionskape @xanf_ua Но ведь это уже не рефакторинг. Если вы убрали role=\"modal\" – значит это больше не модалка! Зна… https://t.co/xItXhhPNWW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "xanf_ua",
+            "name": "Illya Klymov",
+            "id": 16112270,
+            "id_str": "16112270",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xItXhhPNWW",
+            "expanded_url": "https://twitter.com/i/web/status/1247794283240804354",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247791181322305500,
+      "in_reply_to_status_id_str": "1247791181322305536",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:54:00 +0000 2020",
+      "id": 1247794812301873200,
+      "id_str": "1247794812301873152",
+      "text": "Я тут потихоньку срусь с людьми в тредах (кстати присоединяйтесь). И у меня возникает ощущение что многие не до кон… https://t.co/k7ixHaN8G7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k7ixHaN8G7",
+            "expanded_url": "https://twitter.com/i/web/status/1247794812301873152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:54:52 +0000 2020",
+      "id": 1247795029759803400,
+      "id_str": "1247795029759803392",
+      "text": "Рефа́кторинг (англ. refactoring), или перепроектирование кода, переработка кода, равносильное преобразование алгори… https://t.co/equrnuRMHR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/equrnuRMHR",
+            "expanded_url": "https://twitter.com/i/web/status/1247795029759803392",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247794812301873200,
+      "in_reply_to_status_id_str": "1247794812301873152",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:55:00 +0000 2020",
+      "id": 1247795061279961000,
+      "id_str": "1247795061279961097",
+      "text": "источник: https://t.co/6ELinnzryO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6ELinnzryO",
+            "expanded_url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3",
+            "display_url": "ru.wikipedia.org/wiki/%D0%A0%D0…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247795029759803400,
+      "in_reply_to_status_id_str": "1247795029759803392",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "sr"
+    },
+    {
+      "created_at": "Wed Apr 08 07:56:26 +0000 2020",
+      "id": 1247795425303617500,
+      "id_str": "1247795425303617537",
+      "text": "То есть к примеру, я работая в Cypress частично был задействован в переписывании системы с Rest Api на Graphql. \n\nИ… https://t.co/rmtd1XZQM4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rmtd1XZQM4",
+            "expanded_url": "https://twitter.com/i/web/status/1247795425303617537",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247795061279961000,
+      "in_reply_to_status_id_str": "1247795061279961097",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 07:58:42 +0000 2020",
+      "id": 1247795992855863300,
+      "id_str": "1247795992855863302",
+      "text": "И это было ужасно! Но не так ужасно, как могло быть :) \n\nПотому что у нас была хренова гора cypress тестов, которые… https://t.co/ySrHFdKL8M",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ySrHFdKL8M",
+            "expanded_url": "https://twitter.com/i/web/status/1247795992855863302",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247795425303617500,
+      "in_reply_to_status_id_str": "1247795425303617537",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:01:12 +0000 2020",
+      "id": 1247796624560013300,
+      "id_str": "1247796624560013312",
+      "text": "Но все же сами (вспоминаем тред понедельника) assertion и action части остались точно такими же. \n\nЭто позволило КР… https://t.co/rkjtUm5oIq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rkjtUm5oIq",
+            "expanded_url": "https://twitter.com/i/web/status/1247796624560013312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247795992855863300,
+      "in_reply_to_status_id_str": "1247795992855863302",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:04:32 +0000 2020",
+      "id": 1247797460174434300,
+      "id_str": "1247797460174434305",
+      "text": "Вывод этого треда:\n\nПереписали всю системы с нуля, но исходный интерфейс остался тот же = рефакторинг.\n\nПоменяли ar… https://t.co/ogKQO3eOId",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ogKQO3eOId",
+            "expanded_url": "https://twitter.com/i/web/status/1247797460174434305",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247796624560013300,
+      "in_reply_to_status_id_str": "1247796624560013312",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:06:12 +0000 2020",
+      "id": 1247797883169935400,
+      "id_str": "1247797883169935366",
+      "text": "@lionskape Потому что html напрямую влияет на то как выглядит наше приложение для пользователя. \nНе всегда. Изменен… https://t.co/D23wfpjmFH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D23wfpjmFH",
+            "expanded_url": "https://twitter.com/i/web/status/1247797883169935366",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247796819121209300,
+      "in_reply_to_status_id_str": "1247796819121209345",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:08:38 +0000 2020",
+      "id": 1247798495030829000,
+      "id_str": "1247798495030829067",
+      "text": "Да, и кстати я не говорю переписывать все assert-ы на проверку html. Это зачастую действительно не нужно и не удобн… https://t.co/khCft4ukcC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/khCft4ukcC",
+            "expanded_url": "https://twitter.com/i/web/status/1247798495030829067",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:11:55 +0000 2020",
+      "id": 1247799321380016000,
+      "id_str": "1247799321380016129",
+      "text": "Хотя гораздо более правильно отталкиваться от текста который видит пользователь. В том числе и пользователь с огран… https://t.co/bEjqeOVdWZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bEjqeOVdWZ",
+            "expanded_url": "https://twitter.com/i/web/status/1247799321380016129",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247798495030829000,
+      "in_reply_to_status_id_str": "1247798495030829067",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:12:23 +0000 2020",
+      "id": 1247799438820528000,
+      "id_str": "1247799438820528128",
+      "text": "@lionskape Ответил в новом твите!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247798535002583000,
+      "in_reply_to_status_id_str": "1247798535002583044",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:14:12 +0000 2020",
+      "id": 1247799896494575600,
+      "id_str": "1247799896494575617",
+      "text": "А если вы переживаете по-поводу бандл-сайза ил по-поводу того, что ваше приложение легче будет проскраппить, то за… https://t.co/YWvV076W5E",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YWvV076W5E",
+            "expanded_url": "https://twitter.com/i/web/status/1247799896494575617",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247799321380016000,
+      "in_reply_to_status_id_str": "1247799321380016129",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:15:00 +0000 2020",
+      "id": 1247800094012788700,
+      "id_str": "1247800094012788736",
+      "text": "@huydogonish https://t.co/BB7GzFPrGQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "huydogonish",
+            "name": "Dostali 9171",
+            "id": 575614940,
+            "id_str": "575614940",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1247800085640966100,
+            "id_str": "1247800085640966145",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVETkRdU8AEshVQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVETkRdU8AEshVQ.png",
+            "url": "https://t.co/BB7GzFPrGQ",
+            "display_url": "pic.twitter.com/BB7GzFPrGQ",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247800094012788736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1247800085640966100,
+            "id_str": "1247800085640966145",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVETkRdU8AEshVQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVETkRdU8AEshVQ.png",
+            "url": "https://t.co/BB7GzFPrGQ",
+            "display_url": "pic.twitter.com/BB7GzFPrGQ",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247800094012788736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 672,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247799485008244700,
+      "in_reply_to_status_id_str": "1247799485008244737",
+      "in_reply_to_user_id": 575614940,
+      "in_reply_to_user_id_str": "575614940",
+      "in_reply_to_screen_name": "huydogonish",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Apr 08 08:16:44 +0000 2020",
+      "id": 1247800530623025200,
+      "id_str": "1247800530623025152",
+      "text": "@_jin_nin_ Ну это уже классическая проблема нейминга. Нужно думать (а иногда, ой как не хочется) о домене конкретно… https://t.co/QUXcYSYYCQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QUXcYSYYCQ",
+            "expanded_url": "https://twitter.com/i/web/status/1247800530623025152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247799561428414500,
+      "in_reply_to_status_id_str": "1247799561428414471",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:22:51 +0000 2020",
+      "id": 1247802072029782000,
+      "id_str": "1247802072029782016",
+      "text": "Уууух, го похоливарим! \nРаз такое дело, не всем сайтам нужен хороший интерфейс, не всем сайтам нужна надежность, не… https://t.co/cnwgQGEDcf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cnwgQGEDcf",
+            "expanded_url": "https://twitter.com/i/web/status/1247802072029782016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1247801047600390100,
+      "quoted_status_id_str": "1247801047600390145",
+      "quoted_status": {
+        "created_at": "Wed Apr 08 08:18:47 +0000 2020",
+        "id": 1247801047600390100,
+        "id_str": "1247801047600390145",
+        "text": "@jsunderhood Не всем сайтам нужен a11y",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1247799321380016000,
+        "in_reply_to_status_id_str": "1247799321380016129",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 830914830,
+          "id_str": "830914830"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:29:10 +0000 2020",
+      "id": 1247803659309572000,
+      "id_str": "1247803659309572097",
+      "text": "@bildja Ой блин) Спасибо большое – https://t.co/Jga0U91EHy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bildja",
+            "name": "Dima",
+            "id": 26359098,
+            "id_str": "26359098",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Jga0U91EHy",
+            "expanded_url": "https://www.npmjs.com/package/babel-plugin-react-remove-properties",
+            "display_url": "npmjs.com/package/babel-…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247803010547212300,
+      "in_reply_to_status_id_str": "1247803010547212288",
+      "in_reply_to_user_id": 26359098,
+      "in_reply_to_user_id_str": "26359098",
+      "in_reply_to_screen_name": "bildja",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:29:56 +0000 2020",
+      "id": 1247803852662796300,
+      "id_str": "1247803852662796288",
+      "text": "@raphaeel_ru https://t.co/hQkpHGMIxq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raphaeel_ru",
+            "name": "Armand Jean",
+            "id": 16391628,
+            "id_str": "16391628",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1247803842713907200,
+            "id_str": "1247803842713907200",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEW-9pUcAA3gev.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVEW-9pUcAA3gev.png",
+            "url": "https://t.co/hQkpHGMIxq",
+            "display_url": "pic.twitter.com/hQkpHGMIxq",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247803852662796288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1247803842713907200,
+            "id_str": "1247803842713907200",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEW-9pUcAA3gev.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVEW-9pUcAA3gev.png",
+            "url": "https://t.co/hQkpHGMIxq",
+            "display_url": "pic.twitter.com/hQkpHGMIxq",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247803852662796288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 512,
+                "h": 410,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247802609915678700,
+      "in_reply_to_status_id_str": "1247802609915678721",
+      "in_reply_to_user_id": 16391628,
+      "in_reply_to_user_id_str": "16391628",
+      "in_reply_to_screen_name": "raphaeel_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Apr 08 08:32:07 +0000 2020",
+      "id": 1247804401508421600,
+      "id_str": "1247804401508421634",
+      "text": "Проблема в том, что когда 'жареный петух клюнул' – это уже поздно. Значит что все сломалось и срочно нужно чинить.… https://t.co/OcjY1nyl0x",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OcjY1nyl0x",
+            "expanded_url": "https://twitter.com/i/web/status/1247804401508421634",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247802072029782000,
+      "in_reply_to_status_id_str": "1247802072029782016",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:33:04 +0000 2020",
+      "id": 1247804641674289200,
+      "id_str": "1247804641674289152",
+      "text": "И кто в этом виноват? PM который не завел тикет a11y? Заказчик который этого не предусмотрел? Или программист котор… https://t.co/dcthS3urEY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dcthS3urEY",
+            "expanded_url": "https://twitter.com/i/web/status/1247804641674289152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247804401508421600,
+      "in_reply_to_status_id_str": "1247804401508421634",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:38:03 +0000 2020",
+      "id": 1247805895334965200,
+      "id_str": "1247805895334965248",
+      "text": "@lionskape @bildja Ничего личного, но я бы посмотрел на вас, когда вы сядите в коляску и не сможете выйти банально… https://t.co/zUWt4RDQ7F",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "bildja",
+            "name": "Dima",
+            "id": 26359098,
+            "id_str": "26359098",
+            "indices": [
+              11,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zUWt4RDQ7F",
+            "expanded_url": "https://twitter.com/i/web/status/1247805895334965248",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247804314933809200,
+      "in_reply_to_status_id_str": "1247804314933809158",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:40:21 +0000 2020",
+      "id": 1247806475231039500,
+      "id_str": "1247806475231039488",
+      "text": "@lionskape Выберу одного разработчика, который будет дороже –  который будет хотя-бы знать о том что такое a11y.… https://t.co/Rbdau0a0Ir",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Rbdau0a0Ir",
+            "expanded_url": "https://twitter.com/i/web/status/1247806475231039488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247805645660668000,
+      "in_reply_to_status_id_str": "1247805645660667911",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:43:49 +0000 2020",
+      "id": 1247807346232791000,
+      "id_str": "1247807346232791043",
+      "text": "@lionskape Нанимай дешевых программистов. Обанкротьтся. Приходи ко мне и я сделаю красиво. https://t.co/r80FKqtOpu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1247807338053951500,
+            "id_str": "1247807338053951490",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEaKazU4AI3IH_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVEaKazU4AI3IH_.jpg",
+            "url": "https://t.co/r80FKqtOpu",
+            "display_url": "pic.twitter.com/r80FKqtOpu",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247807346232791043/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 464,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 682,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1247807338053951500,
+            "id_str": "1247807338053951490",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVEaKazU4AI3IH_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVEaKazU4AI3IH_.jpg",
+            "url": "https://t.co/r80FKqtOpu",
+            "display_url": "pic.twitter.com/r80FKqtOpu",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1247807346232791043/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 464,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 682,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247806654940196900,
+      "in_reply_to_status_id_str": "1247806654940196864",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:45:11 +0000 2020",
+      "id": 1247807693475045400,
+      "id_str": "1247807693475045376",
+      "text": "@lionskape Ну role это тоже минимальная штука для a11y. Плюс ты не будешь писать модалку руками, возьмешь material-… https://t.co/Ude79wc2Qt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ude79wc2Qt",
+            "expanded_url": "https://twitter.com/i/web/status/1247807693475045376",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247806885597548500,
+      "in_reply_to_status_id_str": "1247806885597548546",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:46:29 +0000 2020",
+      "id": 1247808017292128300,
+      "id_str": "1247808017292128256",
+      "text": "@lionskape Спасибо, приятно было подискутировать!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247807838723829800,
+      "in_reply_to_status_id_str": "1247807838723829761",
+      "in_reply_to_user_id": 830914830,
+      "in_reply_to_user_id_str": "830914830",
+      "in_reply_to_screen_name": "lionskape",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 08:55:29 +0000 2020",
+      "id": 1247810282669224000,
+      "id_str": "1247810282669223937",
+      "text": "@alexey_m_ukolov @lionskape +1 что-то может быть неудобно (там например нет keyboard shortcat-ов) \n\nНо все что вам… https://t.co/AirC3MCX0z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexey_m_ukolov",
+            "name": "Aleksey Ukolov",
+            "id": 247892463,
+            "id_str": "247892463",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AirC3MCX0z",
+            "expanded_url": "https://twitter.com/i/web/status/1247810282669223937",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247809667595513900,
+      "in_reply_to_status_id_str": "1247809667595513862",
+      "in_reply_to_user_id": 247892463,
+      "in_reply_to_user_id_str": "247892463",
+      "in_reply_to_screen_name": "alexey_m_ukolov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:30:58 +0000 2020",
+      "id": 1247879611142131700,
+      "id_str": "1247879611142131714",
+      "text": "@DimonShin Ну, это похоже на просто перекладывание ответственности. Как уже упоминалось базовая поддержка доступнос… https://t.co/HJKIL3hDK7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DimonShin",
+            "name": "Яшин Дмитрий",
+            "id": 1050754896,
+            "id_str": "1050754896",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HJKIL3hDK7",
+            "expanded_url": "https://twitter.com/i/web/status/1247879611142131714",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247877230677688300,
+      "in_reply_to_status_id_str": "1247877230677688321",
+      "in_reply_to_user_id": 1050754896,
+      "in_reply_to_user_id_str": "1050754896",
+      "in_reply_to_screen_name": "DimonShin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:41:06 +0000 2020",
+      "id": 1247882160289091600,
+      "id_str": "1247882160289091586",
+      "text": "Итак, мы дошли до обсуждения пирамиды! И начать предлагаю с обсуждения терминов. \n\nЯ с недавнего времени стараюсь и… https://t.co/SXLNskoUEh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SXLNskoUEh",
+            "expanded_url": "https://twitter.com/i/web/status/1247882160289091586",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:44:14 +0000 2020",
+      "id": 1247882948021350400,
+      "id_str": "1247882948021350406",
+      "text": "Наибольшие проблемы возникают с интеграционными. Вот например в яндексе считают что selenium тесты которые ходят и… https://t.co/9EpPapQRWU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9EpPapQRWU",
+            "expanded_url": "https://twitter.com/i/web/status/1247882948021350406",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247882160289091600,
+      "in_reply_to_status_id_str": "1247882160289091586",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:45:18 +0000 2020",
+      "id": 1247883220160401400,
+      "id_str": "1247883220160401408",
+      "text": "Интеграцио́нное тести́рование (англ. Integration testing, иногда называется англ. Integration and Testing, аббревиа… https://t.co/wmHHE5lDLN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wmHHE5lDLN",
+            "expanded_url": "https://twitter.com/i/web/status/1247883220160401408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247882948021350400,
+      "in_reply_to_status_id_str": "1247882948021350406",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:46:05 +0000 2020",
+      "id": 1247883417095528400,
+      "id_str": "1247883417095528453",
+      "text": "А юнит тесты  — процесс в программировании, позволяющий проверить на корректность отдельные модули исходного кода п… https://t.co/uMPUcpdHhY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMPUcpdHhY",
+            "expanded_url": "https://twitter.com/i/web/status/1247883417095528453",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247883220160401400,
+      "in_reply_to_status_id_str": "1247883220160401408",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:47:10 +0000 2020",
+      "id": 1247883686965424000,
+      "id_str": "1247883686965424135",
+      "text": "И вот тут уже возникает коллизия. Юнит тесты могут тестировать группу модулей (&gt; наборы из одного или более програм… https://t.co/ja2UBDRwIC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ja2UBDRwIC",
+            "expanded_url": "https://twitter.com/i/web/status/1247883686965424135",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247883417095528400,
+      "in_reply_to_status_id_str": "1247883417095528453",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:49:23 +0000 2020",
+      "id": 1247884246221344800,
+      "id_str": "1247884246221344770",
+      "text": "Тоже самое происходит и с e2e. Ведь по-сути все наше приложение это тоже группа модулей. Соответственно любой e2e т… https://t.co/ZmDQhAQuQJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZmDQhAQuQJ",
+            "expanded_url": "https://twitter.com/i/web/status/1247884246221344770",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247883686965424000,
+      "in_reply_to_status_id_str": "1247883686965424135",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:54:21 +0000 2020",
+      "id": 1247885496845394000,
+      "id_str": "1247885496845393928",
+      "text": "Пример! Мы пишем библиотеку которая наверх вываливает функции. \n\nНапример date-fns (кстати вообще не понимаю почему… https://t.co/Vro89gW3gq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Vro89gW3gq",
+            "expanded_url": "https://twitter.com/i/web/status/1247885496845393928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247884246221344800,
+      "in_reply_to_status_id_str": "1247884246221344770",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 13:57:44 +0000 2020",
+      "id": 1247886347248885800,
+      "id_str": "1247886347248885760",
+      "text": "Но абсолютно точно такой же тест на точно такой же код в любом приложении – уже никак нельзя назвать e2e.\n\nТоже сам… https://t.co/H5PrYfE6SP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H5PrYfE6SP",
+            "expanded_url": "https://twitter.com/i/web/status/1247886347248885760",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247885496845394000,
+      "in_reply_to_status_id_str": "1247885496845393928",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:00:38 +0000 2020",
+      "id": 1247887076147642400,
+      "id_str": "1247887076147642380",
+      "text": "У каждого продукта (или каждой команды) есть своя зона ответственности.\n\nНапример для меня в material-ui это будут… https://t.co/ItgeRAAoz4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ItgeRAAoz4",
+            "expanded_url": "https://twitter.com/i/web/status/1247887076147642380",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247886347248885800,
+      "in_reply_to_status_id_str": "1247886347248885760",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:02:57 +0000 2020",
+      "id": 1247887661072695300,
+      "id_str": "1247887661072695303",
+      "text": "И внутри каждой зоны ответственности мы можем писать 3 вида тестов: black box, grey box и white box. \n\nТо есть когд… https://t.co/KZ6DyQgASt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KZ6DyQgASt",
+            "expanded_url": "https://twitter.com/i/web/status/1247887661072695303",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247887076147642400,
+      "in_reply_to_status_id_str": "1247887076147642380",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:04:36 +0000 2020",
+      "id": 1247888077105709000,
+      "id_str": "1247888077105709060",
+      "text": "@_jin_nin_ А может не нужно смотреть на определения в ваших непонятно-откуда-взятых табличках?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247886589876818000,
+      "in_reply_to_status_id_str": "1247886589876817922",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:09:03 +0000 2020",
+      "id": 1247889195114180600,
+      "id_str": "1247889195114180613",
+      "text": "И кстати, попробуйте какому-нибудь не js-программисту сказать что вы покрываете юнит тестами UI. \n\nОн вам посмеется… https://t.co/PMxpqh9iJW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PMxpqh9iJW",
+            "expanded_url": "https://twitter.com/i/web/status/1247889195114180613",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:11:09 +0000 2020",
+      "id": 1247889724536045600,
+      "id_str": "1247889724536045570",
+      "text": "И поэтому \"UI тесты\" со временем стали синонимом e2e или функционального тестирования. \n\nОпять же, потому что изоли… https://t.co/YHowtDXZLT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YHowtDXZLT",
+            "expanded_url": "https://twitter.com/i/web/status/1247889724536045570",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247889195114180600,
+      "in_reply_to_status_id_str": "1247889195114180613",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:14:30 +0000 2020",
+      "id": 1247890566001483800,
+      "id_str": "1247890566001483777",
+      "text": "И да, компонентный подход в js реализовали очень круто. Вот например я думаю SwiftUI очень вдохновлялся именно совр… https://t.co/I58ThgcdyC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I58ThgcdyC",
+            "expanded_url": "https://twitter.com/i/web/status/1247890566001483777",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247889724536045600,
+      "in_reply_to_status_id_str": "1247889724536045570",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:26:51 +0000 2020",
+      "id": 1247893675419398100,
+      "id_str": "1247893675419398147",
+      "text": "Ой, я ж забыл написать самое важное! \n\nЕсли говорите со своей командой о тестах, обязательно убедитесь что вы говорите об одном и том же.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247887661072695300,
+      "in_reply_to_status_id_str": "1247887661072695303",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 14:37:14 +0000 2020",
+      "id": 1247896289175416800,
+      "id_str": "1247896289175416837",
+      "text": "@vitkarpov @sipayRT Ответил дальше в треде. Непонятно в чем разница XD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vitkarpov",
+            "name": "Viktor Karpov",
+            "id": 3973225558,
+            "id_str": "3973225558",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "sipayRT",
+            "name": "Jack Konstantinov",
+            "id": 218241232,
+            "id_str": "218241232",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247895703830986800,
+      "in_reply_to_status_id_str": "1247895703830986753",
+      "in_reply_to_user_id": 3973225558,
+      "in_reply_to_user_id_str": "3973225558",
+      "in_reply_to_screen_name": "vitkarpov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:32:50 +0000 2020",
+      "id": 1247925380503212000,
+      "id_str": "1247925380503212037",
+      "text": "Время пришло! Тот самый тред о том, почему пирамида это пережиток прошлого. \n\nВот только важно: Под юнит тестами ту… https://t.co/oiU5he7Y3X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oiU5he7Y3X",
+            "expanded_url": "https://twitter.com/i/web/status/1247925380503212037",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:35:02 +0000 2020",
+      "id": 1247925931223797800,
+      "id_str": "1247925931223797761",
+      "text": "Немного истории. Пирамида начинает свое начало примерно в 2008 году. \n\nВот пруф https://t.co/C6WXi2c84T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C6WXi2c84T",
+            "expanded_url": "https://benhutchison.wordpress.com/2008/03/20/automated-testing-2-the-test-pyramid/",
+            "display_url": "benhutchison.wordpress.com/2008/03/20/aut…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247925380503212000,
+      "in_reply_to_status_id_str": "1247925380503212037",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:37:53 +0000 2020",
+      "id": 1247926649942876200,
+      "id_str": "1247926649942876166",
+      "text": "И если вы ознакомитесь со статейчками о том почему же все таки именно так необходимо писать тесты. Например от Март… https://t.co/UEAfXJFZVN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UEAfXJFZVN",
+            "expanded_url": "https://twitter.com/i/web/status/1247926649942876166",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247925931223797800,
+      "in_reply_to_status_id_str": "1247925931223797761",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:41:37 +0000 2020",
+      "id": 1247927590670733300,
+      "id_str": "1247927590670733313",
+      "text": "1) Действительно писать юнит тесты проще? \n\nХа-ха-ха, не смешите мои тапочки. Если мы говорим про тот тест, где у в… https://t.co/U6BqUR8zc0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/U6BqUR8zc0",
+            "expanded_url": "https://twitter.com/i/web/status/1247927590670733313",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247926649942876200,
+      "in_reply_to_status_id_str": "1247926649942876166",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:43:48 +0000 2020",
+      "id": 1247928137536680000,
+      "id_str": "1247928137536679938",
+      "text": "Современные e2e раннеры для фронтенда типа cypress от вас требуют просто запустить ваше приложение. И все, больше н… https://t.co/7ZoY2vKZqZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7ZoY2vKZqZ",
+            "expanded_url": "https://twitter.com/i/web/status/1247928137536679938",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247927590670733300,
+      "in_reply_to_status_id_str": "1247927590670733313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:46:25 +0000 2020",
+      "id": 1247928796386295800,
+      "id_str": "1247928796386295810",
+      "text": "Помимо всего прочего, юнит тесты от вас требуют определенной инфраструктуры. \nТипо DI, которые разработчики начинаю… https://t.co/xYF2kJla7M",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xYF2kJla7M",
+            "expanded_url": "https://twitter.com/i/web/status/1247928796386295810",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247928137536680000,
+      "in_reply_to_status_id_str": "1247928137536679938",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:51:23 +0000 2020",
+      "id": 1247930046628671500,
+      "id_str": "1247930046628671488",
+      "text": "2) Юнит тесты бегают быстрее\n\nНу как бы хрен поспоришь. Вот только вспоминаем 2008 – никакого докера, из CI только… https://t.co/d8Wpk0bCuK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/d8Wpk0bCuK",
+            "expanded_url": "https://twitter.com/i/web/status/1247930046628671488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247928796386295800,
+      "in_reply_to_status_id_str": "1247928796386295810",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:54:09 +0000 2020",
+      "id": 1247930742438494200,
+      "id_str": "1247930742438494208",
+      "text": "В cypress у нас было 2000 cypress тестов. C покрытием &gt;95%. И эти тесты бежали 2 минуты на 15 машинах в параллели.… https://t.co/cMlplLlyHS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cMlplLlyHS",
+            "expanded_url": "https://twitter.com/i/web/status/1247930742438494208",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247930046628671500,
+      "in_reply_to_status_id_str": "1247930046628671488",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 16:58:33 +0000 2020",
+      "id": 1247931852016541700,
+      "id_str": "1247931852016541705",
+      "text": "Окей, но что же там по поводу фокусности тестов. Я абсолютно не отрицаю необходимости покрытия бизнес логики отдель… https://t.co/FyqU9YrTkh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FyqU9YrTkh",
+            "expanded_url": "https://twitter.com/i/web/status/1247931852016541705",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247930742438494200,
+      "in_reply_to_status_id_str": "1247930742438494208",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:00:44 +0000 2020",
+      "id": 1247932401566785500,
+      "id_str": "1247932401566785537",
+      "text": "Я сегодня уже делал твит про зоны ответственности. \nИтак вашу бизнес логику вы должны изолировать от UI. \n\nИ не для… https://t.co/m7TbQmetFR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/m7TbQmetFR",
+            "expanded_url": "https://twitter.com/i/web/status/1247932401566785537",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247931852016541700,
+      "in_reply_to_status_id_str": "1247931852016541705",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:02:55 +0000 2020",
+      "id": 1247932949674315800,
+      "id_str": "1247932949674315778",
+      "text": "И соответственно на уровне бизнес логики вы пишите тесты. \nВы пишите опять e2e тесты, как бы представляя что ваша б… https://t.co/cmkHUqPnHs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cmkHUqPnHs",
+            "expanded_url": "https://twitter.com/i/web/status/1247932949674315778",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247932401566785500,
+      "in_reply_to_status_id_str": "1247932401566785537",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:05:54 +0000 2020",
+      "id": 1247933699179544600,
+      "id_str": "1247933699179544576",
+      "text": "Тоже самое с переиспользуемыми компоненты. \n\nКакие-нибудь части UI (кнопка, таблица), которые в теории могут быть в… https://t.co/LtPa0feK7y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LtPa0feK7y",
+            "expanded_url": "https://twitter.com/i/web/status/1247933699179544576",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247932949674315800,
+      "in_reply_to_status_id_str": "1247932949674315778",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:09:04 +0000 2020",
+      "id": 1247934499314425900,
+      "id_str": "1247934499314425859",
+      "text": "Да тесты будут пересекаться. И это нормально, на 1 уровне вы проверяете работоспособность БЛ. \n\nНа другом проверяет… https://t.co/F5VW730ukD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F5VW730ukD",
+            "expanded_url": "https://twitter.com/i/web/status/1247934499314425859",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247933699179544600,
+      "in_reply_to_status_id_str": "1247933699179544576",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:12:35 +0000 2020",
+      "id": 1247935381913383000,
+      "id_str": "1247935381913382914",
+      "text": "Но возникает интересный вопрос: А сколько собственно чистой бизнес-логики вы пишите? \n\nЯ очень сомневаюсь что у вас… https://t.co/XhokKj4xHy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XhokKj4xHy",
+            "expanded_url": "https://twitter.com/i/web/status/1247935381913382914",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247934499314425900,
+      "in_reply_to_status_id_str": "1247934499314425859",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:14:10 +0000 2020",
+      "id": 1247935781907423200,
+      "id_str": "1247935781907423232",
+      "text": "Так на кой ляд нам писать юнит-тесты, если 80% нашего кода – это чистого рода интеграции. \n\n(спорное утверждение со… https://t.co/Scucs5SGV6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Scucs5SGV6",
+            "expanded_url": "https://twitter.com/i/web/status/1247935781907423232",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247935381913383000,
+      "in_reply_to_status_id_str": "1247935381913382914",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:20:10 +0000 2020",
+      "id": 1247937292771131400,
+      "id_str": "1247937292771131392",
+      "text": "Если вы думаете что e2e тесты, которые запускаются в браузере ненадежные – вас возможно покусали xpath-ы. \n\nЭто ужа… https://t.co/pjqfxRLZjI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pjqfxRLZjI",
+            "expanded_url": "https://twitter.com/i/web/status/1247937292771131392",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247935781907423200,
+      "in_reply_to_status_id_str": "1247935781907423232",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:23:03 +0000 2020",
+      "id": 1247938018041880600,
+      "id_str": "1247938018041880583",
+      "text": "И это реально бред, потому что любое изменение структуры дома, даже которое не влияет на внешний UI приводит к поло… https://t.co/A9hGPlCOef",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/A9hGPlCOef",
+            "expanded_url": "https://twitter.com/i/web/status/1247938018041880583",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247937292771131400,
+      "in_reply_to_status_id_str": "1247937292771131392",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:24:32 +0000 2020",
+      "id": 1247938390093369300,
+      "id_str": "1247938390093369346",
+      "text": "И кстати это касается и бекенда. Вообще представить не могу как писать бек без полноценного тестирования API.\n\nНо э… https://t.co/DmaCiRFkBZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DmaCiRFkBZ",
+            "expanded_url": "https://twitter.com/i/web/status/1247938390093369346",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247938018041880600,
+      "in_reply_to_status_id_str": "1247938018041880583",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 17:25:42 +0000 2020",
+      "id": 1247938683837329400,
+      "id_str": "1247938683837329408",
+      "text": "Вообще я уже задолбался тут писюкать. \n\nВывод из этого такой: выше забираться по пирамиде вообще не сложно. Но доба… https://t.co/OJRMDUUV8Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OJRMDUUV8Z",
+            "expanded_url": "https://twitter.com/i/web/status/1247938683837329408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247938390093369300,
+      "in_reply_to_status_id_str": "1247938390093369346",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:13:38 +0000 2020",
+      "id": 1247950747372839000,
+      "id_str": "1247950747372838913",
+      "text": "@i_kabirov Ну вот если у вас отдельные автоматизаторы – это уже отдельная история. И у меня есть идеи как это можно… https://t.co/LR4U9m5BnF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_kabirov",
+            "name": "Ilyas Kabirov",
+            "id": 1028321065666322400,
+            "id_str": "1028321065666322433",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LR4U9m5BnF",
+            "expanded_url": "https://twitter.com/i/web/status/1247950747372838913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247947303387828200,
+      "in_reply_to_status_id_str": "1247947303387828224",
+      "in_reply_to_user_id": 1028321065666322400,
+      "in_reply_to_user_id_str": "1028321065666322433",
+      "in_reply_to_screen_name": "i_kabirov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:14:59 +0000 2020",
+      "id": 1247951085781868500,
+      "id_str": "1247951085781868544",
+      "text": "Знаете, Cypress – это как демократия. \n\nХудший из тест раннеров. Но лучше человечество пока не придумало. https://t.co/UWDTXbt1mm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UWDTXbt1mm",
+            "expanded_url": "https://twitter.com/zmitriy/status/1247949317773701125",
+            "display_url": "twitter.com/zmitriy/status…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1247949317773701000,
+      "quoted_status_id_str": "1247949317773701125",
+      "quoted_status": {
+        "created_at": "Wed Apr 08 18:07:57 +0000 2020",
+        "id": 1247949317773701000,
+        "id_str": "1247949317773701125",
+        "text": "@jsunderhood Проблема тестов на сайпрес,\n1) что с усложнением приложения они начинают дольше ранится.\n2) нельзя соб… https://t.co/k0dA3CqP9a",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/k0dA3CqP9a",
+              "expanded_url": "https://twitter.com/i/web/status/1247949317773701125",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1247925380503212000,
+        "in_reply_to_status_id_str": "1247925380503212037",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1063808575,
+          "id_str": "1063808575"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:15:49 +0000 2020",
+      "id": 1247951297581666300,
+      "id_str": "1247951297581666305",
+      "text": "О и кстати, коверейдж собирать уже давно можно :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247951085781868500,
+      "in_reply_to_status_id_str": "1247951085781868544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:17:57 +0000 2020",
+      "id": 1247951834343510000,
+      "id_str": "1247951834343510018",
+      "text": "@zmitriy Я настраивал через babel-plugin-istanbul и работает шикарно. https://t.co/L7jbmJgiVu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zmitriy",
+            "name": "Дмитрий Жеребко",
+            "id": 1063808575,
+            "id_str": "1063808575",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/L7jbmJgiVu",
+            "expanded_url": "https://docs.cypress.io/guides/tooling/code-coverage.html",
+            "display_url": "docs.cypress.io/guides/tooling…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247951640977645600,
+      "in_reply_to_status_id_str": "1247951640977645569",
+      "in_reply_to_user_id": 1063808575,
+      "in_reply_to_user_id_str": "1063808575",
+      "in_reply_to_screen_name": "zmitriy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:18:42 +0000 2020",
+      "id": 1247952020532854800,
+      "id_str": "1247952020532854784",
+      "text": "@zmitriy @davert возрадуйся!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zmitriy",
+            "name": "Дмитрий Жеребко",
+            "id": 1063808575,
+            "id_str": "1063808575",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "davert",
+            "name": "davert",
+            "id": 17285085,
+            "id_str": "17285085",
+            "indices": [
+              9,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247951401659125800,
+      "in_reply_to_status_id_str": "1247951401659125761",
+      "in_reply_to_user_id": 1063808575,
+      "in_reply_to_user_id_str": "1063808575",
+      "in_reply_to_screen_name": "zmitriy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 18:19:35 +0000 2020",
+      "id": 1247952243531407400,
+      "id_str": "1247952243531407360",
+      "text": "@zmitriy Нет, именно через visit – и все прекрасно работало.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zmitriy",
+            "name": "Дмитрий Жеребко",
+            "id": 1063808575,
+            "id_str": "1063808575",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247952068972884000,
+      "in_reply_to_status_id_str": "1247952068972883971",
+      "in_reply_to_user_id": 1063808575,
+      "in_reply_to_user_id_str": "1063808575",
+      "in_reply_to_screen_name": "zmitriy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 19:13:53 +0000 2020",
+      "id": 1247965907680362500,
+      "id_str": "1247965907680362496",
+      "text": "@MikeYermolayev @lionskape А еще со временем мы можем захотеть использовать YetAnotherButton, или обернуть Button в… https://t.co/yQt3yArkG3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MikeYermolayev",
+            "name": "Mike Yermolayev",
+            "id": 755459162423853000,
+            "id_str": "755459162423853057",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "lionskape",
+            "name": "Ульянов Владимир",
+            "id": 830914830,
+            "id_str": "830914830",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yQt3yArkG3",
+            "expanded_url": "https://twitter.com/i/web/status/1247965907680362496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1247964479490588700,
+      "in_reply_to_status_id_str": "1247964479490588675",
+      "in_reply_to_user_id": 755459162423853000,
+      "in_reply_to_user_id_str": "755459162423853057",
+      "in_reply_to_screen_name": "MikeYermolayev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 08 19:46:51 +0000 2020",
+      "id": 1247974207620874200,
+      "id_str": "1247974207620874240",
+      "text": "Вот еще немного в продолжении надежности, а потом я спать. Скрин из статьи про пирамиду тестирования за 2008 год.… https://t.co/gnjAe1Ld7S",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gnjAe1Ld7S",
+            "expanded_url": "https://twitter.com/i/web/status/1247974207620874240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
