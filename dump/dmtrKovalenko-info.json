@@ -13,52 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 7652,
+  "followers_count": 7658,
   "friends_count": 531,
   "listed_count": 242,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 3512,
+  "favourites_count": 3515,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 37839,
+  "statuses_count": 37883,
   "lang": null,
   "status": {
-    "created_at": "Wed Apr 08 19:46:51 +0000 2020",
-    "id": 1247974207620874200,
-    "id_str": "1247974207620874240",
-    "text": "Вот еще немного в продолжении надежности, а потом я спать. Скрин из статьи про пирамиду тестирования за 2008 год.… https://t.co/gnjAe1Ld7S",
+    "created_at": "Thu Apr 09 19:57:19 +0000 2020",
+    "id": 1248339225461887000,
+    "id_str": "1248339225461886981",
+    "text": "@SanichKotikov Ну лично я раньше думал что это просто обернутое в промис API сверху над XHR. А это отдельный полноц… https://t.co/4aqcj7VciO",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "SanichKotikov",
+          "name": "Sanich",
+          "id": 1158117386,
+          "id_str": "1158117386",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/gnjAe1Ld7S",
-          "expanded_url": "https://twitter.com/i/web/status/1247974207620874240",
+          "url": "https://t.co/4aqcj7VciO",
+          "expanded_url": "https://twitter.com/i/web/status/1248339225461886981",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            115,
-            138
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1248331574631903200,
+    "in_reply_to_status_id_str": "1248331574631903232",
+    "in_reply_to_user_id": 1158117386,
+    "in_reply_to_user_id_str": "1158117386",
+    "in_reply_to_screen_name": "SanichKotikov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
