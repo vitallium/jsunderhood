@@ -4321,13 +4321,6 @@ get-twitter-followers@^1.1.0:
     ramda "^0.18.0"
     twit "^2.1.0"
 
-get-twitter-info@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/get-twitter-info/-/get-twitter-info-1.0.5.tgz#dfdf13283409e1af77294ed28adfdaa78ed23f64"
-  integrity sha1-398TKDQJ4a93KU7Sit/ap47SP2Q=
-  dependencies:
-    twit "^2.1.0"
-
 get-twitter-info@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/get-twitter-info/-/get-twitter-info-2.0.2.tgz#2105a4ef29989c33e65ca27ebf5ab66a0cfc67d9"
