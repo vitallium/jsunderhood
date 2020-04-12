@@ -33,7 +33,7 @@ authors.map(initMedia);
 
 // MENTIONS
 function createEmptyMentions({ username }) {
-  outputJSON(`./dump/${username}-mentions.json`, { mentions: [] }, { spaces }, saveErr => {
+  outputJSON(`./dump/${username}-mentions.json`, { mentions: [] }, { spaces }, (saveErr) => {
     log(`${saveErr ? '✗' : '✓'} ${username}’s empty mentions`);
   });
 }
@@ -44,7 +44,7 @@ function reverseAndRenameTweets({ username }) {
   const { tweets: oldTweets } = getAuthorArea(username);
   const tweets = reverse(oldTweets);
   saveAuthorArea(username, 'tweets', { tweets });
-  remove(`./dump/${username}.json`, rmErr => {
+  remove(`./dump/${username}.json`, (rmErr) => {
     log(`${rmErr ? '✗' : '✓'} ${username}’s old tweets removed`);
   });
 }

@@ -12,8 +12,8 @@ const getGainedFollowers = require('./helpers/get-gained-followers');
 const getDiffFollowers = require('./helpers/get-diff-followers');
 
 const latestInfo = head(authors).info;
-const numbers = input => typeNumbers(input, { locale: 'ru' });
-const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
+const numbers = (input) => typeNumbers(input, { locale: 'ru' });
+const make$ = (file) => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
 describe('js', () => {
   it('getGainedFollowers ordinary', () => {
@@ -38,7 +38,7 @@ describe('html', () => {
     it('short authors info', () => {
       const $ = make$('dist/index.html');
       const pageAuthors = $('article .list__item-desc');
-      const realAuthors = authors.filter(a => a.post !== false);
+      const realAuthors = authors.filter((a) => a.post !== false);
       assert(pageAuthors.length === realAuthors.length);
     });
     it('don’t have subheading', () => {
@@ -48,11 +48,7 @@ describe('html', () => {
     it('followers count exists', () => {
       const $ = make$('dist/index.html');
       const followers = numbers(String(latestInfo.followers_count));
-      assert(
-        $('.page-header p i')
-          .text()
-          .indexOf(followers) > 0,
-      );
+      assert($('.page-header p i').text().indexOf(followers) > 0);
     });
   });
 
@@ -73,7 +69,7 @@ describe('html', () => {
 
   describe('archive pages', () => {
     it('tweets list', () => {
-      authors.forEach(author => {
+      authors.forEach((author) => {
         if (author.post === false) return;
 
         const $ = make$(`dist/${author.username}/index.html`);

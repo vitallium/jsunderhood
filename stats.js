@@ -6,20 +6,20 @@ const getDiffFollowers = require('./helpers/get-diff-followers');
 
 function getStatsPerAuthor(authors) {
   return authors
-    .map(author =>
+    .map((author) =>
       merge(author, {
         gainedFollowers: getGainedFollowers(author.authorId),
       }),
     )
-    .map(author =>
+    .map((author) =>
       merge(author, {
         diffFollowers: getDiffFollowers(author.authorId),
       }),
     )
-    .map(author => merge(author, stats(author.tweets)));
+    .map((author) => merge(author, stats(author.tweets)));
 }
 
-const getStats = authors => {
+const getStats = (authors) => {
   if (!authors || authors.length === 0) return null;
 
   return maxValues(getStatsPerAuthor(authors), [

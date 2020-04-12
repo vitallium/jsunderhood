@@ -16,9 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const lastUpdated = $('.js-last-updated');
     const timestamp = lastUpdated.getAttribute('data-timestamp');
-    lastUpdated.textContent = moment
-      .unix(timestamp)
-      .locale('ru')
-      .fromNow();
+    lastUpdated.textContent = moment.unix(timestamp).locale('ru').fromNow();
   }
 });

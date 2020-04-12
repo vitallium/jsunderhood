@@ -39,7 +39,7 @@ const pugDefaults = {
   locals: {
     site: underhood.site,
     latestInfo,
-    numbers: input =>
+    numbers: (input) =>
       numbers(input, {
         locale: 'ru',
       }),
@@ -60,7 +60,7 @@ const getOptions = (opts = {}) => {
   };
 };
 
-const pug = opts => gulpPug(getOptions(opts));
+const pug = (opts) => gulpPug(getOptions(opts));
 const firstTweet = pipe(prop('tweets'), head);
 const render = pipe(renderTweet, html);
 
@@ -87,7 +87,7 @@ gulp.task('icons', () => {
 });
 
 gulp.task('index', () => {
-  const authorsToPost = authors.filter(author => author.post !== false);
+  const authorsToPost = authors.filter((author) => author.post !== false);
 
   return gulp
     .src('layouts/index.pug')
@@ -133,7 +133,7 @@ gulp.task('stats', () => {
     .pipe(gulp.dest('./dist/'));
 });
 
-gulp.task('md-pages', done => {
+gulp.task('md-pages', (done) => {
   each(
     [
       {
@@ -149,7 +149,7 @@ gulp.task('md-pages', done => {
         title: 'Инструкция',
       },
     ],
-    item => {
+    (item) => {
       const page = fs.readFileSync(`./pages/${item.name}.md`, {
         encoding: 'utf8',
       });
@@ -178,10 +178,10 @@ gulp.task('md-pages', done => {
   );
 });
 
-gulp.task('rss', done => {
+gulp.task('rss', (done) => {
   const feed = new RSS(underhood.site);
-  const authorsToPost = authors.filter(author => author.post !== false);
-  authorsToPost.forEach(author => {
+  const authorsToPost = authors.filter((author) => author.post !== false);
+  authorsToPost.forEach((author) => {
     const renderedFirstTweet = firstTweet(author);
 
     feed.item({
@@ -201,14 +201,14 @@ gulp.task('rss', done => {
   );
 });
 
-gulp.task('authors', done => {
+gulp.task('authors', (done) => {
   const authorsToPost = authors
-    .filter(author => author.tweets.length > 0)
-    .filter(author => author.post !== false);
+    .filter((author) => author.tweets.length > 0)
+    .filter((author) => author.post !== false);
 
   each(
     authorsToPost,
-    author =>
+    (author) =>
       gulp
         .src('./layouts/author.pug')
         .pipe(
@@ -303,7 +303,7 @@ gulp.task('server', () => {
 /**
  * FLOW
  */
-gulp.task('clean', done => {
+gulp.task('clean', (done) => {
   rimraf('dist', done);
 });
 gulp.task('html', gulp.series(['css', 'icons', 'stats', 'authors', 'index', 'rss', 'md-pages']));

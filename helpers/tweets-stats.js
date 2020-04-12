@@ -1,12 +1,12 @@
 const { is } = require('ramda');
-const { twitterId } = require('./../.underhoodrc.json');
+const { twitterId } = require('../.underhoodrc.json');
 
-const isSelfReply = tweet => tweet.in_reply_to_user_id === twitterId;
-const isReply = tweet => !!tweet.in_reply_to_screen_name && !isSelfReply(tweet);
-const isRetweet = tweet => !!tweet.retweeted_status;
+const isSelfReply = (tweet) => tweet.in_reply_to_user_id === twitterId;
+const isReply = (tweet) => !!tweet.in_reply_to_screen_name && !isSelfReply(tweet);
+const isRetweet = (tweet) => !!tweet.retweeted_status;
 const sumRetweeted = (state, tweet) => state + tweet.retweet_count;
 const sumFavorited = (state, tweet) => state + tweet.favorite_count;
-const isOwn = tweet => !isReply(tweet) && !isRetweet(tweet);
+const isOwn = (tweet) => !isReply(tweet) && !isRetweet(tweet);
 
 const getObject = (array, percent) => ({
   total: array.length,
@@ -18,7 +18,7 @@ const getIntObject = (sum, divider) => ({
   average: Number(sum / divider || 0).toFixed(2),
 });
 
-const tweetsStats = input => {
+const tweetsStats = (input) => {
   if (!input || !is(Array, input)) return null;
 
   const tweets = input.length;

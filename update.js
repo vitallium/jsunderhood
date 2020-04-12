@@ -33,7 +33,7 @@ const tweets = getAuthorArea(authorId, 'tweets').tweets || [];
 // const mentions = getAuthorArea(authorId, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
-getTweets(tokens, underhood, tweetsSinceId).then(newTweetsRaw => {
+getTweets(tokens, underhood, tweetsSinceId).then((newTweetsRaw) => {
   const concattedTweets = concat(tweets, reverse(newTweetsRaw));
   saveAuthorArea(authorId, 'tweets', { tweets: concattedTweets });
 });
@@ -64,6 +64,6 @@ saveAuthorArea(authorId, 'mentions', { mentions: [] });
 //   saveAuthorArea(authorId, 'mentions', { mentions: concattedMentions });
 // });
 
-outputFile('./dump/.timestamp', moment().unix(), err => {
+outputFile('./dump/.timestamp', moment().unix(), (err) => {
   log(`${err ? '✗' : '✓'} timestamp`);
 });

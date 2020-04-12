@@ -8,7 +8,7 @@ module.exports = function save(image, path, cb) {
       return Promise.all([body, FileType.fromBuffer(body)]);
     })
     .then(([body, fileType]) => {
-      writeFile(`./dump/${path}.${fileType.ext}`, body, err => {
+      writeFile(`./dump/${path}.${fileType.ext}`, body, (err) => {
         if (err) return cb(err);
 
         return cb(null, `${path}.${fileType.ext}`.replace('dump/', ''));

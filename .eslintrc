@@ -1,10 +1,4 @@
 {
-  "extends": [
-    "airbnb-base",
-    "plugin:prettier/recommended"
-  ],
-  "plugins": ["require-path-exists"],
-  "rules": {
-    "arrow-parens": ["error", "as-needed"]
-  }
+  "extends": ["airbnb-base", "plugin:prettier/recommended"],
+  "plugins": ["require-path-exists"]
 }
