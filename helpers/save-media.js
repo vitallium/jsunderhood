@@ -5,8 +5,8 @@ const save = require('./save');
 const saveMedia = (tokens, underhood, authorId, cb) => {
   profileMedia(tokens, underhood).then(({ image: imageURL, banner: bannerURL }) => {
     ensureDirSync('./dump/images/');
-    save(imageURL, `./images/${authorId}-image`, (imageErr, image) => {
-      save(bannerURL, `./images/${authorId}-banner`, (bannerErr, banner) => {
+    save(imageURL, `./images/${authorId}-image`, (_, image) => {
+      save(bannerURL, `./images/${authorId}-banner`, (__, banner) => {
         cb(null, { image, banner });
       });
     });

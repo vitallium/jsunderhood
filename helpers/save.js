@@ -1,15 +1,17 @@
 const got = require('got');
-const type = require('file-type');
+const FileType = require('file-type');
 const { writeFile } = require('fs');
 
 module.exports = function save(image, path, cb) {
   got(image, { responseType: 'buffer' })
-    .then(({ body }) => ({ body, ext: type(body).ext }))
-    .then(({ body, ext }) => {
-      writeFile(`./dump/${path}.${ext}`, body, err => {
+    .then(({ body }) => {
+      return Promise.all([body, FileType.fromBuffer(body)]);
+    })
+    .then(([body, fileType]) => {
+      writeFile(`./dump/${path}.${fileType.ext}`, body, err => {
         if (err) return cb(err);
 
-        return cb(null, `${path}.${ext}`.replace('dump/', ''));
+        return cb(null, `${path}.${fileType.ext}`.replace('dump/', ''));
       });
     })
     .catch(cb);
