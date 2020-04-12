@@ -4313,13 +4313,13 @@ get-tweets@^4.0.0:
     ramda "^0.19.1"
     twit "^2.2.2"
 
-get-twitter-followers@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/get-twitter-followers/-/get-twitter-followers-1.1.0.tgz#14283245b0246d29d58ed7190841ed0400b10a34"
-  integrity sha1-FCgyRbAkbSnVjtcZCEHtBACxCjQ=
+get-twitter-followers@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/get-twitter-followers/-/get-twitter-followers-2.0.0.tgz#51ca9420915ebe62aa416c134a91be833cdc37c7"
+  integrity sha1-UcqUIJFevmKqQWwTSpG+gzzcN8c=
   dependencies:
-    ramda "^0.18.0"
-    twit "^2.1.0"
+    ramda "^0.19.1"
+    twit "^2.2.2"
 
 get-twitter-info@^2.0.2:
   version "2.0.2"
