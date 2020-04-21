@@ -38,8 +38,7 @@ getTweets(tokens, underhood, tweetsSinceId).then((newTweetsRaw) => {
   saveAuthorArea(authorId, 'tweets', { tweets: concattedTweets });
 });
 
-getInfo(tokens, underhood, (err, info) => {
-  if (err) throw err;
+getInfo(tokens, underhood).then((info) => {
   saveAuthorArea(authorId, 'info', info);
 });
 
