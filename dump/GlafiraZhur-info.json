@@ -13,52 +13,53 @@
     }
   },
   "protected": false,
-  "followers_count": 7864,
+  "followers_count": 7881,
   "friends_count": 532,
-  "listed_count": 246,
+  "listed_count": 245,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4430,
+  "favourites_count": 4467,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 38921,
+  "statuses_count": 38949,
   "lang": null,
   "status": {
-    "created_at": "Sat Apr 25 20:34:18 +0000 2020",
-    "id": 1254146741433258000,
-    "id_str": "1254146741433257984",
-    "text": "Я иногда роняю сайты, я не знаю, почему, это наверное, незакрытый Гештальт (или Геральт)... однажды мне пришили обв… https://t.co/PFPpBDBFvJ",
-    "truncated": true,
+    "created_at": "Sun Apr 26 19:49:28 +0000 2020",
+    "id": 1254497844909785000,
+    "id_str": "1254497844909785093",
+    "text": "@m0rg0t Сам факт наличия отзыва + каждый работодатель опишет что-то своё. \n\nМне они были полезны заграницей.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/PFPpBDBFvJ",
-          "expanded_url": "https://twitter.com/i/web/status/1254146741433257984",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "m0rg0t",
+          "name": "Anton Lenev",
+          "id": 65431885,
+          "id_str": "65431885",
           "indices": [
-            117,
-            140
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1254146739935813600,
-    "in_reply_to_status_id_str": "1254146739935813632",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1254496237614760000,
+    "in_reply_to_status_id_str": "1254496237614759936",
+    "in_reply_to_user_id": 65431885,
+    "in_reply_to_user_id_str": "65431885",
+    "in_reply_to_screen_name": "m0rg0t",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
