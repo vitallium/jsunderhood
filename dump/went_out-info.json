@@ -13,42 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 7877,
-  "friends_count": 532,
+  "followers_count": 7871,
+  "friends_count": 537,
   "listed_count": 245,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4467,
+  "favourites_count": 4483,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 38953,
+  "statuses_count": 38976,
   "lang": null,
   "status": {
-    "created_at": "Mon Apr 27 06:48:04 +0000 2020",
-    "id": 1254663588339429400,
-    "id_str": "1254663588339429376",
-    "text": "Object.getPrototypeOf(Object.prototype) -- \"загляденье\": оно всегда так и было, несмотря на то, что этот метод пров… https://t.co/2SRgC9Uw4s",
-    "truncated": true,
+    "created_at": "Mon Apr 27 21:40:56 +0000 2020",
+    "id": 1254888284188270600,
+    "id_str": "1254888284188270596",
+    "text": "И вот как понять, всё ещё шутит или уже нет?\nhttps://t.co/n9Q0UmcOz7",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/2SRgC9Uw4s",
-          "expanded_url": "https://twitter.com/i/web/status/1254663588339429376",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/n9Q0UmcOz7",
+          "expanded_url": "https://twitter.com/BrendanEich/status/1254864759884677120",
+          "display_url": "twitter.com/BrendanEich/st…",
           "indices": [
-            117,
-            140
+            45,
+            68
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1254663162579861500,
-    "in_reply_to_status_id_str": "1254663162579861505",
+    "in_reply_to_status_id": 1254671942327709700,
+    "in_reply_to_status_id_str": "1254671942327709698",
     "in_reply_to_user_id": 3014054307,
     "in_reply_to_user_id_str": "3014054307",
     "in_reply_to_screen_name": "jsunderhood",
@@ -56,12 +56,15 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1254864759884677000,
+    "quoted_status_id_str": "1254864759884677120",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "lang": "uk"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
