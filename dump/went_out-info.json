@@ -13,39 +13,38 @@
     }
   },
   "protected": false,
-  "followers_count": 7872,
-  "friends_count": 537,
+  "followers_count": 7875,
+  "friends_count": 540,
   "listed_count": 245,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4489,
+  "favourites_count": 4495,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39015,
+  "statuses_count": 39057,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 28 21:00:37 +0000 2020",
-    "id": 1255240528406421500,
-    "id_str": "1255240528406421515",
-    "text": "RT @Andre_487: Я тут задумался. Фантомас был главарём международной ОПГ, при этом самостоятельно маскировался и творил мелкие пакости. Поче…",
-    "truncated": false,
+    "created_at": "Wed Apr 29 22:46:08 +0000 2020",
+    "id": 1255629467629883400,
+    "id_str": "1255629467629883402",
+    "text": "Бывалые, I need help )\n\nЭто у меня одого тут такая неясность, что куда написано и в какую сторону читать сообщения… https://t.co/EhLI01MwGc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Andre_487",
-          "name": "Andrey Prokopyuk",
-          "id": 332200454,
-          "id_str": "332200454",
+          "url": "https://t.co/EhLI01MwGc",
+          "expanded_url": "https://twitter.com/i/web/status/1255629467629883402",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            3,
-            13
+            116,
+            139
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -57,47 +56,8 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Apr 28 19:10:25 +0000 2020",
-      "id": 1255212794133315600,
-      "id_str": "1255212794133315585",
-      "text": "Я тут задумался. Фантомас был главарём международной ОПГ, при этом самостоятельно маскировался и творил мелкие пако… https://t.co/jpamHm8NMU",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/jpamHm8NMU",
-            "expanded_url": "https://twitter.com/i/web/status/1255212794133315585",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 8,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
