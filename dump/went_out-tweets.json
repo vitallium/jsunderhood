@@ -7835,6 +7835,638 @@
       "favorited": false,
       "retweeted": false,
       "lang": "es"
+    },
+    {
+      "created_at": "Sat May 02 13:06:48 +0000 2020",
+      "id": 1256570838960177200,
+      "id_str": "1256570838960177159",
+      "text": "RT @indutny: Someone has reminded me about this masterpiece by @ZachWeiner :\n\nhttps://t.co/0waYHj9GTJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "indutny",
+            "name": "⦿",
+            "id": 92915570,
+            "id_str": "92915570",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "ZachWeiner",
+            "name": "Zach Weinersmith",
+            "id": 20745130,
+            "id_str": "20745130",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0waYHj9GTJ",
+            "expanded_url": "https://www.smbc-comics.com/comic/the-talk-3",
+            "display_url": "smbc-comics.com/comic/the-talk…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat May 02 00:08:26 +0000 2020",
+        "id": 1256374957350645800,
+        "id_str": "1256374957350645760",
+        "text": "Someone has reminded me about this masterpiece by @ZachWeiner :\n\nhttps://t.co/0waYHj9GTJ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ZachWeiner",
+              "name": "Zach Weinersmith",
+              "id": 20745130,
+              "id_str": "20745130",
+              "indices": [
+                50,
+                61
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/0waYHj9GTJ",
+              "expanded_url": "https://www.smbc-comics.com/comic/the-talk-3",
+              "display_url": "smbc-comics.com/comic/the-talk…",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 92915570,
+          "id_str": "92915570"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat May 02 13:07:25 +0000 2020",
+      "id": 1256570992647901200,
+      "id_str": "1256570992647901184",
+      "text": "RT @poledesfetes: Wait what?! A wild Release PR of #NodeJS 12.17.0 including AsyncLocalStorage, stable diagnosti reports, libuv 1.37.0 and…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NodeJS",
+            "indices": [
+              51,
+              58
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "poledesfetes",
+            "name": "Vladimir de Turckheim",
+            "id": 502046804,
+            "id_str": "502046804",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat May 02 11:39:26 +0000 2020",
+        "id": 1256548850589995000,
+        "id_str": "1256548850589995013",
+        "text": "Wait what?! A wild Release PR of #NodeJS 12.17.0 including AsyncLocalStorage, stable diagnosti reports, libuv 1.37.… https://t.co/ntm4Lk33dq",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "NodeJS",
+              "indices": [
+                33,
+                40
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/ntm4Lk33dq",
+              "expanded_url": "https://twitter.com/i/web/status/1256548850589995013",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 502046804,
+          "id_str": "502046804"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat May 02 15:35:11 +0000 2020",
+      "id": 1256608182295814100,
+      "id_str": "1256608182295814144",
+      "text": "Последние годы зимой в Ростове тепло, поэтому даже с приходом зимы \"мангал\" и посиделки в офисных кальянных не прек… https://t.co/zkJnYkltlW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zkJnYkltlW",
+            "expanded_url": "https://twitter.com/i/web/status/1256608182295814144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:12 +0000 2020",
+      "id": 1256608184581738500,
+      "id_str": "1256608184581738496",
+      "text": "Как и большинство других технологий JavaScript не самодостаточен, поэтому сперва хотелось бы выразить огромную благ… https://t.co/BGcdHQ5IJ2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BGcdHQ5IJ2",
+            "expanded_url": "https://twitter.com/i/web/status/1256608184581738496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608182295814100,
+      "in_reply_to_status_id_str": "1256608182295814144",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:13 +0000 2020",
+      "id": 1256608186955686000,
+      "id_str": "1256608186955685888",
+      "text": "Вернёмся к JavaScript )\n\nСообщество RND.JS не большое, зато очень дружное и очень яркое, а южный менталитет и жара… https://t.co/I1E6AU1VXJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I1E6AU1VXJ",
+            "expanded_url": "https://twitter.com/i/web/status/1256608186955685888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608184581738500,
+      "in_reply_to_status_id_str": "1256608184581738496",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:13 +0000 2020",
+      "id": 1256608188666916900,
+      "id_str": "1256608188666916864",
+      "text": "И, куда же без After-Party!\nДля того, чтобы они случались нужны митапы и конференции ) \n\nНекоторые записи прошедших… https://t.co/tqaVu760TW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tqaVu760TW",
+            "expanded_url": "https://twitter.com/i/web/status/1256608188666916864",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608186955686000,
+      "in_reply_to_status_id_str": "1256608186955685888",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:14 +0000 2020",
+      "id": 1256608192014024700,
+      "id_str": "1256608192014024705",
+      "text": "И вдруг как-то раз мы решили, что уже хочется делать и просто Party.\n\nЭто прошлогодний весенний Front-End party RND… https://t.co/HFeJtXUeE5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HFeJtXUeE5",
+            "expanded_url": "https://twitter.com/i/web/status/1256608192014024705",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608188666916900,
+      "in_reply_to_status_id_str": "1256608188666916864",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:15 +0000 2020",
+      "id": 1256608195126141000,
+      "id_str": "1256608195126140928",
+      "text": "Закрытие сезона мангала Конечно же запомнили не все, но \"страна должна знать своих героев\", поэтому фотографу налив… https://t.co/c57Xcfbb6r",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/c57Xcfbb6r",
+            "expanded_url": "https://twitter.com/i/web/status/1256608195126140928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608192014024700,
+      "in_reply_to_status_id_str": "1256608192014024705",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 15:35:15 +0000 2020",
+      "id": 1256608197491806200,
+      "id_str": "1256608197491806211",
+      "text": "ребят, сильно вас не хватает\n\nдавайте уже, досиживайте и го к нам, мангал мы вчера распечатали, несмотря ни на что",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1256608195126141000,
+      "in_reply_to_status_id_str": "1256608195126140928",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 02 16:12:13 +0000 2020",
+      "id": 1256617498369306600,
+      "id_str": "1256617498369306625",
+      "text": "С надеждой, что всё это скоро закончится :\n\n@rndtechpro верим, надеемся, ждём )\n@conf_south сделаем интернет ещё лу… https://t.co/1UhWTvcXwi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rndtechpro",
+            "name": "IT-сообщество Ростова",
+            "id": 1214270112162672600,
+            "id_str": "1214270112162672640",
+            "indices": [
+              44,
+              55
+            ]
+          },
+          {
+            "screen_name": "conf_south",
+            "name": "SouthConf",
+            "id": 1233011758417301500,
+            "id_str": "1233011758417301504",
+            "indices": [
+              80,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1UhWTvcXwi",
+            "expanded_url": "https://twitter.com/i/web/status/1256617498369306625",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1256608184581738500,
+      "quoted_status_id_str": "1256608184581738496",
+      "quoted_status": {
+        "created_at": "Sat May 02 15:35:12 +0000 2020",
+        "id": 1256608184581738500,
+        "id_str": "1256608184581738496",
+        "text": "Как и большинство других технологий JavaScript не самодостаточен, поэтому сперва хотелось бы выразить огромную благ… https://t.co/BGcdHQ5IJ2",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/BGcdHQ5IJ2",
+              "expanded_url": "https://twitter.com/i/web/status/1256608184581738496",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1256608182295814100,
+        "in_reply_to_status_id_str": "1256608182295814144",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
