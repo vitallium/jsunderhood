@@ -13,75 +13,52 @@
     }
   },
   "protected": false,
-  "followers_count": 7873,
-  "friends_count": 544,
+  "followers_count": 7874,
+  "friends_count": 552,
   "listed_count": 245,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4508,
+  "favourites_count": 4512,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39089,
+  "statuses_count": 39104,
   "lang": null,
   "status": {
-    "created_at": "Sat May 02 16:12:13 +0000 2020",
-    "id": 1256617498369306600,
-    "id_str": "1256617498369306625",
-    "text": "С надеждой, что всё это скоро закончится :\n\n@rndtechpro верим, надеемся, ждём )\n@conf_south сделаем интернет ещё лу… https://t.co/1UhWTvcXwi",
-    "truncated": true,
+    "created_at": "Sun May 03 11:52:09 +0000 2020",
+    "id": 1256914438994759700,
+    "id_str": "1256914438994759681",
+    "text": "Некоторые планы по развитию ситуации вокруг Async Hooks и Async Local Storage тут:\nhttps://t.co/JOdNytEVko",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "rndtechpro",
-          "name": "IT-сообщество Ростова",
-          "id": 1214270112162672600,
-          "id_str": "1214270112162672640",
-          "indices": [
-            44,
-            55
-          ]
-        },
-        {
-          "screen_name": "conf_south",
-          "name": "SouthConf",
-          "id": 1233011758417301500,
-          "id_str": "1233011758417301504",
-          "indices": [
-            80,
-            91
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/1UhWTvcXwi",
-          "expanded_url": "https://twitter.com/i/web/status/1256617498369306625",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/JOdNytEVko",
+          "expanded_url": "https://github.com/nodejs/diagnostics/issues/376",
+          "display_url": "github.com/nodejs/diagnos…",
           "indices": [
-            117,
-            140
+            83,
+            106
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1256902693643321300,
+    "in_reply_to_status_id_str": "1256902693643321344",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1256608184581738500,
-    "quoted_status_id_str": "1256608184581738496",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
