@@ -1,0 +1,1359 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon May 18 08:45:32 +0000 2020",
+      "id": 1262303295139446800,
+      "id_str": "1262303295139446784",
+      "text": "Всем привет! В течении этой недели, с вами @mike1pol, и я постараюсь вести этот аккаунт не так как свой личный =)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mike1pol",
+            "name": "Mikhail Poluboyarinov",
+            "id": 226203820,
+            "id_str": "226203820",
+            "indices": [
+              43,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 08:49:20 +0000 2020",
+      "id": 1262304251180703700,
+      "id_str": "1262304251180703744",
+      "text": "С 2015 года занимаюсь организацией митапов  @gopiterjs, состоял в программном комитете @HolyJSconf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gopiterjs",
+            "name": "PiterJS",
+            "id": 3176569665,
+            "id_str": "3176569665",
+            "indices": [
+              44,
+              54
+            ]
+          },
+          {
+            "screen_name": "HolyJSconf",
+            "name": "HolyJS",
+            "id": 720566256663969800,
+            "id_str": "720566256663969792",
+            "indices": [
+              87,
+              98
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262303295139446800,
+      "in_reply_to_status_id_str": "1262303295139446784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 08:50:43 +0000 2020",
+      "id": 1262304596745207800,
+      "id_str": "1262304596745207808",
+      "text": "Иногда занимаюсь менторством в @nodeschoolspb, помогаю спикерам в поиске и подготовке докладов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nodeschoolspb",
+            "name": "NodeSchool SPb",
+            "id": 3436521189,
+            "id_str": "3436521189",
+            "indices": [
+              31,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262304251180703700,
+      "in_reply_to_status_id_str": "1262304251180703744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 08:52:04 +0000 2020",
+      "id": 1262304936899104800,
+      "id_str": "1262304936899104768",
+      "text": "Работаю фронтом в компании @semrush (и мне очень нравится)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "semrush",
+            "name": "SEMrush",
+            "id": 21896072,
+            "id_str": "21896072",
+            "indices": [
+              27,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262304596745207800,
+      "in_reply_to_status_id_str": "1262304596745207808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 08:54:25 +0000 2020",
+      "id": 1262305530925768700,
+      "id_str": "1262305530925768704",
+      "text": "Увлекаюсь микроконтроллерами, пайкой, иногда снимаю видео ролики. В данный момент по больше части это Arduino, но п… https://t.co/Yq2sPe55Yo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Yq2sPe55Yo",
+            "expanded_url": "https://twitter.com/i/web/status/1262305530925768704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262303295139446800,
+      "in_reply_to_status_id_str": "1262303295139446784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 08:57:52 +0000 2020",
+      "id": 1262306398551117800,
+      "id_str": "1262306398551117827",
+      "text": "В данный момент пишу на TypeScript, до этого писал на JS, ClojureScript, люблю писать запросы к БД и анализировать… https://t.co/qXz6UNEbrw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qXz6UNEbrw",
+            "expanded_url": "https://twitter.com/i/web/status/1262306398551117827",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262303295139446800,
+      "in_reply_to_status_id_str": "1262303295139446784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 18 08:59:03 +0000 2020",
+      "id": 1262306693934956500,
+      "id_str": "1262306693934956544",
+      "text": "Немного писал под мобилки на Objective-C, Java, но потом появилась Cordova и я был уже там =) После React-Native и… https://t.co/xVXprap2jZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xVXprap2jZ",
+            "expanded_url": "https://twitter.com/i/web/status/1262306693934956544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262303295139446800,
+      "in_reply_to_status_id_str": "1262303295139446784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon May 18 09:01:54 +0000 2020",
+      "id": 1262307414747033600,
+      "id_str": "1262307414747033600",
+      "text": "@maksUgr Если очень кратко stm32 быстрей и дешевле, плюс хочется прийти к тому что-бы делать свои платы от а до я,… https://t.co/BIv6QysnI4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maksUgr",
+            "name": "Roman Ponomarev",
+            "id": 89272520,
+            "id_str": "89272520",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BIv6QysnI4",
+            "expanded_url": "https://twitter.com/i/web/status/1262307414747033600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262306349100273700,
+      "in_reply_to_status_id_str": "1262306349100273666",
+      "in_reply_to_user_id": 89272520,
+      "in_reply_to_user_id_str": "89272520",
+      "in_reply_to_screen_name": "maksUgr",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 09:02:52 +0000 2020",
+      "id": 1262307655168725000,
+      "id_str": "1262307655168724992",
+      "text": "Постараюсь выделить этому целый день и рассказать все плюсы и минусы использования. https://t.co/5CHBqGAw7s",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5CHBqGAw7s",
+            "expanded_url": "https://twitter.com/maksUgr/status/1262306794967269376",
+            "display_url": "twitter.com/maksUgr/status…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1262306794967269400,
+      "quoted_status_id_str": "1262306794967269376",
+      "quoted_status": {
+        "created_at": "Mon May 18 08:59:27 +0000 2020",
+        "id": 1262306794967269400,
+        "id_str": "1262306794967269376",
+        "text": "@jsunderhood Раскрой Clojure / ClojureScript, пожалуйста!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Mikhail Poluboyarinov",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 1262306398551117800,
+        "in_reply_to_status_id_str": "1262306398551117827",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 89272520,
+          "id_str": "89272520"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 09:06:15 +0000 2020",
+      "id": 1262308507317133300,
+      "id_str": "1262308507317133314",
+      "text": "План на сегодня поговорить о сообществах, митапах и конференциях. Мотивация, что делать на митапах, конференция, и для чего это все нужно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 09:33:17 +0000 2020",
+      "id": 1262315311665217500,
+      "id_str": "1262315311665217536",
+      "text": "Их сложно сравнивать, RN все-таки рисует нативные View, а Сordova это html+css. RN однозначно эффективней, нужно ис… https://t.co/LmzUUxE47l",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LmzUUxE47l",
+            "expanded_url": "https://twitter.com/i/web/status/1262315311665217536",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1262312763097055200,
+      "quoted_status_id_str": "1262312763097055232",
+      "quoted_status": {
+        "created_at": "Mon May 18 09:23:10 +0000 2020",
+        "id": 1262312763097055200,
+        "id_str": "1262312763097055232",
+        "text": "@jsunderhood Как вам React Native vs Cordova? Пробовал RN как-то - забавно, быстро, но мне не хватало гибкости и пр… https://t.co/9WzyUi1FB9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Mikhail Poluboyarinov",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9WzyUi1FB9",
+              "expanded_url": "https://twitter.com/i/web/status/1262312763097055232",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1262306693934956500,
+        "in_reply_to_status_id_str": "1262306693934956544",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 92724638,
+          "id_str": "92724638"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 10:06:04 +0000 2020",
+      "id": 1262323561940820000,
+      "id_str": "1262323561940819968",
+      "text": "Начнем с вопроса, зачем вы ходите на конференции и митапы? и чем вы там занимаетесь? хотелось бы услышать ваше мнен… https://t.co/FKxZ5etfvp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FKxZ5etfvp",
+            "expanded_url": "https://twitter.com/i/web/status/1262323561940819968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:02:12 +0000 2020",
+      "id": 1262337687056457700,
+      "id_str": "1262337687056457728",
+      "text": "Полностью согласен что ни один онлайн эвент не заменит офлайна, но к сожалению в ближайшее время нет возможности пр… https://t.co/dd5g9HQUu0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dd5g9HQUu0",
+            "expanded_url": "https://twitter.com/i/web/status/1262337687056457728",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1262333033941733400,
+      "quoted_status_id_str": "1262333033941733376",
+      "quoted_status": {
+        "created_at": "Mon May 18 10:43:42 +0000 2020",
+        "id": 1262333033941733400,
+        "id_str": "1262333033941733376",
+        "text": "@GlafiraZhur @jsunderhood просто тема больная... последние 2 месяца не хожу на конференции и митапы по вполне понят… https://t.co/KguRmzzfQ6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "GlafiraZhur",
+              "name": "Glafira Zhur",
+              "id": 869928638,
+              "id_str": "869928638",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Mikhail Poluboyarinov",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                13,
+                25
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KguRmzzfQ6",
+              "expanded_url": "https://twitter.com/i/web/status/1262333033941733376",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1262330583822237700,
+        "in_reply_to_status_id_str": "1262330583822237696",
+        "in_reply_to_user_id": 869928638,
+        "in_reply_to_user_id_str": "869928638",
+        "in_reply_to_screen_name": "GlafiraZhur",
+        "user": {
+          "id": 17285085,
+          "id_str": "17285085"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:06:21 +0000 2020",
+      "id": 1262338730083397600,
+      "id_str": "1262338730083397633",
+      "text": "Как и ожидалось основная причина познакомится с новыми людьми, расширить кругозор, обменяться мнением https://t.co/t3yLmgFTCZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t3yLmgFTCZ",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1262323561940819968",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1262323561940820000,
+      "quoted_status_id_str": "1262323561940819968",
+      "quoted_status": {
+        "created_at": "Mon May 18 10:06:04 +0000 2020",
+        "id": 1262323561940820000,
+        "id_str": "1262323561940819968",
+        "text": "Начнем с вопроса, зачем вы ходите на конференции и митапы? и чем вы там занимаетесь? хотелось бы услышать ваше мнен… https://t.co/FKxZ5etfvp",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/FKxZ5etfvp",
+              "expanded_url": "https://twitter.com/i/web/status/1262323561940819968",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:08:22 +0000 2020",
+      "id": 1262339240429568000,
+      "id_str": "1262339240429568000",
+      "text": "За последнии годы, я посетил кучу конференций и митапов, и основная цель на них для меня была не доклады, а новые з… https://t.co/LX2giIvLAc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LX2giIvLAc",
+            "expanded_url": "https://twitter.com/i/web/status/1262339240429568000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262338730083397600,
+      "in_reply_to_status_id_str": "1262338730083397633",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:09:57 +0000 2020",
+      "id": 1262339637433041000,
+      "id_str": "1262339637433040898",
+      "text": "В большинстве случаев доклады можно посмотреть в записи (да я из тех кто говорит что посмотрю в записи, но так и не… https://t.co/P5zzMMrSEa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P5zzMMrSEa",
+            "expanded_url": "https://twitter.com/i/web/status/1262339637433040898",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262338730083397600,
+      "in_reply_to_status_id_str": "1262338730083397633",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:15:57 +0000 2020",
+      "id": 1262341146426126300,
+      "id_str": "1262341146426126337",
+      "text": "Благодаря митапам и конференциям я познакомился с множество интересных людей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262338730083397600,
+      "in_reply_to_status_id_str": "1262338730083397633",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:18:29 +0000 2020",
+      "id": 1262341786858590200,
+      "id_str": "1262341786858590211",
+      "text": "@_jin_nin_ Не показатель, в мире есть куча приложений написаных на RN, которые ты не отличишь от нативного. В натив… https://t.co/LIu2oZquOX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LIu2oZquOX",
+            "expanded_url": "https://twitter.com/i/web/status/1262341786858590211",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262340861117059000,
+      "in_reply_to_status_id_str": "1262340861117059073",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:21:56 +0000 2020",
+      "id": 1262342654597255200,
+      "id_str": "1262342654597255168",
+      "text": "И так, как знакомится на конференция и митапах? Наверно самое первое и самое сложное преодолеть свое стеснение и на… https://t.co/WPcciE06CF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WPcciE06CF",
+            "expanded_url": "https://twitter.com/i/web/status/1262342654597255168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1262341559162474500,
+      "quoted_status_id_str": "1262341559162474496",
+      "quoted_status": {
+        "created_at": "Mon May 18 11:17:35 +0000 2020",
+        "id": 1262341559162474500,
+        "id_str": "1262341559162474496",
+        "text": "@jsunderhood Блин, вот как вы это делаете? Сколько раз был на митапах и конференциях, а познакомиться никак не могу, всё время стесняюсь.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Mikhail Poluboyarinov",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1262341146426126300,
+        "in_reply_to_status_id_str": "1262341146426126337",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 378367061,
+          "id_str": "378367061"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:23:49 +0000 2020",
+      "id": 1262343126993305600,
+      "id_str": "1262343126993305605",
+      "text": "Один из вариантов, после доклада подойти к спикеру в дискуссионную зону, обычно около спикера собирается народ, нач… https://t.co/26Tjda3mIF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/26Tjda3mIF",
+            "expanded_url": "https://twitter.com/i/web/status/1262343126993305605",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:26:22 +0000 2020",
+      "id": 1262343769304846300,
+      "id_str": "1262343769304846339",
+      "text": "Очень часто люди считаю что их вопрос может быть глупым или ответ на него слишком очевиден, не стесняйтесь, все мы… https://t.co/hIoPJjD0CP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hIoPJjD0CP",
+            "expanded_url": "https://twitter.com/i/web/status/1262343769304846339",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:30:03 +0000 2020",
+      "id": 1262344696870903800,
+      "id_str": "1262344696870903810",
+      "text": "2. Выступить с докладом на митапе, и тогда уже подойдут к Вам, митап отличное место где можно начать выступать. Орг… https://t.co/AwZHrkWFdB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AwZHrkWFdB",
+            "expanded_url": "https://twitter.com/i/web/status/1262344696870903810",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:31:40 +0000 2020",
+      "id": 1262345104121049000,
+      "id_str": "1262345104121049088",
+      "text": "3. На конференция удобно знакомится на стендах спонсоров, у них обычно много людей и можно подойти спросить о компа… https://t.co/lZC4GCSnq2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lZC4GCSnq2",
+            "expanded_url": "https://twitter.com/i/web/status/1262345104121049088",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:32:41 +0000 2020",
+      "id": 1262345361009660000,
+      "id_str": "1262345361009659904",
+      "text": "4. Совместное решение задач спонсоров конференций, обычно на конференциях у спонсоров есть различные задачки, и есл… https://t.co/vCT05oKe9v",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vCT05oKe9v",
+            "expanded_url": "https://twitter.com/i/web/status/1262345361009659904",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 18 11:35:22 +0000 2020",
+      "id": 1262346033826336800,
+      "id_str": "1262346033826336768",
+      "text": "5. При поедании пиццы или печенек =) Обычно когда люди угощаются пиццей или печеньками, они сбиваются в кучки и что… https://t.co/WxXBrvwNjw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WxXBrvwNjw",
+            "expanded_url": "https://twitter.com/i/web/status/1262346033826336768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1262342654597255200,
+      "in_reply_to_status_id_str": "1262342654597255168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
