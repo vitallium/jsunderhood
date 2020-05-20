@@ -13,42 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 7914,
+  "followers_count": 7908,
   "friends_count": 551,
   "listed_count": 241,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4529,
+  "favourites_count": 4530,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39149,
+  "statuses_count": 39154,
   "lang": null,
   "status": {
-    "created_at": "Mon May 18 17:33:21 +0000 2020",
-    "id": 1262436125190357000,
-    "id_str": "1262436125190356992",
-    "text": "@taritsyn На первых PiterJS мы так и делали, и это было больно... проблемы со звуком в трансляции, уж лучше на теле… https://t.co/Yxwab960qn",
+    "created_at": "Tue May 19 20:02:59 +0000 2020",
+    "id": 1262836168867090400,
+    "id_str": "1262836168867090432",
+    "text": "@gerasim_vol Проблема была в сохранении блоба от канваса в котором отрисовывалось base64 изображение собранное из д… https://t.co/bEyKtmoHPv",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "taritsyn",
-          "name": "Андрей Тарицын",
-          "id": 209652387,
-          "id_str": "209652387",
+          "screen_name": "gerasim_vol",
+          "name": "Vladimir Gerasimenko",
+          "id": 430919311,
+          "id_str": "430919311",
           "indices": [
             0,
-            9
+            12
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/Yxwab960qn",
-          "expanded_url": "https://twitter.com/i/web/status/1262436125190356992",
+          "url": "https://t.co/bEyKtmoHPv",
+          "expanded_url": "https://twitter.com/i/web/status/1262836168867090432",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -58,18 +58,18 @@
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1262425172251902000,
-    "in_reply_to_status_id_str": "1262425172251901952",
-    "in_reply_to_user_id": 209652387,
-    "in_reply_to_user_id_str": "209652387",
-    "in_reply_to_screen_name": "taritsyn",
+    "in_reply_to_status_id": 1262805139724828700,
+    "in_reply_to_status_id_str": "1262805139724828673",
+    "in_reply_to_user_id": 430919311,
+    "in_reply_to_user_id_str": "430919311",
+    "in_reply_to_screen_name": "gerasim_vol",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
