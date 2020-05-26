@@ -324,6 +324,2127 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 12:18:04 +0000 2020",
+      "id": 1264893495866724400,
+      "id_str": "1264893495866724352",
+      "text": "И хорошие разработчики тоже ошибаются - мы же все, всего лишь, люди 🙂 https://t.co/POlWCIfxbe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/POlWCIfxbe",
+            "expanded_url": "https://twitter.com/bildja/status/1264862149404393473",
+            "display_url": "twitter.com/bildja/status/…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264862149404393500,
+      "quoted_status_id_str": "1264862149404393473",
+      "quoted_status": {
+        "created_at": "Mon May 25 10:13:31 +0000 2020",
+        "id": 1264862149404393500,
+        "id_str": "1264862149404393473",
+        "text": "@borovikov @jsunderhood Хорошие дизайнеры тоже ошибаются",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "borovikov",
+              "name": "Děnis Borovikov",
+              "id": 14354160,
+              "id_str": "14354160",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264857901870522400,
+        "in_reply_to_status_id_str": "1264857901870522368",
+        "in_reply_to_user_id": 14354160,
+        "in_reply_to_user_id_str": "14354160",
+        "in_reply_to_screen_name": "borovikov",
+        "user": {
+          "id": 26359098,
+          "id_str": "26359098"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:04 +0000 2020",
+      "id": 1264906330546081800,
+      "id_str": "1264906330546081793",
+      "text": "У меня, раньше, постоянно бомбило от дизайнеров. Я считал, что это злые вредители, которые так и норовят испортить… https://t.co/gxzRm0fdS9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gxzRm0fdS9",
+            "expanded_url": "https://twitter.com/i/web/status/1264906330546081793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264855805041336300,
+      "in_reply_to_status_id_str": "1264855805041336321",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264876263824666600,
+      "quoted_status_id_str": "1264876263824666625",
+      "quoted_status": {
+        "created_at": "Mon May 25 11:09:36 +0000 2020",
+        "id": 1264876263824666600,
+        "id_str": "1264876263824666625",
+        "text": "@borovikov @jsunderhood Или мудаки-техдиректора, ага. Случай: есть корпоративная библиотека со стайлгайдом, дизайне… https://t.co/kD39XkB2lT",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "borovikov",
+              "name": "Děnis Borovikov",
+              "id": 14354160,
+              "id_str": "14354160",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/kD39XkB2lT",
+              "expanded_url": "https://twitter.com/i/web/status/1264876263824666625",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264857901870522400,
+        "in_reply_to_status_id_str": "1264857901870522368",
+        "in_reply_to_user_id": 14354160,
+        "in_reply_to_user_id_str": "14354160",
+        "in_reply_to_screen_name": "borovikov",
+        "user": {
+          "id": 97734647,
+          "id_str": "97734647"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:05 +0000 2020",
+      "id": 1264906334392266800,
+      "id_str": "1264906334392266753",
+      "text": "И от того, что постоянно выслушивал жалобы - \"тут же 20 пикселей должно быть, а не 15!!!\". Хотя казалось бы, какая… https://t.co/yCnsEfg7aK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yCnsEfg7aK",
+            "expanded_url": "https://twitter.com/i/web/status/1264906334392266753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906330546081800,
+      "in_reply_to_status_id_str": "1264906330546081793",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264856392462205000,
+      "quoted_status_id_str": "1264856392462204931",
+      "quoted_status": {
+        "created_at": "Mon May 25 09:50:38 +0000 2020",
+        "id": 1264856392462205000,
+        "id_str": "1264856392462204931",
+        "text": "@jsunderhood бомбит от претензий дизайнеров, когда где-то в пиксель не попал, а сами кривые макеты в фигме делают,… https://t.co/UY5onBP6CS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/UY5onBP6CS",
+              "expanded_url": "https://twitter.com/i/web/status/1264856392462204931",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264855805041336300,
+        "in_reply_to_status_id_str": "1264855805041336321",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 488568209,
+          "id_str": "488568209"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:06 +0000 2020",
+      "id": 1264906336866840600,
+      "id_str": "1264906336866840577",
+      "text": "При этом - мне было плохо от работы. Казалось, что каждый день, это битва за МОЙ код. Думаю дизайнерам тоже было не просто со мной работать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906334392266800,
+      "in_reply_to_status_id_str": "1264906334392266753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:06 +0000 2020",
+      "id": 1264906339173761000,
+      "id_str": "1264906339173761026",
+      "text": "Но в какой то момент, я понял, что дизайнеры [подставьте любого коллегу по цеху] - тоже хотят приносить пользу прод… https://t.co/tzW8HnCCJC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tzW8HnCCJC",
+            "expanded_url": "https://twitter.com/i/web/status/1264906339173761026",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906336866840600,
+      "in_reply_to_status_id_str": "1264906336866840577",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264861955610869800,
+      "quoted_status_id_str": "1264861955610869775",
+      "quoted_status": {
+        "created_at": "Mon May 25 10:12:44 +0000 2020",
+        "id": 1264861955610869800,
+        "id_str": "1264861955610869775",
+        "text": "@iGontarev @jsunderhood Коллаборация же, нет? Нельзя «друг против друга» здесь быть.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "iGontarev",
+              "name": "undefined",
+              "id": 488568209,
+              "id_str": "488568209",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1264856886505099300,
+        "in_reply_to_status_id_str": "1264856886505099264",
+        "in_reply_to_user_id": 488568209,
+        "in_reply_to_user_id_str": "488568209",
+        "in_reply_to_screen_name": "iGontarev",
+        "user": {
+          "id": 3973225558,
+          "id_str": "3973225558"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:07 +0000 2020",
+      "id": 1264906341497405400,
+      "id_str": "1264906341497405443",
+      "text": "1. Я перестал искать системность в интерфейсах. А стал общаться с дизайнерами - чтобы из первых уст понимать, что е… https://t.co/prgbny7M10",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/prgbny7M10",
+            "expanded_url": "https://twitter.com/i/web/status/1264906341497405443",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906339173761000,
+      "in_reply_to_status_id_str": "1264906339173761026",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264875057643470800,
+      "quoted_status_id_str": "1264875057643470849",
+      "quoted_status": {
+        "created_at": "Mon May 25 11:04:48 +0000 2020",
+        "id": 1264875057643470800,
+        "id_str": "1264875057643470849",
+        "text": "Спасибо! ^__^ \n\nПо теме: у меня самое бомбящее это, когда программисты пытаются ссать в мозг, объясняя, что что-то… https://t.co/gFG9OBF3T1",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/gFG9OBF3T1",
+              "expanded_url": "https://twitter.com/i/web/status/1264875057643470849",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14882787,
+          "id_str": "14882787"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1264855805041336300,
+        "quoted_status_id_str": "1264855805041336321",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:07 +0000 2020",
+      "id": 1264906343921651700,
+      "id_str": "1264906343921651712",
+      "text": "2. Если я видел какие-то очень сложные моменты в реализации, я их не реализовывал сразу. А общался с дизайнерами, ч… https://t.co/L11ql7pGMq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L11ql7pGMq",
+            "expanded_url": "https://twitter.com/i/web/status/1264906343921651712",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906341497405400,
+      "in_reply_to_status_id_str": "1264906341497405443",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:08 +0000 2020",
+      "id": 1264906346173997000,
+      "id_str": "1264906346173997056",
+      "text": "Позже это стало на этапе дизайнерского прототипа:\nД: Семен, это слишком сложно или норм?\nC: Можем вот здесь без фей… https://t.co/Dr2z6dcWy9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dr2z6dcWy9",
+            "expanded_url": "https://twitter.com/i/web/status/1264906346173997056",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906343921651700,
+      "in_reply_to_status_id_str": "1264906343921651712",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:08 +0000 2020",
+      "id": 1264906348451463200,
+      "id_str": "1264906348451463169",
+      "text": "3. Я перестал считать людей не компетентными/плохими и тд. А стал пытаться выяснять мотивацию тех или иных решений.… https://t.co/wZfBuDHVBH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wZfBuDHVBH",
+            "expanded_url": "https://twitter.com/i/web/status/1264906348451463169",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906346173997000,
+      "in_reply_to_status_id_str": "1264906346173997056",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264857901870522400,
+      "quoted_status_id_str": "1264857901870522368",
+      "quoted_status": {
+        "created_at": "Mon May 25 09:56:38 +0000 2020",
+        "id": 1264857901870522400,
+        "id_str": "1264857901870522368",
+        "text": "@jsunderhood Мне кажется с дизайнерами (хорошими) спорят только мудаки-разработчики. Теже самые люди, что и спорят… https://t.co/4z0YlsEFLF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/4z0YlsEFLF",
+              "expanded_url": "https://twitter.com/i/web/status/1264857901870522368",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1264855805041336300,
+        "in_reply_to_status_id_str": "1264855805041336321",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:09:09 +0000 2020",
+      "id": 1264906350863270000,
+      "id_str": "1264906350863269888",
+      "text": "Про это есть великолепное видео от великолепного @xanf_ua https://t.co/l3cqEnbgUa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xanf_ua",
+            "name": "Illya Klymov",
+            "id": 16112270,
+            "id_str": "16112270",
+            "indices": [
+              49,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/l3cqEnbgUa",
+            "expanded_url": "https://www.youtube.com/watch?v=7sgapysi55U",
+            "display_url": "youtube.com/watch?v=7sgapy…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264906348451463200,
+      "in_reply_to_status_id_str": "1264906348451463169",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:12:29 +0000 2020",
+      "id": 1264907190944612400,
+      "id_str": "1264907190944612353",
+      "text": "К сожалению бывает такое, когда дизайнеры хотят \"красиво\" и забывают про \"удобно\" https://t.co/8XL3d2tF46",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8XL3d2tF46",
+            "expanded_url": "https://twitter.com/_jin_nin_/status/1264896726743298048",
+            "display_url": "twitter.com/_jin_nin_/stat…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264896726743298000,
+      "quoted_status_id_str": "1264896726743298048",
+      "quoted_status": {
+        "created_at": "Mon May 25 12:30:54 +0000 2020",
+        "id": 1264896726743298000,
+        "id_str": "1264896726743298048",
+        "text": "@borovikov @bildja @jsunderhood Как программист, занимающийся разработкой интерфейсов, часто вижу, что дизайнеры не… https://t.co/XP17zjrNWs",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "borovikov",
+              "name": "Děnis Borovikov",
+              "id": 14354160,
+              "id_str": "14354160",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "bildja",
+              "name": "Dima",
+              "id": 26359098,
+              "id_str": "26359098",
+              "indices": [
+                11,
+                18
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                19,
+                31
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/XP17zjrNWs",
+              "expanded_url": "https://twitter.com/i/web/status/1264896726743298048",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264865321728573400,
+        "in_reply_to_status_id_str": "1264865321728573441",
+        "in_reply_to_user_id": 14354160,
+        "in_reply_to_user_id_str": "14354160",
+        "in_reply_to_screen_name": "borovikov",
+        "user": {
+          "id": 1084497636491751400,
+          "id_str": "1084497636491751424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:13:40 +0000 2020",
+      "id": 1264907487481921500,
+      "id_str": "1264907487481921537",
+      "text": "Главное, чтобы оба были с молнией 🤘 https://t.co/Gme1WKcnEC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gme1WKcnEC",
+            "expanded_url": "https://twitter.com/nikmostovoy/status/1264891233585029125",
+            "display_url": "twitter.com/nikmostovoy/st…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264891233585029000,
+      "quoted_status_id_str": "1264891233585029125",
+      "quoted_status": {
+        "created_at": "Mon May 25 12:09:05 +0000 2020",
+        "id": 1264891233585029000,
+        "id_str": "1264891233585029125",
+        "text": "@jsunderhood Больше доверия друг к другу и продуктивной работы без \"да он не знает, как правильно\". \n\nКакое-то врем… https://t.co/95NlKDtJX4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/95NlKDtJX4",
+              "expanded_url": "https://twitter.com/i/web/status/1264891233585029125",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264890613624963000,
+        "in_reply_to_status_id_str": "1264890613624963074",
+        "in_reply_to_user_id": 893952733631447000,
+        "in_reply_to_user_id_str": "893952733631447041",
+        "in_reply_to_screen_name": "nikmostovoy",
+        "user": {
+          "id": 893952733631447000,
+          "id_str": "893952733631447041"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:34:07 +0000 2020",
+      "id": 1264912634492534800,
+      "id_str": "1264912634492534784",
+      "text": "Обоснования/аргументы могут быть с обеих сторон. И подобного рода споры могут длиться долго. В таких случаях полезн… https://t.co/uKbm7B8gM6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uKbm7B8gM6",
+            "expanded_url": "https://twitter.com/i/web/status/1264912634492534784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264882571541971000,
+      "quoted_status_id_str": "1264882571541970944",
+      "quoted_status": {
+        "created_at": "Mon May 25 11:34:40 +0000 2020",
+        "id": 1264882571541971000,
+        "id_str": "1264882571541970944",
+        "text": "@meowthsli @jsunderhood У нормального дизайнера есть обоснование его работы, а коль обоснование есть, то программис… https://t.co/fhy3HUGjy5",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "meowthsli",
+              "name": "Имеющий глаза не видит. YΨR-1",
+              "id": 97734647,
+              "id_str": "97734647",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/fhy3HUGjy5",
+              "expanded_url": "https://twitter.com/i/web/status/1264882571541970944",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264876263824666600,
+        "in_reply_to_status_id_str": "1264876263824666625",
+        "in_reply_to_user_id": 97734647,
+        "in_reply_to_user_id_str": "97734647",
+        "in_reply_to_screen_name": "meowthsli",
+        "user": {
+          "id": 14354160,
+          "id_str": "14354160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:37:38 +0000 2020",
+      "id": 1264913519478050800,
+      "id_str": "1264913519478050818",
+      "text": "Отличная идея! Встреча с реальными пользователями - это одна из классных штук, которая со мной происходила. В такие… https://t.co/W5RFveXemP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W5RFveXemP",
+            "expanded_url": "https://twitter.com/i/web/status/1264913519478050818",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264910163825303600,
+      "quoted_status_id_str": "1264910163825303555",
+      "quoted_status": {
+        "created_at": "Mon May 25 13:24:18 +0000 2020",
+        "id": 1264910163825303600,
+        "id_str": "1264910163825303555",
+        "text": "@jsunderhood Давайте отправим разработчика сделать парочку сессий с end users, ну так чтоб для кого делают все знали.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264907190944612400,
+        "in_reply_to_status_id_str": "1264907190944612353",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1464468170,
+          "id_str": "1464468170"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:45:24 +0000 2020",
+      "id": 1264915473956606000,
+      "id_str": "1264915473956605952",
+      "text": "Это да, очень часто дизайнеры оперируют позитивными сценариями, потому что это для 80% людей (если не больше) будет… https://t.co/1khpd2d9yX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1khpd2d9yX",
+            "expanded_url": "https://twitter.com/i/web/status/1264915473956605952",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264856886505099300,
+      "quoted_status_id_str": "1264856886505099264",
+      "quoted_status": {
+        "created_at": "Mon May 25 09:52:36 +0000 2020",
+        "id": 1264856886505099300,
+        "id_str": "1264856886505099264",
+        "text": "@jsunderhood бомбит от того, что дизайнеры не проверяют дизайн на переполнение контента или без контента, не думают от ошибках",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264855805041336300,
+        "in_reply_to_status_id_str": "1264855805041336321",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 488568209,
+          "id_str": "488568209"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:45:57 +0000 2020",
+      "id": 1264915613786361900,
+      "id_str": "1264915613786361857",
+      "text": "RT @iolaycomp: @jsunderhood В достаточно часто разработчиков привлекают к исследований и естимаций, часто как експертов реже как наблюдател…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iolaycomp",
+            "name": "SpaceCat Invader",
+            "id": 1464468170,
+            "id_str": "1464468170",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Sam Levenson",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 25 13:41:44 +0000 2020",
+        "id": 1264914550589177900,
+        "id_str": "1264914550589177856",
+        "text": "@jsunderhood В достаточно часто разработчиков привлекают к исследований и естимаций, часто как експертов реже как н… https://t.co/tayJrwQkMM",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/tayJrwQkMM",
+              "expanded_url": "https://twitter.com/i/web/status/1264914550589177856",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264913519478050800,
+        "in_reply_to_status_id_str": "1264913519478050818",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 1464468170,
+          "id_str": "1464468170"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:50:29 +0000 2020",
+      "id": 1264916751315157000,
+      "id_str": "1264916751315156992",
+      "text": "Если правильно помню, хорошая мысль была у @brad_frost в https://t.co/zNCatNrC9O . Там говорилось о том, что дизайн… https://t.co/BqXEVDq17L",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brad_frost",
+            "name": "Brad Frost",
+            "id": 11855482,
+            "id_str": "11855482",
+            "indices": [
+              43,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zNCatNrC9O",
+            "expanded_url": "https://atomicdesign.bradfrost.com/",
+            "display_url": "atomicdesign.bradfrost.com",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "url": "https://t.co/BqXEVDq17L",
+            "expanded_url": "https://twitter.com/i/web/status/1264916751315156992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264913938740850700,
+      "quoted_status_id_str": "1264913938740850688",
+      "quoted_status": {
+        "created_at": "Mon May 25 13:39:18 +0000 2020",
+        "id": 1264913938740850700,
+        "id_str": "1264913938740850688",
+        "text": "@borovikov @jsunderhood Дизайн-система есть, просто \"недостаточно хороша\"",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "borovikov",
+              "name": "Děnis Borovikov",
+              "id": 14354160,
+              "id_str": "14354160",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264913611509596200,
+        "in_reply_to_status_id_str": "1264913611509596161",
+        "in_reply_to_user_id": 14354160,
+        "in_reply_to_user_id_str": "14354160",
+        "in_reply_to_screen_name": "borovikov",
+        "user": {
+          "id": 97734647,
+          "id_str": "97734647"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:53:36 +0000 2020",
+      "id": 1264917537168306200,
+      "id_str": "1264917537168306181",
+      "text": "@meowthsli Это да, здравый смысл и приоритизацию никто не отменял 🙂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meowthsli",
+            "name": "Имеющий глаза не видит. YΨR-1",
+            "id": 97734647,
+            "id_str": "97734647",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264917113044635600,
+      "in_reply_to_status_id_str": "1264917113044635649",
+      "in_reply_to_user_id": 97734647,
+      "in_reply_to_user_id_str": "97734647",
+      "in_reply_to_screen_name": "meowthsli",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 15:27:11 +0000 2020",
+      "id": 1264941089938522000,
+      "id_str": "1264941089938522113",
+      "text": "Такое называю \"синдромом Стива Джобса\". Но это, кажется, типичная ошибка выжившего. Сколько таких же \"Джобсов\" было… https://t.co/sVX8gYlI4J",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sVX8gYlI4J",
+            "expanded_url": "https://twitter.com/i/web/status/1264941089938522113",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264924613131350000,
+      "quoted_status_id_str": "1264924613131350016",
+      "quoted_status": {
+        "created_at": "Mon May 25 14:21:43 +0000 2020",
+        "id": 1264924613131350000,
+        "id_str": "1264924613131350016",
+        "text": "@jsunderhood Плохая идея. Надо ЗАДАВИТЬ пользователя дизайнерским видением! - Через год другой -  привыкнут,а через… https://t.co/6hEKgqSlZW",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/6hEKgqSlZW",
+              "expanded_url": "https://twitter.com/i/web/status/1264924613131350016",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264912634492534800,
+        "in_reply_to_status_id_str": "1264912634492534784",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 188307045,
+          "id_str": "188307045"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 15:30:23 +0000 2020",
+      "id": 1264941893533622300,
+      "id_str": "1264941893533622272",
+      "text": "@taujavarob по этому говорил в тредах про вымышленного пользователя, так как реальные слишком переменчивы. Но при э… https://t.co/AQvSjBAcRA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AQvSjBAcRA",
+            "expanded_url": "https://twitter.com/i/web/status/1264941893533622272",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264923701402837000,
+      "in_reply_to_status_id_str": "1264923701402836994",
+      "in_reply_to_user_id": 188307045,
+      "in_reply_to_user_id_str": "188307045",
+      "in_reply_to_screen_name": "taujavarob",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 15:30:57 +0000 2020",
+      "id": 1264942034516734000,
+      "id_str": "1264942034516733952",
+      "text": "RT @nikmostovoy: @i_kabirov @jsunderhood Да, 100% согласен. Доверять и обсуждать — хорошо. Доверие здесь — больше про открытость к диалогу…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nikmostovoy",
+            "name": "Ник Мостовой",
+            "id": 893952733631447000,
+            "id_str": "893952733631447041",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "i_kabirov",
+            "name": "Ilyas Kabirov",
+            "id": 1028321065666322400,
+            "id_str": "1028321065666322433",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "Sam Levenson",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 25 14:02:07 +0000 2020",
+        "id": 1264919679249846300,
+        "id_str": "1264919679249846273",
+        "text": "@i_kabirov @jsunderhood Да, 100% согласен. Доверять и обсуждать — хорошо. Доверие здесь — больше про открытость к д… https://t.co/Y5V6SazXp1",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "i_kabirov",
+              "name": "Ilyas Kabirov",
+              "id": 1028321065666322400,
+              "id_str": "1028321065666322433",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Y5V6SazXp1",
+              "expanded_url": "https://twitter.com/i/web/status/1264919679249846273",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1264909979938631700,
+        "in_reply_to_status_id_str": "1264909979938631680",
+        "in_reply_to_user_id": 1028321065666322400,
+        "in_reply_to_user_id_str": "1028321065666322433",
+        "in_reply_to_screen_name": "i_kabirov",
+        "user": {
+          "id": 893952733631447000,
+          "id_str": "893952733631447041"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 16:05:21 +0000 2020",
+      "id": 1264950691157557200,
+      "id_str": "1264950691157557248",
+      "text": "@patreg @taujavarob Верю в дисплеи, когда они станут текстурными. Помню были какие то движения в эту сторону. Хотя,… https://t.co/QdefBB1iYJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "patreg",
+            "name": "венялайнен суомесса",
+            "id": 19372881,
+            "id_str": "19372881",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              8,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QdefBB1iYJ",
+            "expanded_url": "https://twitter.com/i/web/status/1264950691157557248",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264945132496982000,
+      "in_reply_to_status_id_str": "1264945132496982017",
+      "in_reply_to_user_id": 19372881,
+      "in_reply_to_user_id_str": "19372881",
+      "in_reply_to_screen_name": "patreg",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 18:23:33 +0000 2020",
+      "id": 1264985472851304400,
+      "id_str": "1264985472851304448",
+      "text": "@taujavarob @patreg О, про доп реальность и лобовое что то забыл ( Но тут есть момент, что из за захламленности обл… https://t.co/6lbbH4zk61",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taujavarob",
+            "name": "Andrew Javarob",
+            "id": 188307045,
+            "id_str": "188307045",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "patreg",
+            "name": "венялайнен суомесса",
+            "id": 19372881,
+            "id_str": "19372881",
+            "indices": [
+              12,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6lbbH4zk61",
+            "expanded_url": "https://twitter.com/i/web/status/1264985472851304448",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264974232246800400,
+      "in_reply_to_status_id_str": "1264974232246800386",
+      "in_reply_to_user_id": 188307045,
+      "in_reply_to_user_id_str": "188307045",
+      "in_reply_to_screen_name": "taujavarob",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 18:29:44 +0000 2020",
+      "id": 1264987026710880300,
+      "id_str": "1264987026710880260",
+      "text": "Давайте накидаем достойных примеров дизайн системы https://t.co/id5LcUNY2y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/id5LcUNY2y",
+            "expanded_url": "https://twitter.com/lisovskyvlad/status/1264974653816221697",
+            "display_url": "twitter.com/lisovskyvlad/s…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264974653816221700,
+      "quoted_status_id_str": "1264974653816221697",
+      "quoted_status": {
+        "created_at": "Mon May 25 17:40:34 +0000 2020",
+        "id": 1264974653816221700,
+        "id_str": "1264974653816221697",
+        "text": "@jsunderhood @brad_frost Вопрос от недизайнера.\nКакую опен сорс дизайн систему в качестве основы для построения сво… https://t.co/IfZyKraGL4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "Sam Levenson",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "brad_frost",
+              "name": "Brad Frost",
+              "id": 11855482,
+              "id_str": "11855482",
+              "indices": [
+                13,
+                24
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IfZyKraGL4",
+              "expanded_url": "https://twitter.com/i/web/status/1264974653816221697",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1264916751315157000,
+        "in_reply_to_status_id_str": "1264916751315156992",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 87775435,
+          "id_str": "87775435"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 18:29:44 +0000 2020",
+      "id": 1264987029378437000,
+      "id_str": "1264987029378437121",
+      "text": "Из отечественных, у альфы приличная. Список известных можно тут посмотреть. НО! Стоит помнить, что выбор дизайн сис… https://t.co/4t67xK5IAT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4t67xK5IAT",
+            "expanded_url": "https://twitter.com/i/web/status/1264987029378437121",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264987026710880300,
+      "in_reply_to_status_id_str": "1264987026710880260",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
