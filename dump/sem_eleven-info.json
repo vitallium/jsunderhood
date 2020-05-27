@@ -1,7 +1,7 @@
 {
   "id": 3014054307,
   "id_str": "3014054307",
-  "name": "Sam Levenson",
+  "name": "jsunderhood",
   "screen_name": "jsunderhood",
   "location": "Saint-Petersburg",
   "profile_location": null,
@@ -13,52 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 7900,
+  "followers_count": 7894,
   "friends_count": 552,
-  "listed_count": 239,
+  "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4537,
+  "favourites_count": 4548,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39196,
+  "statuses_count": 39235,
   "lang": null,
   "status": {
-    "created_at": "Mon May 25 18:29:44 +0000 2020",
-    "id": 1264987029378437000,
-    "id_str": "1264987029378437121",
-    "text": "Из отечественных, у альфы приличная. Список известных можно тут посмотреть. НО! Стоит помнить, что выбор дизайн сис… https://t.co/4t67xK5IAT",
-    "truncated": true,
+    "created_at": "Tue May 26 18:16:54 +0000 2020",
+    "id": 1265346185356689400,
+    "id_str": "1265346185356689408",
+    "text": "@NickKaramoff @Evgeniy_Popov О, точно! Тоже его курсы смотрел",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/4t67xK5IAT",
-          "expanded_url": "https://twitter.com/i/web/status/1264987029378437121",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "NickKaramoff",
+          "name": "Nikita Karamov",
+          "id": 293493621,
+          "id_str": "293493621",
           "indices": [
-            117,
-            140
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "Evgeniy_Popov",
+          "name": "Евгений Попов",
+          "id": 32356740,
+          "id_str": "32356740",
+          "indices": [
+            14,
+            28
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1264987026710880300,
-    "in_reply_to_status_id_str": "1264987026710880260",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1265345462292414500,
+    "in_reply_to_status_id_str": "1265345462292414465",
+    "in_reply_to_user_id": 293493621,
+    "in_reply_to_user_id_str": "293493621",
+    "in_reply_to_screen_name": "NickKaramoff",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
