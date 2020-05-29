@@ -13,38 +13,49 @@
     }
   },
   "protected": false,
-  "followers_count": 7897,
-  "friends_count": 553,
+  "followers_count": 7896,
+  "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4560,
+  "favourites_count": 4567,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39264,
+  "statuses_count": 39283,
   "lang": null,
   "status": {
-    "created_at": "Wed May 27 18:23:37 +0000 2020",
-    "id": 1265710266676736000,
-    "id_str": "1265710266676736000",
-    "text": "Если долго мучиться, что нибудь получится https://t.co/7760aRBtBL",
+    "created_at": "Thu May 28 20:12:45 +0000 2020",
+    "id": 1266100115678191600,
+    "id_str": "1266100115678191616",
+    "text": "RT @nikmostovoy: @jsunderhood На собеседовании:\n— Вы используете гибкие методологии?\n— Да, срам\n— Вы хотели сказать скрам?\n— Нет",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/7760aRBtBL",
-          "expanded_url": "https://twitter.com/nickensoul/status/1265595136312041473",
-          "display_url": "twitter.com/nickensoul/sta…",
+          "screen_name": "nikmostovoy",
+          "name": "Ник Мостовой",
+          "id": 893952733631447000,
+          "id_str": "893952733631447041",
           "indices": [
-            42,
-            65
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            17,
+            29
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -56,14 +67,51 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1265595136312041500,
-    "quoted_status_id_str": "1265595136312041473",
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweeted_status": {
+      "created_at": "Thu May 28 19:15:47 +0000 2020",
+      "id": 1266085782357409800,
+      "id_str": "1266085782357409792",
+      "text": "@jsunderhood На собеседовании:\n— Вы используете гибкие методологии?\n— Да, срам\n— Вы хотели сказать скрам?\n— Нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266051282436911000,
+      "in_reply_to_status_id_str": "1266051282436911104",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 58,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
