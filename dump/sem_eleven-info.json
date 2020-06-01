@@ -13,52 +13,53 @@
     }
   },
   "protected": false,
-  "followers_count": 7896,
-  "friends_count": 552,
+  "followers_count": 7897,
+  "friends_count": 551,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4588,
+  "favourites_count": 4596,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39324,
+  "statuses_count": 39374,
   "lang": null,
   "status": {
-    "created_at": "Sat May 30 16:31:29 +0000 2020",
-    "id": 1266769210639675400,
-    "id_str": "1266769210639675393",
-    "text": "Спарсил средние цены всех ребер графа за один месяц из Aviasales api и сайта (некоторые ребра api игнорировало), на… https://t.co/5ZXq38pnYV",
-    "truncated": true,
+    "created_at": "Sun May 31 17:54:21 +0000 2020",
+    "id": 1267152450009456600,
+    "id_str": "1267152450009456640",
+    "text": "@newman2k1 А вот с этого момента подробнее, пожалуйста😮",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/5ZXq38pnYV",
-          "expanded_url": "https://twitter.com/i/web/status/1266769210639675393",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "newman2k1",
+          "name": "Игорь Беликов",
+          "id": 2359332844,
+          "id_str": "2359332844",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1266769208060215300,
-    "in_reply_to_status_id_str": "1266769208060215301",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1267146018023526400,
+    "in_reply_to_status_id_str": "1267146018023526400",
+    "in_reply_to_user_id": 2359332844,
+    "in_reply_to_user_id_str": "2359332844",
+    "in_reply_to_screen_name": "newman2k1",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 18,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
