@@ -1,0 +1,144 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 01 08:05:36 +0000 2020",
+      "id": 1267366673570562000,
+      "id_str": "1267366673570562050",
+      "text": "Всем привет, меня зовут Саша)\nРаботаю над проектом https://t.co/0ceqOKjFmq - инструмент для интерактивной разработк… https://t.co/w2xnScTvrS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0ceqOKjFmq",
+            "expanded_url": "http://quarkly.io",
+            "display_url": "quarkly.io",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "url": "https://t.co/w2xnScTvrS",
+            "expanded_url": "https://twitter.com/i/web/status/1267366673570562050",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 01 08:07:13 +0000 2020",
+      "id": 1267367080308940800,
+      "id_str": "1267367080308940800",
+      "text": "Сразу хочу сказать, я очень люблю опенсорс, сам люблю что-то изобретать\nно больше я люблю читать чужой код\nЕсли вы… https://t.co/4hhtQbVrrb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4hhtQbVrrb",
+            "expanded_url": "https://twitter.com/i/web/status/1267367080308940800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 01 08:13:04 +0000 2020",
+      "id": 1267368555911184400,
+      "id_str": "1267368555911184385",
+      "text": "Задумывались когда-нибудь, зачем всем свой собственный ui-kit? В каждом новом проекте свои собственные карусели, фо… https://t.co/cESkh4GDcz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cESkh4GDcz",
+            "expanded_url": "https://twitter.com/i/web/status/1267368555911184385",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
