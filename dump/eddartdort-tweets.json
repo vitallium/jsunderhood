@@ -281,6 +281,750 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Tue Jun 02 08:12:19 +0000 2020",
+      "id": 1267730755003781000,
+      "id_str": "1267730755003781121",
+      "text": "Всем привет) сегодня поговорим про state management.\nЯ расскажу про свой опыт использования нескольких решений и по… https://t.co/nkgxmeLqtR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nkgxmeLqtR",
+            "expanded_url": "https://twitter.com/i/web/status/1267730755003781121",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 08:14:17 +0000 2020",
+      "id": 1267731248065261600,
+      "id_str": "1267731248065261569",
+      "text": "@_sergeysova @EffectorJS да)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeysova",
+            "name": "Sergey Sova 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267605645387337700,
+      "in_reply_to_status_id_str": "1267605645387337728",
+      "in_reply_to_user_id": 1869144025,
+      "in_reply_to_user_id_str": "1869144025",
+      "in_reply_to_screen_name": "_sergeysova",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 09:12:20 +0000 2020",
+      "id": 1267745858839351300,
+      "id_str": "1267745858839351296",
+      "text": "Итак :)\nRedux - на моем опыте он показал себя негативно. Для того чтобы реализовывать достаточно большие проекты пр… https://t.co/GNBUK02ADE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GNBUK02ADE",
+            "expanded_url": "https://twitter.com/i/web/status/1267745858839351296",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 53,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 09:30:24 +0000 2020",
+      "id": 1267750405397766100,
+      "id_str": "1267750405397766146",
+      "text": "@neruchev это один из возможных вариантов для иммутабильных преобразований данных",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "neruchev",
+            "name": "Kirill Neruchev",
+            "id": 572931047,
+            "id_str": "572931047",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267750148005859300,
+      "in_reply_to_status_id_str": "1267750148005859328",
+      "in_reply_to_user_id": 572931047,
+      "in_reply_to_user_id_str": "572931047",
+      "in_reply_to_screen_name": "neruchev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 10:23:24 +0000 2020",
+      "id": 1267763739438329900,
+      "id_str": "1267763739438329858",
+      "text": "@akaguny Если верно понял вопрос, то да, можно, но получится redux :)\nRedux можно имплементировать при помощи хуков… https://t.co/3P3kGKps6N",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "akaguny",
+            "name": "Alexei Shcherbakov",
+            "id": 2148035112,
+            "id_str": "2148035112",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3P3kGKps6N",
+            "expanded_url": "https://twitter.com/i/web/status/1267763739438329858",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267752197498048500,
+      "in_reply_to_status_id_str": "1267752197498048512",
+      "in_reply_to_user_id": 2148035112,
+      "in_reply_to_user_id_str": "2148035112",
+      "in_reply_to_screen_name": "akaguny",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 12:17:02 +0000 2020",
+      "id": 1267792340070142000,
+      "id_str": "1267792340070141953",
+      "text": "Mobx - первая альтернатива приходящая на ум. Все из коробки (почти все). Простой, но очень гибкий api. Порог вхожде… https://t.co/Ej8M9ki9DJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ej8M9ki9DJ",
+            "expanded_url": "https://twitter.com/i/web/status/1267792340070141953",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 12:29:09 +0000 2020",
+      "id": 1267795386305036300,
+      "id_str": "1267795386305036294",
+      "text": "Еще одна интересная альтернатива - https://t.co/RccwoOV3gd\nНедавно в Ростове был проведен доклад https://t.co/KiQKLCwBId",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RccwoOV3gd",
+            "expanded_url": "https://github.com/artalar/reatom",
+            "display_url": "github.com/artalar/reatom",
+            "indices": [
+              35,
+              58
+            ]
+          },
+          {
+            "url": "https://t.co/KiQKLCwBId",
+            "expanded_url": "https://youtu.be/b14YQNswsTk",
+            "display_url": "youtu.be/b14YQNswsTk",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 16:09:05 +0000 2020",
+      "id": 1267850737469579300,
+      "id_str": "1267850737469579270",
+      "text": "RT @vitalybaev: @jsunderhood Недавно появилась экспериментальная библиотека от Facebook - https://t.co/LlKmBHTgL2\nНо это пока что на поигра…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vitalybaev",
+            "name": "Vitaly Baev",
+            "id": 45674791,
+            "id_str": "45674791",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              16,
+              28
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LlKmBHTgL2",
+            "expanded_url": "https://github.com/facebookexperimental/Recoil",
+            "display_url": "github.com/facebookexperi…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 02 16:08:14 +0000 2020",
+        "id": 1267850522415038500,
+        "id_str": "1267850522415038465",
+        "text": "@jsunderhood Недавно появилась экспериментальная библиотека от Facebook - https://t.co/LlKmBHTgL2\nНо это пока что н… https://t.co/ysHaXyjH9P",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/LlKmBHTgL2",
+              "expanded_url": "https://github.com/facebookexperimental/Recoil",
+              "display_url": "github.com/facebookexperi…",
+              "indices": [
+                74,
+                97
+              ]
+            },
+            {
+              "url": "https://t.co/ysHaXyjH9P",
+              "expanded_url": "https://twitter.com/i/web/status/1267850522415038465",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1267730755003781000,
+        "in_reply_to_status_id_str": "1267730755003781121",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 45674791,
+          "id_str": "45674791"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 16:15:29 +0000 2020",
+      "id": 1267852345913888800,
+      "id_str": "1267852345913888768",
+      "text": "@DisaPadla Привет, мы использовали monaco-editor",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DisaPadla",
+            "name": "DisaPadla",
+            "id": 783801785072910300,
+            "id_str": "783801785072910337",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267736414021656600,
+      "in_reply_to_status_id_str": "1267736414021656580",
+      "in_reply_to_user_id": 783801785072910300,
+      "in_reply_to_user_id_str": "783801785072910337",
+      "in_reply_to_screen_name": "DisaPadla",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 16:16:30 +0000 2020",
+      "id": 1267852602588500000,
+      "id_str": "1267852602588499974",
+      "text": "@_olegkusov Привет) Если очень коротко: вдвоем с другом мы делали пет-проект, позже к нам присоединился еще один ра… https://t.co/U4FA4ftsKb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_olegkusov",
+            "name": "Oleg",
+            "id": 1089714308,
+            "id_str": "1089714308",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U4FA4ftsKb",
+            "expanded_url": "https://twitter.com/i/web/status/1267852602588499974",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267606391323230200,
+      "in_reply_to_status_id_str": "1267606391323230208",
+      "in_reply_to_user_id": 1089714308,
+      "in_reply_to_user_id_str": "1089714308",
+      "in_reply_to_screen_name": "_olegkusov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 20:26:59 +0000 2020",
+      "id": 1267915638992928800,
+      "id_str": "1267915638992928768",
+      "text": "@ch_ronik Наша задача - работать с очень большим деревом состояний. При использовании имутабельного подхода приходи… https://t.co/k4hnKhin6K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ch_ronik",
+            "name": "ch",
+            "id": 93405480,
+            "id_str": "93405480",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k4hnKhin6K",
+            "expanded_url": "https://twitter.com/i/web/status/1267915638992928768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267775560123474000,
+      "in_reply_to_status_id_str": "1267775560123473921",
+      "in_reply_to_user_id": 93405480,
+      "in_reply_to_user_id_str": "93405480",
+      "in_reply_to_screen_name": "ch_ronik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 20:45:50 +0000 2020",
+      "id": 1267920381886845000,
+      "id_str": "1267920381886844929",
+      "text": "Последний пост на сегодня про стейт-менеджеры 🙂\nhttps://t.co/84xMX9zg0j\nобещал рассказать, но я знаю у кого получит… https://t.co/yYpqhu5ODU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/84xMX9zg0j",
+            "expanded_url": "https://github.com/zerobias/effector",
+            "display_url": "github.com/zerobias/effec…",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "url": "https://t.co/yYpqhu5ODU",
+            "expanded_url": "https://twitter.com/i/web/status/1267920381886844929",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 20:47:42 +0000 2020",
+      "id": 1267920852546437000,
+      "id_str": "1267920852546437123",
+      "text": "Подытоживая тему сегодняшних постов, хотелось бы сказать, что не стоит жертвовать бизнес задачами ради разработки н… https://t.co/EidhzOGXyF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EidhzOGXyF",
+            "expanded_url": "https://twitter.com/i/web/status/1267920852546437123",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 02 20:47:49 +0000 2020",
+      "id": 1267920880539222000,
+      "id_str": "1267920880539222017",
+      "text": "Выбирайте инструмент под задачи)\nа завтра поговорим на более интересную и менее холиварную тему)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1267920852546437000,
+      "in_reply_to_status_id_str": "1267920852546437123",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
