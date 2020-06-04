@@ -22,35 +22,55 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39395,
+  "statuses_count": 39401,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 02 20:47:49 +0000 2020",
-    "id": 1267920880539222000,
-    "id_str": "1267920880539222017",
-    "text": "Выбирайте инструмент под задачи)\nа завтра поговорим на более интересную и менее холиварную тему)",
-    "truncated": false,
+    "created_at": "Wed Jun 03 16:32:49 +0000 2020",
+    "id": 1268219096996417500,
+    "id_str": "1268219096996417536",
+    "text": "При разработке своих кодмодов, плагинов и конвертеров мы используем https://t.co/EBAubqGL6K\nИнструмент позволяет ин… https://t.co/eS3ayOMOor",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/EBAubqGL6K",
+          "expanded_url": "https://astexplorer.net/",
+          "display_url": "astexplorer.net",
+          "indices": [
+            68,
+            91
+          ]
+        },
+        {
+          "url": "https://t.co/eS3ayOMOor",
+          "expanded_url": "https://twitter.com/i/web/status/1268219096996417536",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1267920852546437000,
-    "in_reply_to_status_id_str": "1267920852546437123",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
