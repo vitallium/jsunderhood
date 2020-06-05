@@ -1297,6 +1297,206 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 04 09:08:45 +0000 2020",
+      "id": 1268469731268444200,
+      "id_str": "1268469731268444160",
+      "text": "В завершение темы про AST хочу рассказать про проект https://t.co/ObG3HukVxm\nMdx - специальный синтаксис, в котором… https://t.co/UC9dnXOOvX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ObG3HukVxm",
+            "expanded_url": "https://github.com/mdx-js/mdx",
+            "display_url": "github.com/mdx-js/mdx",
+            "indices": [
+              53,
+              76
+            ]
+          },
+          {
+            "url": "https://t.co/UC9dnXOOvX",
+            "expanded_url": "https://twitter.com/i/web/status/1268469731268444160",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 04 11:43:12 +0000 2020",
+      "id": 1268508597497090000,
+      "id_str": "1268508597497090053",
+      "text": "RT @timofeipl: Итак, как и обещал, тут будет тред про #clojure, чутка про лиспы и что там кого)\n\nНо сначала опросик небольшой 🙃\n\n@jsunderho…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "clojure",
+            "indices": [
+              54,
+              62
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timofeipl",
+            "name": "Tim Pλotnikov",
+            "id": 484358903,
+            "id_str": "484358903",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Jun 03 18:20:53 +0000 2020",
+        "id": 1268246291655667700,
+        "id_str": "1268246291655667712",
+        "text": "Итак, как и обещал, тут будет тред про #clojure, чутка про лиспы и что там кого)\n\nНо сначала опросик небольшой 🙃… https://t.co/EWd6B9lbMw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "clojure",
+              "indices": [
+                39,
+                47
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EWd6B9lbMw",
+              "expanded_url": "https://twitter.com/i/web/status/1268246291655667712",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 484358903,
+          "id_str": "484358903"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 04 18:21:25 +0000 2020",
+      "id": 1268608813931860000,
+      "id_str": "1268608813931859969",
+      "text": "Большинство разработчиков каждый день используют сборщики. Webpack, rollup или любой другой, но мало кто знает, как… https://t.co/s0xNElcupI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s0xNElcupI",
+            "expanded_url": "https://twitter.com/i/web/status/1268608813931859969",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 79,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
