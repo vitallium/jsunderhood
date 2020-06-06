@@ -1497,6 +1497,50 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 05 12:38:52 +0000 2020",
+      "id": 1268884994296078300,
+      "id_str": "1268884994296078339",
+      "text": "Сегодня немного поговорим про backend на javascript.\nКак вам deno?\nnode -&gt; [no] &lt;-&gt; [de] -&gt; deno\nПоявляются ваканси… https://t.co/cLTmSX005R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cLTmSX005R",
+            "expanded_url": "https://twitter.com/i/web/status/1268884994296078339",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
