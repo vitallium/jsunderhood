@@ -26,123 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 7930,
+  "followers_count": 7987,
   "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4607,
+  "favourites_count": 4608,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39419,
+  "statuses_count": 39470,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 08 09:40:59 +0000 2020",
-    "id": 1269927393197723600,
-    "id_str": "1269927393197723648",
-    "text": "для тех кто ленится тыкать в ссылки - вот https://t.co/eH0NH6rJs0",
+    "created_at": "Mon Jun 08 20:33:12 +0000 2020",
+    "id": 1270091529802129400,
+    "id_str": "1270091529802129412",
+    "text": "@subzey запускать node.js приложения конечно же",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1269927379176226800,
-          "id_str": "1269927379176226817",
+          "screen_name": "subzey",
+          "name": "subzey",
+          "id": 161396680,
+          "id_str": "161396680",
           "indices": [
-            42,
-            65
-          ],
-          "media_url": "http://pbs.twimg.com/media/EZ-wORZXgAE4ZMj.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EZ-wORZXgAE4ZMj.jpg",
-          "url": "https://t.co/eH0NH6rJs0",
-          "display_url": "pic.twitter.com/eH0NH6rJs0",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1269927393197723648/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1164,
-              "h": 348,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1164,
-              "h": 348,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 203,
-              "resize": "fit"
-            }
-          }
+            0,
+            7
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1269927379176226800,
-          "id_str": "1269927379176226817",
-          "indices": [
-            42,
-            65
-          ],
-          "media_url": "http://pbs.twimg.com/media/EZ-wORZXgAE4ZMj.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EZ-wORZXgAE4ZMj.jpg",
-          "url": "https://t.co/eH0NH6rJs0",
-          "display_url": "pic.twitter.com/eH0NH6rJs0",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1269927393197723648/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1164,
-              "h": 348,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1164,
-              "h": 348,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 203,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1269927098526969900,
-    "in_reply_to_status_id_str": "1269927098526969857",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1270082371950391300,
+    "in_reply_to_status_id_str": "1270082371950391296",
+    "in_reply_to_user_id": 161396680,
+    "in_reply_to_user_id_str": "161396680",
+    "in_reply_to_screen_name": "subzey",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
