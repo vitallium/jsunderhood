@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8014,
+  "followers_count": 8010,
   "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,56 +35,48 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39541,
+  "statuses_count": 39571,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 11 17:17:54 +0000 2020",
-    "id": 1271129544511160300,
-    "id_str": "1271129544511160320",
-    "text": "@gorshkov_l вообще есть те кто джаву побыстрее хочет. есть те кто АОТ делает, интероп в основном между java/js, но… https://t.co/JwHdWZlnXn",
-    "truncated": true,
+    "created_at": "Fri Jun 12 15:08:29 +0000 2020",
+    "id": 1271459362897346600,
+    "id_str": "1271459362897346560",
+    "text": "А вот на бякэнде самое то! https://t.co/fdMzUOC3pD",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "gorshkov_l",
-          "name": "Leonid Gorshkov",
-          "id": 61041186,
-          "id_str": "61041186",
-          "indices": [
-            0,
-            11
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/JwHdWZlnXn",
-          "expanded_url": "https://twitter.com/i/web/status/1271129544511160320",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/fdMzUOC3pD",
+          "expanded_url": "https://twitter.com/GlafiraZhur/status/1271447612428869632",
+          "display_url": "twitter.com/GlafiraZhur/st…",
           "indices": [
-            116,
-            139
+            27,
+            50
           ]
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1271129172396707800,
-    "in_reply_to_status_id_str": "1271129172396707841",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1271447612428869600,
+    "quoted_status_id_str": "1271447612428869632",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
