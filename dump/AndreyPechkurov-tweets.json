@@ -1,0 +1,1554 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 15 07:27:51 +0000 2020",
+      "id": 1272430604487983000,
+      "id_str": "1272430604487983105",
+      "text": "Привет из Воронежа. Меня зовут Андрей (@AndreyPechkurov) и на этой неделе мы поговорим про Node.js. Надесь, что тем… https://t.co/ieOVpduPkx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyPechkurov",
+            "name": "Andrey Pechkurov",
+            "id": 3074636662,
+            "id_str": "3074636662",
+            "indices": [
+              39,
+              55
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ieOVpduPkx",
+            "expanded_url": "https://twitter.com/i/web/status/1272430604487983105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 60,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:43 +0000 2020",
+      "id": 1272446679325827000,
+      "id_str": "1272446679325827072",
+      "text": "Сегодня мы поговорим про модуль async_hooks и, в частности, класс AsyncLocalStorage (ALS), который недавно в нем по… https://t.co/LnHwKbdvps",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LnHwKbdvps",
+            "expanded_url": "https://twitter.com/i/web/status/1272446679325827072",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:44 +0000 2020",
+      "id": 1272446680755994600,
+      "id_str": "1272446680755994625",
+      "text": "Начнем мы с простого примера использования ALS. Предположим, что мы хотим добавить id запроса во все сообщения журн… https://t.co/r7ZpiAb2nm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/r7ZpiAb2nm",
+            "expanded_url": "https://twitter.com/i/web/status/1272446680755994625",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272446679325827000,
+      "in_reply_to_status_id_str": "1272446679325827072",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:44 +0000 2020",
+      "id": 1272446682630951000,
+      "id_str": "1272446682630950912",
+      "text": "Но программисты народ ленивый (в хорошем смысле) и всегда пытаются уменьшить связность модулей и кол-во кода на сфе… https://t.co/Y1RI0AGdLC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y1RI0AGdLC",
+            "expanded_url": "https://twitter.com/i/web/status/1272446682630950912",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272446680755994600,
+      "in_reply_to_status_id_str": "1272446680755994625",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:45 +0000 2020",
+      "id": 1272446684451176400,
+      "id_str": "1272446684451176449",
+      "text": "Думаю те, кто работал с ThreadLocal в Java и AsyncLocal в .NET, увидели сходство. То, что было давно доступно в дру… https://t.co/wQ2OnGunrt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wQ2OnGunrt",
+            "expanded_url": "https://twitter.com/i/web/status/1272446684451176449",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272446682630951000,
+      "in_reply_to_status_id_str": "1272446682630950912",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:45 +0000 2020",
+      "id": 1272446685789159400,
+      "id_str": "1272446685789159424",
+      "text": "Что же было в экосистеме до появления ALS? Это были разнообразные user-land модули, самыми известными из которых бы… https://t.co/8W0VaQEY3R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8W0VaQEY3R",
+            "expanded_url": "https://twitter.com/i/web/status/1272446685789159424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272446684451176400,
+      "in_reply_to_status_id_str": "1272446684451176449",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:31:45 +0000 2020",
+      "id": 1272446687110406100,
+      "id_str": "1272446687110406144",
+      "text": "Любопытно, что оригинальный CLS был основан на древнем process.addAsyncListener API, который доступен только в Node… https://t.co/C1S2Ow43yr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C1S2Ow43yr",
+            "expanded_url": "https://twitter.com/i/web/status/1272446687110406144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272446685789159400,
+      "in_reply_to_status_id_str": "1272446685789159424",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 15 08:59:29 +0000 2020",
+      "id": 1272453665442455600,
+      "id_str": "1272453665442455559",
+      "text": "Продолжим тему ALS. Не секрет, что у async_hooks есть \"накладные расходы\", связанные с трекингом ЖЦ объектов-ресурс… https://t.co/5jlKZcjnRV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5jlKZcjnRV",
+            "expanded_url": "https://twitter.com/i/web/status/1272453665442455559",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:59:29 +0000 2020",
+      "id": 1272453666742681600,
+      "id_str": "1272453666742681600",
+      "text": "Например, в отличие от user-land библиотек, ALS не использует destroy хуков (благодаря функции executionAsyncResour… https://t.co/pB6VIDBLM5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pB6VIDBLM5",
+            "expanded_url": "https://twitter.com/i/web/status/1272453666742681600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272453665442455600,
+      "in_reply_to_status_id_str": "1272453665442455559",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:59:30 +0000 2020",
+      "id": 1272453668051325000,
+      "id_str": "1272453668051324934",
+      "text": "Особенно, \"дорого\" это в случае нативных промисов. Но в недавних коммитах это отслеживание было отключено для Async… https://t.co/nfulh1NYTh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nfulh1NYTh",
+            "expanded_url": "https://twitter.com/i/web/status/1272453668051324934",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272453666742681600,
+      "in_reply_to_status_id_str": "1272453666742681600",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:59:30 +0000 2020",
+      "id": 1272453669322141700,
+      "id_str": "1272453669322141697",
+      "text": "Недавно я портировал cls-rtracer, маленькую библиотеку, основанную на CLS API, с cls-hooked на ALS и сделал замер п… https://t.co/pcRq1Wu7qZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pcRq1Wu7qZ",
+            "expanded_url": "https://twitter.com/i/web/status/1272453669322141697",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272453668051325000,
+      "in_reply_to_status_id_str": "1272453668051324934",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 08:59:30 +0000 2020",
+      "id": 1272453670995624000,
+      "id_str": "1272453670995623939",
+      "text": "Этот бенчмарк наглядно показывает снижение расходов на CLS. Эти расходы, конечно, в любом случае остаются ненулевым… https://t.co/iQoVoFcZjb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iQoVoFcZjb",
+            "expanded_url": "https://twitter.com/i/web/status/1272453670995623939",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272453669322141700,
+      "in_reply_to_status_id_str": "1272453669322141697",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:00:57 +0000 2020",
+      "id": 1272454035258384400,
+      "id_str": "1272454035258384384",
+      "text": "@dima_kanatnikov Да, domain был и остается. Некоторое время назад его портировали на async_hooks. Но сейчас у него… https://t.co/0zgLd8opkA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dima_kanatnikov",
+            "name": "Dmitrii Kanatnikov",
+            "id": 377901551,
+            "id_str": "377901551",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0zgLd8opkA",
+            "expanded_url": "https://twitter.com/i/web/status/1272454035258384384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272450808530026500,
+      "in_reply_to_status_id_str": "1272450808530026496",
+      "in_reply_to_user_id": 377901551,
+      "in_reply_to_user_id_str": "377901551",
+      "in_reply_to_screen_name": "dima_kanatnikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:02:06 +0000 2020",
+      "id": 1272454321964277800,
+      "id_str": "1272454321964277760",
+      "text": "@dima_kanatnikov Для полноты картины стоит сказать, что был еще недокументированный AsyncWrap API, который потом перекочевал в async_hooks.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dima_kanatnikov",
+            "name": "Dmitrii Kanatnikov",
+            "id": 377901551,
+            "id_str": "377901551",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272450808530026500,
+      "in_reply_to_status_id_str": "1272450808530026496",
+      "in_reply_to_user_id": 377901551,
+      "in_reply_to_user_id_str": "377901551",
+      "in_reply_to_screen_name": "dima_kanatnikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:39 +0000 2020",
+      "id": 1272460250138972200,
+      "id_str": "1272460250138972162",
+      "text": "Конечно, логи это далеко не единственный пример использования CLS API. Для начала, давайте поговорим про внутрянку… https://t.co/X1ePz6sm0A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X1ePz6sm0A",
+            "expanded_url": "https://twitter.com/i/web/status/1272460250138972162",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:39 +0000 2020",
+      "id": 1272460251506360300,
+      "id_str": "1272460251506360320",
+      "text": "Эти агенты в первую очередь нужны для отслеживания производительности веб-приложений. А это значит, что им нужно от… https://t.co/Jw9injGWEC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jw9injGWEC",
+            "expanded_url": "https://twitter.com/i/web/status/1272460251506360320",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460250138972200,
+      "in_reply_to_status_id_str": "1272460250138972162",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:40 +0000 2020",
+      "id": 1272460252886249500,
+      "id_str": "1272460252886249474",
+      "text": "Во-первых, они monkey patch'ат веб-фреймворки (включая, модуль http), драйверы БД и прочие популярные библиотеки, в… https://t.co/sl8AXeCvhl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sl8AXeCvhl",
+            "expanded_url": "https://twitter.com/i/web/status/1272460252886249474",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460251506360300,
+      "in_reply_to_status_id_str": "1272460251506360320",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:40 +0000 2020",
+      "id": 1272460254211641300,
+      "id_str": "1272460254211641344",
+      "text": "Поэтому, во-вторых, они используют CLS API в том или ином виде. Иногда он основан на диких monkey patch'ах core API… https://t.co/u4Ogm3Y0j6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/u4Ogm3Y0j6",
+            "expanded_url": "https://twitter.com/i/web/status/1272460254211641344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460252886249500,
+      "in_reply_to_status_id_str": "1272460252886249474",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:40 +0000 2020",
+      "id": 1272460255507644400,
+      "id_str": "1272460255507644419",
+      "text": "Впрочем, есть надежда, что некоторые из них вскоре переедут на ALS, а популярные библиотеки начнут вести себя приличнее.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460254211641300,
+      "in_reply_to_status_id_str": "1272460254211641344",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:41 +0000 2020",
+      "id": 1272460256812191700,
+      "id_str": "1272460256812191744",
+      "text": "Если интересно посмотреть на исходный код одного из APM агентов, то вот пример:\nhttps://t.co/pWVmjGyuJq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pWVmjGyuJq",
+            "expanded_url": "https://github.com/googleapis/cloud-trace-nodejs",
+            "display_url": "github.com/googleapis/clo…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460255507644400,
+      "in_reply_to_status_id_str": "1272460255507644419",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:41 +0000 2020",
+      "id": 1272460258204582000,
+      "id_str": "1272460258204581890",
+      "text": "Кроме того, на async_hooks можно построить полезные диагностические инструменты. Такие как, например, bubbleprof ви… https://t.co/39dpCcwn34",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/39dpCcwn34",
+            "expanded_url": "https://twitter.com/i/web/status/1272460258204581890",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460256812191700,
+      "in_reply_to_status_id_str": "1272460256812191744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:25:41 +0000 2020",
+      "id": 1272460259576238000,
+      "id_str": "1272460259576238082",
+      "text": "Наконец, async_hooks можно использовать для наблюдения за необработанными исключениями. Пример - модуль domain, кот… https://t.co/gmHIxoRb26",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gmHIxoRb26",
+            "expanded_url": "https://twitter.com/i/web/status/1272460259576238082",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272460258204582000,
+      "in_reply_to_status_id_str": "1272460258204581890",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:41:44 +0000 2020",
+      "id": 1272464298086936600,
+      "id_str": "1272464298086936582",
+      "text": "Давайте теперь поговорим про перспективы ALS в рамках всей JS экосистемы.\n\nПоследняя ветка про этот API на сегодня, обещаю. :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:41:44 +0000 2020",
+      "id": 1272464299445928000,
+      "id_str": "1272464299445927936",
+      "text": "FE разработчики, пишущие на Angular, знакомы с Zone.js. Его API включает в себя концепцию CLS. Более того, реализац… https://t.co/JFnnumW52w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JFnnumW52w",
+            "expanded_url": "https://twitter.com/i/web/status/1272464299445927936",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272464298086936600,
+      "in_reply_to_status_id_str": "1272464298086936582",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:41:45 +0000 2020",
+      "id": 1272464300704256000,
+      "id_str": "1272464300704256000",
+      "text": "В TC39 даже вносили на рассмотрение черновик стандарта, основанного на Zone.js. Но тема заглохла и его реализации мы уже вряд ли увидим.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272464299445928000,
+      "in_reply_to_status_id_str": "1272464299445927936",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:41:45 +0000 2020",
+      "id": 1272464301937373200,
+      "id_str": "1272464301937373186",
+      "text": "Но есть идея повторить попытку и внести в TC39 на рассмотрение более простой стандарт, вдохновленный ALS подмножест… https://t.co/amFBoiJ2WJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/amFBoiJ2WJ",
+            "expanded_url": "https://twitter.com/i/web/status/1272464301937373186",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272464300704256000,
+      "in_reply_to_status_id_str": "1272464300704256000",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 09:41:45 +0000 2020",
+      "id": 1272464303417970700,
+      "id_str": "1272464303417970690",
+      "text": "Как обещал, завершаю эту тему. Если кому-то интересно поговорить про \"внутрянку\" async_hooks/ALS, спрашивайте. Пост… https://t.co/vt2sZ8hU44",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vt2sZ8hU44",
+            "expanded_url": "https://twitter.com/i/web/status/1272464303417970690",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272464301937373200,
+      "in_reply_to_status_id_str": "1272464301937373186",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 11:09:15 +0000 2020",
+      "id": 1272486321588703200,
+      "id_str": "1272486321588703232",
+      "text": "@kirillgroshkov Можно не ждать: GA уже наступил. ALS доступен в Node.js v12.17.0.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgroshkov",
+            "name": "Kirill Groshkov",
+            "id": 2401378934,
+            "id_str": "2401378934",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272472541957886000,
+      "in_reply_to_status_id_str": "1272472541957885963",
+      "in_reply_to_user_id": 2401378934,
+      "in_reply_to_user_id_str": "2401378934",
+      "in_reply_to_screen_name": "kirillgroshkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 11:12:06 +0000 2020",
+      "id": 1272487041272557600,
+      "id_str": "1272487041272557568",
+      "text": "@kirillgroshkov Кириллица в monospace мне лично глаза не режет, а сниппеты с комментариями на русском становятся не… https://t.co/Iizw6S9trx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgroshkov",
+            "name": "Kirill Groshkov",
+            "id": 2401378934,
+            "id_str": "2401378934",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Iizw6S9trx",
+            "expanded_url": "https://twitter.com/i/web/status/1272487041272557568",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272473169018982400,
+      "in_reply_to_status_id_str": "1272473169018982400",
+      "in_reply_to_user_id": 2401378934,
+      "in_reply_to_user_id_str": "2401378934",
+      "in_reply_to_screen_name": "kirillgroshkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 11:34:53 +0000 2020",
+      "id": 1272492771627225000,
+      "id_str": "1272492771627225088",
+      "text": "@kirillgroshkov Да, стабильность ALS та же, что и у самих async_hooks. Я говорил про доступность API в LTS релизах.… https://t.co/KuiuOQqtWy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgroshkov",
+            "name": "Kirill Groshkov",
+            "id": 2401378934,
+            "id_str": "2401378934",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KuiuOQqtWy",
+            "expanded_url": "https://twitter.com/i/web/status/1272492771627225088",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272489036368818200,
+      "in_reply_to_status_id_str": "1272489036368818177",
+      "in_reply_to_user_id": 2401378934,
+      "in_reply_to_user_id_str": "2401378934",
+      "in_reply_to_screen_name": "kirillgroshkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 11:37:29 +0000 2020",
+      "id": 1272493428790747100,
+      "id_str": "1272493428790747140",
+      "text": "@kirillgroshkov @AndreyPechkurov Я контрибьютил в async_hooks в основном. В будущем хочу начать работать над другим… https://t.co/d2DCcIRdXI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgroshkov",
+            "name": "Kirill Groshkov",
+            "id": 2401378934,
+            "id_str": "2401378934",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "AndreyPechkurov",
+            "name": "Andrey Pechkurov",
+            "id": 3074636662,
+            "id_str": "3074636662",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/d2DCcIRdXI",
+            "expanded_url": "https://twitter.com/i/web/status/1272493428790747140",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272489646946164700,
+      "in_reply_to_status_id_str": "1272489646946164736",
+      "in_reply_to_user_id": 2401378934,
+      "in_reply_to_user_id_str": "2401378934",
+      "in_reply_to_screen_name": "kirillgroshkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 12:10:30 +0000 2020",
+      "id": 1272501734439637000,
+      "id_str": "1272501734439636992",
+      "text": "@kirillgroshkov @AndreyPechkurov В моем случае все на энтузиазме, как и у многих других коллабораторов. Но есть и т… https://t.co/VM3sDjB2tk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kirillgroshkov",
+            "name": "Kirill Groshkov",
+            "id": 2401378934,
+            "id_str": "2401378934",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "AndreyPechkurov",
+            "name": "Andrey Pechkurov",
+            "id": 3074636662,
+            "id_str": "3074636662",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VM3sDjB2tk",
+            "expanded_url": "https://twitter.com/i/web/status/1272501734439636992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272493994132623400,
+      "in_reply_to_status_id_str": "1272493994132623360",
+      "in_reply_to_user_id": 2401378934,
+      "in_reply_to_user_id_str": "2401378934",
+      "in_reply_to_screen_name": "kirillgroshkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 15 12:58:15 +0000 2020",
+      "id": 1272513753821712400,
+      "id_str": "1272513753821712386",
+      "text": "@Tom910ru Я таких замеров не делал, но делал для одного из бенчмарков, доступных в core:\nhttps://t.co/BjykA6eSsG\n\nP… https://t.co/mLAzb4m5UB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tom910ru",
+            "name": "Marchenko Andrey",
+            "id": 101550320,
+            "id_str": "101550320",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BjykA6eSsG",
+            "expanded_url": "https://twitter.com/AndreyPechkurov/status/1234372260112322562?s=20",
+            "display_url": "twitter.com/AndreyPechkuro…",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/mLAzb4m5UB",
+            "expanded_url": "https://twitter.com/i/web/status/1272513753821712386",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272502534041632800,
+      "in_reply_to_status_id_str": "1272502534041632769",
+      "in_reply_to_user_id": 101550320,
+      "in_reply_to_user_id_str": "101550320",
+      "in_reply_to_screen_name": "Tom910ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1234372260112322600,
+      "quoted_status_id_str": "1234372260112322562",
+      "quoted_status": {
+        "created_at": "Mon Mar 02 06:57:34 +0000 2020",
+        "id": 1234372260112322600,
+        "id_str": "1234372260112322562",
+        "text": "You might also wonder about the performance impact of AsyncLocalStorage (and the underlying async hooks). Here it i… https://t.co/7fORCSYIG0",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/7fORCSYIG0",
+              "expanded_url": "https://twitter.com/i/web/status/1234372260112322562",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1234189388436967400,
+        "in_reply_to_status_id_str": "1234189388436967426",
+        "in_reply_to_user_id": 3074636662,
+        "in_reply_to_user_id_str": "3074636662",
+        "in_reply_to_screen_name": "AndreyPechkurov",
+        "user": {
+          "id": 3074636662,
+          "id_str": "3074636662"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
