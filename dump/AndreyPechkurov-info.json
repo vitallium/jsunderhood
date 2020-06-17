@@ -26,51 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 8026,
+  "followers_count": 8029,
   "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4615,
+  "favourites_count": 4616,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39615,
+  "statuses_count": 39630,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 15 12:58:15 +0000 2020",
-    "id": 1272513753821712400,
-    "id_str": "1272513753821712386",
-    "text": "@Tom910ru Я таких замеров не делал, но делал для одного из бенчмарков, доступных в core:\nhttps://t.co/BjykA6eSsG\n\nP… https://t.co/mLAzb4m5UB",
+    "created_at": "Tue Jun 16 19:06:50 +0000 2020",
+    "id": 1272968898825138200,
+    "id_str": "1272968898825138185",
+    "text": "@dima_kanatnikov Как минимум, вышеперечисленные use case'ы есть и они важны. Ну а сообщество найдет еще полезные пр… https://t.co/dXpE7NTWoD",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Tom910ru",
-          "name": "Marchenko Andrey",
-          "id": 101550320,
-          "id_str": "101550320",
+          "screen_name": "dima_kanatnikov",
+          "name": "Dmitrii Kanatnikov",
+          "id": 377901551,
+          "id_str": "377901551",
           "indices": [
             0,
-            9
+            16
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/BjykA6eSsG",
-          "expanded_url": "https://twitter.com/AndreyPechkurov/status/1234372260112322562?s=20",
-          "display_url": "twitter.com/AndreyPechkuro…",
-          "indices": [
-            89,
-            112
-          ]
-        },
-        {
-          "url": "https://t.co/mLAzb4m5UB",
-          "expanded_url": "https://twitter.com/i/web/status/1272513753821712386",
+          "url": "https://t.co/dXpE7NTWoD",
+          "expanded_url": "https://twitter.com/i/web/status/1272968898825138185",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -80,18 +71,16 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1272502534041632800,
-    "in_reply_to_status_id_str": "1272502534041632769",
-    "in_reply_to_user_id": 101550320,
-    "in_reply_to_user_id_str": "101550320",
-    "in_reply_to_screen_name": "Tom910ru",
+    "in_reply_to_status_id": 1272908688639099000,
+    "in_reply_to_status_id_str": "1272908688639098881",
+    "in_reply_to_user_id": 377901551,
+    "in_reply_to_user_id_str": "377901551",
+    "in_reply_to_screen_name": "dima_kanatnikov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1234372260112322600,
-    "quoted_status_id_str": "1234372260112322562",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,

@@ -1549,6 +1549,738 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:05 +0000 2020",
+      "id": 1272809913601986600,
+      "id_str": "1272809913601986560",
+      "text": "Сегодня мы пообщаемся на тему WeakRef + FinalizationRegistry. Эти API находятся на Stage 3 (Candidate) в TC39 и име… https://t.co/ZyVBdHxW5R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZyVBdHxW5R",
+            "expanded_url": "https://twitter.com/i/web/status/1272809913601986560",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:06 +0000 2020",
+      "id": 1272809914965143600,
+      "id_str": "1272809914965143552",
+      "text": "Слабые ссылки, они же WeakRef, просты, как песня, и многим хорошо знакомы по другим runtime. https://t.co/dUlPcFmUfb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1272797042381860900,
+            "id_str": "1272797042381860865",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaniKp5WsAEzZfR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaniKp5WsAEzZfR.jpg",
+            "url": "https://t.co/dUlPcFmUfb",
+            "display_url": "pic.twitter.com/dUlPcFmUfb",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1272809914965143552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1126,
+                "h": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1126,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1272797042381860900,
+            "id_str": "1272797042381860865",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaniKp5WsAEzZfR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaniKp5WsAEzZfR.jpg",
+            "url": "https://t.co/dUlPcFmUfb",
+            "display_url": "pic.twitter.com/dUlPcFmUfb",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1272809914965143552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1126,
+                "h": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1126,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809913601986600,
+      "in_reply_to_status_id_str": "1272809913601986560",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:06 +0000 2020",
+      "id": 1272809916588339200,
+      "id_str": "1272809916588339200",
+      "text": "FinalizationRegistry немного сложнее и, как следует из названия, реализует механизм финализации объектов. Простейши… https://t.co/NJjClaxH1Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NJjClaxH1Z",
+            "expanded_url": "https://twitter.com/i/web/status/1272809916588339200",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809914965143600,
+      "in_reply_to_status_id_str": "1272809914965143552",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:06 +0000 2020",
+      "id": 1272809918400278500,
+      "id_str": "1272809918400278528",
+      "text": "Эти API можно пощупать в Node.js v12+, указав флаг --harmony-weak-refs.\n\nНо в core слабые ссылки уже давно использу… https://t.co/vBKWuIIWvE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vBKWuIIWvE",
+            "expanded_url": "https://twitter.com/i/web/status/1272809918400278528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809916588339200,
+      "in_reply_to_status_id_str": "1272809916588339200",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:07 +0000 2020",
+      "id": 1272809919872405500,
+      "id_str": "1272809919872405504",
+      "text": "Есть и собственный утилитный класс WeakReference, который используется в domain.\nhttps://t.co/FzSvuLcX2o",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FzSvuLcX2o",
+            "expanded_url": "https://github.com/nodejs/node/blob/9085c03806dbc9eb48e14c2afa49080deee0ee3c/lib/domain.js#L194",
+            "display_url": "github.com/nodejs/node/bl…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809918400278500,
+      "in_reply_to_status_id_str": "1272809918400278528",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:07 +0000 2020",
+      "id": 1272809921210351600,
+      "id_str": "1272809921210351616",
+      "text": "Про WeakMap и WeakSet, думаю, и говорить не нужно. Они используются в нескольких модулях.\n\nКстати, любопытно то, чт… https://t.co/XrnwdrnndN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XrnwdrnndN",
+            "expanded_url": "https://twitter.com/i/web/status/1272809921210351616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809919872405500,
+      "in_reply_to_status_id_str": "1272809919872405504",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:07 +0000 2020",
+      "id": 1272809922623934500,
+      "id_str": "1272809922623934464",
+      "text": "WeakMap построен на механизме ephemerons, позволяющем GC корректно обрабатывать циклы. Его семантика такова: пока н… https://t.co/0R6l1zCOJL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0R6l1zCOJL",
+            "expanded_url": "https://twitter.com/i/web/status/1272809922623934464",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809921210351600,
+      "in_reply_to_status_id_str": "1272809921210351616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:08 +0000 2020",
+      "id": 1272809923966128000,
+      "id_str": "1272809923966128128",
+      "text": "Думаю, многих интересуют хорошие примеры применений новых API.\n\nПримеры использования слабых ссылок в core подсказы… https://t.co/QydnpeLbKP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QydnpeLbKP",
+            "expanded_url": "https://twitter.com/i/web/status/1272809923966128128",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809922623934500,
+      "in_reply_to_status_id_str": "1272809922623934464",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:08 +0000 2020",
+      "id": 1272809925316575200,
+      "id_str": "1272809925316575232",
+      "text": "Другой неплохой пример - очистка ресурсов WebAssembly при сборке JS объектов. Он хорошо расписан тут.\nhttps://t.co/uOVPplxeyf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uOVPplxeyf",
+            "expanded_url": "https://github.com/tc39/proposal-weakrefs#exposing-webassembly-memory-to-javascript",
+            "display_url": "github.com/tc39/proposal-…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809923966128000,
+      "in_reply_to_status_id_str": "1272809923966128128",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:08 +0000 2020",
+      "id": 1272809926700814300,
+      "id_str": "1272809926700814338",
+      "text": "Другие примеры из этого документа я бы назвал хорошими с большой натяжкой. Кэш с WeakRef не дает вам гарантий по вр… https://t.co/TA3QaTAh4u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TA3QaTAh4u",
+            "expanded_url": "https://twitter.com/i/web/status/1272809926700814338",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809925316575200,
+      "in_reply_to_status_id_str": "1272809925316575232",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:09 +0000 2020",
+      "id": 1272809928034574300,
+      "id_str": "1272809928034574336",
+      "text": "Дело в том, что оба API, ожидаемо, не дают никаких гарантий по детерменистичности своей работы, поскольку они завяз… https://t.co/cerfVvEgQ5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cerfVvEgQ5",
+            "expanded_url": "https://twitter.com/i/web/status/1272809928034574336",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809926700814300,
+      "in_reply_to_status_id_str": "1272809926700814338",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:09 +0000 2020",
+      "id": 1272809929435500500,
+      "id_str": "1272809929435500545",
+      "text": "Поэтому точно не стоит освобождать системные ресурсы (скажем, fd в Linux) или соединения с БД через финализаторы. И… https://t.co/pA4R5pTfm0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pA4R5pTfm0",
+            "expanded_url": "https://twitter.com/i/web/status/1272809929435500545",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809928034574300,
+      "in_reply_to_status_id_str": "1272809928034574336",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 08:35:09 +0000 2020",
+      "id": 1272809930861564000,
+      "id_str": "1272809930861563905",
+      "text": "Если вы знаете еще какие-то хорошие use case'ы для этих экспериментальных API, пишите. Думаю, это будет очень полезно для сообщества.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272809929435500500,
+      "in_reply_to_status_id_str": "1272809929435500545",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 09:00:23 +0000 2020",
+      "id": 1272816280643555300,
+      "id_str": "1272816280643555328",
+      "text": "@aelyseev Насколько я знаю, с точки зрения обработки ошибок, нет планов для замены, т.к. там были серьезные проблем… https://t.co/ahQks6WwkN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelyseev",
+            "name": "Алексей Елисеев",
+            "id": 239036762,
+            "id_str": "239036762",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ahQks6WwkN",
+            "expanded_url": "https://twitter.com/i/web/status/1272816280643555328",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272812016844050400,
+      "in_reply_to_status_id_str": "1272812016844050432",
+      "in_reply_to_user_id": 239036762,
+      "in_reply_to_user_id_str": "239036762",
+      "in_reply_to_screen_name": "aelyseev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 16 19:06:50 +0000 2020",
+      "id": 1272968898825138200,
+      "id_str": "1272968898825138185",
+      "text": "@dima_kanatnikov Как минимум, вышеперечисленные use case'ы есть и они важны. Ну а сообщество найдет еще полезные пр… https://t.co/dXpE7NTWoD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dima_kanatnikov",
+            "name": "Dmitrii Kanatnikov",
+            "id": 377901551,
+            "id_str": "377901551",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dXpE7NTWoD",
+            "expanded_url": "https://twitter.com/i/web/status/1272968898825138185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272908688639099000,
+      "in_reply_to_status_id_str": "1272908688639098881",
+      "in_reply_to_user_id": 377901551,
+      "in_reply_to_user_id_str": "377901551",
+      "in_reply_to_screen_name": "dima_kanatnikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
