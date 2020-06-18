@@ -2281,6 +2281,833 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:09 +0000 2020",
+      "id": 1273170053043761200,
+      "id_str": "1273170053043761154",
+      "text": "Сегодня немного пройдемся по внутренней кухне Node.js и моим, связанным с ней (странным) экспериментам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:10 +0000 2020",
+      "id": 1273170054637633500,
+      "id_str": "1273170054637633537",
+      "text": "Если вы работали с бинарными данными в Node.js или, например, пытались реализовать драйвер БД с бинарным протоколом… https://t.co/FJpR2jvfcz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FJpR2jvfcz",
+            "expanded_url": "https://twitter.com/i/web/status/1273170054637633537",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170053043761200,
+      "in_reply_to_status_id_str": "1273170053043761154",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:10 +0000 2020",
+      "id": 1273170056080482300,
+      "id_str": "1273170056080482313",
+      "text": "Любопытно то, что сами бинарные данные Buffer хранит off-heap, а в куче хранится только объект с метаданными. Соотв… https://t.co/EsoYGm9cNR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EsoYGm9cNR",
+            "expanded_url": "https://twitter.com/i/web/status/1273170056080482313",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170054637633500,
+      "in_reply_to_status_id_str": "1273170054637633537",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:10 +0000 2020",
+      "id": 1273170057598767000,
+      "id_str": "1273170057598767104",
+      "text": "Аллоцировать буфер можно многими способами и вот некоторые из них. https://t.co/2RKdETLoY3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1273168628909817900,
+            "id_str": "1273168628909817858",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eas0H1lXQAI6uwv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eas0H1lXQAI6uwv.jpg",
+            "url": "https://t.co/2RKdETLoY3",
+            "display_url": "pic.twitter.com/2RKdETLoY3",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1273170057598767104/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 956,
+                "h": 570,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 405,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 956,
+                "h": 570,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1273168628909817900,
+            "id_str": "1273168628909817858",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eas0H1lXQAI6uwv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eas0H1lXQAI6uwv.jpg",
+            "url": "https://t.co/2RKdETLoY3",
+            "display_url": "pic.twitter.com/2RKdETLoY3",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1273170057598767104/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 956,
+                "h": 570,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 405,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 956,
+                "h": 570,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170056080482300,
+      "in_reply_to_status_id_str": "1273170056080482313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:11 +0000 2020",
+      "id": 1273170059272298500,
+      "id_str": "1273170059272298496",
+      "text": "Думаю, что вы уже догадались, что аллокация буфера процесс относительно \"дорогой\" и задались вопросом, почему помим… https://t.co/8IxJCiZxmL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8IxJCiZxmL",
+            "expanded_url": "https://twitter.com/i/web/status/1273170059272298496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170057598767000,
+      "in_reply_to_status_id_str": "1273170057598767104",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:11 +0000 2020",
+      "id": 1273170060681654300,
+      "id_str": "1273170060681654278",
+      "text": "Дело в том, что для небольших буферов в Node.js предусмотрена оптимизация. Системная библиотека сначала аллоцирует… https://t.co/krI6zynmBh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/krI6zynmBh",
+            "expanded_url": "https://twitter.com/i/web/status/1273170060681654278",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170059272298500,
+      "in_reply_to_status_id_str": "1273170059272298496",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:11 +0000 2020",
+      "id": 1273170062573277200,
+      "id_str": "1273170062573277186",
+      "text": "Затем при вызове allocUnsafe() проверяется запрошенный размер и, если он достаточно мал, буфер создается как slice… https://t.co/IVt5hhPNFE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IVt5hhPNFE",
+            "expanded_url": "https://twitter.com/i/web/status/1273170062573277186",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170060681654300,
+      "in_reply_to_status_id_str": "1273170060681654278",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:12 +0000 2020",
+      "id": 1273170064519372800,
+      "id_str": "1273170064519372800",
+      "text": "Это существенно уменьшает накладные расходы для allocUnsafe(). А, соответственно, allocUnsafeSlow() лишен этой опти… https://t.co/EvAeCpnruw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EvAeCpnruw",
+            "expanded_url": "https://twitter.com/i/web/status/1273170064519372800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170062573277200,
+      "in_reply_to_status_id_str": "1273170062573277186",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:12 +0000 2020",
+      "id": 1273170065865805800,
+      "id_str": "1273170065865805824",
+      "text": "Значение Buffer.poolSize по умолчанию это 8КБ, что совсем немного для современного серверного железа. Если его увел… https://t.co/94iBzYm38N",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/94iBzYm38N",
+            "expanded_url": "https://twitter.com/i/web/status/1273170065865805824",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170064519372800,
+      "in_reply_to_status_id_str": "1273170064519372800",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:13 +0000 2020",
+      "id": 1273170067216380000,
+      "id_str": "1273170067216379904",
+      "text": "Поэтому тут напрашивается идея использования \"честного\" пула, т.е. API, которое позволит переиспользовать уже ненуж… https://t.co/hBdZHob88D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hBdZHob88D",
+            "expanded_url": "https://twitter.com/i/web/status/1273170067216379904",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170065865805800,
+      "in_reply_to_status_id_str": "1273170065865805824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:13 +0000 2020",
+      "id": 1273170068667609000,
+      "id_str": "1273170068667609088",
+      "text": "Лирическое отступление. В core есть класс FreeList, который реализует простейший пул. Он используется в модуле http… https://t.co/RTA2GLG7nH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RTA2GLG7nH",
+            "expanded_url": "https://twitter.com/i/web/status/1273170068667609088",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170067216380000,
+      "in_reply_to_status_id_str": "1273170067216379904",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:13 +0000 2020",
+      "id": 1273170070177558500,
+      "id_str": "1273170070177558528",
+      "text": "Но есть и альтернатива такому \"ручному\" подходу. Что если использовать финализаторы для возврата буферов в пул? Иде… https://t.co/TxRqq85E5X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TxRqq85E5X",
+            "expanded_url": "https://twitter.com/i/web/status/1273170070177558528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170068667609000,
+      "in_reply_to_status_id_str": "1273170068667609088",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:14 +0000 2020",
+      "id": 1273170071649767400,
+      "id_str": "1273170071649767429",
+      "text": "Сказано - сделано. Исходники и результаты эксперимента можно посмотреть тут.\nhttps://t.co/B2j6cQYa8r\n\nP.S. Finaliza… https://t.co/pxPcWh6AlD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/B2j6cQYa8r",
+            "expanded_url": "https://github.com/puzpuzpuz/nbufpool/tree/experiment/fg-api-based-pool",
+            "display_url": "github.com/puzpuzpuz/nbuf…",
+            "indices": [
+              77,
+              100
+            ]
+          },
+          {
+            "url": "https://t.co/pxPcWh6AlD",
+            "expanded_url": "https://twitter.com/i/web/status/1273170071649767429",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170070177558500,
+      "in_reply_to_status_id_str": "1273170070177558528",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:14 +0000 2020",
+      "id": 1273170073075822600,
+      "id_str": "1273170073075822593",
+      "text": "Вкратце можно сказать следующее. Ожидаемо, экспериментальный пул оказался быстрее. Однако, из-за особенностей аллок… https://t.co/DAkq7AXsOW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DAkq7AXsOW",
+            "expanded_url": "https://twitter.com/i/web/status/1273170073075822593",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170071649767400,
+      "in_reply_to_status_id_str": "1273170071649767429",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 08:26:14 +0000 2020",
+      "id": 1273170074497699800,
+      "id_str": "1273170074497699841",
+      "text": "Надеюсь, что такое обсуждение внутрянки Node.js не показалось вам излишним. Завтра мы пройдемся по небольшой выборк… https://t.co/VEwBm4tTIQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VEwBm4tTIQ",
+            "expanded_url": "https://twitter.com/i/web/status/1273170074497699841",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273170073075822600,
+      "in_reply_to_status_id_str": "1273170073075822593",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 09:34:05 +0000 2020",
+      "id": 1273187146405425200,
+      "id_str": "1273187146405425156",
+      "text": "@Volodya262 Помимо исходников и документации, советую почитать вот эту серию статей про устройство event loop в Nod… https://t.co/8UCDVX9tsw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Volodya262",
+            "name": "Вова",
+            "id": 309749083,
+            "id_str": "309749083",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8UCDVX9tsw",
+            "expanded_url": "https://twitter.com/i/web/status/1273187146405425156",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273182216819019800,
+      "in_reply_to_status_id_str": "1273182216819019781",
+      "in_reply_to_user_id": 309749083,
+      "in_reply_to_user_id_str": "309749083",
+      "in_reply_to_screen_name": "Volodya262",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 17 09:35:36 +0000 2020",
+      "id": 1273187529370620000,
+      "id_str": "1273187529370619904",
+      "text": "@Volodya262 Многие разработчики начинают изучать Node.js с какого-нибудь веб-фреймворка, ORM/ODM и иже с ними. Я со… https://t.co/AoN2C8UBCl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Volodya262",
+            "name": "Вова",
+            "id": 309749083,
+            "id_str": "309749083",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AoN2C8UBCl",
+            "expanded_url": "https://twitter.com/i/web/status/1273187529370619904",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273182216819019800,
+      "in_reply_to_status_id_str": "1273182216819019781",
+      "in_reply_to_user_id": 309749083,
+      "in_reply_to_user_id_str": "309749083",
+      "in_reply_to_screen_name": "Volodya262",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
