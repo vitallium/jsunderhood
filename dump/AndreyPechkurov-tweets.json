@@ -3108,6 +3108,1084 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 07:28:21 +0000 2020",
+      "id": 1273517894689833000,
+      "id_str": "1273517894689832960",
+      "text": "Как договаривались, сегодня пройдемся по экспериментам и инициативам, которые могут повлиять на core и экосистему.… https://t.co/aQgceAF6xx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aQgceAF6xx",
+            "expanded_url": "https://twitter.com/i/web/status/1273517894689832960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 07:39:34 +0000 2020",
+      "id": 1273520716709875700,
+      "id_str": "1273520716709875712",
+      "text": "Начнем мы с эксперимента по поддержке io_uring, свежего механизма для асинхронного ввода/вывода в ядре Linux, в lib… https://t.co/2tf4SKB5VJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2tf4SKB5VJ",
+            "expanded_url": "https://twitter.com/i/web/status/1273520716709875712",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 07:39:34 +0000 2020",
+      "id": 1273520718089719800,
+      "id_str": "1273520718089719808",
+      "text": "Если кто-то не слышал про libuv, то это кросс-платформенная библиотека для асинхронного I/O (и не только), на которой основывается Node.js.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273520716709875700,
+      "in_reply_to_status_id_str": "1273520716709875712",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 07:39:35 +0000 2020",
+      "id": 1273520719276781600,
+      "id_str": "1273520719276781568",
+      "text": "Сейчас libuv в Linux для сетевого I/O использует epoll, механизм мультиплексирования, позволяющий работать сразу со… https://t.co/d5303GeOPe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/d5303GeOPe",
+            "expanded_url": "https://twitter.com/i/web/status/1273520719276781568",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273520718089719800,
+      "in_reply_to_status_id_str": "1273520718089719808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 07:39:35 +0000 2020",
+      "id": 1273520720648298500,
+      "id_str": "1273520720648298496",
+      "text": "Использование более эффективного механизма может дать прирост производительности нагруженных сетевых приложений.\n\nВ… https://t.co/B4sI327Y6F",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/B4sI327Y6F",
+            "expanded_url": "https://twitter.com/i/web/status/1273520720648298496",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273520719276781600,
+      "in_reply_to_status_id_str": "1273520719276781568",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 08:51:45 +0000 2020",
+      "id": 1273538880692719600,
+      "id_str": "1273538880692719617",
+      "text": "Идем дальше. Недавно в V8 добавили очень классную фичу, а именно, pointer compression. Подробности в этой классной… https://t.co/T3amTr2nEJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T3amTr2nEJ",
+            "expanded_url": "https://twitter.com/i/web/status/1273538880692719617",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 08:51:45 +0000 2020",
+      "id": 1273538882106282000,
+      "id_str": "1273538882106281985",
+      "text": "Идея заключается в том, чтобы хранить ссылки на объекты в куче в 32 битах на 64-битных архитектурах, а затем получа… https://t.co/gqROcYHQfN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gqROcYHQfN",
+            "expanded_url": "https://twitter.com/i/web/status/1273538882106281985",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273538880692719600,
+      "in_reply_to_status_id_str": "1273538880692719617",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 08:51:45 +0000 2020",
+      "id": 1273538883444256800,
+      "id_str": "1273538883444256768",
+      "text": "Логично, что это ведет к ощутимой экономии памяти. К тому же, как ни удивительно, эта фича еще и дала прирост производительности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273538882106282000,
+      "in_reply_to_status_id_str": "1273538882106281985",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 08:51:45 +0000 2020",
+      "id": 1273538884677316600,
+      "id_str": "1273538884677316609",
+      "text": "Конечно, уже есть инициатива по интеграции pointer compression в Node.js. Там есть нюансы с нативными модулями, но… https://t.co/Gxjn4xCqUF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gxjn4xCqUF",
+            "expanded_url": "https://twitter.com/i/web/status/1273538884677316609",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273538883444256800,
+      "in_reply_to_status_id_str": "1273538883444256768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 11:23:45 +0000 2020",
+      "id": 1273577133663797200,
+      "id_str": "1273577133663797251",
+      "text": "Вы могли слышать, что в Node.js 12.5.0 ускорили время старта за счет так называемых V8 snapshots. Подробности можно… https://t.co/m46TRi6xhL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/m46TRi6xhL",
+            "expanded_url": "https://twitter.com/i/web/status/1273577133663797251",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 11:23:45 +0000 2020",
+      "id": 1273577135328972800,
+      "id_str": "1273577135328972803",
+      "text": "Однако, интеграция была частичная и заметного сокращения времени старта это не дало. На данный момент ведутся работ… https://t.co/sVfn6c4GHj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sVfn6c4GHj",
+            "expanded_url": "https://twitter.com/i/web/status/1273577135328972803",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273577133663797200,
+      "in_reply_to_status_id_str": "1273577133663797251",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 12:56:23 +0000 2020",
+      "id": 1273600447660601300,
+      "id_str": "1273600447660601347",
+      "text": "HTTP/3 еще находится в стадии черновика и активно идет работа по совершенствованию стандарта. И похоже, что Node.js… https://t.co/H7wlvp1DE6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H7wlvp1DE6",
+            "expanded_url": "https://twitter.com/i/web/status/1273600447660601347",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 12:56:24 +0000 2020",
+      "id": 1273600448931520500,
+      "id_str": "1273600448931520512",
+      "text": "Об этом можно судить хотя бы по PR'ам, реализующим QUIC, транспортный протокол поверх UDP, поверх которого работает… https://t.co/RNKNLQL7ia",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RNKNLQL7ia",
+            "expanded_url": "https://twitter.com/i/web/status/1273600448931520512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273600447660601300,
+      "in_reply_to_status_id_str": "1273600447660601347",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 13:20:22 +0000 2020",
+      "id": 1273606480462258200,
+      "id_str": "1273606480462258177",
+      "text": "Если вы хотите провести какой-то эксперимент с Node.js, то лучше сначала поискать в GH issues. Например, я как-то з… https://t.co/zYFxlryn9w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zYFxlryn9w",
+            "expanded_url": "https://twitter.com/i/web/status/1273606480462258177",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 13:20:22 +0000 2020",
+      "id": 1273606481959518200,
+      "id_str": "1273606481959518211",
+      "text": "Если кто-то не знаком с jemalloc, то это аллокатор памяти, изначально реализованный для FreeBSD, а теперь активно п… https://t.co/2DGQmZXwTa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2DGQmZXwTa",
+            "expanded_url": "https://twitter.com/i/web/status/1273606481959518211",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273606480462258200,
+      "in_reply_to_status_id_str": "1273606480462258177",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 13:20:22 +0000 2020",
+      "id": 1273606483687719000,
+      "id_str": "1273606483687718914",
+      "text": "В момент появления jemalloc хорошо выглядел в сравнении с libc аллокатором, но сейчас уже все не так однозначно. Чт… https://t.co/uX8L0g5HyZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uX8L0g5HyZ",
+            "expanded_url": "https://twitter.com/i/web/status/1273606483687718914",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273606481959518200,
+      "in_reply_to_status_id_str": "1273606481959518211",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 13:20:23 +0000 2020",
+      "id": 1273606485046689800,
+      "id_str": "1273606485046689793",
+      "text": "Небольшой офтопик для знакомых с Java. Дизайн jemalloc был использован для off-heap аллокатора в сетевом фреймворке… https://t.co/1fcW8grLj9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1fcW8grLj9",
+            "expanded_url": "https://twitter.com/i/web/status/1273606485046689793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273606483687719000,
+      "in_reply_to_status_id_str": "1273606483687718914",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 13:20:23 +0000 2020",
+      "id": 1273606486363648000,
+      "id_str": "1273606486363648000",
+      "text": "Предлагаю на сегодня на этом остановиться. Завтра мы пообщаемся на тему инструментов анализа производительности и д… https://t.co/1GB2hnRsKt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1GB2hnRsKt",
+            "expanded_url": "https://twitter.com/i/web/status/1273606486363648000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273606485046689800,
+      "in_reply_to_status_id_str": "1273606485046689793",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 14:18:38 +0000 2020",
+      "id": 1273621146450223000,
+      "id_str": "1273621146450223105",
+      "text": "@ovrweb Думаю, популярные proxy серверы получат поддержку HTTP/3 в первых рядах. Остается вопрос ко всем узлам сети… https://t.co/3PqfaVoknd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ovrweb",
+            "name": "Dmitry Patsura",
+            "id": 262494680,
+            "id_str": "262494680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3PqfaVoknd",
+            "expanded_url": "https://twitter.com/i/web/status/1273621146450223105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273616021845414000,
+      "in_reply_to_status_id_str": "1273616021845413897",
+      "in_reply_to_user_id": 262494680,
+      "in_reply_to_user_id_str": "262494680",
+      "in_reply_to_screen_name": "ovrweb",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 14:21:47 +0000 2020",
+      "id": 1273621938938749000,
+      "id_str": "1273621938938748931",
+      "text": "@ovrweb Тут можно привести аргумент, что поддержка на уровне ядра ОС позволит всем платформам получить стабильную р… https://t.co/3XCLkakRbs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ovrweb",
+            "name": "Dmitry Patsura",
+            "id": 262494680,
+            "id_str": "262494680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3XCLkakRbs",
+            "expanded_url": "https://twitter.com/i/web/status/1273621938938748931",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273617466468565000,
+      "in_reply_to_status_id_str": "1273617466468564992",
+      "in_reply_to_user_id": 262494680,
+      "in_reply_to_user_id_str": "262494680",
+      "in_reply_to_screen_name": "ovrweb",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 14:26:14 +0000 2020",
+      "id": 1273623056771158000,
+      "id_str": "1273623056771158016",
+      "text": "@i_MiF Некоторые другие веб серверы тоже умеют. Учитывая, что стандарт еще в черновике, наверное, правильнее это на… https://t.co/6ccv1je6Qw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_MiF",
+            "name": "Mikhail Tatarintsev",
+            "id": 299967172,
+            "id_str": "299967172",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6ccv1je6Qw",
+            "expanded_url": "https://twitter.com/i/web/status/1273623056771158016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273618700416016400,
+      "in_reply_to_status_id_str": "1273618700416016389",
+      "in_reply_to_user_id": 299967172,
+      "in_reply_to_user_id_str": "299967172",
+      "in_reply_to_screen_name": "i_MiF",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 19:32:31 +0000 2020",
+      "id": 1273700135114080300,
+      "id_str": "1273700135114080258",
+      "text": "@olegchir Я удержался от подобного коментария в оригинальной цепочке твитов. :)\n\nЦветные указатели (и concurrent GC… https://t.co/JLf5yuGDM0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olegchir",
+            "name": "Chaos Monkey ☄️🧙‍♂️🚀",
+            "id": 79717057,
+            "id_str": "79717057",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JLf5yuGDM0",
+            "expanded_url": "https://twitter.com/i/web/status/1273700135114080258",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273691829796507600,
+      "in_reply_to_status_id_str": "1273691829796507650",
+      "in_reply_to_user_id": 79717057,
+      "in_reply_to_user_id_str": "79717057",
+      "in_reply_to_screen_name": "olegchir",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 19:36:39 +0000 2020",
+      "id": 1273701177482453000,
+      "id_str": "1273701177482452995",
+      "text": "@olegchir Рантайм флаг будет означать, что этот режим нужно будет тестировать. К тому же, придется включать jemallo… https://t.co/RBYabNJHgx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olegchir",
+            "name": "Chaos Monkey ☄️🧙‍♂️🚀",
+            "id": 79717057,
+            "id_str": "79717057",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RBYabNJHgx",
+            "expanded_url": "https://twitter.com/i/web/status/1273701177482452995",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273693539227050000,
+      "in_reply_to_status_id_str": "1273693539227049986",
+      "in_reply_to_user_id": 79717057,
+      "in_reply_to_user_id_str": "79717057",
+      "in_reply_to_screen_name": "olegchir",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 18 19:37:15 +0000 2020",
+      "id": 1273701326728429600,
+      "id_str": "1273701326728429570",
+      "text": "@olegchir ¯\\_(ツ)_/¯",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olegchir",
+            "name": "Chaos Monkey ☄️🧙‍♂️🚀",
+            "id": 79717057,
+            "id_str": "79717057",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1273693783973118000,
+      "in_reply_to_status_id_str": "1273693783973117953",
+      "in_reply_to_user_id": 79717057,
+      "in_reply_to_user_id_str": "79717057",
+      "in_reply_to_screen_name": "olegchir",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
     }
   ]
 }
