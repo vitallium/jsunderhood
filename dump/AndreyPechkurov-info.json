@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8034,
+  "followers_count": 8036,
   "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -35,47 +35,47 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39671,
+  "statuses_count": 39695,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 18 19:37:15 +0000 2020",
-    "id": 1273701326728429600,
-    "id_str": "1273701326728429570",
-    "text": "@olegchir ¯\\_(ツ)_/¯",
+    "created_at": "Fri Jun 19 12:58:05 +0000 2020",
+    "id": 1273963260992262100,
+    "id_str": "1273963260992262151",
+    "text": "@dima_kanatnikov Нет, process.exit() (для порядка - с ненулевым кодом) достаточно. Ресурсы для завершающегося процесса освободит ОС.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "olegchir",
-          "name": "Chaos Monkey ☄️🧙‍♂️🚀",
-          "id": 79717057,
-          "id_str": "79717057",
+          "screen_name": "dima_kanatnikov",
+          "name": "Dmitrii Kanatnikov",
+          "id": 377901551,
+          "id_str": "377901551",
           "indices": [
             0,
-            9
+            16
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1273693783973118000,
-    "in_reply_to_status_id_str": "1273693783973117953",
-    "in_reply_to_user_id": 79717057,
-    "in_reply_to_user_id_str": "79717057",
-    "in_reply_to_screen_name": "olegchir",
+    "in_reply_to_status_id": 1273960787820916700,
+    "in_reply_to_status_id_str": "1273960787820916736",
+    "in_reply_to_user_id": 377901551,
+    "in_reply_to_user_id_str": "377901551",
+    "in_reply_to_screen_name": "dima_kanatnikov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
