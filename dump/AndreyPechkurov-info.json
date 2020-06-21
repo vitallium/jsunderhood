@@ -26,53 +26,52 @@
     }
   },
   "protected": false,
-  "followers_count": 8036,
+  "followers_count": 8042,
   "friends_count": 552,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4620,
+  "favourites_count": 4622,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39695,
+  "statuses_count": 39702,
   "lang": null,
   "status": {
-    "created_at": "Fri Jun 19 12:58:05 +0000 2020",
-    "id": 1273963260992262100,
-    "id_str": "1273963260992262151",
-    "text": "@dima_kanatnikov Нет, process.exit() (для порядка - с ненулевым кодом) достаточно. Ресурсы для завершающегося процесса освободит ОС.",
-    "truncated": false,
+    "created_at": "Sat Jun 20 08:30:22 +0000 2020",
+    "id": 1274258276377559000,
+    "id_str": "1274258276377559041",
+    "text": "Наконец, если у вас есть идея по улучшению core APIs, советую сначала поискать в старых issue и PR'ах, а потом созд… https://t.co/M1sEoCvOnv",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "dima_kanatnikov",
-          "name": "Dmitrii Kanatnikov",
-          "id": 377901551,
-          "id_str": "377901551",
+          "url": "https://t.co/M1sEoCvOnv",
+          "expanded_url": "https://twitter.com/i/web/status/1274258276377559041",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            16
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1273960787820916700,
-    "in_reply_to_status_id_str": "1273960787820916736",
-    "in_reply_to_user_id": 377901551,
-    "in_reply_to_user_id_str": "377901551",
-    "in_reply_to_screen_name": "dima_kanatnikov",
+    "in_reply_to_status_id": 1274258274746011600,
+    "in_reply_to_status_id_str": "1274258274746011648",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
