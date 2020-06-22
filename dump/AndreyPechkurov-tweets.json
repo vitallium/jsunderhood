@@ -5561,6 +5561,398 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 07:06:38 +0000 2020",
+      "id": 1274599591606919200,
+      "id_str": "1274599591606919168",
+      "text": "Неделя заканчивается и я предлагаю внести чуть больше интерактива в наше общение. Что вы хотели бы изменить или добавить в Node.js core?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 08:26:53 +0000 2020",
+      "id": 1274619788044767200,
+      "id_str": "1274619788044767234",
+      "text": "@subzey Динамическое изменение подобных параметров ведет к куче edge case'ов. Например, что если текущий размер old… https://t.co/0PoIsqw9q9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subzey",
+            "name": "subzey",
+            "id": 161396680,
+            "id_str": "161396680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0PoIsqw9q9",
+            "expanded_url": "https://twitter.com/i/web/status/1274619788044767234",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274606007889596400,
+      "in_reply_to_status_id_str": "1274606007889596416",
+      "in_reply_to_user_id": 161396680,
+      "in_reply_to_user_id_str": "161396680",
+      "in_reply_to_screen_name": "subzey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 10:42:48 +0000 2020",
+      "id": 1274653992413528000,
+      "id_str": "1274653992413528064",
+      "text": "@theKashey Не слышал про какие-то новости, связанные с этими проектами. Учитывая нативную поддержку async/await и г… https://t.co/PoXvZr6C28",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "theKashey",
+            "name": "Anton Korzunov",
+            "id": 97456304,
+            "id_str": "97456304",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PoXvZr6C28",
+            "expanded_url": "https://twitter.com/i/web/status/1274653992413528064",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274605345998954500,
+      "in_reply_to_status_id_str": "1274605345998954502",
+      "in_reply_to_user_id": 97456304,
+      "in_reply_to_user_id_str": "97456304",
+      "in_reply_to_screen_name": "theKashey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 10:47:27 +0000 2020",
+      "id": 1274655161072435200,
+      "id_str": "1274655161072435206",
+      "text": "@ambrvngameover В куче есть несколько областей (new/old gen, large object space и т.д.). Именно общий размер кучи о… https://t.co/nPJm3kUwvZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ambrvngameover",
+            "name": "bombarda maxima",
+            "id": 2387560548,
+            "id_str": "2387560548",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nPJm3kUwvZ",
+            "expanded_url": "https://twitter.com/i/web/status/1274655161072435206",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274652797112328200,
+      "in_reply_to_status_id_str": "1274652797112328192",
+      "in_reply_to_user_id": 2387560548,
+      "in_reply_to_user_id_str": "2387560548",
+      "in_reply_to_screen_name": "ambrvngameover",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 12:28:44 +0000 2020",
+      "id": 1274680650453454800,
+      "id_str": "1274680650453454854",
+      "text": "@bardadymchik Обсуждение и кое-какие работы в этом направлении ведутся давно. Вот тут можно почитать подробности:\nhttps://t.co/qyJtIfV4pn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bardadymchik",
+            "name": "den bardadym",
+            "id": 105885792,
+            "id_str": "105885792",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qyJtIfV4pn",
+            "expanded_url": "https://github.com/nodejs/node/issues/19393",
+            "display_url": "github.com/nodejs/node/is…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274676446229864400,
+      "in_reply_to_status_id_str": "1274676446229864449",
+      "in_reply_to_user_id": 105885792,
+      "in_reply_to_user_id_str": "105885792",
+      "in_reply_to_screen_name": "bardadymchik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 15:15:56 +0000 2020",
+      "id": 1274722727484629000,
+      "id_str": "1274722727484628997",
+      "text": "@subzey В свежих версиях coreutils вроде бы можно написать что-то вроде #/usr/bin/env -S node --max-old-space-size=… https://t.co/YOUn9YEk8e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subzey",
+            "name": "subzey",
+            "id": 161396680,
+            "id_str": "161396680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YOUn9YEk8e",
+            "expanded_url": "https://twitter.com/i/web/status/1274722727484628997",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274693609833496600,
+      "in_reply_to_status_id_str": "1274693609833496577",
+      "in_reply_to_user_id": 161396680,
+      "in_reply_to_user_id_str": "161396680",
+      "in_reply_to_screen_name": "subzey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jun 21 17:30:33 +0000 2020",
+      "id": 1274756605310120000,
+      "id_str": "1274756605310119938",
+      "text": "@subzey Хороший вопрос. В сочетании с pointer compression в обязательном дефолтном значении этого лимита смысл есть… https://t.co/g4m8Do6YNN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subzey",
+            "name": "subzey",
+            "id": 161396680,
+            "id_str": "161396680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g4m8Do6YNN",
+            "expanded_url": "https://twitter.com/i/web/status/1274756605310119938",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274739372974317600,
+      "in_reply_to_status_id_str": "1274739372974317570",
+      "in_reply_to_user_id": 161396680,
+      "in_reply_to_user_id_str": "161396680",
+      "in_reply_to_screen_name": "subzey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 17:32:31 +0000 2020",
+      "id": 1274757100326072300,
+      "id_str": "1274757100326072320",
+      "text": "Неделя пролетела быстро. Надеюсь, вам общение показалось таким же интересным, как и мне. Всем пока!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
