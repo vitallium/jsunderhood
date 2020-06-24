@@ -26,45 +26,75 @@
     }
   },
   "protected": false,
-  "followers_count": 8045,
+  "followers_count": 8052,
   "friends_count": 552,
-  "listed_count": 239,
+  "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4645,
+  "favourites_count": 4637,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39768,
+  "statuses_count": 39733,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 23 21:40:02 +0000 2020",
-    "id": 1275544165875662800,
-    "id_str": "1275544165875662848",
-    "text": "И мне не надо никуда ехать ;)",
+    "created_at": "Mon Jun 22 20:42:58 +0000 2020",
+    "id": 1275167415920480300,
+    "id_str": "1275167415920480257",
+    "text": "Сегодня походил по залам #HolyJS. Dario зажег! https://t.co/nxFsNsq5Dr\n@hardkoded, thx for your inspiring talk!",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "HolyJS",
+          "indices": [
+            25,
+            32
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "hardkoded",
+          "name": "Dario Kondratiuk",
+          "id": 905512466339287000,
+          "id_str": "905512466339287040",
+          "indices": [
+            71,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nxFsNsq5Dr",
+          "expanded_url": "https://holyjs-piter.ru/2020/spb/talks/3zo8mjwlpmzqhnneegfshz/",
+          "display_url": "holyjs-piter.ru/2020/spb/talks…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1275544164554412000,
-    "in_reply_to_status_id_str": "1275544164554412035",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
