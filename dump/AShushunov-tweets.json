@@ -6681,6 +6681,1399 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:22:05 +0000 2020",
+      "id": 1276415419310538800,
+      "id_str": "1276415419310538752",
+      "text": "@artalar_dev @mr_mig_by Плюсую за стримы. Промисы же добавили, а стримы это следующий шаг.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artalar_dev",
+            "name": "artalar",
+            "id": 967976754890657800,
+            "id_str": "967976754890657792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276409115741470700,
+      "in_reply_to_status_id_str": "1276409115741470720",
+      "in_reply_to_user_id": 967976754890657800,
+      "in_reply_to_user_id_str": "967976754890657792",
+      "in_reply_to_screen_name": "artalar_dev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:32:25 +0000 2020",
+      "id": 1276418021725286400,
+      "id_str": "1276418021725286400",
+      "text": "@vdmkrchkn Вью знает верхнеуровнево, что нужно сделать.\n\"Добавить в корзину\". А как это сделать: сходить на сервер,… https://t.co/XobgL0SMxF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vdmkrchkn",
+            "name": "Вадим Курочкин",
+            "id": 1113860353,
+            "id_str": "1113860353",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XobgL0SMxF",
+            "expanded_url": "https://twitter.com/i/web/status/1276418021725286400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276384411022504000,
+      "in_reply_to_status_id_str": "1276384411022503941",
+      "in_reply_to_user_id": 1113860353,
+      "in_reply_to_user_id_str": "1113860353",
+      "in_reply_to_screen_name": "vdmkrchkn",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:34:55 +0000 2020",
+      "id": 1276418651734843400,
+      "id_str": "1276418651734843393",
+      "text": "@_sergeysova К сожалению, нам придется писать логику в терминах эффектора.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeysova",
+            "name": "Sergey Sova 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276337895327117300,
+      "in_reply_to_status_id_str": "1276337895327117312",
+      "in_reply_to_user_id": 1869144025,
+      "in_reply_to_user_id_str": "1869144025",
+      "in_reply_to_screen_name": "_sergeysova",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:44:05 +0000 2020",
+      "id": 1276420956232302600,
+      "id_str": "1276420956232302592",
+      "text": "Тут в бесконечных тредах возник вопрос. Что считать Бизнес Логикой? \nУ меня есть требование: \"Список по умолчанию о… https://t.co/AfozsUeExu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AfozsUeExu",
+            "expanded_url": "https://twitter.com/i/web/status/1276420956232302592",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:55:15 +0000 2020",
+      "id": 1276423768475406300,
+      "id_str": "1276423768475406336",
+      "text": "@shuvalov_js Беда. Цифра 5 тоже часть требований. А вы зашили это в компонент.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276422132537233400,
+      "in_reply_to_status_id_str": "1276422132537233408",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 07:57:20 +0000 2020",
+      "id": 1276424291857416200,
+      "id_str": "1276424291857416194",
+      "text": "@_sergeysova В этом и вопрос. Хочется на чистом, а можно ли?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeysova",
+            "name": "Sergey Sova 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276419693528723500,
+      "in_reply_to_status_id_str": "1276419693528723458",
+      "in_reply_to_user_id": 1869144025,
+      "in_reply_to_user_id_str": "1869144025",
+      "in_reply_to_screen_name": "_sergeysova",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:03:41 +0000 2020",
+      "id": 1276425888800931800,
+      "id_str": "1276425888800931851",
+      "text": "@argent_smith Это UX. Но проводят A/B тест и выясняют, что это поведение дают +0,2% конверсии. Это превращается в ж… https://t.co/yVMIOAzBY3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "argent_smith",
+            "name": "Павел Аргентов",
+            "id": 191709625,
+            "id_str": "191709625",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yVMIOAzBY3",
+            "expanded_url": "https://twitter.com/i/web/status/1276425888800931851",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276424027536531500,
+      "in_reply_to_status_id_str": "1276424027536531457",
+      "in_reply_to_user_id": 191709625,
+      "in_reply_to_user_id_str": "191709625",
+      "in_reply_to_screen_name": "argent_smith",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:07:00 +0000 2020",
+      "id": 1276426725665263600,
+      "id_str": "1276426725665263617",
+      "text": "@shuvalov_js Там же прямо в вертске написана цифра 5?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276425662731976700,
+      "in_reply_to_status_id_str": "1276425662731976705",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:09:00 +0000 2020",
+      "id": 1276427226809077800,
+      "id_str": "1276427226809077761",
+      "text": "@amel_true Требование - что отражается 5 или все. Это БЛ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276426183886995500,
+      "in_reply_to_status_id_str": "1276426183886995457",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:10:41 +0000 2020",
+      "id": 1276427649053855700,
+      "id_str": "1276427649053855744",
+      "text": "@shuvalov_js А теперь усложним задачку. Нужно отображать первые пять и те, которые участвуют в акции.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276427078737342500,
+      "in_reply_to_status_id_str": "1276427078737342465",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:14:39 +0000 2020",
+      "id": 1276428647486890000,
+      "id_str": "1276428647486889984",
+      "text": "@shuvalov_js В компонентах вообще не должно быть логики. Просто список, того, что отображаем. И признак раскрытости… https://t.co/97YSPKfBCQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/97YSPKfBCQ",
+            "expanded_url": "https://twitter.com/i/web/status/1276428647486889984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276427649053855700,
+      "in_reply_to_status_id_str": "1276427649053855744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:16:48 +0000 2020",
+      "id": 1276429192180174800,
+      "id_str": "1276429192180174848",
+      "text": "@amel_true Я бы переименовал ExpandAllIfOneSelected в просто  expandAll. Так наш лист поглупел и потерял ненужное знание о домене.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276428111731712000,
+      "in_reply_to_status_id_str": "1276428111731712000",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:23:34 +0000 2020",
+      "id": 1276430894258159600,
+      "id_str": "1276430894258159616",
+      "text": "@shuvalov_js Я топлю за то, что бы в представлении не была зашита подобная логика.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276429239177277400,
+      "in_reply_to_status_id_str": "1276429239177277440",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:24:32 +0000 2020",
+      "id": 1276431134734332000,
+      "id_str": "1276431134734331904",
+      "text": "А если усложнить задачку? Нужно отображать первые пять и те, которые участвуют сегодня в акции.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276420956232302600,
+      "in_reply_to_status_id_str": "1276420956232302592",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:33:40 +0000 2020",
+      "id": 1276433434789937200,
+      "id_str": "1276433434789937156",
+      "text": "@shuvalov_js Вопрос вырос из того, что писать или не писать в компонентах. Для меня тут все слилось )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Архетипический Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276431231714918400,
+      "in_reply_to_status_id_str": "1276431231714918400",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 08:39:27 +0000 2020",
+      "id": 1276434889173237800,
+      "id_str": "1276434889173237760",
+      "text": "@ValeriyDyachen1 То же доклад Michel Weststrate впечатлил?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ValeriyDyachen1",
+            "name": "Valeriy Dyachenko",
+            "id": 1260464562412884000,
+            "id_str": "1260464562412883969",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276434014816141300,
+      "in_reply_to_status_id_str": "1276434014816141312",
+      "in_reply_to_user_id": 1260464562412884000,
+      "in_reply_to_user_id_str": "1260464562412883969",
+      "in_reply_to_screen_name": "ValeriyDyachen1",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Jun 26 10:45:40 +0000 2020",
+      "id": 1276466652918538200,
+      "id_str": "1276466652918538240",
+      "text": "@_jin_nin_ Потому что эта логика быстро растет. И держать ее компоненте становиться больно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276456991960023000,
+      "in_reply_to_status_id_str": "1276456991960023040",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 10:54:08 +0000 2020",
+      "id": 1276468786040844300,
+      "id_str": "1276468786040844288",
+      "text": "@PaulMaly @ValeriyDyachen1 @PaulMaly,  https://t.co/akCVc78czc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PaulMaly",
+            "name": "Paul Maly",
+            "id": 327273678,
+            "id_str": "327273678",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "ValeriyDyachen1",
+            "name": "Valeriy Dyachenko",
+            "id": 1260464562412884000,
+            "id_str": "1260464562412883969",
+            "indices": [
+              10,
+              26
+            ]
+          },
+          {
+            "screen_name": "PaulMaly",
+            "name": "Paul Maly",
+            "id": 327273678,
+            "id_str": "327273678",
+            "indices": [
+              27,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/akCVc78czc",
+            "expanded_url": "https://www.youtube.com/watch?v=3J9EJrvqOiM",
+            "display_url": "youtube.com/watch?v=3J9EJr…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276467327442342000,
+      "in_reply_to_status_id_str": "1276467327442341888",
+      "in_reply_to_user_id": 327273678,
+      "in_reply_to_user_id_str": "327273678",
+      "in_reply_to_screen_name": "PaulMaly",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Jun 26 11:26:51 +0000 2020",
+      "id": 1276477018633355300,
+      "id_str": "1276477018633355266",
+      "text": "Вопрос про то, куда пихать логику не праздный. Мне досталась системе, где такие правила были разбросаны по компонен… https://t.co/zMTxR1UOX0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zMTxR1UOX0",
+            "expanded_url": "https://twitter.com/i/web/status/1276477018633355266",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:26:52 +0000 2020",
+      "id": 1276477019937800200,
+      "id_str": "1276477019937800192",
+      "text": "Каждый раз, реализации перетекали в отдельные функции и вышестоящие компоненты. В один момент я просто не смог сдел… https://t.co/g4FuigzsFw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g4FuigzsFw",
+            "expanded_url": "https://twitter.com/i/web/status/1276477019937800192",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276477018633355300,
+      "in_reply_to_status_id_str": "1276477018633355266",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:29:27 +0000 2020",
+      "id": 1276477674140074000,
+      "id_str": "1276477674140073984",
+      "text": "@amel_true @Oleg75113370 Кто про что, а Андрей про бек )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Oleg75113370",
+            "name": "Oleg",
+            "id": 1168070769294942200,
+            "id_str": "1168070769294942208",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276477389023871000,
+      "in_reply_to_status_id_str": "1276477389023870979",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:35:12 +0000 2020",
+      "id": 1276479120810049500,
+      "id_str": "1276479120810049537",
+      "text": "@amel_true @Oleg75113370 Но приходят и говорят, вам тут 5 мин а у бека беклог на год вперед расписан )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Oleg75113370",
+            "name": "Oleg",
+            "id": 1168070769294942200,
+            "id_str": "1168070769294942208",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276478182372397000,
+      "in_reply_to_status_id_str": "1276478182372397058",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:36:58 +0000 2020",
+      "id": 1276479561908269000,
+      "id_str": "1276479561908269056",
+      "text": "Кто сегодня идет смотреть на братюню (@rm_baad) из Фронтенд Юности (@frontend_u)? Описание попахивает аспектами, дж… https://t.co/79lMoBMfHZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rm_baad",
+            "name": "R.M.",
+            "id": 15205824,
+            "id_str": "15205824",
+            "indices": [
+              38,
+              46
+            ]
+          },
+          {
+            "screen_name": "frontend_u",
+            "name": "Фронтенд Юность",
+            "id": 862650785942908900,
+            "id_str": "862650785942908928",
+            "indices": [
+              68,
+              79
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/79lMoBMfHZ",
+            "expanded_url": "https://twitter.com/i/web/status/1276479561908269056",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:40:36 +0000 2020",
+      "id": 1276480478409826300,
+      "id_str": "1276480478409826309",
+      "text": "Там еще эксперт огненный! Михаил (@SaitoNakamura) как-то в баре! мне показывал код получения типов и что с этим можно делать )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SaitoNakamura",
+            "name": "Michael Bashurov",
+            "id": 173252293,
+            "id_str": "173252293",
+            "indices": [
+              34,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276479561908269000,
+      "in_reply_to_status_id_str": "1276479561908269056",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 11:56:31 +0000 2020",
+      "id": 1276484482036613000,
+      "id_str": "1276484482036613121",
+      "text": "@shaukote А какие, например?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shaukote",
+            "name": "Шаукат Амирханов",
+            "id": 383727783,
+            "id_str": "383727783",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276253934122754000,
+      "in_reply_to_status_id_str": "1276253934122754048",
+      "in_reply_to_user_id": 383727783,
+      "in_reply_to_user_id_str": "383727783",
+      "in_reply_to_screen_name": "shaukote",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 14:29:45 +0000 2020",
+      "id": 1276523044958285800,
+      "id_str": "1276523044958285824",
+      "text": "@_jin_nin_ Как бы не прийти к прокидывание проводов от трансформатора прямо к конфорке. Зачем рубильники, розетки,… https://t.co/G61zB4I1he",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/G61zB4I1he",
+            "expanded_url": "https://twitter.com/i/web/status/1276523044958285824",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276513995554513000,
+      "in_reply_to_status_id_str": "1276513995554512896",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 15:36:56 +0000 2020",
+      "id": 1276539954806558700,
+      "id_str": "1276539954806558720",
+      "text": "@Anton__Ryazanov Почему не бизнес? За этим числом 7 стоит исследование, AB тестирование и т.д. Требования для дизай… https://t.co/zE8azw8GUH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Anton__Ryazanov",
+            "name": "Anton Ryazanov",
+            "id": 1023327098822373400,
+            "id_str": "1023327098822373376",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zE8azw8GUH",
+            "expanded_url": "https://twitter.com/i/web/status/1276539954806558720",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276532805896413200,
+      "in_reply_to_status_id_str": "1276532805896413187",
+      "in_reply_to_user_id": 1023327098822373400,
+      "in_reply_to_user_id_str": "1023327098822373376",
+      "in_reply_to_screen_name": "Anton__Ryazanov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 15:46:31 +0000 2020",
+      "id": 1276542366262976500,
+      "id_str": "1276542366262976512",
+      "text": "@Anton__Ryazanov Оно настолько сложное, что это отдельная логика. Я уже боюсь называть ее бизнес )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Anton__Ryazanov",
+            "name": "Anton Ryazanov",
+            "id": 1023327098822373400,
+            "id_str": "1023327098822373376",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276540233899786200,
+      "in_reply_to_status_id_str": "1276540233899786240",
+      "in_reply_to_user_id": 1023327098822373400,
+      "in_reply_to_user_id_str": "1023327098822373376",
+      "in_reply_to_screen_name": "Anton__Ryazanov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 17:13:38 +0000 2020",
+      "id": 1276564286903648300,
+      "id_str": "1276564286903648256",
+      "text": "Классное у нас обсуждение получилось. Может я и не так употребляю термин Бизнес Логика, но опрос показал, что больш… https://t.co/ru7Nl2ISt6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ru7Nl2ISt6",
+            "expanded_url": "https://twitter.com/i/web/status/1276564286903648256",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
