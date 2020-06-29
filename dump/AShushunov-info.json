@@ -26,53 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8052,
+  "followers_count": 8055,
   "friends_count": 551,
-  "listed_count": 239,
+  "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4708,
+  "favourites_count": 4739,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39882,
+  "statuses_count": 39939,
   "lang": null,
   "status": {
-    "created_at": "Sat Jun 27 05:24:27 +0000 2020",
-    "id": 1276748203392741400,
-    "id_str": "1276748203392741378",
-    "text": "@rndtechpro Оптимистичная оценка )",
-    "truncated": false,
+    "created_at": "Sun Jun 28 20:57:49 +0000 2020",
+    "id": 1277345483967651800,
+    "id_str": "1277345483967651840",
+    "text": "Через 3 мин закончится моя неделя в @jsunderhood. Спасибо за ваши реакции и ответы. Надеюсь было интересно. А кто-т… https://t.co/JVgALY26Jw",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "rndtechpro",
-          "name": "IT-сообщество Ростова",
-          "id": 1214270112162672600,
-          "id_str": "1214270112162672640",
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            0,
-            11
+            36,
+            48
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/JVgALY26Jw",
+          "expanded_url": "https://twitter.com/i/web/status/1277345483967651840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1276681172039471000,
-    "in_reply_to_status_id_str": "1276681172039471104",
-    "in_reply_to_user_id": 1214270112162672600,
-    "in_reply_to_user_id_str": "1214270112162672640",
-    "in_reply_to_screen_name": "rndtechpro",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
