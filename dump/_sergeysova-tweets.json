@@ -63,6 +63,1324 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:15:20 +0000 2020",
+      "id": 1277515984501461000,
+      "id_str": "1277515984501460992",
+      "text": "Давайте начнем с вопроса. Что такое архитектура фронтенда? Это как директории называются? Правила взаимного импорта… https://t.co/stYFPKjYta",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/stYFPKjYta",
+            "expanded_url": "https://twitter.com/i/web/status/1277515984501460992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 47,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:30:40 +0000 2020",
+      "id": 1277519845110792200,
+      "id_str": "1277519845110792192",
+      "text": "@dskr_dev @davert Надеюсь облегчить вашу боль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dskr_dev",
+            "name": "Дмитрий Скрыльников",
+            "id": 727617706665594900,
+            "id_str": "727617706665594882",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "davert",
+            "name": "davert",
+            "id": 17285085,
+            "id_str": "17285085",
+            "indices": [
+              10,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277518784807436300,
+      "in_reply_to_status_id_str": "1277518784807436288",
+      "in_reply_to_user_id": 727617706665594900,
+      "in_reply_to_user_id_str": "727617706665594882",
+      "in_reply_to_screen_name": "dskr_dev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:32:17 +0000 2020",
+      "id": 1277520250238644200,
+      "id_str": "1277520250238644225",
+      "text": "@frolovdev Потому что ещё нет хорошего способа разложить весь код. Все раскладывают \"по папочкам\", а надо бы думать… https://t.co/vKNOxfXPcZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vKNOxfXPcZ",
+            "expanded_url": "https://twitter.com/i/web/status/1277520250238644225",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277518704939581400,
+      "in_reply_to_status_id_str": "1277518704939581440",
+      "in_reply_to_user_id": 942479446312996900,
+      "in_reply_to_user_id_str": "942479446312996865",
+      "in_reply_to_screen_name": "frolovdev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:33:59 +0000 2020",
+      "id": 1277520679706005500,
+      "id_str": "1277520679706005504",
+      "text": "@frolovdev Начнем с того, что далеко не все используют флет. Можно посмотреть на другие языки, вроде джавы, плюсов,… https://t.co/YUwlAaEoZj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YUwlAaEoZj",
+            "expanded_url": "https://twitter.com/i/web/status/1277520679706005504",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277520097104613400,
+      "in_reply_to_status_id_str": "1277520097104613377",
+      "in_reply_to_user_id": 942479446312996900,
+      "in_reply_to_user_id_str": "942479446312996865",
+      "in_reply_to_screen_name": "frolovdev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:44:46 +0000 2020",
+      "id": 1277523392346931200,
+      "id_str": "1277523392346931201",
+      "text": "Почему меня вообще беспокоит архитектура и структура проекта? Начну с того, что \"хорошая\" структура вносит ясность.… https://t.co/eKDbqgXOzZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eKDbqgXOzZ",
+            "expanded_url": "https://twitter.com/i/web/status/1277523392346931201",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277515984501461000,
+      "in_reply_to_status_id_str": "1277515984501460992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:44:46 +0000 2020",
+      "id": 1277523393693266000,
+      "id_str": "1277523393693265930",
+      "text": "С архитектурой сложнее, ведь она про отношение сущностей вашего проекта. Как выстроить зависимости между сущностями… https://t.co/Eoyue2G9Y5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Eoyue2G9Y5",
+            "expanded_url": "https://twitter.com/i/web/status/1277523393693265930",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277523392346931200,
+      "in_reply_to_status_id_str": "1277523392346931201",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:44:47 +0000 2020",
+      "id": 1277523395056451600,
+      "id_str": "1277523395056451584",
+      "text": "Если со структурой все примерно понятно — описал конвенции в README, накинул правила в eslint и dependency-cruiser,… https://t.co/JYKQuf41pu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JYKQuf41pu",
+            "expanded_url": "https://twitter.com/i/web/status/1277523395056451584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277523393693266000,
+      "in_reply_to_status_id_str": "1277523393693265930",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:44:47 +0000 2020",
+      "id": 1277523396415324200,
+      "id_str": "1277523396415324161",
+      "text": "И если погрузиться чуть глубже, то скорее всего такой линтер и не получится создать. Архитектура это какой-то страш… https://t.co/KN724yS7ti",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KN724yS7ti",
+            "expanded_url": "https://twitter.com/i/web/status/1277523396415324161",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277523395056451600,
+      "in_reply_to_status_id_str": "1277523395056451584",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:44:47 +0000 2020",
+      "id": 1277523397749223400,
+      "id_str": "1277523397749223425",
+      "text": "Мне это напоминает стопку сбалансированных камней. Только архитектор может удерживать проект в устойчивом положении… https://t.co/wa4nYW1GeO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wa4nYW1GeO",
+            "expanded_url": "https://twitter.com/i/web/status/1277523397749223425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277523396415324200,
+      "in_reply_to_status_id_str": "1277523396415324161",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 08:55:18 +0000 2020",
+      "id": 1277526041284825000,
+      "id_str": "1277526041284825088",
+      "text": "@artalar_dev @frolovdev на счет плагинов не знаю, но есть madge и dependency-cruiser",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artalar_dev",
+            "name": "artalar",
+            "id": 967976754890657800,
+            "id_str": "967976754890657792",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              13,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277525887601254400,
+      "in_reply_to_status_id_str": "1277525887601254400",
+      "in_reply_to_user_id": 967976754890657800,
+      "in_reply_to_user_id_str": "967976754890657792",
+      "in_reply_to_screen_name": "artalar_dev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 29 09:04:30 +0000 2020",
+      "id": 1277528357127819300,
+      "id_str": "1277528357127819266",
+      "text": "@frolovdev Когда проект сложный, сущностей много, отношений между сущностями тоже много, то тут как бы ты ни хотел,… https://t.co/0tZqDdm6ic",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0tZqDdm6ic",
+            "expanded_url": "https://twitter.com/i/web/status/1277528357127819266",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277528062893187000,
+      "in_reply_to_status_id_str": "1277528062893187073",
+      "in_reply_to_user_id": 942479446312996900,
+      "in_reply_to_user_id_str": "942479446312996865",
+      "in_reply_to_screen_name": "frolovdev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 09:11:47 +0000 2020",
+      "id": 1277530191225651200,
+      "id_str": "1277530191225651202",
+      "text": "@frolovdev Разумеется не мапят. Потому что типы проектов сильно отличаются.\n\nЭто как сравнивать структуру проекта н… https://t.co/C4bfuF0zQ8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/C4bfuF0zQ8",
+            "expanded_url": "https://twitter.com/i/web/status/1277530191225651202",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277529597886767000,
+      "in_reply_to_status_id_str": "1277529597886767104",
+      "in_reply_to_user_id": 942479446312996900,
+      "in_reply_to_user_id_str": "942479446312996865",
+      "in_reply_to_screen_name": "frolovdev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 09:16:10 +0000 2020",
+      "id": 1277531291974611000,
+      "id_str": "1277531291974610944",
+      "text": "@frolovdev Например, тот же Rust. https://t.co/EGPzf3KahK — имеем весьма глубокую вложенность.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EGPzf3KahK",
+            "expanded_url": "https://github.com/rust-lang/rust/tree/master/src/libstd/sys/unix/process",
+            "display_url": "github.com/rust-lang/rust…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277530132446621700,
+      "in_reply_to_status_id_str": "1277530132446621697",
+      "in_reply_to_user_id": 942479446312996900,
+      "in_reply_to_user_id_str": "942479446312996865",
+      "in_reply_to_screen_name": "frolovdev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:45 +0000 2020",
+      "id": 1277543522325991400,
+      "id_str": "1277543522325991424",
+      "text": "Когда проект начинается, сразу раскладывать по какой-то сложной структуре вообще не хочется. Кажется, что это слишк… https://t.co/T7vhA3wlCX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T7vhA3wlCX",
+            "expanded_url": "https://twitter.com/i/web/status/1277543522325991424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:46 +0000 2020",
+      "id": 1277543523831689200,
+      "id_str": "1277543523831689217",
+      "text": "Проект растет и растет количество кода, вместе с директориями и файлами. Если не  вводить четкой структуры проекта… https://t.co/ioFDgNtZAc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ioFDgNtZAc",
+            "expanded_url": "https://twitter.com/i/web/status/1277543523831689217",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543522325991400,
+      "in_reply_to_status_id_str": "1277543522325991424",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:46 +0000 2020",
+      "id": 1277543525417209900,
+      "id_str": "1277543525417209859",
+      "text": "Проблема в изменении существующего кода, ведь найти все возникшие дубликаты и использование функций/компонентов буд… https://t.co/PVFU6wzjb6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PVFU6wzjb6",
+            "expanded_url": "https://twitter.com/i/web/status/1277543525417209859",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543523831689200,
+      "in_reply_to_status_id_str": "1277543523831689217",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:47 +0000 2020",
+      "id": 1277543527006732300,
+      "id_str": "1277543527006732288",
+      "text": "Но постой-ка Сова, напишете вы, Чистая архитектура Мартина советует выстроить проект таким образом, чтобы любая нов… https://t.co/25i8nGgZII",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/25i8nGgZII",
+            "expanded_url": "https://twitter.com/i/web/status/1277543527006732288",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543525417209900,
+      "in_reply_to_status_id_str": "1277543525417209859",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:47 +0000 2020",
+      "id": 1277543528533557200,
+      "id_str": "1277543528533557248",
+      "text": "Но давайте вспомним что мы живем в реальном мире, хоть минимальные, но изменения придется внести в кодовую базу. Пе… https://t.co/RXWLeij1uY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RXWLeij1uY",
+            "expanded_url": "https://twitter.com/i/web/status/1277543528533557248",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543527006732300,
+      "in_reply_to_status_id_str": "1277543527006732288",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:47 +0000 2020",
+      "id": 1277543530131587000,
+      "id_str": "1277543530131587073",
+      "text": "Здесь архитектура и структура проекта играет ключевую роль. Архитектура позволяет выстроить взаимодействие высокоур… https://t.co/KUXIwCivss",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KUXIwCivss",
+            "expanded_url": "https://twitter.com/i/web/status/1277543530131587073",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543528533557200,
+      "in_reply_to_status_id_str": "1277543528533557248",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:04:48 +0000 2020",
+      "id": 1277543531763183600,
+      "id_str": "1277543531763183624",
+      "text": "Разумеется придется изучить архитектуру и структуру выбранную в проекте, чтобы понимание стало интуитивным. А если… https://t.co/8HaWzr9t1u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8HaWzr9t1u",
+            "expanded_url": "https://twitter.com/i/web/status/1277543531763183624",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277543530131587000,
+      "in_reply_to_status_id_str": "1277543530131587073",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 10:24:01 +0000 2020",
+      "id": 1277548367321727000,
+      "id_str": "1277548367321726977",
+      "text": "@nzvtrk @_sergeysova @REDMADROBOT https://t.co/dfosU6jJ5R",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nzvtrk",
+            "name": "Artur",
+            "id": 984173250572881900,
+            "id_str": "984173250572881921",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "_sergeysova",
+            "name": "Sergey Sova 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              8,
+              20
+            ]
+          },
+          {
+            "screen_name": "REDMADROBOT",
+            "name": "Redmadrobot",
+            "id": 94827593,
+            "id_str": "94827593",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dfosU6jJ5R",
+            "expanded_url": "https://t.me/why_jwt_is_bad",
+            "display_url": "t.me/why_jwt_is_bad",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277547990257930200,
+      "in_reply_to_status_id_str": "1277547990257930240",
+      "in_reply_to_user_id": 984173250572881900,
+      "in_reply_to_user_id_str": "984173250572881921",
+      "in_reply_to_screen_name": "nzvtrk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 29 11:11:03 +0000 2020",
+      "id": 1277560203400142800,
+      "id_str": "1277560203400142849",
+      "text": "@forshtreter В этом есть правда. Но увы не строить архитектуру не выход.\n\nВыход — документировать архитектуру, проц… https://t.co/2nOpTA2qam",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "forshtreter",
+            "name": "Арсений Форштретер",
+            "id": 10912732,
+            "id_str": "10912732",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2nOpTA2qam",
+            "expanded_url": "https://twitter.com/i/web/status/1277560203400142849",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277558682381889500,
+      "in_reply_to_status_id_str": "1277558682381889536",
+      "in_reply_to_user_id": 10912732,
+      "in_reply_to_user_id_str": "10912732",
+      "in_reply_to_screen_name": "forshtreter",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 11:12:41 +0000 2020",
+      "id": 1277560615033286700,
+      "id_str": "1277560615033286656",
+      "text": "@forshtreter Архитектор это крайне ответственный человек, который не может уволиться просто так. Всегда нужно кому-… https://t.co/5GXKfzuXQg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "forshtreter",
+            "name": "Арсений Форштретер",
+            "id": 10912732,
+            "id_str": "10912732",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5GXKfzuXQg",
+            "expanded_url": "https://twitter.com/i/web/status/1277560615033286656",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277560203400142800,
+      "in_reply_to_status_id_str": "1277560203400142849",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 11:18:20 +0000 2020",
+      "id": 1277562036839424000,
+      "id_str": "1277562036839424002",
+      "text": "@vfurso Круто, что к этому постепенно приходят во взрослой экосистеме. Вижу, что проект достаточно молодой. Но это… https://t.co/viA8OoVIaT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vfurso",
+            "name": "Uladzimir Furso",
+            "id": 30935625,
+            "id_str": "30935625",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/viA8OoVIaT",
+            "expanded_url": "https://twitter.com/i/web/status/1277562036839424002",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277561501495296000,
+      "in_reply_to_status_id_str": "1277561501495296000",
+      "in_reply_to_user_id": 30935625,
+      "in_reply_to_user_id_str": "30935625",
+      "in_reply_to_screen_name": "vfurso",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 11:22:10 +0000 2020",
+      "id": 1277563001172828200,
+      "id_str": "1277563001172828161",
+      "text": "@AndersDeath Спасибо. Можешь скинуть ссылку на полезные статьи на тему. Думаю, мне и другим будет важно обновить знания",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndersDeath",
+            "name": "Vladimir Bolshakov",
+            "id": 213701687,
+            "id_str": "213701687",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1277562371737862100,
+      "in_reply_to_status_id_str": "1277562371737862144",
+      "in_reply_to_user_id": 213701687,
+      "in_reply_to_user_id_str": "213701687",
+      "in_reply_to_screen_name": "AndersDeath",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 11:33:34 +0000 2020",
+      "id": 1277565872580804600,
+      "id_str": "1277565872580804608",
+      "text": "@forshtreter Согласен. Но в то же время, я думаю, что никто кроме архитектора не может контроллировать развитие и и… https://t.co/TjZJfzuBar",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "forshtreter",
+            "name": "Арсений Форштретер",
+            "id": 10912732,
+            "id_str": "10912732",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TjZJfzuBar",
+            "expanded_url": "https://twitter.com/i/web/status/1277565872580804608",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277563674614476800,
+      "in_reply_to_status_id_str": "1277563674614476807",
+      "in_reply_to_user_id": 10912732,
+      "in_reply_to_user_id_str": "10912732",
+      "in_reply_to_screen_name": "forshtreter",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 29 13:00:26 +0000 2020",
+      "id": 1277587731519099000,
+      "id_str": "1277587731519098883",
+      "text": "@somerandstring Так фронтенд это не только браузер",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "somerandstring",
+            "name": "Ivan Dmitriev",
+            "id": 28786967,
+            "id_str": "28786967",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277584621614567400,
+      "in_reply_to_status_id_str": "1277584621614567424",
+      "in_reply_to_user_id": 28786967,
+      "in_reply_to_user_id_str": "28786967",
+      "in_reply_to_screen_name": "somerandstring",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
