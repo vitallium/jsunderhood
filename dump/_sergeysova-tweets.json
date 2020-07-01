@@ -1381,6 +1381,432 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 11:51:03 +0000 2020",
+      "id": 1277932659298185200,
+      "id_str": "1277932659298185216",
+      "text": "@rajdee_mhm Немного)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rajdee_mhm",
+            "name": "Ruslan Abdullaev",
+            "id": 2363111684,
+            "id_str": "2363111684",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277905555106005000,
+      "in_reply_to_status_id_str": "1277905555106004992",
+      "in_reply_to_user_id": 2363111684,
+      "in_reply_to_user_id_str": "2363111684",
+      "in_reply_to_screen_name": "rajdee_mhm",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Jun 30 12:14:02 +0000 2020",
+      "id": 1277938445353091000,
+      "id_str": "1277938445353091074",
+      "text": "А что на счет microfrontends? Это ли не идеальная архитектура?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:20:08 +0000 2020",
+      "id": 1277939979403092000,
+      "id_str": "1277939979403091970",
+      "text": "Вот только стоит учесть, что microfrontends также как nrwl это не архитектура. А лишь способ организовать часть арх… https://t.co/vJBTUqXsr4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vJBTUqXsr4",
+            "expanded_url": "https://twitter.com/i/web/status/1277939979403091970",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277938445353091000,
+      "in_reply_to_status_id_str": "1277938445353091074",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:23:47 +0000 2020",
+      "id": 1277940898404368400,
+      "id_str": "1277940898404368386",
+      "text": "Все архитектуры плохие. Нет универсальных хороших решений. Да, есть типичные проекты, архитектура которых весьма од… https://t.co/sqLGCGm07e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sqLGCGm07e",
+            "expanded_url": "https://twitter.com/i/web/status/1277940898404368386",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277939979403092000,
+      "in_reply_to_status_id_str": "1277939979403091970",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1277940139122200600,
+      "quoted_status_id_str": "1277940139122200578",
+      "quoted_status": {
+        "created_at": "Tue Jun 30 12:20:46 +0000 2020",
+        "id": 1277940139122200600,
+        "id_str": "1277940139122200578",
+        "text": "@jsunderhood Без привязки к конкретному проекту и условиям его разработки говорить об идеальном решении не корректно.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1277938445353091000,
+        "in_reply_to_status_id_str": "1277938445353091074",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 40842049,
+          "id_str": "40842049"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:26:56 +0000 2020",
+      "id": 1277941688888156200,
+      "id_str": "1277941688888156162",
+      "text": "По большому счёту, архитектура не про конкретные инструменты. Она о том как разделить код приложения и легче его по… https://t.co/CX4dvS2tGs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CX4dvS2tGs",
+            "expanded_url": "https://twitter.com/i/web/status/1277941688888156162",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277940898404368400,
+      "in_reply_to_status_id_str": "1277940898404368386",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:28:33 +0000 2020",
+      "id": 1277942095408500700,
+      "id_str": "1277942095408500736",
+      "text": "Если проект призван жить долго, то он уже стал «кораблем Тесея» — рано или поздно все его составные части будут заменены.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277941688888156200,
+      "in_reply_to_status_id_str": "1277941688888156162",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:31:13 +0000 2020",
+      "id": 1277942768724324400,
+      "id_str": "1277942768724324352",
+      "text": "В большинстве тредов я буду говорить об архитектуре в пределах одного проекта-приложения. \n\nВсякие сложные решения… https://t.co/0g9zruXx9l",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0g9zruXx9l",
+            "expanded_url": "https://twitter.com/i/web/status/1277942768724324352",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277942095408500700,
+      "in_reply_to_status_id_str": "1277942095408500736",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:43:22 +0000 2020",
+      "id": 1277945823255552000,
+      "id_str": "1277945823255552001",
+      "text": "Но при этом всём, вполне возможно описать универсальную структуру проекта.\nУниверсальность здесь будет не в названи… https://t.co/T1H5AMWQZB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T1H5AMWQZB",
+            "expanded_url": "https://twitter.com/i/web/status/1277945823255552001",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277942768724324400,
+      "in_reply_to_status_id_str": "1277942768724324352",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 30 12:52:55 +0000 2020",
+      "id": 1277948229502599200,
+      "id_str": "1277948229502599170",
+      "text": "@SanichKotikov @frolovdev К сожалению, это не всегда работает. И я расскажу почему",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "frolovdev",
+            "name": "Andrey Frolov",
+            "id": 942479446312996900,
+            "id_str": "942479446312996865",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1277947217660260400,
+      "in_reply_to_status_id_str": "1277947217660260352",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
