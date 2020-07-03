@@ -37,73 +37,52 @@
     }
   },
   "protected": false,
-  "followers_count": 8090,
+  "followers_count": 8095,
   "friends_count": 542,
   "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4782,
+  "favourites_count": 4783,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 39991,
+  "statuses_count": 40011,
   "lang": null,
   "status": {
-    "created_at": "Wed Jul 01 11:58:25 +0000 2020",
-    "id": 1278296899922075600,
-    "id_str": "1278296899922075650",
-    "text": "@YouSysAdmin @OsipovSimon @c01nd01r_ forest foliage например.\n.\n.\n.\n.\n.\n.\n(Но тут ещё есть отсылка к манипуляциям деревьями в математике)",
-    "truncated": false,
+    "created_at": "Thu Jul 02 16:44:55 +0000 2020",
+    "id": 1278731390637441000,
+    "id_str": "1278731390637441027",
+    "text": "Ведь способов входа может быть достаточно много: по номеру телефона, email + password, email + link, вход после вос… https://t.co/UhAz6InMTP",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "YouSysAdmin",
-          "name": "ТыжСисАдмин",
-          "id": 62336528,
-          "id_str": "62336528",
+          "url": "https://t.co/UhAz6InMTP",
+          "expanded_url": "https://twitter.com/i/web/status/1278731390637441027",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            12
-          ]
-        },
-        {
-          "screen_name": "OsipovSimon",
-          "name": "Simon Osipov",
-          "id": 890205003318800400,
-          "id_str": "890205003318800385",
-          "indices": [
-            13,
-            25
-          ]
-        },
-        {
-          "screen_name": "c01nd01r_",
-          "name": "Eremenko Stanislav",
-          "id": 346496809,
-          "id_str": "346496809",
-          "indices": [
-            26,
-            36
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1278076270010564600,
-    "in_reply_to_status_id_str": "1278076270010564610",
-    "in_reply_to_user_id": 62336528,
-    "in_reply_to_user_id_str": "62336528",
-    "in_reply_to_screen_name": "YouSysAdmin",
+    "in_reply_to_status_id": 1278731330369568800,
+    "in_reply_to_status_id_str": "1278731330369568768",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"

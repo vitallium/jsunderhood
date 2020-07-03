@@ -2378,6 +2378,839 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 12:03:25 +0000 2020",
+      "id": 1278660547513327600,
+      "id_str": "1278660547513327616",
+      "text": "В идеале, бизнес-логика должна быть отделена от остальных частей приложения. Может быть даже вынесена в отдельный б… https://t.co/qTWYXmWs8g",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qTWYXmWs8g",
+            "expanded_url": "https://twitter.com/i/web/status/1278660547513327616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 12:11:56 +0000 2020",
+      "id": 1278662692316876800,
+      "id_str": "1278662692316876800",
+      "text": "Рефакторинг — изменение кода, не изменяющее поведение и интерфейсы модулей. Всякие вьюхи, контроллеры навигации и п… https://t.co/HeGfApqRcA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HeGfApqRcA",
+            "expanded_url": "https://twitter.com/i/web/status/1278662692316876800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278660547513327600,
+      "in_reply_to_status_id_str": "1278660547513327616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 12:12:41 +0000 2020",
+      "id": 1278662881224069000,
+      "id_str": "1278662881224069121",
+      "text": "@borovikov Это не реально) Слишком не универсален наш мир и инструменты в нем, равно как и пожелания заказчиков",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "borovikov",
+            "name": "Děnis Borovikov",
+            "id": 14354160,
+            "id_str": "14354160",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278662580261785600,
+      "in_reply_to_status_id_str": "1278662580261785606",
+      "in_reply_to_user_id": 14354160,
+      "in_reply_to_user_id_str": "14354160",
+      "in_reply_to_screen_name": "borovikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 12:30:52 +0000 2020",
+      "id": 1278667453279723500,
+      "id_str": "1278667453279723521",
+      "text": "Во время проектирования я предпочитаю думать о вьюхах и контроллерах как о заменяемых модулях. В какой-то момент в… https://t.co/QuebanDDp5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QuebanDDp5",
+            "expanded_url": "https://twitter.com/i/web/status/1278667453279723521",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278662692316876800,
+      "in_reply_to_status_id_str": "1278662692316876800",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 12:31:56 +0000 2020",
+      "id": 1278667723250307000,
+      "id_str": "1278667723250307075",
+      "text": "@musuk Идеальный код — который не нужно писать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "musuk",
+            "name": "musuk",
+            "id": 19105647,
+            "id_str": "19105647",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278664854820315100,
+      "in_reply_to_status_id_str": "1278664854820315141",
+      "in_reply_to_user_id": 19105647,
+      "in_reply_to_user_id_str": "19105647",
+      "in_reply_to_screen_name": "musuk",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 13:57:43 +0000 2020",
+      "id": 1278689313543331800,
+      "id_str": "1278689313543331840",
+      "text": "@kamyshev_code Ничего не делаю) Мне в этом плане помогает effector. Я считаю его как нулевой зависимостью. Просто t… https://t.co/CjCHsG2yEN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CjCHsG2yEN",
+            "expanded_url": "https://twitter.com/i/web/status/1278689313543331840",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278684782906359800,
+      "in_reply_to_status_id_str": "1278684782906359814",
+      "in_reply_to_user_id": 556089858,
+      "in_reply_to_user_id_str": "556089858",
+      "in_reply_to_screen_name": "kamyshev_code",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 13:57:56 +0000 2020",
+      "id": 1278689365158477800,
+      "id_str": "1278689365158477826",
+      "text": "Даже если мне никогда не понадобится заменять React, такой подход позволяет четко разделить обязанности и описывать… https://t.co/3mBQOhU6xL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3mBQOhU6xL",
+            "expanded_url": "https://twitter.com/i/web/status/1278689365158477826",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278667453279723500,
+      "in_reply_to_status_id_str": "1278667453279723521",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 13:58:09 +0000 2020",
+      "id": 1278689419722195000,
+      "id_str": "1278689419722194950",
+      "text": "Но в своих проектах я далеко не всегда выделяю бизнес-логику в отдельный пакет. Все потому, что придется придумыват… https://t.co/koLTONqCG4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/koLTONqCG4",
+            "expanded_url": "https://twitter.com/i/web/status/1278689419722194950",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278689365158477800,
+      "in_reply_to_status_id_str": "1278689365158477826",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 14:04:30 +0000 2020",
+      "id": 1278691017189920800,
+      "id_str": "1278691017189920769",
+      "text": "Архитектура должна развиваться вместе с проектом и требованиями к нему. А значит, пока выделение бизнес-логики в от… https://t.co/faxvibib9D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/faxvibib9D",
+            "expanded_url": "https://twitter.com/i/web/status/1278691017189920769",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278689419722195000,
+      "in_reply_to_status_id_str": "1278689419722194950",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 14:07:40 +0000 2020",
+      "id": 1278691817169522700,
+      "id_str": "1278691817169522688",
+      "text": "Но соломку конечно же подстелю — разделю вью и модель так, чтобы в будущем выделение бизнес-логики в отдельный паке… https://t.co/SRmdZPmS3k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SRmdZPmS3k",
+            "expanded_url": "https://twitter.com/i/web/status/1278691817169522688",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278691017189920800,
+      "in_reply_to_status_id_str": "1278691017189920769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 15:55:21 +0000 2020",
+      "id": 1278718915149955000,
+      "id_str": "1278718915149955074",
+      "text": "Итак, определенно у нас есть код страниц, модель которых никак не переиспользуется. Это всякие контроллеры форм, ре… https://t.co/KddhLKUKt5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KddhLKUKt5",
+            "expanded_url": "https://twitter.com/i/web/status/1278718915149955074",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278691817169522700,
+      "in_reply_to_status_id_str": "1278691817169522688",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 15:56:07 +0000 2020",
+      "id": 1278719106636746800,
+      "id_str": "1278719106636746753",
+      "text": "В моем случае, разделение логики и вью это размещение кода в двух разных файлах-модулях.\n\nНапример: pages/login/{index.tsx, model.ts}",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278718915149955000,
+      "in_reply_to_status_id_str": "1278718915149955074",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 15:56:35 +0000 2020",
+      "id": 1278719227239768000,
+      "id_str": "1278719227239768064",
+      "text": "При необходимости сама бизнес-логика может быть легко выделена из модели в отдельный модуль, при этом в модели стра… https://t.co/okxVf9hdcA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/okxVf9hdcA",
+            "expanded_url": "https://twitter.com/i/web/status/1278719227239768064",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278719106636746800,
+      "in_reply_to_status_id_str": "1278719106636746753",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 15:56:51 +0000 2020",
+      "id": 1278719292763189200,
+      "id_str": "1278719292763189249",
+      "text": "А еще есть код, который разделяется некоторыми страницами, то есть используется сразу в нескольких местах. Например… https://t.co/G2POwPh6Ca",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/G2POwPh6Ca",
+            "expanded_url": "https://twitter.com/i/web/status/1278719292763189249",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278719227239768000,
+      "in_reply_to_status_id_str": "1278719227239768064",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:42:30 +0000 2020",
+      "id": 1278730782731894800,
+      "id_str": "1278730782731894786",
+      "text": "Вернемся к разделяемой логике. Куда класть модель управления данными используемыми сразу в нескольких страницах?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:43:12 +0000 2020",
+      "id": 1278730956447330300,
+      "id_str": "1278730956447330304",
+      "text": "В методологии FeatureSlices это называется feature. Одна фича это переиспользуемый общий код относящийся к одной су… https://t.co/ZCGlABaJFD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZCGlABaJFD",
+            "expanded_url": "https://twitter.com/i/web/status/1278730956447330304",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278730782731894800,
+      "in_reply_to_status_id_str": "1278730782731894786",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:43:36 +0000 2020",
+      "id": 1278731057404301300,
+      "id_str": "1278731057404301313",
+      "text": "В случае аутентификации и авторизации, бизнес-сущностью является текущий пользователь, так называемый viewer.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278730956447330300,
+      "in_reply_to_status_id_str": "1278730956447330304",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:43:56 +0000 2020",
+      "id": 1278731139784626200,
+      "id_str": "1278731139784626184",
+      "text": "В фиче viewer может лежать все что нужно для работы с текущим пользователем: проверка прав доступа, компонент для э… https://t.co/qt0M5r4LPk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qt0M5r4LPk",
+            "expanded_url": "https://twitter.com/i/web/status/1278731139784626184",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278731057404301300,
+      "in_reply_to_status_id_str": "1278731057404301313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:44:41 +0000 2020",
+      "id": 1278731330369568800,
+      "id_str": "1278731330369568768",
+      "text": "Но при этом, процессы входа(создания сессии) не являются фичей, так как не разделяются и не переиспользуются на разных страницах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278731139784626200,
+      "in_reply_to_status_id_str": "1278731139784626184",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 02 16:44:55 +0000 2020",
+      "id": 1278731390637441000,
+      "id_str": "1278731390637441027",
+      "text": "Ведь способов входа может быть достаточно много: по номеру телефона, email + password, email + link, вход после вос… https://t.co/UhAz6InMTP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UhAz6InMTP",
+            "expanded_url": "https://twitter.com/i/web/status/1278731390637441027",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278731330369568800,
+      "in_reply_to_status_id_str": "1278731330369568768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
