@@ -3211,6 +3211,719 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:10:30 +0000 2020",
+      "id": 1278994517409108000,
+      "id_str": "1278994517409107975",
+      "text": "FeatureSlices не является догмой или строгими правилами по которым нужно проектировать и разделять код. Это рекомен… https://t.co/vASopDs1Yo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vASopDs1Yo",
+            "expanded_url": "https://twitter.com/i/web/status/1278994517409107975",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278731390637441000,
+      "in_reply_to_status_id_str": "1278731390637441027",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:11:01 +0000 2020",
+      "id": 1278994648426479600,
+      "id_str": "1278994648426479617",
+      "text": "Если в Вашем приложении имеются общие компоненты или код в процессах аутентификации, вполне можно вынести суб-проце… https://t.co/NMMv7iujt0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NMMv7iujt0",
+            "expanded_url": "https://twitter.com/i/web/status/1278994648426479617",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278994517409108000,
+      "in_reply_to_status_id_str": "1278994517409107975",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:11:17 +0000 2020",
+      "id": 1278994716974092300,
+      "id_str": "1278994716974092289",
+      "text": "Важный момент — документация. Стоит создать https://t.co/dnOyWRJhBZ для каждой фичи и накидать туда описание фичи,… https://t.co/4oJNFmADMz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dnOyWRJhBZ",
+            "expanded_url": "http://README.md",
+            "display_url": "README.md",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/4oJNFmADMz",
+            "expanded_url": "https://twitter.com/i/web/status/1278994716974092289",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278994648426479600,
+      "in_reply_to_status_id_str": "1278994648426479617",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:11:30 +0000 2020",
+      "id": 1278994769478385700,
+      "id_str": "1278994769478385668",
+      "text": "Главное не забывать просматривать документацию и сверять с актуальным состоянием, может нужно отрефакторить, чтобы… https://t.co/wVQxdjZ9r6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wVQxdjZ9r6",
+            "expanded_url": "https://twitter.com/i/web/status/1278994769478385668",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278994716974092300,
+      "in_reply_to_status_id_str": "1278994716974092289",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:13:33 +0000 2020",
+      "id": 1278995287051317200,
+      "id_str": "1278995287051317248",
+      "text": "Какие компоненты класть в UI, а что оставить в фиче?\nСразу стоит понять, что компоненты во фронтенд проекте могут лежать в любой директории.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:16:58 +0000 2020",
+      "id": 1278996147252670500,
+      "id_str": "1278996147252670469",
+      "text": "Разделение проекта на директории необходимо, чтобы понимать назначение лежащих внутри файлов, как их менять и что м… https://t.co/ra66hiaQtY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ra66hiaQtY",
+            "expanded_url": "https://twitter.com/i/web/status/1278996147252670469",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278995287051317200,
+      "in_reply_to_status_id_str": "1278995287051317248",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:16:59 +0000 2020",
+      "id": 1278996148859134000,
+      "id_str": "1278996148859133954",
+      "text": "Важно, чтобы в такой библиотечный код не протекали особенности бизнеса. Ведь если такое случится модифицировать и п… https://t.co/z8Wb44z6c2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z8Wb44z6c2",
+            "expanded_url": "https://twitter.com/i/web/status/1278996148859133954",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996147252670500,
+      "in_reply_to_status_id_str": "1278996147252670469",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:16:59 +0000 2020",
+      "id": 1278996150239015000,
+      "id_str": "1278996150239014914",
+      "text": "UI это внутренняя библиотека строительных блоков проекта. Я уверен, что в любом проекте можно выделить внушительную… https://t.co/GEFRl2G9Ii",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GEFRl2G9Ii",
+            "expanded_url": "https://twitter.com/i/web/status/1278996150239014914",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996148859134000,
+      "in_reply_to_status_id_str": "1278996148859133954",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:16:59 +0000 2020",
+      "id": 1278996151560257500,
+      "id_str": "1278996151560257536",
+      "text": "Такие компоненты называются контекстонезависимыми. Ведь для использования компонента не нужно учитывать контекст ис… https://t.co/s86QZCeK5g",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s86QZCeK5g",
+            "expanded_url": "https://twitter.com/i/web/status/1278996151560257536",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996150239015000,
+      "in_reply_to_status_id_str": "1278996150239014914",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:17:00 +0000 2020",
+      "id": 1278996152998867000,
+      "id_str": "1278996152998866944",
+      "text": "Пример: выпадающее меню составлено из выпадающего блока, списка и кнопки с иконкой. При этом, четкой области примен… https://t.co/sY3Jyg8M7E",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sY3Jyg8M7E",
+            "expanded_url": "https://twitter.com/i/web/status/1278996152998866944",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996151560257500,
+      "in_reply_to_status_id_str": "1278996151560257536",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:17:00 +0000 2020",
+      "id": 1278996154471059500,
+      "id_str": "1278996154471059457",
+      "text": "Чего нельзя с уверенностью сказать про компонент профиля текущего пользователя. Используя тот компонент, можно пост… https://t.co/qAOMF0TWJe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qAOMF0TWJe",
+            "expanded_url": "https://twitter.com/i/web/status/1278996154471059457",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996152998867000,
+      "in_reply_to_status_id_str": "1278996152998866944",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:20:01 +0000 2020",
+      "id": 1278996911735935000,
+      "id_str": "1278996911735934976",
+      "text": "Ставьте лайкосы твитам, а то непонятно, интересно это или я просто не во время пишу твиты и их не видят. Какой там прайм-тайм в IT-твиттере?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996154471059500,
+      "in_reply_to_status_id_str": "1278996154471059457",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:20:35 +0000 2020",
+      "id": 1278997055466283000,
+      "id_str": "1278997055466283011",
+      "text": "У твиттера отвратная аналитика по твитам. Даже у гитхаба и simplecast сильно лучше.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996911735935000,
+      "in_reply_to_status_id_str": "1278996911735934976",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:25:38 +0000 2020",
+      "id": 1278998327162527700,
+      "id_str": "1278998327162527744",
+      "text": "Все компоненты без контекста я укладываю в UI, всякие библиотечные реализации в lib, но только если там есть дополн… https://t.co/WKLg5nfkBl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WKLg5nfkBl",
+            "expanded_url": "https://twitter.com/i/web/status/1278998327162527744",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278996154471059500,
+      "in_reply_to_status_id_str": "1278996154471059457",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:25:53 +0000 2020",
+      "id": 1278998390920155100,
+      "id_str": "1278998390920155136",
+      "text": "А вот компоненты с четким контекстом располагаются по фичам. Причем необходимо четко определить область применения… https://t.co/v1R03yjG0D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v1R03yjG0D",
+            "expanded_url": "https://twitter.com/i/web/status/1278998390920155136",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278998327162527700,
+      "in_reply_to_status_id_str": "1278998327162527744",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:50:57 +0000 2020",
+      "id": 1279004699597865000,
+      "id_str": "1279004699597864960",
+      "text": "@dmfilipenko Скорее всего проблема в разделении на фичи. Идея в том, чтобы такого вообще никогда не возникло",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmfilipenko",
+            "name": "Filipenko",
+            "id": 389377323,
+            "id_str": "389377323",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279002684276666400,
+      "in_reply_to_status_id_str": "1279002684276666369",
+      "in_reply_to_user_id": 389377323,
+      "in_reply_to_user_id_str": "389377323",
+      "in_reply_to_screen_name": "dmfilipenko",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 03 10:51:15 +0000 2020",
+      "id": 1279004775665860600,
+      "id_str": "1279004775665860608",
+      "text": "@dmfilipenko Не может быть одинаковой бизнес-логики в разных фичах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmfilipenko",
+            "name": "Filipenko",
+            "id": 389377323,
+            "id_str": "389377323",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279002684276666400,
+      "in_reply_to_status_id_str": "1279002684276666369",
+      "in_reply_to_user_id": 389377323,
+      "in_reply_to_user_id_str": "389377323",
+      "in_reply_to_screen_name": "dmfilipenko",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

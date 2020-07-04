@@ -37,52 +37,53 @@
     }
   },
   "protected": false,
-  "followers_count": 8095,
+  "followers_count": 8098,
   "friends_count": 542,
   "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4783,
+  "favourites_count": 4786,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40011,
+  "statuses_count": 40028,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 02 16:44:55 +0000 2020",
-    "id": 1278731390637441000,
-    "id_str": "1278731390637441027",
-    "text": "Ведь способов входа может быть достаточно много: по номеру телефона, email + password, email + link, вход после вос… https://t.co/UhAz6InMTP",
-    "truncated": true,
+    "created_at": "Fri Jul 03 10:51:15 +0000 2020",
+    "id": 1279004775665860600,
+    "id_str": "1279004775665860608",
+    "text": "@dmfilipenko Не может быть одинаковой бизнес-логики в разных фичах",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/UhAz6InMTP",
-          "expanded_url": "https://twitter.com/i/web/status/1278731390637441027",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "dmfilipenko",
+          "name": "Filipenko",
+          "id": 389377323,
+          "id_str": "389377323",
           "indices": [
-            117,
-            140
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1278731330369568800,
-    "in_reply_to_status_id_str": "1278731330369568768",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1279002684276666400,
+    "in_reply_to_status_id_str": "1279002684276666369",
+    "in_reply_to_user_id": 389377323,
+    "in_reply_to_user_id_str": "389377323",
+    "in_reply_to_screen_name": "dmfilipenko",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
