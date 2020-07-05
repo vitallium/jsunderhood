@@ -3924,6 +3924,2729 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:00:47 +0000 2020",
+      "id": 1279384660523602000,
+      "id_str": "1279384660523601920",
+      "text": "Каким боком @effectorjs помогает выстроить архитектуру приложений? Очень просто: он является языком описания бизнес… https://t.co/232yBWuBAx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              12,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/232yBWuBAx",
+            "expanded_url": "https://twitter.com/i/web/status/1279384660523601920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:01:20 +0000 2020",
+      "id": 1279384796976775200,
+      "id_str": "1279384796976775168",
+      "text": "К чему мы привыкли? Встраиваем управление состоянием внутрь React. И после этого продолжаем называть REACT библиоте… https://t.co/RxMXre3jEh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RxMXre3jEh",
+            "expanded_url": "https://twitter.com/i/web/status/1279384796976775168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279384660523602000,
+      "in_reply_to_status_id_str": "1279384660523601920",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:02:27 +0000 2020",
+      "id": 1279385079287079000,
+      "id_str": "1279385079287078912",
+      "text": "Мне не нравится такое положение. Из-за возраста React нам приходится очень долго ждать ConcurrentMode, терпеть изде… https://t.co/Cio9vAj7Th",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Cio9vAj7Th",
+            "expanded_url": "https://twitter.com/i/web/status/1279385079287078912",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279384796976775200,
+      "in_reply_to_status_id_str": "1279384796976775168",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:08:29 +0000 2020",
+      "id": 1279386598979842000,
+      "id_str": "1279386598979842049",
+      "text": "Чего я хочу от библиотеки рендеринга? Простого разделения ответственности, изящной интеграции СТМ, не сложного SSR,… https://t.co/dOPh7ZTyNC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dOPh7ZTyNC",
+            "expanded_url": "https://twitter.com/i/web/status/1279386598979842049",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279385079287079000,
+      "in_reply_to_status_id_str": "1279385079287078912",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:08:39 +0000 2020",
+      "id": 1279386640893350000,
+      "id_str": "1279386640893349889",
+      "text": "Да. Я хочу, чтобы вьюха зависела от бизнес-логики и подчинялась её законам. Чтобы не приходилось вымучивать интегра… https://t.co/U2kPP942eV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/U2kPP942eV",
+            "expanded_url": "https://twitter.com/i/web/status/1279386640893349889",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279386598979842000,
+      "in_reply_to_status_id_str": "1279386598979842049",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:34:28 +0000 2020",
+      "id": 1279393136096219100,
+      "id_str": "1279393136096219138",
+      "text": "Помните нас «ублажали», что Реакт это «функция от состояния»? Мол, передали пропсы сверху в корневой компонент и по… https://t.co/jKRGBiz8LL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jKRGBiz8LL",
+            "expanded_url": "https://twitter.com/i/web/status/1279393136096219138",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279386640893350000,
+      "in_reply_to_status_id_str": "1279386640893349889",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:34:41 +0000 2020",
+      "id": 1279393192182456300,
+      "id_str": "1279393192182456321",
+      "text": "Ага. Только если не используем хуки и классовые компоненты. Очевидно, что нужно иметь способ управлять состоянием приложения снаружи.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279393136096219100,
+      "in_reply_to_status_id_str": "1279393136096219138",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:35:02 +0000 2020",
+      "id": 1279393279512064000,
+      "id_str": "1279393279512064000",
+      "text": "Взять даже пресловутый SSR. Посмотрите на костыли NextJs, для того, чтобы запустить релевантные функции загрузки данных.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279393192182456300,
+      "in_reply_to_status_id_str": "1279393192182456321",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:35:16 +0000 2020",
+      "id": 1279393338509181000,
+      "id_str": "1279393338509180929",
+      "text": "Просто вдумайтесь: чтобы сделать SSR, пришлось построить огромный ФРЕЙМВОРК поверх реакта и новую экосистему! Экосистему, Карл!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279393279512064000,
+      "in_reply_to_status_id_str": "1279393279512064000",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:43:23 +0000 2020",
+      "id": 1279395379642073000,
+      "id_str": "1279395379642073089",
+      "text": "@Chudesnov Сколько лет еще придется подождать?\nИ сколько времени уйдет на адаптацию экосистемы?\nНе удивлюсь если по… https://t.co/gldHGFSSft",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gldHGFSSft",
+            "expanded_url": "https://twitter.com/i/web/status/1279395379642073089",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279394182277275600,
+      "in_reply_to_status_id_str": "1279394182277275648",
+      "in_reply_to_user_id": 8505772,
+      "in_reply_to_user_id_str": "8505772",
+      "in_reply_to_screen_name": "Chudesnov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:44:40 +0000 2020",
+      "id": 1279395705405223000,
+      "id_str": "1279395705405222913",
+      "text": "@amel_true @EffectorJS Фронтенд-приложения уже далеко не такие простые как в 2010. Очень много логики происходит на… https://t.co/RqC32dKrK8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RqC32dKrK8",
+            "expanded_url": "https://twitter.com/i/web/status/1279395705405222913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279395451951874000,
+      "in_reply_to_status_id_str": "1279395451951874048",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:45:44 +0000 2020",
+      "id": 1279395970388766700,
+      "id_str": "1279395970388766725",
+      "text": "@amel_true Можно построить свой, где-то лучше, но в основном просто без большинства фич. И зачастую это самое лучшее доступное решение",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279395240026177500,
+      "in_reply_to_status_id_str": "1279395240026177542",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:50:12 +0000 2020",
+      "id": 1279397094973935600,
+      "id_str": "1279397094973935618",
+      "text": "@amel_true @EffectorJS Баланс нужен всегда. Я для себя принял такой трейдофф, что бизнес-логика описывается в терми… https://t.co/B7H2s5WwRj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B7H2s5WwRj",
+            "expanded_url": "https://twitter.com/i/web/status/1279397094973935618",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279396520538890200,
+      "in_reply_to_status_id_str": "1279396520538890241",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:50:30 +0000 2020",
+      "id": 1279397172329488400,
+      "id_str": "1279397172329488386",
+      "text": "@eXtractor 😳",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eXtractor",
+            "name": "Евгений Киров",
+            "id": 7450122,
+            "id_str": "7450122",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279396687967109000,
+      "in_reply_to_status_id_str": "1279396687967109121",
+      "in_reply_to_user_id": 7450122,
+      "in_reply_to_user_id_str": "7450122",
+      "in_reply_to_screen_name": "eXtractor",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sat Jul 04 12:52:08 +0000 2020",
+      "id": 1279397584419934200,
+      "id_str": "1279397584419934208",
+      "text": "@amel_true @EffectorJS Но на деле, эффектор никак не запрещает и не мешает выделять логику. Если хочется — пожалуйста.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279397094973935600,
+      "in_reply_to_status_id_str": "1279397094973935618",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:53:19 +0000 2020",
+      "id": 1279397880831279000,
+      "id_str": "1279397880831279105",
+      "text": "@Chudesnov Мы уже привыкли, что нас шваркают с каждой новой фичей. Вышел новый роутер — переписывай приложение. Выш… https://t.co/9PEQgjr5by",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9PEQgjr5by",
+            "expanded_url": "https://twitter.com/i/web/status/1279397880831279105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279397538186104800,
+      "in_reply_to_status_id_str": "1279397538186104832",
+      "in_reply_to_user_id": 8505772,
+      "in_reply_to_user_id_str": "8505772",
+      "in_reply_to_screen_name": "Chudesnov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:53:53 +0000 2020",
+      "id": 1279398025220231200,
+      "id_str": "1279398025220231173",
+      "text": "@Chudesnov Мы конечно с радостью будем это делать. Вместо того, чтобы осуждать таких разрабочтиков и заставлять их… https://t.co/SGNkGUUFTY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SGNkGUUFTY",
+            "expanded_url": "https://twitter.com/i/web/status/1279398025220231173",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279397880831279000,
+      "in_reply_to_status_id_str": "1279397880831279105",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:54:51 +0000 2020",
+      "id": 1279398266191429600,
+      "id_str": "1279398266191429632",
+      "text": "@amel_true @EffectorJS К сожалению жс не имеет хороших стандартных способ описания асинхронной реактивной бизнес-логики",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amel_true",
+            "name": "Andrey Melikhov",
+            "id": 129552957,
+            "id_str": "129552957",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "EffectorJS",
+            "name": "Effector ☄️",
+            "id": 1120686272912273400,
+            "id_str": "1120686272912273410",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279397830432604200,
+      "in_reply_to_status_id_str": "1279397830432604160",
+      "in_reply_to_user_id": 129552957,
+      "in_reply_to_user_id_str": "129552957",
+      "in_reply_to_screen_name": "amel_true",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:56:51 +0000 2020",
+      "id": 1279398769038168000,
+      "id_str": "1279398769038168064",
+      "text": "Чем дольше я пишу на реакте и чем больше создаю веб-приложений, тем больше убеждаюсь, что вьюха должна строиться во… https://t.co/gaZZlALC4N",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gaZZlALC4N",
+            "expanded_url": "https://twitter.com/i/web/status/1279398769038168064",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279393338509181000,
+      "in_reply_to_status_id_str": "1279393338509180929",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:57:48 +0000 2020",
+      "id": 1279399010680426500,
+      "id_str": "1279399010680426497",
+      "text": "То, что делает Redux, RxJs и MobX так это встраивание БЛ внутрь жизненного цикла слоя представления. А это сразу же… https://t.co/gKhjyxZ4l1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gKhjyxZ4l1",
+            "expanded_url": "https://twitter.com/i/web/status/1279399010680426497",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279398769038168000,
+      "in_reply_to_status_id_str": "1279398769038168064",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:58:52 +0000 2020",
+      "id": 1279399279451345000,
+      "id_str": "1279399279451344911",
+      "text": "БЛ-процесс запускается из вьюхи, а значит на сервере ждет проблема в виде необходимости вытащить этот запуск из вью… https://t.co/x8yi534LhM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x8yi534LhM",
+            "expanded_url": "https://twitter.com/i/web/status/1279399279451344911",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279399010680426500,
+      "in_reply_to_status_id_str": "1279399010680426497",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 12:58:53 +0000 2020",
+      "id": 1279399281699557400,
+      "id_str": "1279399281699557378",
+      "text": "А в браузере нужно дождаться рендера компонента, чтобы запустить логику. Вместо того, чтобы запустить логику сразу,… https://t.co/zhzg81ZjzG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zhzg81ZjzG",
+            "expanded_url": "https://twitter.com/i/web/status/1279399281699557378",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279399279451345000,
+      "in_reply_to_status_id_str": "1279399279451344911",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:01:02 +0000 2020",
+      "id": 1279399824761262000,
+      "id_str": "1279399824761262080",
+      "text": "Нельзя просто так запустить логику вне компонента. Ведь СТМ лежит в контексте и извлечь наружу весьма проблемно. Пр… https://t.co/pEf2NYDfCh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pEf2NYDfCh",
+            "expanded_url": "https://twitter.com/i/web/status/1279399824761262080",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279399281699557400,
+      "in_reply_to_status_id_str": "1279399281699557378",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:01:03 +0000 2020",
+      "id": 1279399826476667000,
+      "id_str": "1279399826476666881",
+      "text": "...логику использования этого служебного компонента(привет reatom), потерю семантичности jsx разметки. Притом, что… https://t.co/rsKVl0vBwJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rsKVl0vBwJ",
+            "expanded_url": "https://twitter.com/i/web/status/1279399826476666881",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279399824761262000,
+      "in_reply_to_status_id_str": "1279399824761262080",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:01:52 +0000 2020",
+      "id": 1279400031985025000,
+      "id_str": "1279400031985025024",
+      "text": "Если нужно, чтобы БЛ работала по своему особенному жизненному циклу не связанному с ЖЦ реакт компонента, то извините, придумывайте костыли.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279399826476667000,
+      "in_reply_to_status_id_str": "1279399826476666881",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:02:52 +0000 2020",
+      "id": 1279400286000464000,
+      "id_str": "1279400286000463872",
+      "text": "Я крайне не понимаю людей, которые рекомендуют не брать СТМ и писать на чистом реакте. Это же билет в один конец — станция метро «Наследие».",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279400031985025000,
+      "in_reply_to_status_id_str": "1279400031985025024",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:03:09 +0000 2020",
+      "id": 1279400353671393300,
+      "id_str": "1279400353671393287",
+      "text": "Очень легко писать WriteOnly код. А как потом разбираться в куче memo и неизвестных причин рендера/ремаунта, которы… https://t.co/pdfmsGoZhl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pdfmsGoZhl",
+            "expanded_url": "https://twitter.com/i/web/status/1279400353671393287",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279400286000464000,
+      "in_reply_to_status_id_str": "1279400286000463872",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:40:41 +0000 2020",
+      "id": 1279409800015642600,
+      "id_str": "1279409800015642627",
+      "text": "Пару лет назад, я понял, что хочу себе СТМ, который позволит из вьюхи отправлять оповещения о произошедших событиях… https://t.co/K9WpAQV92u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K9WpAQV92u",
+            "expanded_url": "https://twitter.com/i/web/status/1279409800015642627",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:41:57 +0000 2020",
+      "id": 1279410120405987300,
+      "id_str": "1279410120405987331",
+      "text": "Чтобы БЛ жила отдельно своим процессом и могла самостоятельно реагировать на события и решать, нужно ли запустить л… https://t.co/nOYvhvgkwG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nOYvhvgkwG",
+            "expanded_url": "https://twitter.com/i/web/status/1279410120405987331",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279409800015642600,
+      "in_reply_to_status_id_str": "1279409800015642627",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:42:10 +0000 2020",
+      "id": 1279410175611453400,
+      "id_str": "1279410175611453440",
+      "text": "Вьюха стала бы «функцией от состояния». БЛ обновляла бы состояние когда ей потребуется, именно те кусочки стейта, к… https://t.co/xQkvlrZ6HP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xQkvlrZ6HP",
+            "expanded_url": "https://twitter.com/i/web/status/1279410175611453440",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279410120405987300,
+      "in_reply_to_status_id_str": "1279410120405987331",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:42:27 +0000 2020",
+      "id": 1279410243827531800,
+      "id_str": "1279410243827531776",
+      "text": "А прикиньте, как круто избавиться от необходимости в селекторах и мемоизации?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279410175611453400,
+      "in_reply_to_status_id_str": "1279410175611453440",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:42:40 +0000 2020",
+      "id": 1279410301310505000,
+      "id_str": "1279410301310504961",
+      "text": "А что если состояние приложения не уложить в дерево без поломки очевидности кода?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279410243827531800,
+      "in_reply_to_status_id_str": "1279410243827531776",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:42:51 +0000 2020",
+      "id": 1279410347745697800,
+      "id_str": "1279410347745697792",
+      "text": "Как избавиться от гонок обновлений в ромбовидных зависимостях?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279410301310505000,
+      "in_reply_to_status_id_str": "1279410301310504961",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:43:02 +0000 2020",
+      "id": 1279410393383829500,
+      "id_str": "1279410393383829506",
+      "text": "Может есть способ не тащить 100Кб СТМ без привязки к классам, но получить все эти возможности?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279410347745697800,
+      "in_reply_to_status_id_str": "1279410347745697792",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 13:51:08 +0000 2020",
+      "id": 1279412432000241700,
+      "id_str": "1279412432000241664",
+      "text": "Давайте попробуем старую практику как мир: лайк этому посту от вас, факт про эффектор, его историю и концепции от м… https://t.co/ruhL5fW1bg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ruhL5fW1bg",
+            "expanded_url": "https://twitter.com/i/web/status/1279412432000241664",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 85,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:06:08 +0000 2020",
+      "id": 1279416207150665700,
+      "id_str": "1279416207150665728",
+      "text": "Изначально effector был миддлварой для ридакса и разрабатывался для высоконагруженного клиента реалтайм чата, вроде Телеграм.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279412432000241700,
+      "in_reply_to_status_id_str": "1279412432000241664",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:07:25 +0000 2020",
+      "id": 1279416528035876900,
+      "id_str": "1279416528035876874",
+      "text": "Пока флоу не умер, имелась его первоклассная поддержка. Сейчас типы затачиваются под TypeScript.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416207150665700,
+      "in_reply_to_status_id_str": "1279416207150665728",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:07:25 +0000 2020",
+      "id": 1279416529600368600,
+      "id_str": "1279416529600368640",
+      "text": "Flow и Reason остались для поддержки обратной совместимости.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416528035876900,
+      "in_reply_to_status_id_str": "1279416528035876874",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:07:26 +0000 2020",
+      "id": 1279416531085115400,
+      "id_str": "1279416531085115393",
+      "text": "Команда effector очень щепетильно относится к своим пользователям. Не выкатывая мажорных версий с кучей несовместимых изменений.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416529600368600,
+      "in_reply_to_status_id_str": "1279416529600368640",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:07:26 +0000 2020",
+      "id": 1279416532645417000,
+      "id_str": "1279416532645416966",
+      "text": "Все новые фичи добавляются в минорных версиях. Мажорные версии только удаляют устаревшие методы. Мажор выход раз в… https://t.co/FHSxoFwe3T",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FHSxoFwe3T",
+            "expanded_url": "https://twitter.com/i/web/status/1279416532645416966",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416531085115400,
+      "in_reply_to_status_id_str": "1279416531085115393",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:09:12 +0000 2020",
+      "id": 1279416975639425000,
+      "id_str": "1279416975639425025",
+      "text": "@Chudesnov Так не работает. Закрепил старую версию реакта, значит завис на старой экосистеме. А там и все проблемы легаси",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416776753852400,
+      "in_reply_to_status_id_str": "1279416776753852418",
+      "in_reply_to_user_id": 8505772,
+      "in_reply_to_user_id_str": "8505772",
+      "in_reply_to_screen_name": "Chudesnov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:11:54 +0000 2020",
+      "id": 1279417658467893200,
+      "id_str": "1279417658467893248",
+      "text": "Русскоязычный чат в Телеграм ждет ваших вопросов и предложений. Удивительно, но у эффектора есть пользователи по вс… https://t.co/KWw0GRt2VK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KWw0GRt2VK",
+            "expanded_url": "https://twitter.com/i/web/status/1279417658467893248",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279416532645417000,
+      "in_reply_to_status_id_str": "1279416532645416966",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:14:46 +0000 2020",
+      "id": 1279418378755739600,
+      "id_str": "1279418378755739649",
+      "text": "Эффектор занимается обработкой данных, а не жонглированием декораторами, стримами, пропсами и мемоизацией. Всё в его API нацелено на данные",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279417658467893200,
+      "in_reply_to_status_id_str": "1279417658467893248",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:16:42 +0000 2020",
+      "id": 1279418865538171000,
+      "id_str": "1279418865538170880",
+      "text": "Во времена первых версий требовался инструмент, позволяющий управлять данными в сложных приложениях без опасности р… https://t.co/zfyfPjXeM9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zfyfPjXeM9",
+            "expanded_url": "https://twitter.com/i/web/status/1279418865538170880",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279418378755739600,
+      "in_reply_to_status_id_str": "1279418378755739649",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:22:21 +0000 2020",
+      "id": 1279420287759593500,
+      "id_str": "1279420287759593472",
+      "text": "Сторы для приложения должны быть лёгкими, насколько это возможно — не должна пугать мысль о том, что нужно добавить… https://t.co/FbR3GZjsHi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FbR3GZjsHi",
+            "expanded_url": "https://twitter.com/i/web/status/1279420287759593472",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279418865538171000,
+      "in_reply_to_status_id_str": "1279418865538170880",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:23:07 +0000 2020",
+      "id": 1279420479753924600,
+      "id_str": "1279420479753924609",
+      "text": "Сторы должны свободно совмещаться — идея в том, что данные, которые потребуются приложению, можно распределить стат… https://t.co/jtJRXa6Fy5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jtJRXa6Fy5",
+            "expanded_url": "https://twitter.com/i/web/status/1279420479753924609",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279420287759593500,
+      "in_reply_to_status_id_str": "1279420287759593472",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:38:10 +0000 2020",
+      "id": 1279424266841227300,
+      "id_str": "1279424266841227266",
+      "text": "Принцип работы должен by design исключать необходимость в reselect, оповещая об изменениях только тех, кому они необходимы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279420479753924600,
+      "in_reply_to_status_id_str": "1279420479753924609",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:38:10 +0000 2020",
+      "id": 1279424268221255700,
+      "id_str": "1279424268221255680",
+      "text": "Это позволяет не задумываться о том, что у тебя будет триггериться всё приложение если ты захочешь вынести  стейт м… https://t.co/W01trA2XkO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W01trA2XkO",
+            "expanded_url": "https://twitter.com/i/web/status/1279424268221255680",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279424266841227300,
+      "in_reply_to_status_id_str": "1279424266841227266",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:39:44 +0000 2020",
+      "id": 1279424663249174500,
+      "id_str": "1279424663249174530",
+      "text": "@blvdmitry На самом деле в releases можно посмотреть историю версий. А также отношение к пользователям\n\nhttps://t.co/XbyJ8PMV0a",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blvdmitry",
+            "name": "Dmitry Belyaev 🍌",
+            "id": 937270474303819800,
+            "id_str": "937270474303819777",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XbyJ8PMV0a",
+            "expanded_url": "http://github.com/zerobias/effector/releases",
+            "display_url": "github.com/zerobias/effec…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279422181483712500,
+      "in_reply_to_status_id_str": "1279422181483712513",
+      "in_reply_to_user_id": 937270474303819800,
+      "in_reply_to_user_id_str": "937270474303819777",
+      "in_reply_to_screen_name": "blvdmitry",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:45:22 +0000 2020",
+      "id": 1279426078604497000,
+      "id_str": "1279426078604496896",
+      "text": "Возможность, место, и способ вынести любую требуемую бизнес-логику из view, максимально упрощая компоненты",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279424268221255700,
+      "in_reply_to_status_id_str": "1279424268221255680",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:45:22 +0000 2020",
+      "id": 1279426080256995300,
+      "id_str": "1279426080256995333",
+      "text": "Независимость от спорных концепций — никаких декораторов, никаких зависимостей от реакта/rxjs либо необходимости юзать классы или прокси",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279426078604497000,
+      "in_reply_to_status_id_str": "1279426078604496896",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:45:23 +0000 2020",
+      "id": 1279426081729253400,
+      "id_str": "1279426081729253379",
+      "text": "Ничего из этого не требуется для управления состоянием приложения и поэтому апи библиотеки использует только функции и простые js объекты",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279426080256995300,
+      "in_reply_to_status_id_str": "1279426080256995333",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:45:23 +0000 2020",
+      "id": 1279426083494994000,
+      "id_str": "1279426083494993921",
+      "text": "Предсказуемость API — небольшое число базовых принципов переиспользуются в различных кейсах, снижая нагрузку на юзе… https://t.co/G7ePwBsgGx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/G7ePwBsgGx",
+            "expanded_url": "https://twitter.com/i/web/status/1279426083494993921",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279426081729253400,
+      "in_reply_to_status_id_str": "1279426081729253379",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:45:23 +0000 2020",
+      "id": 1279426085143404500,
+      "id_str": "1279426085143404544",
+      "text": "Те же базовые принципы позволяют построить вокруг эффектора дополнительные библиотеки методов, не снижая очевидност… https://t.co/sRmLibTqqX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sRmLibTqqX",
+            "expanded_url": "https://twitter.com/i/web/status/1279426085143404544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279426083494994000,
+      "in_reply_to_status_id_str": "1279426083494993921",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:50:38 +0000 2020",
+      "id": 1279427405178863600,
+      "id_str": "1279427405178863616",
+      "text": "Приложение строится из комбинации базовых элементов и возможности строить новые.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279426085143404500,
+      "in_reply_to_status_id_str": "1279426085143404544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:50:39 +0000 2020",
+      "id": 1279427406714097700,
+      "id_str": "1279427406714097671",
+      "text": "Нет никакого смысла стремиться выдать всё за стрим, за редьюсер или за обсервабл, в приложении требуются они все, и… https://t.co/gL8znA3R38",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gL8znA3R38",
+            "expanded_url": "https://twitter.com/i/web/status/1279427406714097671",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279427405178863600,
+      "in_reply_to_status_id_str": "1279427405178863616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:50:39 +0000 2020",
+      "id": 1279427408341467100,
+      "id_str": "1279427408341467145",
+      "text": "Отличие эффектора от контекста, и разница с внутриреактовыми сторами сводятся к одному: зонам ответственности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279427406714097700,
+      "in_reply_to_status_id_str": "1279427406714097671",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:50:39 +0000 2020",
+      "id": 1279427410287571000,
+      "id_str": "1279427410287570949",
+      "text": "Концепция реакта подразумевает, что фронтенд-разработчики — это части гигантского организма, в котором всё предопре… https://t.co/SYEusbMeo3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SYEusbMeo3",
+            "expanded_url": "https://twitter.com/i/web/status/1279427410287570949",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279427408341467100,
+      "in_reply_to_status_id_str": "1279427408341467145",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 14:50:40 +0000 2020",
+      "id": 1279427411965284400,
+      "id_str": "1279427411965284354",
+      "text": "Вся концепция эффектора предполагает, что мы сами решаем, что и когда мы отображаем, и каким образом обрабатываем —… https://t.co/20ECX5r9uc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/20ECX5r9uc",
+            "expanded_url": "https://twitter.com/i/web/status/1279427411965284354",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279427410287571000,
+      "in_reply_to_status_id_str": "1279427410287570949",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:46:10 +0000 2020",
+      "id": 1279456479532253200,
+      "id_str": "1279456479532253186",
+      "text": "Метод sample взял свое название из микроэлектроники. Гуглить «сэмплирование сигнала». Назначение: взять данные из с… https://t.co/9LASkgIMNo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9LASkgIMNo",
+            "expanded_url": "https://twitter.com/i/web/status/1279456479532253186",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279427411965284400,
+      "in_reply_to_status_id_str": "1279427411965284354",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:46:25 +0000 2020",
+      "id": 1279456540332904400,
+      "id_str": "1279456540332904450",
+      "text": "Эффектор предполагает, что все редюссеры чистые. Почитать про чистоту https://t.co/WzggrzyZAh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WzggrzyZAh",
+            "expanded_url": "https://effector.now.sh/docs/glossary",
+            "display_url": "effector.now.sh/docs/glossary",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279456479532253200,
+      "in_reply_to_status_id_str": "1279456479532253186",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:46:49 +0000 2020",
+      "id": 1279456640941600800,
+      "id_str": "1279456640941600768",
+      "text": "Для асинхронных вычислений имеется отдельный контейнер — Эффект. Называется так, потому что его нужно использовать… https://t.co/ZKgBZbKTJf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZKgBZbKTJf",
+            "expanded_url": "https://twitter.com/i/web/status/1279456640941600768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279456540332904400,
+      "in_reply_to_status_id_str": "1279456540332904450",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:47:15 +0000 2020",
+      "id": 1279456750551404500,
+      "id_str": "1279456750551404555",
+      "text": "20 и 21 версия вовсе не означает, что эффектор прошел столько мажорных обновлений. На самом деле, два года разработ… https://t.co/olv0vURsEd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/olv0vURsEd",
+            "expanded_url": "https://twitter.com/i/web/status/1279456750551404555",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279456640941600800,
+      "in_reply_to_status_id_str": "1279456640941600768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:47:29 +0000 2020",
+      "id": 1279456810085290000,
+      "id_str": "1279456810085289984",
+      "text": "Типы тестируются не привычным для всех способом — с помощью снапшотов сохраняется реакция системы типов на код. Так… https://t.co/FSD8amBSAA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FSD8amBSAA",
+            "expanded_url": "https://twitter.com/i/web/status/1279456810085289984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279456750551404500,
+      "in_reply_to_status_id_str": "1279456750551404555",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 04 16:47:50 +0000 2020",
+      "id": 1279456900661350400,
+      "id_str": "1279456900661350401",
+      "text": "Уже несколько лет автор разрабатывает Effector full-time на пожертвования и помощь сообщества. Призываю закинуть $5… https://t.co/XiF8fsa5xD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XiF8fsa5xD",
+            "expanded_url": "https://twitter.com/i/web/status/1279456900661350401",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1279456810085290000,
+      "in_reply_to_status_id_str": "1279456810085289984",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
