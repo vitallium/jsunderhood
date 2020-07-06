@@ -1,0 +1,103 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 06 07:38:14 +0000 2020",
+      "id": 1280043363543253000,
+      "id_str": "1280043363543252992",
+      "text": "Hello, everyone!\nThis week your host will be me, @thewizardlucas ✨\nI'm a Brazilian Software Engineer, currently in… https://t.co/BJdvGVFqNS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thewizardlucas",
+            "name": "Lucas, The Wizard 🇬🇧",
+            "id": 2722742863,
+            "id_str": "2722742863",
+            "indices": [
+              49,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BJdvGVFqNS",
+            "expanded_url": "https://twitter.com/i/web/status/1280043363543252992",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jul 06 07:38:14 +0000 2020",
+      "id": 1280043365074157600,
+      "id_str": "1280043365074157570",
+      "text": "I'm currently writing a book about JavaScript testing, which you can find at this tweet's link, and I often write a… https://t.co/zSk0lgfenQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zSk0lgfenQ",
+            "expanded_url": "https://twitter.com/i/web/status/1280043365074157570",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280043363543253000,
+      "in_reply_to_status_id_str": "1280043363543252992",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}
