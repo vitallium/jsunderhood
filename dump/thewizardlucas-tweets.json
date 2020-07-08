@@ -551,6 +551,612 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 08:14:40 +0000 2020",
+      "id": 1280414921851895800,
+      "id_str": "1280414921851895808",
+      "text": "One of the things that has made me the most productive in my career was to learn how to properly use a terminal.\nTo… https://t.co/KEADzmBie7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KEADzmBie7",
+            "expanded_url": "https://twitter.com/i/web/status/1280414921851895808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 08:14:41 +0000 2020",
+      "id": 1280414924485820400,
+      "id_str": "1280414924485820417",
+      "text": "A few things have changed in my stack since then, but, currently, here are the most important tools I've been using… https://t.co/7QLGW3zoIN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7QLGW3zoIN",
+            "expanded_url": "https://twitter.com/i/web/status/1280414924485820417",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280414921851895800,
+      "in_reply_to_status_id_str": "1280414921851895808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 08:14:42 +0000 2020",
+      "id": 1280414926490796000,
+      "id_str": "1280414926490796032",
+      "text": "As far as Vim plugins go, I don't use many. The ones I think are the most useful are FZF (https://t.co/ALXxGPMQ4Y)… https://t.co/kyqo3jqOEs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ALXxGPMQ4Y",
+            "expanded_url": "https://github.com/junegunn/fzf.vim",
+            "display_url": "github.com/junegunn/fzf.v…",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/kyqo3jqOEs",
+            "expanded_url": "https://twitter.com/i/web/status/1280414926490796032",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280414924485820400,
+      "in_reply_to_status_id_str": "1280414924485820417",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 08:14:42 +0000 2020",
+      "id": 1280414928717910000,
+      "id_str": "1280414928717910016",
+      "text": "You can find my dotfiles with these configs at https://t.co/YVzFUnWcyH.\n\nThese files have been wanting my attention… https://t.co/6uz5nFluux",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YVzFUnWcyH",
+            "expanded_url": "https://github.com/lucasfcosta/dotfiles",
+            "display_url": "github.com/lucasfcosta/do…",
+            "indices": [
+              47,
+              70
+            ]
+          },
+          {
+            "url": "https://t.co/6uz5nFluux",
+            "expanded_url": "https://twitter.com/i/web/status/1280414928717910016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280414926490796000,
+      "in_reply_to_status_id_str": "1280414926490796032",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 12:58:28 +0000 2020",
+      "id": 1280486340568789000,
+      "id_str": "1280486340568788995",
+      "text": "The best way to review PRs is to:\n⭐ Assume that there is _always_ something that can be improved and that your job… https://t.co/4h4T2QqVz2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4h4T2QqVz2",
+            "expanded_url": "https://twitter.com/i/web/status/1280486340568788995",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 13:57:44 +0000 2020",
+      "id": 1280501254507106300,
+      "id_str": "1280501254507106309",
+      "text": "@Chudesnov My point is not that it should always be pointed out, it’s just that when you review code without expect… https://t.co/RVZaMhbaaf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RVZaMhbaaf",
+            "expanded_url": "https://twitter.com/i/web/status/1280501254507106309",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1280494791839625200,
+      "in_reply_to_status_id_str": "1280494791839625218",
+      "in_reply_to_user_id": 8505772,
+      "in_reply_to_user_id_str": "8505772",
+      "in_reply_to_screen_name": "Chudesnov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 13:58:51 +0000 2020",
+      "id": 1280501536515375000,
+      "id_str": "1280501536515375105",
+      "text": "@Chudesnov I totally agree that you shouldn’t always point them out.\nI’m referring to the attitude you have during… https://t.co/ew914s1V2Q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "Sasha Chu",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ew914s1V2Q",
+            "expanded_url": "https://twitter.com/i/web/status/1280501536515375105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1280501254507106300,
+      "in_reply_to_status_id_str": "1280501254507106309",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:08 +0000 2020",
+      "id": 1280537343263473700,
+      "id_str": "1280537343263473670",
+      "text": "Akin’s Laws of Spacecraft Design (https://t.co/Rs8uEwkTtJ) are one of the most useful pieces of wisdom for any engi… https://t.co/Jnvhwx8YcP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rs8uEwkTtJ",
+            "expanded_url": "https://spacecraft.ssl.umd.edu/akins_laws.html",
+            "display_url": "spacecraft.ssl.umd.edu/akins_laws.html",
+            "indices": [
+              34,
+              57
+            ]
+          },
+          {
+            "url": "https://t.co/Jnvhwx8YcP",
+            "expanded_url": "https://twitter.com/i/web/status/1280537343263473670",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:08 +0000 2020",
+      "id": 1280537344580386800,
+      "id_str": "1280537344580386817",
+      "text": "1. Engineering is done with numbers. Analysis without numbers is only an opinion.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537343263473700,
+      "in_reply_to_status_id_str": "1280537343263473670",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:09 +0000 2020",
+      "id": 1280537348082630700,
+      "id_str": "1280537348082630658",
+      "text": "2. To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to… https://t.co/TlcwYvUnCJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TlcwYvUnCJ",
+            "expanded_url": "https://twitter.com/i/web/status/1280537348082630658",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537344580386800,
+      "in_reply_to_status_id_str": "1280537344580386817",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:09 +0000 2020",
+      "id": 1280537349424910300,
+      "id_str": "1280537349424910338",
+      "text": "8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537348082630700,
+      "in_reply_to_status_id_str": "1280537348082630658",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:10 +0000 2020",
+      "id": 1280537351714996200,
+      "id_str": "1280537351714996224",
+      "text": "9. Not having all the information you need is never a satisfactory excuse for not starting the analysis.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537349424910300,
+      "in_reply_to_status_id_str": "1280537349424910338",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:10 +0000 2020",
+      "id": 1280537353254248400,
+      "id_str": "1280537353254248449",
+      "text": "20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537351714996200,
+      "in_reply_to_status_id_str": "1280537351714996224",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jul 07 16:21:11 +0000 2020",
+      "id": 1280537355062055000,
+      "id_str": "1280537355062054913",
+      "text": "33. (Patton's Law of Program Planning) A good plan violently executed now is better than a perfect plan next week.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1280537353254248400,
+      "in_reply_to_status_id_str": "1280537353254248449",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
