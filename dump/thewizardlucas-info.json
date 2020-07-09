@@ -5,7 +5,7 @@
   "screen_name": "jsunderhood",
   "location": "Saint Petersburg, Russia",
   "profile_location": null,
-  "description": "This week: @thewizardlucas. I'm a Brazilian Software Engineer currently in London. I'm an author and core-maintainer of Chai.js, and Sinon.js.",
+  "description": "This week: @thewizardlucas. I'm a Brazilian Software Engineer currently in London. I'm an author and core-maintainer of Chai.js and Sinon.js.",
   "url": "https://t.co/fwyazsExPh",
   "entities": {
     "url": {
@@ -26,8 +26,8 @@
     }
   },
   "protected": false,
-  "followers_count": 8107,
-  "friends_count": 543,
+  "followers_count": 8108,
+  "friends_count": 542,
   "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 4813,
@@ -35,26 +35,51 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40127,
+  "statuses_count": 40143,
   "lang": null,
   "status": {
-    "created_at": "Tue Jul 07 16:21:11 +0000 2020",
-    "id": 1280537355062055000,
-    "id_str": "1280537355062054913",
-    "text": "33. (Patton's Law of Program Planning) A good plan violently executed now is better than a perfect plan next week.",
-    "truncated": false,
+    "created_at": "Wed Jul 08 18:07:14 +0000 2020",
+    "id": 1280926430164127700,
+    "id_str": "1280926430164127745",
+    "text": "To complement the two threads about #unix #streams that I've done today, here go a few related links that I'd recom… https://t.co/CdC2DLnjM1",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "unix",
+          "indices": [
+            36,
+            41
+          ]
+        },
+        {
+          "text": "streams",
+          "indices": [
+            42,
+            50
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CdC2DLnjM1",
+          "expanded_url": "https://twitter.com/i/web/status/1280926430164127745",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1280537353254248400,
-    "in_reply_to_status_id_str": "1280537353254248449",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -64,6 +89,7 @@
     "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
