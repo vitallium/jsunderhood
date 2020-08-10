@@ -1,0 +1,414 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 10 08:36:50 +0000 2020",
+      "id": 1292741684086870000,
+      "id_str": "1292741684086870016",
+      "text": "Привет мир! Я Сергей Мелюков (@smelukov). Работаю архитектором в Яндекс Маркет. Люблю ООП, сборщики (особенно самоп… https://t.co/rYCuq8FC59",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smelukov",
+            "name": "Sergey Melyukov",
+            "id": 1598533424,
+            "id_str": "1598533424",
+            "indices": [
+              30,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rYCuq8FC59",
+            "expanded_url": "https://twitter.com/i/web/status/1292741684086870016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 08:40:17 +0000 2020",
+      "id": 1292742553851363300,
+      "id_str": "1292742553851363328",
+      "text": "Хочется немного пообщаться ☺️ Как вы относитесь к хелперам модификации типов типа Pick/Omit/etc в TS/Flow",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 09:48:31 +0000 2020",
+      "id": 1292759726351159300,
+      "id_str": "1292759726351159296",
+      "text": "@vitkarpov @smelukov Я занимаюсь проектированием архитектуры фронтенда: как он будет работать, разрабатываться, соб… https://t.co/ufC4KnqHV4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vitkarpov",
+            "name": "Viktor Karpov",
+            "id": 3973225558,
+            "id_str": "3973225558",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "smelukov",
+            "name": "Sergey Melyukov",
+            "id": 1598533424,
+            "id_str": "1598533424",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ufC4KnqHV4",
+            "expanded_url": "https://twitter.com/i/web/status/1292759726351159296",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292748199439011800,
+      "in_reply_to_status_id_str": "1292748199439011851",
+      "in_reply_to_user_id": 3973225558,
+      "in_reply_to_user_id_str": "3973225558",
+      "in_reply_to_screen_name": "vitkarpov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:03:30 +0000 2020",
+      "id": 1292808794205036500,
+      "id_str": "1292808794205036544",
+      "text": "Собственно, к чему это... Я противник нескольких вещей:\n- хелперы/утилиты модификации типов\n- type union (||) и typ… https://t.co/BcQsuH95Dg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BcQsuH95Dg",
+            "expanded_url": "https://twitter.com/i/web/status/1292808794205036544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292742553851363300,
+      "in_reply_to_status_id_str": "1292742553851363328",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:03:53 +0000 2020",
+      "id": 1292808892309737500,
+      "id_str": "1292808892309737472",
+      "text": "Utility Types - набор функций. На вход поступает один тип, на выходе - другой\nИспользуются для извлечения/модификац… https://t.co/4NvJvJypBF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4NvJvJypBF",
+            "expanded_url": "https://twitter.com/i/web/status/1292808892309737472",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292808794205036500,
+      "in_reply_to_status_id_str": "1292808794205036544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:04:10 +0000 2020",
+      "id": 1292808963742994400,
+      "id_str": "1292808963742994433",
+      "text": "Как минимум ухудшается читаемость/поддерживаемость кода, особенно при большой вложенности\nЧасто применяются не пото… https://t.co/Bgda3oIl8e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Bgda3oIl8e",
+            "expanded_url": "https://twitter.com/i/web/status/1292808963742994433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292808892309737500,
+      "in_reply_to_status_id_str": "1292808892309737472",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:04:33 +0000 2020",
+      "id": 1292809059679142000,
+      "id_str": "1292809059679141890",
+      "text": "В итоге, изменив входной тип, мы сломаем места, в которых используется выходной тип, их нужно будет рефакторить. Си… https://t.co/pUr5jca38D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pUr5jca38D",
+            "expanded_url": "https://twitter.com/i/web/status/1292809059679141890",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292808963742994400,
+      "in_reply_to_status_id_str": "1292808963742994433",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:04:53 +0000 2020",
+      "id": 1292809144257384400,
+      "id_str": "1292809144257384449",
+      "text": "Если мы хотим именно расширить тип и выходной реально зависит от входного, то стоит задать себе вопрос: а правильно… https://t.co/4nXPNtt4ZQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4nXPNtt4ZQ",
+            "expanded_url": "https://twitter.com/i/web/status/1292809144257384449",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292809059679142000,
+      "in_reply_to_status_id_str": "1292809059679141890",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:05:11 +0000 2020",
+      "id": 1292809217586405400,
+      "id_str": "1292809217586405377",
+      "text": "Давайте попробуем устроить интерактив: присылайте свои примеры использования хелперов (пример кода и описание того,… https://t.co/uTXTZPySSY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uTXTZPySSY",
+            "expanded_url": "https://twitter.com/i/web/status/1292809217586405377",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292809144257384400,
+      "in_reply_to_status_id_str": "1292809144257384449",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
