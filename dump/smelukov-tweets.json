@@ -409,6 +409,104 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:26:10 +0000 2020",
+      "id": 1292814499939078100,
+      "id_str": "1292814499939078151",
+      "text": "@batyshkaLenin Давайте посмотрим на конкретные примеры :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "batyshkaLenin",
+            "name": "Батюшка Ленин",
+            "id": 948853060964700200,
+            "id_str": "948853060964700160",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292809808031166500,
+      "in_reply_to_status_id_str": "1292809808031166468",
+      "in_reply_to_user_id": 948853060964700200,
+      "in_reply_to_user_id_str": "948853060964700160",
+      "in_reply_to_screen_name": "batyshkaLenin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 10 13:31:03 +0000 2020",
+      "id": 1292815726638772200,
+      "id_str": "1292815726638772236",
+      "text": "@lya_pushka Почему бы тогда просто не описать тип, который вы получаете в результате pick? Он ведь заранее известен… https://t.co/Qbf2EwcNAu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Qbf2EwcNAu",
+            "expanded_url": "https://twitter.com/i/web/status/1292815726638772236",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1292812773743788000,
+      "in_reply_to_status_id_str": "1292812773743788034",
+      "in_reply_to_user_id": 850402921,
+      "in_reply_to_user_id_str": "850402921",
+      "in_reply_to_screen_name": "lya_pushka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
