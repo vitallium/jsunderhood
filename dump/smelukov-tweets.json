@@ -507,6 +507,926 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 16:31:45 +0000 2020",
+      "id": 1293223591115358200,
+      "id_str": "1293223591115358209",
+      "text": "@lya_pushka Нет, дублировать не нужно\nНапример, у 3rd patry компонента пропы имеют тип:\n{\n  foo: Foo,\n  bar: Bar,… https://t.co/txjJc2RIKd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/txjJc2RIKd",
+            "expanded_url": "https://twitter.com/i/web/status/1293223591115358209",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292816727512879000,
+      "in_reply_to_status_id_str": "1292816727512879105",
+      "in_reply_to_user_id": 850402921,
+      "in_reply_to_user_id_str": "850402921",
+      "in_reply_to_screen_name": "lya_pushka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 16:33:10 +0000 2020",
+      "id": 1293223948549849000,
+      "id_str": "1293223948549849088",
+      "text": "@timocov_ @lya_pushka Описываю свой тип (без pick) и ссылаясь на другие типы, вы так же сохраните навигацию по коду и связь типов",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timocov_",
+            "name": "Evgeniy Timokhov",
+            "id": 632134937,
+            "id_str": "632134937",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292834581029298200,
+      "in_reply_to_status_id_str": "1292834581029298178",
+      "in_reply_to_user_id": 632134937,
+      "in_reply_to_user_id_str": "632134937",
+      "in_reply_to_screen_name": "timocov_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:14:18 +0000 2020",
+      "id": 1293234299433558000,
+      "id_str": "1293234299433558018",
+      "text": "@goodhoopoe Ну я бы не сказал, что optional это какой-то хелпер, а вот Required - да, подходящий пример\nЧастый испо… https://t.co/hCgPS8aUNU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hCgPS8aUNU",
+            "expanded_url": "https://twitter.com/i/web/status/1293234299433558018",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292898499739123700,
+      "in_reply_to_status_id_str": "1292898499739123714",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:16:35 +0000 2020",
+      "id": 1293234873252151300,
+      "id_str": "1293234873252151302",
+      "text": "@goodhoopoe Я бы даже сказал, что тут есть целый класс вопросов к проектированию. Плюс, конечно, есть момент оформления сторонних библиотек",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293234299433558000,
+      "in_reply_to_status_id_str": "1293234299433558018",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:30:22 +0000 2020",
+      "id": 1293238341945757700,
+      "id_str": "1293238341945757696",
+      "text": "@goodhoopoe А вот по поводу nullable есть вопросы к JS/TS\nНапример, в Java мы не должны явно указывать nullable и т… https://t.co/8D3iRS0d0p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8D3iRS0d0p",
+            "expanded_url": "https://twitter.com/i/web/status/1293238341945757696",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293234873252151300,
+      "in_reply_to_status_id_str": "1293234873252151302",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 11 17:40:31 +0000 2020",
+      "id": 1293240897258369000,
+      "id_str": "1293240897258369024",
+      "text": "@goodhoopoe Во Flow, например, есть maybe type:\nlet foo: ?String = null\nНо он покрывает и кейс с undefined\nlet foo:… https://t.co/h5lelKLAsg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/h5lelKLAsg",
+            "expanded_url": "https://twitter.com/i/web/status/1293240897258369024",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293238341945757700,
+      "in_reply_to_status_id_str": "1293238341945757696",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 11 17:42:30 +0000 2020",
+      "id": 1293241396661543000,
+      "id_str": "1293241396661542924",
+      "text": "@goodhoopoe Есть так же отдельный вопрос к JS по наличию в нем undefined в принципе :)\nБерем те же самые Java, Kotl… https://t.co/BDyymIyrUZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BDyymIyrUZ",
+            "expanded_url": "https://twitter.com/i/web/status/1293241396661542924",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293240897258369000,
+      "in_reply_to_status_id_str": "1293240897258369024",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:47:31 +0000 2020",
+      "id": 1293242655476981800,
+      "id_str": "1293242655476981761",
+      "text": "@andrew__romanov Вот тут как раз обсуждаем https://t.co/bClSMVlJI0\nДа, всегда легче написать один Omit, чем описать… https://t.co/LBBPtwYYiA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andrew__romanov",
+            "name": "Andrey Romanov",
+            "id": 1567569788,
+            "id_str": "1567569788",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bClSMVlJI0",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1292815726638772236",
+            "display_url": "twitter.com/jsunderhood/st…",
+            "indices": [
+              43,
+              66
+            ]
+          },
+          {
+            "url": "https://t.co/LBBPtwYYiA",
+            "expanded_url": "https://twitter.com/i/web/status/1293242655476981761",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292816168663879700,
+      "in_reply_to_status_id_str": "1292816168663879681",
+      "in_reply_to_user_id": 1567569788,
+      "in_reply_to_user_id_str": "1567569788",
+      "in_reply_to_screen_name": "andrew__romanov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1292815726638772200,
+      "quoted_status_id_str": "1292815726638772236",
+      "quoted_status": {
+        "created_at": "Mon Aug 10 13:31:03 +0000 2020",
+        "id": 1292815726638772200,
+        "id_str": "1292815726638772236",
+        "text": "@lya_pushka Почему бы тогда просто не описать тип, который вы получаете в результате pick? Он ведь заранее известен… https://t.co/Qbf2EwcNAu",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "lya_pushka",
+              "name": "Ля, пушка",
+              "id": 850402921,
+              "id_str": "850402921",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Qbf2EwcNAu",
+              "expanded_url": "https://twitter.com/i/web/status/1292815726638772236",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1292812773743788000,
+        "in_reply_to_status_id_str": "1292812773743788034",
+        "in_reply_to_user_id": 850402921,
+        "in_reply_to_user_id_str": "850402921",
+        "in_reply_to_screen_name": "lya_pushka",
+        "user": {
+          "id": 3014054307,
+          "id_str": "3014054307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:50:45 +0000 2020",
+      "id": 1293243472678461400,
+      "id_str": "1293243472678461443",
+      "text": "@lya_pushka Конечно, может быть проблема с тем, как оформлены сторонние библиотеки. Но тут все же вопрос подхода, к… https://t.co/s0ol2WG48e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/s0ol2WG48e",
+            "expanded_url": "https://twitter.com/i/web/status/1293243472678461443",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293228939649917000,
+      "in_reply_to_status_id_str": "1293228939649916929",
+      "in_reply_to_user_id": 850402921,
+      "in_reply_to_user_id_str": "850402921",
+      "in_reply_to_screen_name": "lya_pushka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:52:15 +0000 2020",
+      "id": 1293243846818701300,
+      "id_str": "1293243846818701314",
+      "text": "@lya_pushka Если тип, который возвращает 3rdPartyInitializer заранее известен, то зачем тогда использовать ReturnTy… https://t.co/XwXjPYh7CU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XwXjPYh7CU",
+            "expanded_url": "https://twitter.com/i/web/status/1293243846818701314",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292818653042413600,
+      "in_reply_to_status_id_str": "1292818653042413570",
+      "in_reply_to_user_id": 850402921,
+      "in_reply_to_user_id_str": "850402921",
+      "in_reply_to_screen_name": "lya_pushka",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 17:54:30 +0000 2020",
+      "id": 1293244414962348000,
+      "id_str": "1293244414962348033",
+      "text": "@goodhoopoe И увеличение энтропии :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293241898098987000,
+      "in_reply_to_status_id_str": "1293241898098987008",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 18:09:17 +0000 2020",
+      "id": 1293248133548449800,
+      "id_str": "1293248133548449796",
+      "text": "@shuvalov_js Это вопрос с проектированию. Смотря для чего вам onChange\nЕсли вам нужна реакция на апдейт конкретного… https://t.co/cfV7Wvi4Zc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Лапидарный Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cfV7Wvi4Zc",
+            "expanded_url": "https://twitter.com/i/web/status/1293248133548449796",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292817889062301700,
+      "in_reply_to_status_id_str": "1292817889062301702",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 18:10:09 +0000 2020",
+      "id": 1293248352738578400,
+      "id_str": "1293248352738578433",
+      "text": "@shuvalov_js Например, накапливать обновленные поля и отправлять их на сервер вместе с данными\nНо тут мы втыкаемся… https://t.co/FT3K0MfiK5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Лапидарный Фронтенд",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FT3K0MfiK5",
+            "expanded_url": "https://twitter.com/i/web/status/1293248352738578433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293248133548449800,
+      "in_reply_to_status_id_str": "1293248133548449796",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 18:53:06 +0000 2020",
+      "id": 1293259161203912700,
+      "id_str": "1293259161203912704",
+      "text": "@timocov_ @lya_pushka А, вы говорите про сквозную навигацию «по смыслу»?\nДа, в этом плане, pick и ему подобные, свя… https://t.co/zA4TkNftDY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timocov_",
+            "name": "Evgeniy Timokhov",
+            "id": 632134937,
+            "id_str": "632134937",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "lya_pushka",
+            "name": "Ля, пушка",
+            "id": 850402921,
+            "id_str": "850402921",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zA4TkNftDY",
+            "expanded_url": "https://twitter.com/i/web/status/1293259161203912704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1293235258821836800,
+      "in_reply_to_status_id_str": "1293235258821836803",
+      "in_reply_to_user_id": 632134937,
+      "in_reply_to_user_id_str": "632134937",
+      "in_reply_to_screen_name": "timocov_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:01:16 +0000 2020",
+      "id": 1293261219177074700,
+      "id_str": "1293261219177074688",
+      "text": "@timocov_ Можно сказать, что такой подход - частая практика в языках с динамической типизацией\nА так, этот кейс мож… https://t.co/LCuJzMYmc2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timocov_",
+            "name": "Evgeniy Timokhov",
+            "id": 632134937,
+            "id_str": "632134937",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LCuJzMYmc2",
+            "expanded_url": "https://twitter.com/i/web/status/1293261219177074688",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1292836128341581800,
+      "in_reply_to_status_id_str": "1292836128341581824",
+      "in_reply_to_user_id": 632134937,
+      "in_reply_to_user_id_str": "632134937",
+      "in_reply_to_screen_name": "timocov_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 11 19:03:06 +0000 2020",
+      "id": 1293261677526495200,
+      "id_str": "1293261677526495233",
+      "text": "@timocov_ В общем и целом, всё исходит из того, что с одной стороны мы хотим пользоваться всеми благами динамическо… https://t.co/WIP05SDpuS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timocov_",
+            "name": "Evgeniy Timokhov",
+            "id": 632134937,
+            "id_str": "632134937",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WIP05SDpuS",
+            "expanded_url": "https://twitter.com/i/web/status/1293261677526495233",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1293261219177074700,
+      "in_reply_to_status_id_str": "1293261219177074688",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

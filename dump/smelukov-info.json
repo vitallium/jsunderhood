@@ -30,38 +30,38 @@
   "friends_count": 541,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4843,
+  "favourites_count": 4844,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40337,
+  "statuses_count": 40353,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 10 13:31:03 +0000 2020",
-    "id": 1292815726638772200,
-    "id_str": "1292815726638772236",
-    "text": "@lya_pushka Почему бы тогда просто не описать тип, который вы получаете в результате pick? Он ведь заранее известен… https://t.co/Qbf2EwcNAu",
+    "created_at": "Tue Aug 11 19:03:06 +0000 2020",
+    "id": 1293261677526495200,
+    "id_str": "1293261677526495233",
+    "text": "@timocov_ В общем и целом, всё исходит из того, что с одной стороны мы хотим пользоваться всеми благами динамическо… https://t.co/WIP05SDpuS",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lya_pushka",
-          "name": "Ля, пушка",
-          "id": 850402921,
-          "id_str": "850402921",
+          "screen_name": "timocov_",
+          "name": "Evgeniy Timokhov",
+          "id": 632134937,
+          "id_str": "632134937",
           "indices": [
             0,
-            11
+            9
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/Qbf2EwcNAu",
-          "expanded_url": "https://twitter.com/i/web/status/1292815726638772236",
+          "url": "https://t.co/WIP05SDpuS",
+          "expanded_url": "https://twitter.com/i/web/status/1293261677526495233",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -70,12 +70,12 @@
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1292812773743788000,
-    "in_reply_to_status_id_str": "1292812773743788034",
-    "in_reply_to_user_id": 850402921,
-    "in_reply_to_user_id_str": "850402921",
-    "in_reply_to_screen_name": "lya_pushka",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1293261219177074700,
+    "in_reply_to_status_id_str": "1293261219177074688",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
