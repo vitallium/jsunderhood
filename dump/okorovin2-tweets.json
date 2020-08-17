@@ -1,0 +1,232 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 17 10:07:35 +0000 2020",
+      "id": 1295301240537133000,
+      "id_str": "1295301240537133057",
+      "text": "Му!\nЭту неделю с вами я - Олег Коровин @okorovin2. Я занимаюсь фронтенд платформой в Одноклассниках. Мы дружим Java… https://t.co/ZqZgbjStw2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "okorovin2",
+            "name": "Oleg Korovin",
+            "id": 1046834047215947800,
+            "id_str": "1046834047215947776",
+            "indices": [
+              39,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZqZgbjStw2",
+            "expanded_url": "https://twitter.com/i/web/status/1295301240537133057",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 17 10:08:35 +0000 2020",
+      "id": 1295301488496042000,
+      "id_str": "1295301488496041984",
+      "text": "До меня было много уважаемых специалистов и много технических разговоров, поэтому я на контрасте попробую понавалив… https://t.co/kev3qPaFyZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kev3qPaFyZ",
+            "expanded_url": "https://twitter.com/i/web/status/1295301488496041984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295301240537133000,
+      "in_reply_to_status_id_str": "1295301240537133057",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 17 10:10:10 +0000 2020",
+      "id": 1295301890297692200,
+      "id_str": "1295301890297692160",
+      "text": "@dskr_dev @okorovin2 Не без этого )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dskr_dev",
+            "name": "Дмитрий Скрыльников",
+            "id": 727617706665594900,
+            "id_str": "727617706665594882",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "okorovin2",
+            "name": "Oleg Korovin",
+            "id": 1046834047215947800,
+            "id_str": "1046834047215947776",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295301547165974500,
+      "in_reply_to_status_id_str": "1295301547165974528",
+      "in_reply_to_user_id": 727617706665594900,
+      "in_reply_to_user_id_str": "727617706665594882",
+      "in_reply_to_screen_name": "dskr_dev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 17 10:10:23 +0000 2020",
+      "id": 1295301941963169800,
+      "id_str": "1295301941963169794",
+      "text": "На заре своей деятельности я был вебмастером. Помните, что это такое?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 17 11:58:13 +0000 2020",
+      "id": 1295329078476779500,
+      "id_str": "1295329078476779522",
+      "text": "@zulllkar Воу, точно. Я уже даже что-то начал забывать что такое дримвивер ))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zulllkar",
+            "name": "Zulkar",
+            "id": 1077054156,
+            "id_str": "1077054156",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295325668646027300,
+      "in_reply_to_status_id_str": "1295325668646027266",
+      "in_reply_to_user_id": 1077054156,
+      "in_reply_to_user_id_str": "1077054156",
+      "in_reply_to_screen_name": "zulllkar",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
