@@ -488,6 +488,353 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 08:24:39 +0000 2020",
+      "id": 1295637723190001700,
+      "id_str": "1295637723190001664",
+      "text": "Что такое GraalVM? \nэто рантайм высокой производительности, выполняющий программы на разных языках. В нем есть фрей… https://t.co/BXz0naHolE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BXz0naHolE",
+            "expanded_url": "https://twitter.com/i/web/status/1295637723190001664",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 08:26:03 +0000 2020",
+      "id": 1295638073049600000,
+      "id_str": "1295638073049600001",
+      "text": "Кому может быть интересен GraalVM?\nЕсли у вас проект в котором серверный рендеринг не на JS. Это значит, что логика… https://t.co/1omif4nvtS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1omif4nvtS",
+            "expanded_url": "https://twitter.com/i/web/status/1295638073049600001",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 08:26:16 +0000 2020",
+      "id": 1295638130154975200,
+      "id_str": "1295638130154975232",
+      "text": "Вот тут и может быть полезен GraalVM. Вы сможете запустить текущий код, что у вас есть в новом рантайме и он будет… https://t.co/51hu3jhyhd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/51hu3jhyhd",
+            "expanded_url": "https://twitter.com/i/web/status/1295638130154975232",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295638073049600000,
+      "in_reply_to_status_id_str": "1295638073049600001",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 08:26:27 +0000 2020",
+      "id": 1295638173742174200,
+      "id_str": "1295638173742174209",
+      "text": "В нашем случае - это JS. Это позволит писать UI уже на чем захочется из JS фреймворков, которые можно выполнить на… https://t.co/0Cg4nE2Or3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0Cg4nE2Or3",
+            "expanded_url": "https://twitter.com/i/web/status/1295638173742174209",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295638073049600000,
+      "in_reply_to_status_id_str": "1295638073049600001",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 09:02:05 +0000 2020",
+      "id": 1295647142158250000,
+      "id_str": "1295647142158249985",
+      "text": "@_sergeysova https://t.co/phl4jpzaXV\n\nGraalVM can execute C/C++, Rust, and other languages that can be compiled to LLVM bitcode.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeysova",
+            "name": "Сергей Сова 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/phl4jpzaXV",
+            "expanded_url": "https://www.graalvm.org/docs/reference-manual/languages/llvm/",
+            "display_url": "graalvm.org/docs/reference…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295643013558018000,
+      "in_reply_to_status_id_str": "1295643013558018048",
+      "in_reply_to_user_id": 1869144025,
+      "in_reply_to_user_id_str": "1869144025",
+      "in_reply_to_screen_name": "_sergeysova",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 18 09:02:55 +0000 2020",
+      "id": 1295647351739228200,
+      "id_str": "1295647351739228163",
+      "text": "@_sergeysova По факту никаких ограничений нет. Вы можете написать свой язык и интерпретатор для него в граале",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_sergeysova",
+            "name": "Сергей Сова 🦉",
+            "id": 1869144025,
+            "id_str": "1869144025",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1295643013558018000,
+      "in_reply_to_status_id_str": "1295643013558018048",
+      "in_reply_to_user_id": 1869144025,
+      "in_reply_to_user_id_str": "1869144025",
+      "in_reply_to_screen_name": "_sergeysova",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 12:14:07 +0000 2020",
+      "id": 1295695468530487300,
+      "id_str": "1295695468530487296",
+      "text": "Какой стейт менеджер?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 18 18:11:24 +0000 2020",
+      "id": 1295785381200302000,
+      "id_str": "1295785381200302080",
+      "text": "Завтра попробую слить в топку Redux. А пока наброс:\n\nРабота, работа, работа... Почему никто не говорит: \" спасибо,… https://t.co/fUwbc6tHSv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fUwbc6tHSv",
+            "expanded_url": "https://twitter.com/i/web/status/1295785381200302080",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
