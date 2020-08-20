@@ -835,6 +835,939 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 08:09:49 +0000 2020",
+      "id": 1295996378422939600,
+      "id_str": "1295996378422939648",
+      "text": "Мое личное мнение, что можно сравнить MobX / Vuex с Redux, как современные фреймворки и jQuery.\n\nСейчас ситуация с… https://t.co/Ihm1ihIqzn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ihm1ihIqzn",
+            "expanded_url": "https://twitter.com/i/web/status/1295996378422939648",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 57,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 08:32:37 +0000 2020",
+      "id": 1296002115593212000,
+      "id_str": "1296002115593211906",
+      "text": "Считаю, что MobX удобнее всего в работе с состоянием.\n\nКод читать проще всего. Просто вызываем функции, меняем знач… https://t.co/Tfu9JDWJHN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Tfu9JDWJHN",
+            "expanded_url": "https://twitter.com/i/web/status/1296002115593211906",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 09:54:04 +0000 2020",
+      "id": 1296022613052002300,
+      "id_str": "1296022613052002306",
+      "text": "@aelyseev Ну понятно, что в формате твиттера представлять примеры не очень удобно.\n\nА при каком мнении вы бы остались? )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aelyseev",
+            "name": "Алексей Елисеев",
+            "id": 239036762,
+            "id_str": "239036762",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296021422767251500,
+      "in_reply_to_status_id_str": "1296021422767251458",
+      "in_reply_to_user_id": 239036762,
+      "in_reply_to_user_id_str": "239036762",
+      "in_reply_to_screen_name": "aelyseev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 09:57:15 +0000 2020",
+      "id": 1296023411962138600,
+      "id_str": "1296023411962138625",
+      "text": "@iGontarev Можно переписать данный код и без декораторов используя метод observable(0)\n\nили даже observable({ ..allYorStore })",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iGontarev",
+            "name": "undefined ❌",
+            "id": 488568209,
+            "id_str": "488568209",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296002532741873700,
+      "in_reply_to_status_id_str": "1296002532741873664",
+      "in_reply_to_user_id": 488568209,
+      "in_reply_to_user_id_str": "488568209",
+      "in_reply_to_screen_name": "iGontarev",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 09:58:31 +0000 2020",
+      "id": 1296023732054626300,
+      "id_str": "1296023732054626304",
+      "text": "@mbomak2 @_itdeveloper Вы же видите на картинке рабочий пример. Никаких контекстов тут нет.\n\nКонтекст будет нужен, если использовать inject",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mbomak2",
+            "name": "mbomak",
+            "id": 1286405113981087700,
+            "id_str": "1286405113981087746",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "_itdeveloper",
+            "name": "АйТи Разработчик",
+            "id": 1184115125986480000,
+            "id_str": "1184115125986480128",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296016785746137000,
+      "in_reply_to_status_id_str": "1296016785746137093",
+      "in_reply_to_user_id": 1286405113981087700,
+      "in_reply_to_user_id_str": "1286405113981087746",
+      "in_reply_to_screen_name": "mbomak2",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 10:04:32 +0000 2020",
+      "id": 1296025248123564000,
+      "id_str": "1296025248123564033",
+      "text": "@neutralord Кажетя, что в работе с состоянием всегда один и тот же подход\n\nЕсть состояние, потом оно как-то меняетс… https://t.co/KZk0LadTBN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "neutralord",
+            "name": "Nikita Dementev",
+            "id": 185928231,
+            "id_str": "185928231",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KZk0LadTBN",
+            "expanded_url": "https://twitter.com/i/web/status/1296025248123564033",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296005568499454000,
+      "in_reply_to_status_id_str": "1296005568499453954",
+      "in_reply_to_user_id": 185928231,
+      "in_reply_to_user_id_str": "185928231",
+      "in_reply_to_screen_name": "neutralord",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 10:57:20 +0000 2020",
+      "id": 1296038532549673000,
+      "id_str": "1296038532549672960",
+      "text": "@goodhoopoe Вот это мне кажется одной из главных проблем Redux -  это смешение бизнес логики и хранения данных. \nТо… https://t.co/J7UKxVEwWP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J7UKxVEwWP",
+            "expanded_url": "https://twitter.com/i/web/status/1296038532549672960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296015169831800800,
+      "in_reply_to_status_id_str": "1296015169831800832",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 10:58:30 +0000 2020",
+      "id": 1296038827887394800,
+      "id_str": "1296038827887394816",
+      "text": "@Sergey24816 А какие требования к элегантности? )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sergey24816",
+            "name": "Sergey Komarov",
+            "id": 3218151837,
+            "id_str": "3218151837",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296004382761386000,
+      "in_reply_to_status_id_str": "1296004382761385984",
+      "in_reply_to_user_id": 3218151837,
+      "in_reply_to_user_id_str": "3218151837",
+      "in_reply_to_screen_name": "Sergey24816",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 10:59:38 +0000 2020",
+      "id": 1296039111346786300,
+      "id_str": "1296039111346786306",
+      "text": "@neutralord Да, но вот есть прикладное использование той или иной библиотеки.\n\nИ тут на поверхность выходят разные… https://t.co/CVp3uRI3tI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "neutralord",
+            "name": "Nikita Dementev",
+            "id": 185928231,
+            "id_str": "185928231",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CVp3uRI3tI",
+            "expanded_url": "https://twitter.com/i/web/status/1296039111346786306",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296030547291013000,
+      "in_reply_to_status_id_str": "1296030547291013120",
+      "in_reply_to_user_id": 185928231,
+      "in_reply_to_user_id_str": "185928231",
+      "in_reply_to_screen_name": "neutralord",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 11:13:29 +0000 2020",
+      "id": 1296042596704424000,
+      "id_str": "1296042596704423944",
+      "text": "Что мне не нравится в Redux:\n- синтаксис - многа кода, очень многа кода\n- существующая норма по смешиванию в кучу д… https://t.co/vyh34uPdu6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vyh34uPdu6",
+            "expanded_url": "https://twitter.com/i/web/status/1296042596704423944",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 11:17:42 +0000 2020",
+      "id": 1296043660904214500,
+      "id_str": "1296043660904214528",
+      "text": "Давайте вместе посравнимаем разные либы.\nНе в формате, ой это просто клево\nА по разным критериям\n\nУдобство\nПонятнос… https://t.co/mQ5cd8Gapn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mQ5cd8Gapn",
+            "expanded_url": "https://twitter.com/i/web/status/1296043660904214528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296042596704424000,
+      "in_reply_to_status_id_str": "1296042596704423944",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 12:11:11 +0000 2020",
+      "id": 1296057117967888400,
+      "id_str": "1296057117967888386",
+      "text": "@neutralord Если брать как таковой, то можно выкинуть пункт доп либы. но оверхед на код и на проц, кажется никуда не девается",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "neutralord",
+            "name": "Nikita Dementev",
+            "id": 185928231,
+            "id_str": "185928231",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296046234592055300,
+      "in_reply_to_status_id_str": "1296046234592055296",
+      "in_reply_to_user_id": 185928231,
+      "in_reply_to_user_id_str": "185928231",
+      "in_reply_to_screen_name": "neutralord",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 16:08:12 +0000 2020",
+      "id": 1296116768134631400,
+      "id_str": "1296116768134631424",
+      "text": "@neutralord При изменении любой части стора идет оповещение всех присоедененных компонент, затем для каждой выполня… https://t.co/BUlu5YASRa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "neutralord",
+            "name": "Nikita Dementev",
+            "id": 185928231,
+            "id_str": "185928231",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BUlu5YASRa",
+            "expanded_url": "https://twitter.com/i/web/status/1296116768134631424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296063071698419700,
+      "in_reply_to_status_id_str": "1296063071698419712",
+      "in_reply_to_user_id": 185928231,
+      "in_reply_to_user_id_str": "185928231",
+      "in_reply_to_screen_name": "neutralord",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 16:09:12 +0000 2020",
+      "id": 1296117017641091000,
+      "id_str": "1296117017641091073",
+      "text": "@goodhoopoe Есть ДОМ апи, максимально прозрачное. Зачем же мы используем всякие реакты и прочее?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296073285352984600,
+      "in_reply_to_status_id_str": "1296073285352984576",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 16:12:43 +0000 2020",
+      "id": 1296117901523656700,
+      "id_str": "1296117901523656704",
+      "text": "@goodhoopoe В том и прелесть, что такой стор будет просто классом, его можно разбить на домены. Но работа с ним так… https://t.co/Wp6QXwMMuB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wp6QXwMMuB",
+            "expanded_url": "https://twitter.com/i/web/status/1296117901523656704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296037590089465900,
+      "in_reply_to_status_id_str": "1296037590089465857",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 16:13:57 +0000 2020",
+      "id": 1296118212623507500,
+      "id_str": "1296118212623507456",
+      "text": "@goodhoopoe У нас в ОК большие проекты прекрасно хранятся в таких сторах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296037590089465900,
+      "in_reply_to_status_id_str": "1296037590089465857",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 17:11:33 +0000 2020",
+      "id": 1296132709031567400,
+      "id_str": "1296132709031567360",
+      "text": "@goodhoopoe @MrFlashAccount @alteregor_ Если использовать inject то тогда вообще легко подменять его где надо",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "MrFlashAccount",
+            "name": "Garin Sergey",
+            "id": 886825742927003600,
+            "id_str": "886825742927003648",
+            "indices": [
+              12,
+              27
+            ]
+          },
+          {
+            "screen_name": "alteregor_",
+            "name": "Egor Gorbachev",
+            "id": 971447590658232300,
+            "id_str": "971447590658232322",
+            "indices": [
+              28,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296115026613469200,
+      "in_reply_to_status_id_str": "1296115026613469184",
+      "in_reply_to_user_id": 492108844,
+      "in_reply_to_user_id_str": "492108844",
+      "in_reply_to_screen_name": "goodhoopoe",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 19:51:16 +0000 2020",
+      "id": 1296172903558414300,
+      "id_str": "1296172903558414337",
+      "text": "@AShepelin @neutralord Конечно, на тудулисте разницы не будет. Но даже на туду листе простота написания кода имеет… https://t.co/a2uVQ5fhEA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AShepelin",
+            "name": "Alexander Shepelin",
+            "id": 14474781,
+            "id_str": "14474781",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "neutralord",
+            "name": "Nikita Dementev",
+            "id": 185928231,
+            "id_str": "185928231",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a2uVQ5fhEA",
+            "expanded_url": "https://twitter.com/i/web/status/1296172903558414337",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296121544423493600,
+      "in_reply_to_status_id_str": "1296121544423493634",
+      "in_reply_to_user_id": 14474781,
+      "in_reply_to_user_id_str": "14474781",
+      "in_reply_to_screen_name": "AShepelin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 19 19:54:12 +0000 2020",
+      "id": 1296173641034543000,
+      "id_str": "1296173641034543105",
+      "text": "@AntsiferovM Чем лучший? Можно конкретики в сравнении с чем-то?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntsiferovM",
+            "name": "Antsiferov Maxim",
+            "id": 1158876237223383000,
+            "id_str": "1158876237223383040",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296147953778929700,
+      "in_reply_to_status_id_str": "1296147953778929665",
+      "in_reply_to_user_id": 1158876237223383000,
+      "in_reply_to_user_id_str": "1158876237223383040",
+      "in_reply_to_screen_name": "AntsiferovM",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
