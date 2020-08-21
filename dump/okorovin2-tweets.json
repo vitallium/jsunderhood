@@ -1768,6 +1768,346 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 11:04:12 +0000 2020",
+      "id": 1296402650800455700,
+      "id_str": "1296402650800455686",
+      "text": "Кто-нибудь еще использует серверный рендеринг, или это уже прошлое?\nЕсли да, то зачем?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 11:05:50 +0000 2020",
+      "id": 1296403060621795300,
+      "id_str": "1296403060621795328",
+      "text": "@_jin_nin_ @maxim_kraevoy Интересная получается табличка )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "maxim_kraevoy",
+            "name": "Maxim Chernykh",
+            "id": 901464102,
+            "id_str": "901464102",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296130699154595800,
+      "in_reply_to_status_id_str": "1296130699154595847",
+      "in_reply_to_user_id": 1084497636491751400,
+      "in_reply_to_user_id_str": "1084497636491751424",
+      "in_reply_to_screen_name": "_jin_nin_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 11:07:23 +0000 2020",
+      "id": 1296403452394963000,
+      "id_str": "1296403452394962944",
+      "text": "Коллективный разум для сравнения стейт менеджеров ))\nСпасибо @_jin_nin_ https://t.co/A9RsuC1k3y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_jin_nin_",
+            "name": "Jin",
+            "id": 1084497636491751400,
+            "id_str": "1084497636491751424",
+            "indices": [
+              61,
+              71
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1296403393771118600,
+            "id_str": "1296403393771118592",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ef3ABJtWoAAEsyt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ef3ABJtWoAAEsyt.jpg",
+            "url": "https://t.co/A9RsuC1k3y",
+            "display_url": "pic.twitter.com/A9RsuC1k3y",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1296403452394962944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 254,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 144,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1281,
+                "h": 271,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1296403393771118600,
+            "id_str": "1296403393771118592",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ef3ABJtWoAAEsyt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ef3ABJtWoAAEsyt.jpg",
+            "url": "https://t.co/A9RsuC1k3y",
+            "display_url": "pic.twitter.com/A9RsuC1k3y",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1296403452394962944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 254,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 144,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1281,
+                "h": 271,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 37,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 12:35:43 +0000 2020",
+      "id": 1296425679723135000,
+      "id_str": "1296425679723134979",
+      "text": "Раз многие используют SSR, то расскажте, как вы возите стейт с бека для начального запуска приложения.\n\nПолный стей… https://t.co/EoSWGpawCt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EoSWGpawCt",
+            "expanded_url": "https://twitter.com/i/web/status/1296425679723134979",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 12:51:56 +0000 2020",
+      "id": 1296429763326873600,
+      "id_str": "1296429763326873601",
+      "text": "@yakovlevyuri Про вчерашний день серверсайда в соседнем твите, коллеги накидали, что это не так )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yakovlevyuri",
+            "name": "Yuri Yakovlev",
+            "id": 271107403,
+            "id_str": "271107403",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1296427554061144000,
+      "in_reply_to_status_id_str": "1296427554061144065",
+      "in_reply_to_user_id": 271107403,
+      "in_reply_to_user_id_str": "271107403",
+      "in_reply_to_screen_name": "yakovlevyuri",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 20 19:16:48 +0000 2020",
+      "id": 1296526618073194500,
+      "id_str": "1296526618073194498",
+      "text": "Про передачу стейта с сервера: мы решили передавать нормализованные данные почти в том же виде, что приходят из баз… https://t.co/CIHh1lztlI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CIHh1lztlI",
+            "expanded_url": "https://twitter.com/i/web/status/1296526618073194498",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
