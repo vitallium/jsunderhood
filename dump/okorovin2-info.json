@@ -26,38 +26,28 @@
     }
   },
   "protected": false,
-  "followers_count": 8204,
+  "followers_count": 8200,
   "friends_count": 540,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4844,
+  "favourites_count": 4845,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40408,
+  "statuses_count": 40415,
   "lang": null,
   "status": {
-    "created_at": "Thu Aug 20 19:16:48 +0000 2020",
-    "id": 1296526618073194500,
-    "id_str": "1296526618073194498",
-    "text": "Про передачу стейта с сервера: мы решили передавать нормализованные данные почти в том же виде, что приходят из баз… https://t.co/CIHh1lztlI",
-    "truncated": true,
+    "created_at": "Fri Aug 21 19:41:30 +0000 2020",
+    "id": 1296895219296866300,
+    "id_str": "1296895219296866307",
+    "text": "Про JS говорят разное. И плохое и хорошее. Лично меня в нем вымораживает работа с датами.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/CIHh1lztlI",
-          "expanded_url": "https://twitter.com/i/web/status/1296526618073194498",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -71,7 +61,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
