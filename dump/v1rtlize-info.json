@@ -5,7 +5,7 @@
   "screen_name": "jsunderhood",
   "location": "Протвино",
   "profile_location": null,
-  "description": "Павел Лосев. Шестнадцатилетний веб-разработчик, опен-сорсерер, автор канала по JS (https://t.co/eeRk2IxKhN)",
+  "description": "Павел Лосев (@v1rtl). Шестнадцатилетний веб-разработчик, опен-сорсерер, автор канала по JS (https://t.co/eeRk2IxKhN)",
   "url": "https://t.co/2q8MDkvruJ",
   "entities": {
     "url": {
@@ -28,53 +28,54 @@
           "expanded_url": "http://t.me/we_use_js",
           "display_url": "t.me/we_use_js",
           "indices": [
-            83,
-            106
+            92,
+            115
           ]
         }
       ]
     }
   },
   "protected": false,
-  "followers_count": 8205,
+  "followers_count": 8288,
   "friends_count": 539,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4845,
+  "favourites_count": 4912,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40425,
+  "statuses_count": 40458,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 24 08:07:39 +0000 2020",
-    "id": 1297807770222297000,
-    "id_str": "1297807770222297088",
-    "text": "Помимо опенсорса работаю над закрытыми проектами для клиентов из России (и США). Делал простые сайты для российских… https://t.co/9OcFzsRYj1",
-    "truncated": true,
+    "created_at": "Mon Aug 24 14:11:41 +0000 2020",
+    "id": 1297899383292297200,
+    "id_str": "1297899383292297216",
+    "text": "@dzhjek Xiaomi Pro норм тема\n\nDell XPS тоже вроде ничего",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/9OcFzsRYj1",
-          "expanded_url": "https://twitter.com/i/web/status/1297807770222297088",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "dzhjek",
+          "name": "джек джемісон",
+          "id": 893201221674205200,
+          "id_str": "893201221674205184",
           "indices": [
-            117,
-            140
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1297807386980290600,
-    "in_reply_to_status_id_str": "1297807386980290560",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1297894760640913400,
+    "in_reply_to_status_id_str": "1297894760640913410",
+    "in_reply_to_user_id": 893201221674205200,
+    "in_reply_to_user_id_str": "893201221674205184",
+    "in_reply_to_screen_name": "dzhjek",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,7 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
