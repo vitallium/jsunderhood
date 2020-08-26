@@ -36,46 +36,56 @@
     }
   },
   "protected": false,
-  "followers_count": 8288,
-  "friends_count": 539,
+  "followers_count": 8305,
+  "friends_count": 538,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4912,
+  "favourites_count": 4948,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40458,
+  "statuses_count": 40505,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 24 14:11:41 +0000 2020",
-    "id": 1297899383292297200,
-    "id_str": "1297899383292297216",
-    "text": "@dzhjek Xiaomi Pro норм тема\n\nDell XPS тоже вроде ничего",
-    "truncated": false,
+    "created_at": "Tue Aug 25 13:00:01 +0000 2020",
+    "id": 1298243737282281500,
+    "id_str": "1298243737282281472",
+    "text": "@yakovlevyuri Нуууу всё равно до сих пор больше половины бекенда до сих пор пишется на JS, или по крайней мере рань… https://t.co/X08v9C4Z8B",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "dzhjek",
-          "name": "джек джемісон",
-          "id": 893201221674205200,
-          "id_str": "893201221674205184",
+          "screen_name": "yakovlevyuri",
+          "name": "Yuri Yakovlev",
+          "id": 271107403,
+          "id_str": "271107403",
           "indices": [
             0,
-            7
+            13
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/X08v9C4Z8B",
+          "expanded_url": "https://twitter.com/i/web/status/1298243737282281472",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1297894760640913400,
-    "in_reply_to_status_id_str": "1297894760640913410",
-    "in_reply_to_user_id": 893201221674205200,
-    "in_reply_to_user_id_str": "893201221674205184",
-    "in_reply_to_screen_name": "dzhjek",
+    "in_reply_to_status_id": 1298235040552366000,
+    "in_reply_to_status_id_str": "1298235040552366081",
+    "in_reply_to_user_id": 271107403,
+    "in_reply_to_user_id_str": "271107403",
+    "in_reply_to_screen_name": "yakovlevyuri",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +95,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
