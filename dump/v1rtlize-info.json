@@ -36,66 +36,87 @@
     }
   },
   "protected": false,
-  "followers_count": 8305,
+  "followers_count": 8303,
   "friends_count": 538,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 4948,
+  "favourites_count": 4981,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40505,
+  "statuses_count": 40544,
   "lang": null,
   "status": {
-    "created_at": "Tue Aug 25 13:00:01 +0000 2020",
-    "id": 1298243737282281500,
-    "id_str": "1298243737282281472",
-    "text": "@yakovlevyuri Нуууу всё равно до сих пор больше половины бекенда до сих пор пишется на JS, или по крайней мере рань… https://t.co/X08v9C4Z8B",
+    "created_at": "Wed Aug 26 22:20:05 +0000 2020",
+    "id": 1298747068182339600,
+    "id_str": "1298747068182339585",
+    "text": "@ThemeZV ссылки из треда:\n\nпро IIFE - https://t.co/mZYxcsA1Eb\nпро UMD - https://t.co/woZdtjcMKC\nпро ESM -… https://t.co/MI3q49nY8F",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "yakovlevyuri",
-          "name": "Yuri Yakovlev",
-          "id": 271107403,
-          "id_str": "271107403",
+          "screen_name": "ThemeZV",
+          "name": "Artem Zverev",
+          "id": 2394275197,
+          "id_str": "2394275197",
           "indices": [
             0,
-            13
+            8
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/X08v9C4Z8B",
-          "expanded_url": "https://twitter.com/i/web/status/1298243737282281472",
+          "url": "https://t.co/mZYxcsA1Eb",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1298188310838378496",
+          "display_url": "twitter.com/jsunderhood/st…",
+          "indices": [
+            38,
+            61
+          ]
+        },
+        {
+          "url": "https://t.co/woZdtjcMKC",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1298188671435313152?s=20",
+          "display_url": "twitter.com/jsunderhood/st…",
+          "indices": [
+            72,
+            95
+          ]
+        },
+        {
+          "url": "https://t.co/MI3q49nY8F",
+          "expanded_url": "https://twitter.com/i/web/status/1298747068182339585",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            107,
+            130
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1298235040552366000,
-    "in_reply_to_status_id_str": "1298235040552366081",
-    "in_reply_to_user_id": 271107403,
-    "in_reply_to_user_id_str": "271107403",
-    "in_reply_to_screen_name": "yakovlevyuri",
+    "in_reply_to_status_id": 1298746461778313200,
+    "in_reply_to_status_id_str": "1298746461778313216",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1298189996462137300,
+    "quoted_status_id_str": "1298189996462137344",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
