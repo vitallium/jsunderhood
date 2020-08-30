@@ -9945,6 +9945,1780 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 29 00:51:08 +0000 2020",
+      "id": 1299509856269934600,
+      "id_str": "1299509856269934593",
+      "text": "@hgenru у Koa и Fastify чуток отличаются API, про Polka было написано в треде - нет поддержки TypeScript\n\nещё забыл… https://t.co/m1mGojyOwy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hgenru",
+            "name": "Александр Плесовских",
+            "id": 363219096,
+            "id_str": "363219096",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/m1mGojyOwy",
+            "expanded_url": "https://twitter.com/i/web/status/1299509856269934593",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299503504499843000,
+      "in_reply_to_status_id_str": "1299503504499843072",
+      "in_reply_to_user_id": 363219096,
+      "in_reply_to_user_id_str": "363219096",
+      "in_reply_to_screen_name": "hgenru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 00:52:19 +0000 2020",
+      "id": 1299510155860639700,
+      "id_str": "1299510155860639744",
+      "text": "@hgenru упс, оказывается написано не было",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hgenru",
+            "name": "Александр Плесовских",
+            "id": 363219096,
+            "id_str": "363219096",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299509856269934600,
+      "in_reply_to_status_id_str": "1299509856269934593",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 01:20:38 +0000 2020",
+      "id": 1299517283744780300,
+      "id_str": "1299517283744780288",
+      "text": "@hgenru имею ввиду res.send, res.redirect, и т.п.\n\nу Polka есть немного в главном модуле, и ещё чуток в доп.\n\nно всё равно не большинство",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hgenru",
+            "name": "Александр Плесовских",
+            "id": 363219096,
+            "id_str": "363219096",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299511514823626800,
+      "in_reply_to_status_id_str": "1299511514823626754",
+      "in_reply_to_user_id": 363219096,
+      "in_reply_to_user_id_str": "363219096",
+      "in_reply_to_screen_name": "hgenru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:47 +0000 2020",
+      "id": 1299706316802457600,
+      "id_str": "1299706316802457600",
+      "text": "Сегодня будет довольно весёлая и интересная тема - 3D в вебе. Тема довольно популярная, но сложная. Начнём с того,… https://t.co/YQ4jnK7Kaf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YQ4jnK7Kaf",
+            "expanded_url": "https://twitter.com/i/web/status/1299706316802457600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 76,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:48 +0000 2020",
+      "id": 1299706318756946000,
+      "id_str": "1299706318756945920",
+      "text": "OpenGL - это спецификация frontend-а API для создания 2D и 3D графики. У этой спеки есть несколько реализаций - нап… https://t.co/NE6Il5prxR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NE6Il5prxR",
+            "expanded_url": "https://twitter.com/i/web/status/1299706318756945920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706316802457600,
+      "in_reply_to_status_id_str": "1299706316802457600",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:48 +0000 2020",
+      "id": 1299706320753496000,
+      "id_str": "1299706320753496064",
+      "text": "CPU отсылает данные по которым должен происходить рендеринг графики (Rendering data), и затем GPU производит рендер… https://t.co/OYiSP67ddT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OYiSP67ddT",
+            "expanded_url": "https://twitter.com/i/web/status/1299706320753496064",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706318756946000,
+      "in_reply_to_status_id_str": "1299706318756945920",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:49 +0000 2020",
+      "id": 1299706322674487300,
+      "id_str": "1299706322674487297",
+      "text": "Вот детальная статья с разбором того как графика отрисовывается на компьютере, начиная с OpenGL, заканчивая рендеро… https://t.co/lYLOT6HT3M",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lYLOT6HT3M",
+            "expanded_url": "https://twitter.com/i/web/status/1299706322674487297",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706320753496000,
+      "in_reply_to_status_id_str": "1299706320753496064",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:49 +0000 2020",
+      "id": 1299706324893290500,
+      "id_str": "1299706324893290497",
+      "text": "WebGL - это тоже особый стандарт, основанный на WebGL ES (Embedded Systems) 2, который предназачен специально для б… https://t.co/NwKERGqN5n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NwKERGqN5n",
+            "expanded_url": "https://twitter.com/i/web/status/1299706324893290497",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706322674487300,
+      "in_reply_to_status_id_str": "1299706322674487297",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:50 +0000 2020",
+      "id": 1299706326965252000,
+      "id_str": "1299706326965252097",
+      "text": "Управление памятью происходит в JavaScript. GLSL выполняется на GPU, используя драйвер видеокарты, как и OpenGL ES… https://t.co/AxdtOBA11d",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AxdtOBA11d",
+            "expanded_url": "https://twitter.com/i/web/status/1299706326965252097",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706324893290500,
+      "in_reply_to_status_id_str": "1299706324893290497",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:50 +0000 2020",
+      "id": 1299706329045622800,
+      "id_str": "1299706329045622784",
+      "text": "Если подытожить, то чтобы делать 3D в вебе, нужно писать программы на GLSL и JavaScript. Писать шейдеры не зная тог… https://t.co/t9wx9ESIjE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t9wx9ESIjE",
+            "expanded_url": "https://twitter.com/i/web/status/1299706329045622784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706326965252000,
+      "in_reply_to_status_id_str": "1299706326965252097",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:51 +0000 2020",
+      "id": 1299706331046252500,
+      "id_str": "1299706331046252545",
+      "text": "Самая популярная библиотека - THREE.js. В ней всё разбито на классы, текстуры, объекты, геометрии, освещение и т.д.… https://t.co/tt8EblZsuE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tt8EblZsuE",
+            "expanded_url": "https://twitter.com/i/web/status/1299706331046252545",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706329045622800,
+      "in_reply_to_status_id_str": "1299706329045622784",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:51 +0000 2020",
+      "id": 1299706333181210600,
+      "id_str": "1299706333181210625",
+      "text": "Помимо THREE.js существуют другие менее популярные абстракции над WebGL - Babylon.js (https://t.co/92nEXHdBnn) - JS… https://t.co/5Yc0iHcqCb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/92nEXHdBnn",
+            "expanded_url": "https://github.com/BabylonJS/Babylon.js",
+            "display_url": "github.com/BabylonJS/Baby…",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/5Yc0iHcqCb",
+            "expanded_url": "https://twitter.com/i/web/status/1299706333181210625",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706331046252500,
+      "in_reply_to_status_id_str": "1299706331046252545",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:52 +0000 2020",
+      "id": 1299706335240618000,
+      "id_str": "1299706335240617984",
+      "text": "Несмотря на то, что THREE.js сильно упрощает работу с WebGL, всё ещё получается очень много кода. К тому же, его до… https://t.co/ouHSV1qek7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ouHSV1qek7",
+            "expanded_url": "https://twitter.com/i/web/status/1299706335240617984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706333181210600,
+      "in_reply_to_status_id_str": "1299706333181210625",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:52 +0000 2020",
+      "id": 1299706337190969300,
+      "id_str": "1299706337190969344",
+      "text": "Для решения этих проблем появился react-three-fiber, React рендерер для THREE.js. С помощью react-three-fiber можно… https://t.co/i7oypnPgiv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/i7oypnPgiv",
+            "expanded_url": "https://twitter.com/i/web/status/1299706337190969344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706335240618000,
+      "in_reply_to_status_id_str": "1299706335240617984",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:53 +0000 2020",
+      "id": 1299706339032281000,
+      "id_str": "1299706339032281089",
+      "text": "react-three-fiber ничего не заменяет и не добавляет в THREE.js, а трансформиует JSX в THREE.js код. Любой код на TH… https://t.co/tI6U8uzLiW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tI6U8uzLiW",
+            "expanded_url": "https://twitter.com/i/web/status/1299706339032281089",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706337190969300,
+      "in_reply_to_status_id_str": "1299706337190969344",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:53 +0000 2020",
+      "id": 1299706341125226500,
+      "id_str": "1299706341125226497",
+      "text": "С r3f код выглядит гораздо чище, и на нём ещё проще писать 3D, которое легко потом внедрить в React и смешать с DOM… https://t.co/exOdVBN1Wo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/exOdVBN1Wo",
+            "expanded_url": "https://twitter.com/i/web/status/1299706341125226497",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706339032281000,
+      "in_reply_to_status_id_str": "1299706339032281089",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:54 +0000 2020",
+      "id": 1299706343125905400,
+      "id_str": "1299706343125905408",
+      "text": "use-cannon - это r3f либа с хуками и компонентами для добавления физики в 3D, с помощью библиотеки Cannon.js. Работ… https://t.co/T2DK94pFln",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T2DK94pFln",
+            "expanded_url": "https://twitter.com/i/web/status/1299706343125905408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706341125226500,
+      "in_reply_to_status_id_str": "1299706341125226497",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:54 +0000 2020",
+      "id": 1299706345193644000,
+      "id_str": "1299706345193644033",
+      "text": "react-postprocessing - ещё одна r3f библиотека, которая оборачивает эффекты из либы postprocessing (… https://t.co/FOPLYUlCuq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FOPLYUlCuq",
+            "expanded_url": "https://twitter.com/i/web/status/1299706345193644033",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706343125905400,
+      "in_reply_to_status_id_str": "1299706343125905408",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:55 +0000 2020",
+      "id": 1299706347332739000,
+      "id_str": "1299706347332739078",
+      "text": "Сейчас демки обновляются, и проводятся работы над оптимизацией, но библиотеку можно использовать уже сейчас. Уже ес… https://t.co/xm8992QYC6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xm8992QYC6",
+            "expanded_url": "https://twitter.com/i/web/status/1299706347332739078",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706345193644000,
+      "in_reply_to_status_id_str": "1299706345193644033",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:55 +0000 2020",
+      "id": 1299706349396390000,
+      "id_str": "1299706349396389888",
+      "text": "Ну и напоследок react-xr - ещё один набор хуков и компонентов для создания VR/AR приложений в вебе, при помощи r3f… https://t.co/15BqpDjdEo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/15BqpDjdEo",
+            "expanded_url": "https://twitter.com/i/web/status/1299706349396389888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706347332739000,
+      "in_reply_to_status_id_str": "1299706347332739078",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 13:51:56 +0000 2020",
+      "id": 1299706351497744400,
+      "id_str": "1299706351497744384",
+      "text": "Для чего всё это? 3D имеет несколько юзкейсов по визуализации, например CAD редакторы (SketchUp), презентация товар… https://t.co/t4IbbTY9YQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t4IbbTY9YQ",
+            "expanded_url": "https://twitter.com/i/web/status/1299706351497744384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706349396390000,
+      "in_reply_to_status_id_str": "1299706349396389888",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:09:31 +0000 2020",
+      "id": 1299710778438803500,
+      "id_str": "1299710778438803458",
+      "text": "@_demiurg_ Лендинги надо прогуглить, но просто из сайтов недавно видел это: https://t.co/GOMY7Dqh1M\n\nи вот: https://t.co/IbhiexaahA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GOMY7Dqh1M",
+            "expanded_url": "https://fremtidensuddannelser.dk/en",
+            "display_url": "fremtidensuddannelser.dk/en",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/IbhiexaahA",
+            "expanded_url": "https://globekit.co/",
+            "display_url": "globekit.co",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299707690470576000,
+      "in_reply_to_status_id_str": "1299707690470576135",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:11:49 +0000 2020",
+      "id": 1299711354383863800,
+      "id_str": "1299711354383863816",
+      "text": "@_demiurg_ о, вспомнил очень годный лендос целиком на 3D: https://t.co/JQLLJ1b7xt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JQLLJ1b7xt",
+            "expanded_url": "https://lusion.co/",
+            "display_url": "lusion.co",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299710778438803500,
+      "in_reply_to_status_id_str": "1299710778438803458",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:12:59 +0000 2020",
+      "id": 1299711648211636200,
+      "id_str": "1299711648211636227",
+      "text": "@_demiurg_ хотя там есть куски с 3D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299711354383863800,
+      "in_reply_to_status_id_str": "1299711354383863816",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:13:22 +0000 2020",
+      "id": 1299711747121647600,
+      "id_str": "1299711747121647617",
+      "text": "@_demiurg_ большой список лендосов я бы поглядел в Awwwards, там есть секция \"Three.js\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299707690470576000,
+      "in_reply_to_status_id_str": "1299707690470576135",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:36:55 +0000 2020",
+      "id": 1299717675011182600,
+      "id_str": "1299717675011182592",
+      "text": "@_demiurg_ ну, HTML и CSS тоже кодом дизайнят иногда, и вроде нормально\n\nмодели и сцены из 3DSMax можно через лоадер THREE.jsа подгрузить",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299711800578056200,
+      "in_reply_to_status_id_str": "1299711800578056193",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:37:39 +0000 2020",
+      "id": 1299717858960834600,
+      "id_str": "1299717858960834560",
+      "text": "@_demiurg_ интерактивное 3D просто очень сложное внутри, и поэтому редактор я не думаю что пока возможно создать\n\nх… https://t.co/sSMdoF8EqG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sSMdoF8EqG",
+            "expanded_url": "https://twitter.com/i/web/status/1299717858960834560",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299717675011182600,
+      "in_reply_to_status_id_str": "1299717675011182592",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:37:58 +0000 2020",
+      "id": 1299717937922801700,
+      "id_str": "1299717937922801665",
+      "text": "@_demiurg_ *с DOM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299711648211636200,
+      "in_reply_to_status_id_str": "1299711648211636227",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Sat Aug 29 14:38:41 +0000 2020",
+      "id": 1299718116889497600,
+      "id_str": "1299718116889497600",
+      "text": "@_demiurg_ то где покрутить это скорее всего через лоадер загрузили файл и запихнули в сцену",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_demiurg_",
+            "name": "demiurg",
+            "id": 134058171,
+            "id_str": "134058171",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299712214274920400,
+      "in_reply_to_status_id_str": "1299712214274920451",
+      "in_reply_to_user_id": 134058171,
+      "in_reply_to_user_id_str": "134058171",
+      "in_reply_to_screen_name": "_demiurg_",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 14:56:05 +0000 2020",
+      "id": 1299722495956791300,
+      "id_str": "1299722495956791298",
+      "text": "@ramainen Приятно, что донёс новую информацию 😊\n\nТам довольно большое комьюнити, так что в случае чего можно спросить помощи",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramainen",
+            "name": "Трансурановая Аркебуза",
+            "id": 18388141,
+            "id_str": "18388141",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299720479230644200,
+      "in_reply_to_status_id_str": "1299720479230644229",
+      "in_reply_to_user_id": 18388141,
+      "in_reply_to_user_id_str": "18388141",
+      "in_reply_to_screen_name": "ramainen",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 15:02:02 +0000 2020",
+      "id": 1299723995399454700,
+      "id_str": "1299723995399454722",
+      "text": "@ramainen ага, там в описании r3f есть про React Native\n\nникогда не делал игры под мобилу, но вроде как тут у WebGL есть потенциал",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramainen",
+            "name": "Трансурановая Аркебуза",
+            "id": 18388141,
+            "id_str": "18388141",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299723363200442400,
+      "in_reply_to_status_id_str": "1299723363200442369",
+      "in_reply_to_user_id": 18388141,
+      "in_reply_to_user_id_str": "18388141",
+      "in_reply_to_screen_name": "ramainen",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 16:27:55 +0000 2020",
+      "id": 1299745606647283700,
+      "id_str": "1299745606647283713",
+      "text": "@ramainen не знал, но WebGL это почти тоже самое что OpenGL ES, так что да, сути особо не меняет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramainen",
+            "name": "Трансурановая Аркебуза",
+            "id": 18388141,
+            "id_str": "18388141",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299744557941379000,
+      "in_reply_to_status_id_str": "1299744557941379072",
+      "in_reply_to_user_id": 18388141,
+      "in_reply_to_user_id_str": "18388141",
+      "in_reply_to_screen_name": "ramainen",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 17:10:14 +0000 2020",
+      "id": 1299756256626978800,
+      "id_str": "1299756256626978819",
+      "text": "Сейчас ещё разрабатывается react-three-flex - &lt;Flex /&gt; компонент для THREE.js\n\nбудет ещё проще смешивать с DOM, и д… https://t.co/ndOlZGqi4y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ndOlZGqi4y",
+            "expanded_url": "https://twitter.com/i/web/status/1299756256626978819",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299706351497744400,
+      "in_reply_to_status_id_str": "1299706351497744384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 18:37:14 +0000 2020",
+      "id": 1299778151153905700,
+      "id_str": "1299778151153905664",
+      "text": "@_olegkusov на самом деле железо уже достаточно мощное для базового 3D, без всяких эффектов\n\nсам по себе WebGL очень быстрый",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_olegkusov",
+            "name": "Oleg Kusov",
+            "id": 1089714308,
+            "id_str": "1089714308",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299776890060894200,
+      "in_reply_to_status_id_str": "1299776890060894210",
+      "in_reply_to_user_id": 1089714308,
+      "in_reply_to_user_id_str": "1089714308",
+      "in_reply_to_screen_name": "_olegkusov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 18:38:22 +0000 2020",
+      "id": 1299778436865699800,
+      "id_str": "1299778436865699844",
+      "text": "@_olegkusov а можно поконкретнее о фичах? мне говорил один человек, что 3D бесполезен в 90% случаев и 2D лучше спра… https://t.co/v2r1eLEGZY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_olegkusov",
+            "name": "Oleg Kusov",
+            "id": 1089714308,
+            "id_str": "1089714308",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/v2r1eLEGZY",
+            "expanded_url": "https://twitter.com/i/web/status/1299778436865699844",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299777229719842800,
+      "in_reply_to_status_id_str": "1299777229719842821",
+      "in_reply_to_user_id": 1089714308,
+      "in_reply_to_user_id_str": "1089714308",
+      "in_reply_to_screen_name": "_olegkusov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 19:27:37 +0000 2020",
+      "id": 1299790828932673500,
+      "id_str": "1299790828932673539",
+      "text": "@_olegkusov а что мешает имитировать 3D с помощью 2D?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_olegkusov",
+            "name": "Oleg Kusov",
+            "id": 1089714308,
+            "id_str": "1089714308",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299785745444622300,
+      "in_reply_to_status_id_str": "1299785745444622336",
+      "in_reply_to_user_id": 1089714308,
+      "in_reply_to_user_id_str": "1089714308",
+      "in_reply_to_screen_name": "_olegkusov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 19:33:31 +0000 2020",
+      "id": 1299792316018888700,
+      "id_str": "1299792316018888710",
+      "text": "@oleg008 @_olegkusov @mr_mig_by @PixelsCommander вроде были какие-то реализации DOM на WebGL, но они не популярны\n\nhttps://t.co/8QlpgCen5B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oleg008",
+            "name": "Oleg",
+            "id": 69033784,
+            "id_str": "69033784",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "_olegkusov",
+            "name": "Oleg Kusov",
+            "id": 1089714308,
+            "id_str": "1089714308",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "screen_name": "mr_mig_by",
+            "name": "Alexey Migutsky",
+            "id": 170772902,
+            "id_str": "170772902",
+            "indices": [
+              21,
+              31
+            ]
+          },
+          {
+            "screen_name": "PixelsCommander",
+            "name": "Denis Radin",
+            "id": 48006556,
+            "id_str": "48006556",
+            "indices": [
+              32,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8QlpgCen5B",
+            "expanded_url": "https://github.com/PixelsCommander/HTML-GL",
+            "display_url": "github.com/PixelsCommande…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299788443820621800,
+      "in_reply_to_status_id_str": "1299788443820621825",
+      "in_reply_to_user_id": 69033784,
+      "in_reply_to_user_id_str": "69033784",
+      "in_reply_to_screen_name": "oleg008",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 29 20:58:31 +0000 2020",
+      "id": 1299813706071789600,
+      "id_str": "1299813706071789568",
+      "text": "@maxatwork есть какие-то примеры того кто применял, из больших компаний?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxatwork",
+            "name": "maxatwork",
+            "id": 16056280,
+            "id_str": "16056280",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1299811256807940000,
+      "in_reply_to_status_id_str": "1299811256807940096",
+      "in_reply_to_user_id": 16056280,
+      "in_reply_to_user_id_str": "16056280",
+      "in_reply_to_screen_name": "maxatwork",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
