@@ -26,53 +26,103 @@
     }
   },
   "protected": false,
-  "followers_count": 8399,
+  "followers_count": 8396,
   "friends_count": 539,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5180,
+  "favourites_count": 5194,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 40849,
+  "statuses_count": 40876,
   "lang": null,
   "status": {
-    "created_at": "Tue Sep 29 21:17:04 +0000 2020",
-    "id": 1311052396269899800,
-    "id_str": "1311052396269899785",
-    "text": "@Semenov Очень хотел сделать, но не сделал, значит не очень хотел.",
+    "created_at": "Wed Sep 30 15:52:23 +0000 2020",
+    "id": 1311333078137213000,
+    "id_str": "1311333078137212928",
+    "text": "RT @pavelsilin: @jsunderhood Успех — это умение двигаться от неудачи к неудаче, не теряя энтузиазма. (с) Черчиль",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Semenov",
-          "name": "Владэк Вернулся",
-          "id": 5249341,
-          "id_str": "5249341",
+          "screen_name": "pavelsilin",
+          "name": "Pavel",
+          "id": 33166826,
+          "id_str": "33166826",
           "indices": [
-            0,
-            8
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            16,
+            28
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1311052069105791000,
-    "in_reply_to_status_id_str": "1311052069105790976",
-    "in_reply_to_user_id": 5249341,
-    "in_reply_to_user_id_str": "5249341",
-    "in_reply_to_screen_name": "Semenov",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 30 13:50:44 +0000 2020",
+      "id": 1311302462628868000,
+      "id_str": "1311302462628868100",
+      "text": "@jsunderhood Успех — это умение двигаться от неудачи к неудаче, не теряя энтузиазма. (с) Черчиль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1311209321108209700,
+      "in_reply_to_status_id_str": "1311209321108209666",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
