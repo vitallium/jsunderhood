@@ -26,53 +26,93 @@
     }
   },
   "protected": false,
-  "followers_count": 8446,
+  "followers_count": 8436,
   "friends_count": 537,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5320,
+  "favourites_count": 5321,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41055,
+  "statuses_count": 41063,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 05 12:07:24 +0000 2020",
-    "id": 1313088397620195300,
-    "id_str": "1313088397620195329",
-    "text": "@The_Evernoob У меня на это целая неделя :)",
+    "created_at": "Tue Oct 06 09:22:18 +0000 2020",
+    "id": 1313409237784162300,
+    "id_str": "1313409237784162306",
+    "text": "RT @Ginger__Raccoon: Итак, меня зовут Космачев Илья и я начинающий front-end разработчик, последние 8 месяцев своей жизни я отдал команде Я…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "The_Evernoob",
-          "name": "Andrey | forever @ home",
-          "id": 830152552327024600,
-          "id_str": "830152552327024643",
+          "screen_name": "Ginger__Raccoon",
+          "name": "Ginger Raccoon",
+          "id": 1227854546204070000,
+          "id_str": "1227854546204069888",
           "indices": [
-            0,
-            13
+            3,
+            19
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1313088128014577700,
-    "in_reply_to_status_id_str": "1313088128014577664",
-    "in_reply_to_user_id": 830152552327024600,
-    "in_reply_to_user_id_str": "830152552327024643",
-    "in_reply_to_screen_name": "The_Evernoob",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 01 15:16:34 +0000 2020",
+      "id": 1300814814319698000,
+      "id_str": "1300814814319697923",
+      "text": "Итак, меня зовут Космачев Илья и я начинающий front-end разработчик, последние 8 месяцев своей жизни я отдал команд… https://t.co/9JjYeQNdXs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9JjYeQNdXs",
+            "expanded_url": "https://twitter.com/i/web/status/1300814814319697923",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1300813456665383000,
+      "in_reply_to_status_id_str": "1300813456665382912",
+      "in_reply_to_user_id": 1227854546204070000,
+      "in_reply_to_user_id_str": "1227854546204069888",
+      "in_reply_to_screen_name": "Ginger__Raccoon",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 9,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
