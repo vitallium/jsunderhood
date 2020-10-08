@@ -26,96 +26,148 @@
     }
   },
   "protected": false,
-  "followers_count": 8436,
-  "friends_count": 537,
+  "followers_count": 8447,
+  "friends_count": 535,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5321,
+  "favourites_count": 5322,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41063,
+  "statuses_count": 41071,
   "lang": null,
   "status": {
-    "created_at": "Tue Oct 06 09:22:18 +0000 2020",
-    "id": 1313409237784162300,
-    "id_str": "1313409237784162306",
-    "text": "RT @Ginger__Raccoon: Итак, меня зовут Космачев Илья и я начинающий front-end разработчик, последние 8 месяцев своей жизни я отдал команде Я…",
+    "created_at": "Wed Oct 07 15:29:09 +0000 2020",
+    "id": 1313863943098699800,
+    "id_str": "1313863943098699776",
+    "text": "@uncle_robot https://t.co/kmChMVSqeA",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Ginger__Raccoon",
-          "name": "Ginger Raccoon",
-          "id": 1227854546204070000,
-          "id_str": "1227854546204069888",
+          "screen_name": "uncle_robot",
+          "name": "🤖 Доброзлой дядя 🄿öбøт 🤖",
+          "id": 81103006,
+          "id_str": "81103006",
           "indices": [
-            3,
-            19
+            0,
+            12
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1313863933174968300,
+          "id_str": "1313863933174968324",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+          "url": "https://t.co/kmChMVSqeA",
+          "display_url": "pic.twitter.com/kmChMVSqeA",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1313863933174968300,
+          "id_str": "1313863933174968324",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+          "url": "https://t.co/kmChMVSqeA",
+          "display_url": "pic.twitter.com/kmChMVSqeA",
+          "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 220,
+              "h": 164,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              55,
+              41
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EjvISTwXcAQgh02.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1313811956659302400,
+    "in_reply_to_status_id_str": "1313811956659302400",
+    "in_reply_to_user_id": 81103006,
+    "in_reply_to_user_id_str": "81103006",
+    "in_reply_to_screen_name": "uncle_robot",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Sep 01 15:16:34 +0000 2020",
-      "id": 1300814814319698000,
-      "id_str": "1300814814319697923",
-      "text": "Итак, меня зовут Космачев Илья и я начинающий front-end разработчик, последние 8 месяцев своей жизни я отдал команд… https://t.co/9JjYeQNdXs",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/9JjYeQNdXs",
-            "expanded_url": "https://twitter.com/i/web/status/1300814814319697923",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1300813456665383000,
-      "in_reply_to_status_id_str": "1300813456665382912",
-      "in_reply_to_user_id": 1227854546204070000,
-      "in_reply_to_user_id_str": "1227854546204069888",
-      "in_reply_to_screen_name": "Ginger__Raccoon",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 9,
-      "favorite_count": 21,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,

@@ -16397,6 +16397,446 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 08:25:19 +0000 2020",
+      "id": 1313757285076930600,
+      "id_str": "1313757285076930563",
+      "text": "@Lindarion90 Ты не понимаешь, я в пятницу нафигачу контента и это будет аллюзия на энтерпрайз",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lindarion90",
+            "name": "Lindarion",
+            "id": 816012020847874000,
+            "id_str": "816012020847874048",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1313755839916892200,
+      "in_reply_to_status_id_str": "1313755839916892161",
+      "in_reply_to_user_id": 816012020847874000,
+      "in_reply_to_user_id_str": "816012020847874048",
+      "in_reply_to_screen_name": "Lindarion90",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 11:37:12 +0000 2020",
+      "id": 1313805574547665000,
+      "id_str": "1313805574547664899",
+      "text": "Другая проблема — не все устройства достаточно производительны чтобы резолвить DNS и могут только открыть TCP-сокет… https://t.co/AbMFvOJE35",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AbMFvOJE35",
+            "expanded_url": "https://twitter.com/i/web/status/1313805574547664899",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313400435349299200,
+      "in_reply_to_status_id_str": "1313400435349299202",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 11:37:13 +0000 2020",
+      "id": 1313805576242159600,
+      "id_str": "1313805576242159616",
+      "text": "На каждое устройство написан парсер, который преобразует буфер в текста в универсальную структуру.\n\nБерём виртуалку… https://t.co/yc5oxShCcl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yc5oxShCcl",
+            "expanded_url": "https://twitter.com/i/web/status/1313805576242159616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313805574547665000,
+      "in_reply_to_status_id_str": "1313805574547664899",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 11:40:41 +0000 2020",
+      "id": 1313806447864615000,
+      "id_str": "1313806447864614912",
+      "text": "Сервер смотрит на какой порт приехал запрос, выбирает парсер, пробует разобрать чек.\n\nЕсли получилось, то отправляе… https://t.co/dodhYnqHo1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dodhYnqHo1",
+            "expanded_url": "https://twitter.com/i/web/status/1313806447864614912",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313805576242159600,
+      "in_reply_to_status_id_str": "1313805576242159616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 12:29:09 +0000 2020",
+      "id": 1313818647488495600,
+      "id_str": "1313818647488495616",
+      "text": "Дальше данные будут слинкованы со всем что мы знаем — пользователь который делал измерение, эксперимент,  раствор (… https://t.co/H169wj7qbJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H169wj7qbJ",
+            "expanded_url": "https://twitter.com/i/web/status/1313818647488495616",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313806447864615000,
+      "in_reply_to_status_id_str": "1313806447864614912",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 12:29:10 +0000 2020",
+      "id": 1313818651636752400,
+      "id_str": "1313818651636752386",
+      "text": "С этого шага данные доступны на фронте.\n\nБазовая задача — построить по ним отчёт, показать кто что и когда.\n\nВроде… https://t.co/8Qq6vNjyiM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8Qq6vNjyiM",
+            "expanded_url": "https://twitter.com/i/web/status/1313818651636752386",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313818647488495600,
+      "in_reply_to_status_id_str": "1313818647488495616",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 12:41:06 +0000 2020",
+      "id": 1313821655546896400,
+      "id_str": "1313821655546896386",
+      "text": "С производственным оборудованием интереснее — установка одинаковые, и часто сделаны нашими конструкторами.\n\nС друго… https://t.co/jRAlrRvC5e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jRAlrRvC5e",
+            "expanded_url": "https://twitter.com/i/web/status/1313821655546896386",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313400430626582500,
+      "in_reply_to_status_id_str": "1313400430626582530",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Oct 07 15:29:09 +0000 2020",
+      "id": 1313863943098699800,
+      "id_str": "1313863943098699776",
+      "text": "@uncle_robot https://t.co/kmChMVSqeA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "uncle_robot",
+            "name": "🤖 Доброзлой дядя 🄿öбøт 🤖",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1313863933174968300,
+            "id_str": "1313863933174968324",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+            "url": "https://t.co/kmChMVSqeA",
+            "display_url": "pic.twitter.com/kmChMVSqeA",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1313863933174968300,
+            "id_str": "1313863933174968324",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
+            "url": "https://t.co/kmChMVSqeA",
+            "display_url": "pic.twitter.com/kmChMVSqeA",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                55,
+                41
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EjvISTwXcAQgh02.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1313811956659302400,
+      "in_reply_to_status_id_str": "1313811956659302400",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "uncle_robot",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
