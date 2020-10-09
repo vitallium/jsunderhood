@@ -26,8 +26,8 @@
     }
   },
   "protected": false,
-  "followers_count": 8447,
-  "friends_count": 535,
+  "followers_count": 8449,
+  "friends_count": 534,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 5322,
@@ -35,139 +35,87 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41071,
+  "statuses_count": 41072,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 07 15:29:09 +0000 2020",
-    "id": 1313863943098699800,
-    "id_str": "1313863943098699776",
-    "text": "@uncle_robot https://t.co/kmChMVSqeA",
+    "created_at": "Thu Oct 08 15:43:41 +0000 2020",
+    "id": 1314229991811489800,
+    "id_str": "1314229991811489794",
+    "text": "RT @valerrro: Говорят, во фронтенд можно попасть через твиттер. Что ж, проверим.\nМогу немного на JS писать, адаптивно верстать, json отправ…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "uncle_robot",
-          "name": "🤖 Доброзлой дядя 🄿öбøт 🤖",
-          "id": 81103006,
-          "id_str": "81103006",
+          "screen_name": "valerrro",
+          "name": "Валерия",
+          "id": 776712634334928900,
+          "id_str": "776712634334928896",
           "indices": [
-            0,
+            3,
             12
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1313863933174968300,
-          "id_str": "1313863933174968324",
-          "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
-          "url": "https://t.co/kmChMVSqeA",
-          "display_url": "pic.twitter.com/kmChMVSqeA",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1313863933174968300,
-          "id_str": "1313863933174968324",
-          "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvISTwXcAQgh02.jpg",
-          "url": "https://t.co/kmChMVSqeA",
-          "display_url": "pic.twitter.com/kmChMVSqeA",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1313863943098699776/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "small": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 220,
-              "h": 164,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              55,
-              41
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/EjvISTwXcAQgh02.mp4"
-              }
-            ]
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1313811956659302400,
-    "in_reply_to_status_id_str": "1313811956659302400",
-    "in_reply_to_user_id": 81103006,
-    "in_reply_to_user_id_str": "81103006",
-    "in_reply_to_screen_name": "uncle_robot",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 08 12:15:57 +0000 2020",
+      "id": 1314177713243127800,
+      "id_str": "1314177713243127809",
+      "text": "Говорят, во фронтенд можно попасть через твиттер. Что ж, проверим.\nМогу немного на JS писать, адаптивно верстать, j… https://t.co/RHcZBmTjhA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RHcZBmTjhA",
+            "expanded_url": "https://twitter.com/i/web/status/1314177713243127809",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 73,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweet_count": 42,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
