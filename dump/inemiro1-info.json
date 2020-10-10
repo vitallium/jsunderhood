@@ -26,39 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 8449,
+  "followers_count": 8452,
   "friends_count": 534,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5322,
+  "favourites_count": 5323,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41072,
+  "statuses_count": 41079,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 08 15:43:41 +0000 2020",
-    "id": 1314229991811489800,
-    "id_str": "1314229991811489794",
-    "text": "RT @valerrro: Говорят, во фронтенд можно попасть через твиттер. Что ж, проверим.\nМогу немного на JS писать, адаптивно верстать, json отправ…",
+    "created_at": "Fri Oct 09 14:44:36 +0000 2020",
+    "id": 1314577510252904400,
+    "id_str": "1314577510252904448",
+    "text": "TS, Angular, Nest, Go, k8s https://t.co/1ycs4J5S5j",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "valerrro",
-          "name": "Валерия",
-          "id": 776712634334928900,
-          "id_str": "776712634334928896",
+          "url": "https://t.co/1ycs4J5S5j",
+          "expanded_url": "https://twitter.com/seminioni/status/1314575823182196736",
+          "display_url": "twitter.com/seminioni/stat…",
           "indices": [
-            3,
-            12
+            27,
+            50
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -70,52 +69,15 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Oct 08 12:15:57 +0000 2020",
-      "id": 1314177713243127800,
-      "id_str": "1314177713243127809",
-      "text": "Говорят, во фронтенд можно попасть через твиттер. Что ж, проверим.\nМогу немного на JS писать, адаптивно верстать, j… https://t.co/RHcZBmTjhA",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/RHcZBmTjhA",
-            "expanded_url": "https://twitter.com/i/web/status/1314177713243127809",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 42,
-      "favorite_count": 73,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 42,
-    "favorite_count": 0,
+    "is_quote_status": true,
+    "quoted_status_id": 1314575823182196700,
+    "quoted_status_id_str": "1314575823182196736",
+    "retweet_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
