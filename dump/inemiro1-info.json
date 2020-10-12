@@ -26,40 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 8451,
+  "followers_count": 8455,
   "friends_count": 534,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5323,
+  "favourites_count": 5324,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41080,
+  "statuses_count": 41081,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 10 07:07:24 +0000 2020",
-    "id": 1314824839945957400,
-    "id_str": "1314824839945957378",
-    "text": "Ходят, подтверждаю https://t.co/5TVDwBJMq8",
-    "truncated": false,
+    "created_at": "Sun Oct 11 16:13:46 +0000 2020",
+    "id": 1315324725950898200,
+    "id_str": "1315324725950898176",
+    "text": "Моя неделя подходит к концу.\n\nСледуя лучшим практикам энтерпайза, я намерен написать весь контент за оставшиеся 5 ч… https://t.co/enVxdsgnDE",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/5TVDwBJMq8",
-          "expanded_url": "https://twitter.com/_vandud_/status/1314585848696971264",
-          "display_url": "twitter.com/_vandud_/statu…",
+          "url": "https://t.co/enVxdsgnDE",
+          "expanded_url": "https://twitter.com/i/web/status/1315324725950898176",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            19,
-            42
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,14 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1314585848696971300,
-    "quoted_status_id_str": "1314585848696971264",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 37,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
