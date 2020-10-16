@@ -13,28 +13,59 @@
     }
   },
   "protected": false,
-  "followers_count": 8489,
-  "friends_count": 568,
+  "followers_count": 8494,
+  "friends_count": 570,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 5763,
+  "favourites_count": 5824,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41350,
+  "statuses_count": 41418,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 14 19:04:04 +0000 2020",
-    "id": 1316454746534928400,
-    "id_str": "1316454746534928386",
-    "text": "А на сегодня все! До четверга!",
+    "created_at": "Thu Oct 15 21:18:46 +0000 2020",
+    "id": 1316851033256136700,
+    "id_str": "1316851033256136705",
+    "text": "RT @myshov: @jsunderhood Immutable.js не поддерживается уже два года https://t.co/Adu6iToMj9",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "myshov",
+          "name": "Alexander Myshov",
+          "id": 168906977,
+          "id_str": "168906977",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "jsunderhood",
+          "name": "jsunderh00d",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Adu6iToMj9",
+          "expanded_url": "https://dev.to/alekseiberezkin/what-happened-to-immutable-js-and-how-can-we-react-5c34",
+          "display_url": "dev.to/alekseiberezki…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -46,11 +77,63 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 15 21:13:09 +0000 2020",
+      "id": 1316849620090314800,
+      "id_str": "1316849620090314752",
+      "text": "@jsunderhood Immutable.js не поддерживается уже два года https://t.co/Adu6iToMj9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderh00d",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Adu6iToMj9",
+            "expanded_url": "https://dev.to/alekseiberezkin/what-happened-to-immutable-js-and-how-can-we-react-5c34",
+            "display_url": "dev.to/alekseiberezki…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1316806866584862700,
+      "in_reply_to_status_id_str": "1316806866584862722",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 8,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
