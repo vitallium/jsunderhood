@@ -22,14 +22,13 @@ block content
 
   article.container
     each row in authors
-      .row(style="margin-bottom: 1em")
+      .row.mb-3
         each author in row
-          .col-md-4
-            div.row
+          .col-4
+            .d-flex
               .col-md-2
-                .row.text-center
-                  img.rounded-circle(src=author.media.image)
-              .col-md-10
+                img.rounded-circle.mr-2(src=author.media.image)
+              .flex-column
                 h2
                   a(href="/" + author.authorId + '/')
                     = "@" + author.username
@@ -37,6 +36,5 @@ block content
                   small
                     i.fa.fa-map-marker
                     = " " + author.info.location
-            .row
-              .col-md-12
-                p.list__item-desc!= helpers.render(helpers.firstTweet(author))
+            div
+              p.list__item-desc!= helpers.render(helpers.firstTweet(author))

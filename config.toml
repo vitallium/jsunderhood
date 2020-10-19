@@ -1,0 +1,35 @@
+baseURL = "http://jsunderhood.netlify.app/"
+languageCode = "ru"
+title = "Сайт @jsunderhood"
+
+[menu]
+  [[menu.main]]
+    identifier = "stats"
+    name = "stats"
+    title = "stats"
+    url = "/stats/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "authoring"
+    name = "authoring"
+    title = "authoring"
+    url = "/authoring/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "rss"
+    name = "rss"
+    title = "rss"
+    url = "/rss/"
+    weight = 30
+
+[permalinks]
+  authors = "/:title/"
