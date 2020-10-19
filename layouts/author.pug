@@ -15,7 +15,7 @@ block headerTitle
 block content
   .container
     .row
-      .col-md-6.offset-3
+      .col
         article
           .title
             if (author.media && author.media.image)
@@ -92,7 +92,7 @@ block content
               each link in group.links
                 li: a(href=link)= link
 
-      .col-md-8.offset-2
+      .col
           hr
           - var prev = helpers.authorRender.prevAuthor(author);
           - var next = helpers.authorRender.nextAuthor(author);
