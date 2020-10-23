@@ -26,86 +26,96 @@
     }
   },
   "protected": false,
-  "followers_count": 8545,
+  "followers_count": 8555,
   "friends_count": 575,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6087,
+  "favourites_count": 6092,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 41893,
+  "statuses_count": 41956,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 21 22:06:50 +0000 2020",
-    "id": 1319037453836177400,
-    "id_str": "1319037453836177409",
-    "text": "@lzakirov @gladkih_m @toivonens По-моему такой гифкой несколько проблем решали, но пока вспомнил, только то, что чи… https://t.co/Gq05Sazquy",
-    "truncated": true,
+    "created_at": "Thu Oct 22 22:02:34 +0000 2020",
+    "id": 1319398768308064300,
+    "id_str": "1319398768308064256",
+    "text": "RT @tmkzmu: An interesting alternative to lodash and Ramda:\n\nRemeda: The first \"data-first\" and \"data-last\" utility library designed especi…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lzakirov",
-          "name": "Lenar Zakirov❌",
-          "id": 35164236,
-          "id_str": "35164236",
+          "screen_name": "tmkzmu",
+          "name": "Tomasz Żmudziński",
+          "id": 2238108296,
+          "id_str": "2238108296",
           "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "gladkih_m",
-          "name": "Maxim Gladkih",
-          "id": 16400433,
-          "id_str": "16400433",
-          "indices": [
-            10,
-            20
-          ]
-        },
-        {
-          "screen_name": "toivonens",
-          "name": "var ya; // ru 🇫🇮",
-          "id": 215559242,
-          "id_str": "215559242",
-          "indices": [
-            21,
-            31
+            3,
+            10
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/Gq05Sazquy",
-          "expanded_url": "https://twitter.com/i/web/status/1319037453836177409",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1319009056053465000,
-    "in_reply_to_status_id_str": "1319009056053465088",
-    "in_reply_to_user_id": 35164236,
-    "in_reply_to_user_id_str": "35164236",
-    "in_reply_to_screen_name": "lzakirov",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 22 21:54:24 +0000 2020",
+      "id": 1319396713375977500,
+      "id_str": "1319396713375977474",
+      "text": "An interesting alternative to lodash and Ramda:\n\nRemeda: The first \"data-first\" and \"data-last\" utility library des… https://t.co/V13kSAbWsO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V13kSAbWsO",
+            "expanded_url": "https://twitter.com/i/web/status/1319396713375977474",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 2,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
