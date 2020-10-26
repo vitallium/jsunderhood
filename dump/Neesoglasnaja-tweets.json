@@ -1,0 +1,145 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Oct 26 07:52:53 +0000 2020",
+      "id": 1320634491707232300,
+      "id_str": "1320634491707232258",
+      "text": "Привет! Утро понедельника, а значит теперь я, Саша Шинкевич (@Neesoglasnaja), лид-разработчик из Минска, буду целую… https://t.co/0t3wyo5tDI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Neesoglasnaja",
+            "name": "Sasha Shinkevich",
+            "id": 370063885,
+            "id_str": "370063885",
+            "indices": [
+              61,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0t3wyo5tDI",
+            "expanded_url": "https://twitter.com/i/web/status/1320634491707232258",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 64,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 26 08:01:35 +0000 2020",
+      "id": 1320636680949371000,
+      "id_str": "1320636680949370880",
+      "text": "@GlafiraZhur Про это будет отдельный тред 😅",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GlafiraZhur",
+            "name": "Glafira Zhur",
+            "id": 869928638,
+            "id_str": "869928638",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1320635950045810700,
+      "in_reply_to_status_id_str": "1320635950045810688",
+      "in_reply_to_user_id": 869928638,
+      "in_reply_to_user_id_str": "869928638",
+      "in_reply_to_screen_name": "GlafiraZhur",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 26 08:07:21 +0000 2020",
+      "id": 1320638131985670100,
+      "id_str": "1320638131985670148",
+      "text": "Спойлер тем на неделю 👉\n- фронтенд и как с ним бороться\n- тимлидство и почему вам это не нужно\n- мастерство выгоран… https://t.co/wuB15My7ta",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wuB15My7ta",
+            "expanded_url": "https://twitter.com/i/web/status/1320638131985670148",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1320634491707232300,
+      "in_reply_to_status_id_str": "1320634491707232258",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
