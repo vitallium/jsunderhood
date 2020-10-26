@@ -26,144 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 8559,
-  "friends_count": 575,
+  "followers_count": 8556,
+  "friends_count": 580,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6128,
+  "favourites_count": 6139,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42006,
+  "statuses_count": 42056,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 24 22:29:41 +0000 2020",
-    "id": 1320130369937690600,
-    "id_str": "1320130369937690626",
-    "text": "@nikmostovoy А как вам такое?\n\nhttps://t.co/mvGOCVmC0J https://t.co/CCJXQWetKA",
+    "created_at": "Sun Oct 25 19:31:45 +0000 2020",
+    "id": 1320447980684615700,
+    "id_str": "1320447980684615680",
+    "text": "@4rontender @Omgovich ❤️ Рад, что понравилось)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nikmostovoy",
-          "name": "Ник Мостовой",
-          "id": 893952733631447000,
-          "id_str": "893952733631447041",
+          "screen_name": "4rontender",
+          "name": "Ринат Валиуллов",
+          "id": 862738522788290600,
+          "id_str": "862738522788290561",
           "indices": [
             0,
-            12
+            11
+          ]
+        },
+        {
+          "screen_name": "Omgovich",
+          "name": "Vlad Shilov",
+          "id": 23216882,
+          "id_str": "23216882",
+          "indices": [
+            12,
+            21
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/mvGOCVmC0J",
-          "expanded_url": "https://github.com/facebook/react/blob/4e5d7faf54b38ebfc7a2dcadbd09a25d6f330ac0/package.json#L43",
-          "display_url": "github.com/facebook/react…",
-          "indices": [
-            31,
-            54
-          ]
-        }
-      ],
-      "media": [
-        {
-          "id": 1320130367219708000,
-          "id_str": "1320130367219707906",
-          "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/ElILkxtWMAIcszT.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ElILkxtWMAIcszT.jpg",
-          "url": "https://t.co/CCJXQWetKA",
-          "display_url": "pic.twitter.com/CCJXQWetKA",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1320130369937690626/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 945,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1320130367219708000,
-          "id_str": "1320130367219707906",
-          "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/ElILkxtWMAIcszT.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ElILkxtWMAIcszT.jpg",
-          "url": "https://t.co/CCJXQWetKA",
-          "display_url": "pic.twitter.com/CCJXQWetKA",
-          "expanded_url": "https://twitter.com/jsunderhood/status/1320130369937690626/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 945,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1320128634888355800,
-    "in_reply_to_status_id_str": "1320128634888355840",
-    "in_reply_to_user_id": 893952733631447000,
-    "in_reply_to_user_id_str": "893952733631447041",
-    "in_reply_to_screen_name": "nikmostovoy",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1320446784771117000,
+    "in_reply_to_status_id_str": "1320446784771117057",
+    "in_reply_to_user_id": 862738522788290600,
+    "in_reply_to_user_id_str": "862738522788290561",
+    "in_reply_to_screen_name": "4rontender",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
