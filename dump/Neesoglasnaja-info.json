@@ -26,31 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 8565,
+  "followers_count": 8587,
   "friends_count": 580,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6144,
+  "favourites_count": 6153,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42059,
+  "statuses_count": 42120,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 26 08:07:21 +0000 2020",
-    "id": 1320638131985670100,
-    "id_str": "1320638131985670148",
-    "text": "Спойлер тем на неделю 👉\n- фронтенд и как с ним бороться\n- тимлидство и почему вам это не нужно\n- мастерство выгоран… https://t.co/wuB15My7ta",
+    "created_at": "Mon Oct 26 15:33:05 +0000 2020",
+    "id": 1320750305940775000,
+    "id_str": "1320750305940774913",
+    "text": "@Lindarion90 Это не ко мне вопрос. Я в жизни не брала кредитов и только раз покупала в рассрочку - свой первый смар… https://t.co/SVRB13OrMV",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Lindarion90",
+          "name": "Lindarion",
+          "id": 816012020847874000,
+          "id_str": "816012020847874048",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/wuB15My7ta",
-          "expanded_url": "https://twitter.com/i/web/status/1320638131985670148",
+          "url": "https://t.co/SVRB13OrMV",
+          "expanded_url": "https://twitter.com/i/web/status/1320750305940774913",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,18 +71,18 @@
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1320634491707232300,
-    "in_reply_to_status_id_str": "1320634491707232258",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1320744360187748400,
+    "in_reply_to_status_id_str": "1320744360187748352",
+    "in_reply_to_user_id": 816012020847874000,
+    "in_reply_to_user_id_str": "816012020847874048",
+    "in_reply_to_screen_name": "Lindarion90",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 26,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
