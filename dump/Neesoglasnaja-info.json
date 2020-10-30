@@ -26,114 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8628,
-  "friends_count": 580,
-  "listed_count": 232,
+  "followers_count": 8632,
+  "friends_count": 581,
+  "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6204,
+  "favourites_count": 6218,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42216,
+  "statuses_count": 42291,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 28 19:46:47 +0000 2020",
-    "id": 1321538925329002500,
-    "id_str": "1321538925329002497",
-    "text": "RT @jeniasofronov: @jsunderhood Мы с психологами ведём канал  про выгорание. Каждый день пишем один экшнб совет. Может быть, будет полезно:…",
-    "truncated": false,
+    "created_at": "Thu Oct 29 18:59:30 +0000 2020",
+    "id": 1321889414449188900,
+    "id_str": "1321889414449188866",
+    "text": "@xufocoder А где есть возможность заработать, всегда будут желающие сделать свое. Так что от новых конференций нас… https://t.co/sgcg9Yhmca",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "jeniasofronov",
-          "name": "Женя Софронов",
-          "id": 1897488264,
-          "id_str": "1897488264",
+          "screen_name": "xufocoder",
+          "name": "Сергей Ufocoder",
+          "id": 474880609,
+          "id_str": "474880609",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            19,
-            31
+            0,
+            10
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/sgcg9Yhmca",
+          "expanded_url": "https://twitter.com/i/web/status/1321889414449188866",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1321889064530940000,
+    "in_reply_to_status_id_str": "1321889064530939906",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Wed Oct 28 19:40:50 +0000 2020",
-      "id": 1321537427199185000,
-      "id_str": "1321537427199184897",
-      "text": "@jsunderhood Мы с психологами ведём канал  про выгорание. Каждый день пишем один экшнб совет. Может быть, будет пол… https://t.co/iAZw0doTP3",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/iAZw0doTP3",
-            "expanded_url": "https://twitter.com/i/web/status/1321537427199184897",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1320659781078667300,
-      "in_reply_to_status_id_str": "1320659781078667267",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 8,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
