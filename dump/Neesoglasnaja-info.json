@@ -26,53 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8646,
+  "followers_count": 8648,
   "friends_count": 581,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6235,
+  "favourites_count": 6239,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42325,
+  "statuses_count": 42335,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 31 19:44:56 +0000 2020",
-    "id": 1322625625463685000,
-    "id_str": "1322625625463685124",
-    "text": "@rabbiabram О да...",
-    "truncated": false,
+    "created_at": "Sun Nov 01 13:46:43 +0000 2020",
+    "id": 1322897862443868200,
+    "id_str": "1322897862443868169",
+    "text": "Спасибо, что были здесь и поддерживали меня своими лайками и ответами. На этом я прощаюсь с аккаунтом @jsunderhood… https://t.co/bE1JtpLsva",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "rabbiabram",
-          "name": "Грубослав",
-          "id": 302491391,
-          "id_str": "302491391",
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            0,
-            11
+            102,
+            114
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/bE1JtpLsva",
+          "expanded_url": "https://twitter.com/i/web/status/1322897862443868169",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1322615022711955500,
-    "in_reply_to_status_id_str": "1322615022711955459",
-    "in_reply_to_user_id": 302491391,
-    "in_reply_to_user_id_str": "302491391",
-    "in_reply_to_screen_name": "rabbiabram",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1322897860296380400,
+    "in_reply_to_status_id_str": "1322897860296380416",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
