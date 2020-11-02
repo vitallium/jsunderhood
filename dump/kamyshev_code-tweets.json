@@ -1,0 +1,1060 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 02 09:04:48 +0000 2020",
+      "id": 1323189305003536400,
+      "id_str": "1323189305003536384",
+      "text": "Привет! \n\nЯ Игорь @kamyshev_code, работаю в команде веб-платформы @aviasales, мы делаем жизнь фронтендеров в компан… https://t.co/fCtda4AyqL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              18,
+              32
+            ]
+          },
+          {
+            "screen_name": "aviasales",
+            "name": "aviasales",
+            "id": 20523263,
+            "id_str": "20523263",
+            "indices": [
+              66,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fCtda4AyqL",
+            "expanded_url": "https://twitter.com/i/web/status/1323189305003536384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:05:26 +0000 2020",
+      "id": 1323189463242006500,
+      "id_str": "1323189463242006529",
+      "text": "Я буду рассказывать в основном про инфраструктурные штуки, но если интересно будет что-то другое — пишите.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1323189305003536400,
+      "in_reply_to_status_id_str": "1323189305003536384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:06:18 +0000 2020",
+      "id": 1323189679999447000,
+      "id_str": "1323189679999447045",
+      "text": "План примерно такой: в понедельник говорим о мониторинге и метриках, во вторник про микрофронтенды, в среду про кон… https://t.co/hIquHAnjct",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hIquHAnjct",
+            "expanded_url": "https://twitter.com/i/web/status/1323189679999447045",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1323189463242006500,
+      "in_reply_to_status_id_str": "1323189463242006529",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:06:24 +0000 2020",
+      "id": 1323189705530200000,
+      "id_str": "1323189705530200066",
+      "text": "А темы на выходные пусть останутся сюрпризом 🤓",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1323189679999447000,
+      "in_reply_to_status_id_str": "1323189679999447045",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:11:27 +0000 2020",
+      "id": 1323190977163677700,
+      "id_str": "1323190977163677696",
+      "text": "@against_veg @kamyshev_code @aviasales Да, с острова Пхукет, вот вид из окна нашего кабинета. https://t.co/nLRpGXdbSg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "against_veg",
+            "name": "убей в себе томат",
+            "id": 819351402426302500,
+            "id_str": "819351402426302464",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "aviasales",
+            "name": "aviasales",
+            "id": 20523263,
+            "id_str": "20523263",
+            "indices": [
+              28,
+              38
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1323190969798324200,
+            "id_str": "1323190969798324224",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElzrLSzVcAANSSD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElzrLSzVcAANSSD.jpg",
+            "url": "https://t.co/nLRpGXdbSg",
+            "display_url": "pic.twitter.com/nLRpGXdbSg",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1323190977163677696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1323190969798324200,
+            "id_str": "1323190969798324224",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElzrLSzVcAANSSD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElzrLSzVcAANSSD.jpg",
+            "url": "https://t.co/nLRpGXdbSg",
+            "display_url": "pic.twitter.com/nLRpGXdbSg",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1323190977163677696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1323190176764567600,
+      "in_reply_to_status_id_str": "1323190176764567552",
+      "in_reply_to_user_id": 819351402426302500,
+      "in_reply_to_user_id_str": "819351402426302464",
+      "in_reply_to_screen_name": "against_veg",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:13:37 +0000 2020",
+      "id": 1323191524033613800,
+      "id_str": "1323191524033613825",
+      "text": "@against_veg Не, я абсолютно серьёзно. Это одна из вилл, которые мы используем под офис.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "against_veg",
+            "name": "убей в себе томат",
+            "id": 819351402426302500,
+            "id_str": "819351402426302464",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1323191272291639300,
+      "in_reply_to_status_id_str": "1323191272291639297",
+      "in_reply_to_user_id": 819351402426302500,
+      "in_reply_to_user_id_str": "819351402426302464",
+      "in_reply_to_screen_name": "against_veg",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:30:58 +0000 2020",
+      "id": 1323195889263898600,
+      "id_str": "1323195889263898624",
+      "text": "Давайте начнем с мониторинга фронтенда, мы делаем это с необычной стороны",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:31:27 +0000 2020",
+      "id": 1323196011880214500,
+      "id_str": "1323196011880214531",
+      "text": "Когда мы начинали отслеживать метрики, мы не сильно понимали, какие инсайты хотим из них получить",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323195889263898600,
+      "in_reply_to_status_id_str": "1323195889263898624",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:31:48 +0000 2020",
+      "id": 1323196097607561200,
+      "id_str": "1323196097607561224",
+      "text": "Поэтому решили сначала спроектировать систему сбора максимально широкого спектра метрик, а потом, когда придумаем ч… https://t.co/qZqJGAp7BQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qZqJGAp7BQ",
+            "expanded_url": "https://twitter.com/i/web/status/1323196097607561224",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196011880214500,
+      "in_reply_to_status_id_str": "1323196011880214531",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:32:11 +0000 2020",
+      "id": 1323196197352296400,
+      "id_str": "1323196197352296454",
+      "text": "Система сбора метрик получилась простая как железная дорога — Node.js-приложение, которое по HTTP готово отдавать к… https://t.co/1t7wyqk5R8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1t7wyqk5R8",
+            "expanded_url": "https://twitter.com/i/web/status/1323196197352296454",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196097607561200,
+      "in_reply_to_status_id_str": "1323196097607561224",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:32:27 +0000 2020",
+      "id": 1323196262552723500,
+      "id_str": "1323196262552723457",
+      "text": "Написали этот сервис (дальше я буду называть его экспортером) и начали придумывать, какие метрики нам будут полезны",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196197352296400,
+      "in_reply_to_status_id_str": "1323196197352296454",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:34:38 +0000 2020",
+      "id": 1323196810681225200,
+      "id_str": "1323196810681225217",
+      "text": "Мы хотели следить за общим качеством сайта. Первое, что пришло в голову — отслеживать фон ошибок. Сколько пользоват… https://t.co/wPYyVcyf0a",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wPYyVcyf0a",
+            "expanded_url": "https://twitter.com/i/web/status/1323196810681225217",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:34:58 +0000 2020",
+      "id": 1323196894298873900,
+      "id_str": "1323196894298873856",
+      "text": "У нас уже был Rollbar, куда писались все ошибки. Добавили в экспортере запрос к API, чтобы получить число ошибок и… https://t.co/ZgaHBKQW91",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZgaHBKQW91",
+            "expanded_url": "https://twitter.com/i/web/status/1323196894298873856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196810681225200,
+      "in_reply_to_status_id_str": "1323196810681225217",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:35:13 +0000 2020",
+      "id": 1323196959734132700,
+      "id_str": "1323196959734132741",
+      "text": "А потом поняли, что получившийся график очень сильно колеблется. Во-первых, ночью меньше людей пользуются нашим сай… https://t.co/bA05T6CgIJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bA05T6CgIJ",
+            "expanded_url": "https://twitter.com/i/web/status/1323196959734132741",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196894298873900,
+      "in_reply_to_status_id_str": "1323196894298873856",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:35:30 +0000 2020",
+      "id": 1323197029854584800,
+      "id_str": "1323197029854584834",
+      "text": "Короче, этот график показывал по большей части посещаемость сайта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196959734132700,
+      "in_reply_to_status_id_str": "1323196959734132741",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:35:45 +0000 2020",
+      "id": 1323197094312636400,
+      "id_str": "1323197094312636416",
+      "text": "Решили нормировать его на число посещений. У нас уже используется snowplow, как транспорт аналитических событий. Ср… https://t.co/J5TwJbqUZr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J5TwJbqUZr",
+            "expanded_url": "https://twitter.com/i/web/status/1323197094312636416",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323197029854584800,
+      "in_reply_to_status_id_str": "1323197029854584834",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:36:01 +0000 2020",
+      "id": 1323197161291436000,
+      "id_str": "1323197161291436032",
+      "text": "Добавили чтение кафка-стрима, парсинг сообщений (отдельный квест распарсить формат snowplow), учет числа посещений.… https://t.co/Pz2ISMyZW1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Pz2ISMyZW1",
+            "expanded_url": "https://twitter.com/i/web/status/1323197161291436032",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323197094312636400,
+      "in_reply_to_status_id_str": "1323197094312636416",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:43:06 +0000 2020",
+      "id": 1323198944768258000,
+      "id_str": "1323198944768258048",
+      "text": "Получилось как-то так https://t.co/vtDEjpj5Qo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1323198939420479500,
+            "id_str": "1323198939420479488",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElzybL9U0AAJHrg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElzybL9U0AAJHrg.jpg",
+            "url": "https://t.co/vtDEjpj5Qo",
+            "display_url": "pic.twitter.com/vtDEjpj5Qo",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1323198944768258048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 336,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 574,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1323198939420479500,
+            "id_str": "1323198939420479488",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElzybL9U0AAJHrg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElzybL9U0AAJHrg.jpg",
+            "url": "https://t.co/vtDEjpj5Qo",
+            "display_url": "pic.twitter.com/vtDEjpj5Qo",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1323198944768258048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 336,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 574,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323197161291436000,
+      "in_reply_to_status_id_str": "1323197161291436032",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:43:17 +0000 2020",
+      "id": 1323198989110452200,
+      "id_str": "1323198989110452224",
+      "text": "Потом еще много допиливали этот график, но подробности, кмк, уже не так интересны.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323198944768258000,
+      "in_reply_to_status_id_str": "1323198944768258048",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:44:26 +0000 2020",
+      "id": 1323199279490498600,
+      "id_str": "1323199279490498560",
+      "text": "@seminioni @against_veg @kamyshev_code @aviasales Не, до сих пор льёт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "seminioni",
+            "name": "Mike Syomin",
+            "id": 2458957964,
+            "id_str": "2458957964",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "against_veg",
+            "name": "убей в себе томат",
+            "id": 819351402426302500,
+            "id_str": "819351402426302464",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "screen_name": "aviasales",
+            "name": "aviasales",
+            "id": 20523263,
+            "id_str": "20523263",
+            "indices": [
+              39,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323196618334736400,
+      "in_reply_to_status_id_str": "1323196618334736394",
+      "in_reply_to_user_id": 2458957964,
+      "in_reply_to_user_id_str": "2458957964",
+      "in_reply_to_screen_name": "seminioni",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 02 09:45:55 +0000 2020",
+      "id": 1323199649977565200,
+      "id_str": "1323199649977565188",
+      "text": "@kolyuchii Передам 😎",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kolyuchii",
+            "name": "Nikolai Marov",
+            "id": 40842049,
+            "id_str": "40842049",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1323199545656938500,
+      "in_reply_to_status_id_str": "1323199545656938509",
+      "in_reply_to_user_id": 40842049,
+      "in_reply_to_user_id_str": "40842049",
+      "in_reply_to_screen_name": "kolyuchii",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}
