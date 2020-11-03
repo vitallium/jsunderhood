@@ -37,56 +37,86 @@
     }
   },
   "protected": false,
-  "followers_count": 8649,
+  "followers_count": 8650,
   "friends_count": 582,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6240,
+  "favourites_count": 6246,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42356,
+  "statuses_count": 42409,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 02 09:45:55 +0000 2020",
-    "id": 1323199649977565200,
-    "id_str": "1323199649977565188",
-    "text": "@kolyuchii Передам 😎",
-    "truncated": false,
+    "created_at": "Mon Nov 02 13:54:35 +0000 2020",
+    "id": 1323262229731373000,
+    "id_str": "1323262229731373058",
+    "text": "@oooh_whatever @kamyshev_code @aviasales Кек, нет, с этим справляются местные электрики. В дождь часто отключается… https://t.co/WQelivm3Ru",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "kolyuchii",
-          "name": "Nikolai Marov",
-          "id": 40842049,
-          "id_str": "40842049",
+          "screen_name": "oooh_whatever",
+          "name": "Кацураги и 30 удар",
+          "id": 1638109778,
+          "id_str": "1638109778",
           "indices": [
             0,
-            10
+            14
+          ]
+        },
+        {
+          "screen_name": "kamyshev_code",
+          "name": "Igor Kamyshev",
+          "id": 556089858,
+          "id_str": "556089858",
+          "indices": [
+            15,
+            29
+          ]
+        },
+        {
+          "screen_name": "aviasales",
+          "name": "aviasales",
+          "id": 20523263,
+          "id_str": "20523263",
+          "indices": [
+            30,
+            40
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/WQelivm3Ru",
+          "expanded_url": "https://twitter.com/i/web/status/1323262229731373058",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "in_reply_to_status_id": 1323199545656938500,
-    "in_reply_to_status_id_str": "1323199545656938509",
-    "in_reply_to_user_id": 40842049,
-    "in_reply_to_user_id_str": "40842049",
-    "in_reply_to_screen_name": "kolyuchii",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1323261724825391000,
+    "in_reply_to_status_id_str": "1323261724825391201",
+    "in_reply_to_user_id": 1638109778,
+    "in_reply_to_user_id_str": "1638109778",
+    "in_reply_to_screen_name": "oooh_whatever",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
