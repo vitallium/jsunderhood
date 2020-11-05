@@ -37,56 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 8652,
+  "followers_count": 8655,
   "friends_count": 582,
-  "listed_count": 231,
+  "listed_count": 230,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6255,
+  "favourites_count": 6264,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42457,
+  "statuses_count": 42518,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 03 17:23:08 +0000 2020",
-    "id": 1323677102244130800,
-    "id_str": "1323677102244130816",
-    "text": "@dkryaklin К слову, у нас пока не SPA. А то что решение очень общее — это правда, да. Мы даём его многим командам и… https://t.co/bfr4zJfsDX",
-    "truncated": true,
+    "created_at": "Wed Nov 04 16:07:37 +0000 2020",
+    "id": 1324020486834057200,
+    "id_str": "1324020486834057216",
+    "text": "@supermegafedor @shuvalov_js Дело на в драе, я там выше конкретные проблемы описывал",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "dkryaklin",
-          "name": "Dmitry Kryaklin",
-          "id": 2305101024,
-          "id_str": "2305101024",
+          "screen_name": "supermegafedor",
+          "name": "fedor",
+          "id": 1265240987900788700,
+          "id_str": "1265240987900788737",
           "indices": [
             0,
-            10
+            15
+          ]
+        },
+        {
+          "screen_name": "shuvalov_js",
+          "name": "Червь Император Фронтенда",
+          "id": 214580679,
+          "id_str": "214580679",
+          "indices": [
+            16,
+            28
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/bfr4zJfsDX",
-          "expanded_url": "https://twitter.com/i/web/status/1323677102244130816",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1323672107910389800,
-    "in_reply_to_status_id_str": "1323672107910389761",
-    "in_reply_to_user_id": 2305101024,
-    "in_reply_to_user_id_str": "2305101024",
-    "in_reply_to_screen_name": "dkryaklin",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1324011938980966400,
+    "in_reply_to_status_id_str": "1324011938980966406",
+    "in_reply_to_user_id": 1265240987900788700,
+    "in_reply_to_user_id_str": "1265240987900788737",
+    "in_reply_to_screen_name": "supermegafedor",
     "geo": null,
     "coordinates": null,
     "place": null,
