@@ -13,28 +13,38 @@
     }
   },
   "protected": false,
-  "followers_count": 8630,
+  "followers_count": 8621,
   "friends_count": 582,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6364,
+  "favourites_count": 6365,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 42958,
+  "statuses_count": 43004,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 11 21:13:29 +0000 2020",
-    "id": 1326634172484624400,
-    "id_str": "1326634172484624384",
-    "text": "На сегодня все. Завтра поговорим про элемент &lt;template&gt; и его перспективы, а также о разработке на ES-модулях в браузере.",
-    "truncated": false,
+    "created_at": "Thu Nov 12 19:43:56 +0000 2020",
+    "id": 1326974026770681900,
+    "id_str": "1326974026770681861",
+    "text": "На сегодня все. Завтра поделюсь опытом поддержки библиотеки компонентов в open source. Кроме того, в честь пятницы… https://t.co/r6KVka88Cb",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/r6KVka88Cb",
+          "expanded_url": "https://twitter.com/i/web/status/1326974026770681861",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
@@ -48,7 +58,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 7,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
