@@ -13,35 +13,45 @@
     }
   },
   "protected": false,
-  "followers_count": 8624,
+  "followers_count": 8622,
   "friends_count": 582,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6369,
+  "favourites_count": 6368,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43048,
+  "statuses_count": 43059,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 13 20:02:59 +0000 2020",
-    "id": 1327341208797126700,
-    "id_str": "1327341208797126658",
-    "text": "На этом на сегодня закончу. На выходные заготовленных тем у меня нет, но поделюсь некоторыми материалами о веб-компонентах.",
-    "truncated": false,
+    "created_at": "Sat Nov 14 18:26:41 +0000 2020",
+    "id": 1327679360464253000,
+    "id_str": "1327679360464252931",
+    "text": "Много статей и примеров есть в подборке Web Components the Right Way — это awesome-list, который я мейнтейню уже по… https://t.co/OksED4LNn8",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/OksED4LNn8",
+          "expanded_url": "https://twitter.com/i/web/status/1327679360464252931",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1327678001484587000,
+    "in_reply_to_status_id_str": "1327678001484587010",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -51,6 +61,7 @@
     "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
