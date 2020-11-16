@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8622,
+  "followers_count": 8620,
   "friends_count": 582,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,43 +22,54 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43059,
+  "statuses_count": 43077,
   "lang": null,
   "status": {
-    "created_at": "Sat Nov 14 18:26:41 +0000 2020",
-    "id": 1327679360464253000,
-    "id_str": "1327679360464252931",
-    "text": "Много статей и примеров есть в подборке Web Components the Right Way — это awesome-list, который я мейнтейню уже по… https://t.co/OksED4LNn8",
+    "created_at": "Sun Nov 15 20:03:35 +0000 2020",
+    "id": 1328066134906704000,
+    "id_str": "1328066134906703875",
+    "text": "С вами был @iamkulykov. Спасибо всем за внимание и комментарии. Напомню, что у меня есть и англоязычный аккаунт… https://t.co/c81ItvpxAu",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "iamkulykov",
+          "name": "Сергей Куликов",
+          "id": 1166300206889099300,
+          "id_str": "1166300206889099264",
+          "indices": [
+            11,
+            22
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/OksED4LNn8",
-          "expanded_url": "https://twitter.com/i/web/status/1327679360464252931",
+          "url": "https://t.co/c81ItvpxAu",
+          "expanded_url": "https://twitter.com/i/web/status/1328066134906703875",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            113,
+            136
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1327678001484587000,
-    "in_reply_to_status_id_str": "1327678001484587010",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
