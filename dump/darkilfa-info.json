@@ -13,52 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8624,
+  "followers_count": 8642,
   "friends_count": 582,
-  "listed_count": 234,
+  "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6370,
+  "favourites_count": 6390,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43081,
+  "statuses_count": 43203,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 16 07:26:24 +0000 2020",
-    "id": 1328237969300463600,
-    "id_str": "1328237969300463616",
-    "text": "Я только вернулся с отпуска (который у меня затянулся дольше планируемого), немного в шоке от накопившегося в рабоч… https://t.co/nT3VNvkRJn",
-    "truncated": true,
+    "created_at": "Wed Nov 18 20:18:08 +0000 2020",
+    "id": 1329156960307073000,
+    "id_str": "1329156960307073026",
+    "text": "@dmtrKovalenko @nikmostovoy Ну, тут только последние на фронте могут понадобиться",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/nT3VNvkRJn",
-          "expanded_url": "https://twitter.com/i/web/status/1328237969300463616",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "dmtrKovalenko",
+          "name": "Dmitriy Kovalenko",
+          "id": 1018840293901328400,
+          "id_str": "1018840293901328384",
           "indices": [
-            117,
-            140
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "nikmostovoy",
+          "name": "Ник Мостовой",
+          "id": 893952733631447000,
+          "id_str": "893952733631447041",
+          "indices": [
+            15,
+            27
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1329155579319885800,
+    "in_reply_to_status_id_str": "1329155579319885824",
+    "in_reply_to_user_id": 1018840293901328400,
+    "in_reply_to_user_id_str": "1018840293901328384",
+    "in_reply_to_screen_name": "dmtrKovalenko",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
