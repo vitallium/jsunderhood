@@ -6156,6 +6156,2909 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 06:29:48 +0000 2020",
+      "id": 1329310893184782300,
+      "id_str": "1329310893184782337",
+      "text": "@kra1g0 Ну, автоматически это довольно сложно делать, надо код анализировать, а фактически это сейчас забота того,… https://t.co/7XWFhIKENj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kra1g0",
+            "name": "Крайго",
+            "id": 571038694,
+            "id_str": "571038694",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7XWFhIKENj",
+            "expanded_url": "https://twitter.com/i/web/status/1329310893184782337",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1329178785258860500,
+      "in_reply_to_status_id_str": "1329178785258860546",
+      "in_reply_to_user_id": 571038694,
+      "in_reply_to_user_id_str": "571038694",
+      "in_reply_to_screen_name": "kra1g0",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 11:57:07 +0000 2020",
+      "id": 1329393262805856300,
+      "id_str": "1329393262805856258",
+      "text": "@D1k1y Раньше это все вроде зеркалилось на сайт, но может чего путаю, а может просто найти не могу. @DmitryMakhnev поможешь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "D1k1y",
+            "name": "sergej.s",
+            "id": 55490137,
+            "id_str": "55490137",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "DmitryMakhnev",
+            "name": "Dmitry Makhnev",
+            "id": 98732570,
+            "id_str": "98732570",
+            "indices": [
+              100,
+              114
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1329390310737260500,
+      "in_reply_to_status_id_str": "1329390310737260545",
+      "in_reply_to_user_id": 55490137,
+      "in_reply_to_user_id_str": "55490137",
+      "in_reply_to_screen_name": "D1k1y",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 11:58:36 +0000 2020",
+      "id": 1329393635322900500,
+      "id_str": "1329393635322900480",
+      "text": "RT @nikmostovoy: @jsunderhood @kra1g0 Можно использовать package.json -&gt; files, вместо npmignore",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nikmostovoy",
+            "name": "Ник Мостовой",
+            "id": 893952733631447000,
+            "id_str": "893952733631447041",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "kra1g0",
+            "name": "Крайго",
+            "id": 571038694,
+            "id_str": "571038694",
+            "indices": [
+              30,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Nov 19 11:57:34 +0000 2020",
+        "id": 1329393377369084000,
+        "id_str": "1329393377369083904",
+        "text": "@jsunderhood @kra1g0 Можно использовать package.json -&gt; files, вместо npmignore",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "kra1g0",
+              "name": "Крайго",
+              "id": 571038694,
+              "id_str": "571038694",
+              "indices": [
+                13,
+                20
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1329310893184782300,
+        "in_reply_to_status_id_str": "1329310893184782337",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 893952733631447000,
+          "id_str": "893952733631447041"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:57 +0000 2020",
+      "id": 1329447832768622600,
+      "id_str": "1329447832768622592",
+      "text": "Поговорим сегодня на самую любимую тему в айтишных чатах после обсуждения ЗП? Да-да, я говорю о найме. Причем хочу… https://t.co/mleKZXTwbt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mleKZXTwbt",
+            "expanded_url": "https://twitter.com/i/web/status/1329447832768622592",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 53,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:58 +0000 2020",
+      "id": 1329447834270228500,
+      "id_str": "1329447834270228488",
+      "text": "Берем реальный пример. Я понял, что у меня в команде появилась потребность добавить рабочих рук, потому что задач м… https://t.co/KUB8XjBeK5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KUB8XjBeK5",
+            "expanded_url": "https://twitter.com/i/web/status/1329447834270228488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447832768622600,
+      "in_reply_to_status_id_str": "1329447832768622592",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:58 +0000 2020",
+      "id": 1329447835805347800,
+      "id_str": "1329447835805347850",
+      "text": "Когда ставку одобряют, я иду к рекрутерам и говорю: а помогите ка нанять человека, вот описание вакансии, хочу джун… https://t.co/RgmkH9lwX3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RgmkH9lwX3",
+            "expanded_url": "https://twitter.com/i/web/status/1329447835805347850",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447834270228500,
+      "in_reply_to_status_id_str": "1329447834270228488",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:59 +0000 2020",
+      "id": 1329447837525024800,
+      "id_str": "1329447837525024771",
+      "text": "И вот человек откликается, мне в руки попадает резюме и я пытаюсь понять, стоит ли тратить время соискателя и колле… https://t.co/AVcV0i6Fz1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AVcV0i6Fz1",
+            "expanded_url": "https://twitter.com/i/web/status/1329447837525024771",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447835805347800,
+      "in_reply_to_status_id_str": "1329447835805347850",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:59 +0000 2020",
+      "id": 1329447838967804000,
+      "id_str": "1329447838967803910",
+      "text": "Что помогает на этом этапе? Очень люблю, когда есть сопроводительное письмо. Это такой краткий текст, который содер… https://t.co/BtioESojcL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BtioESojcL",
+            "expanded_url": "https://twitter.com/i/web/status/1329447838967803910",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447837525024800,
+      "in_reply_to_status_id_str": "1329447837525024771",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:33:59 +0000 2020",
+      "id": 1329447840482029600,
+      "id_str": "1329447840482029568",
+      "text": "\"Привет! Меня зовут Илья, и я хочу работать у вас, потому что мне нравится ваш продукт (даже купил подписку на 5 ле… https://t.co/TCsSnwpDX1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TCsSnwpDX1",
+            "expanded_url": "https://twitter.com/i/web/status/1329447840482029568",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447838967804000,
+      "in_reply_to_status_id_str": "1329447838967803910",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:00 +0000 2020",
+      "id": 1329447841991962600,
+      "id_str": "1329447841991962627",
+      "text": "&lt;&lt;Я люблю здоровые коммуникации и дотошно разбираться в проблеме, но избегаю чрезмерной бюрократии. Я уже 10 лет в… https://t.co/e4nTJk6eDP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e4nTJk6eDP",
+            "expanded_url": "https://twitter.com/i/web/status/1329447841991962627",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447840482029600,
+      "in_reply_to_status_id_str": "1329447840482029568",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:00 +0000 2020",
+      "id": 1329447844168786000,
+      "id_str": "1329447844168785925",
+      "text": "Хотел утолкать в один твит, по получилось на два. Лучше всего модифицировать сопроводительное письмо под конкретную… https://t.co/Et51gPopEP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Et51gPopEP",
+            "expanded_url": "https://twitter.com/i/web/status/1329447844168785925",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447841991962600,
+      "in_reply_to_status_id_str": "1329447841991962627",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:01 +0000 2020",
+      "id": 1329447846605631500,
+      "id_str": "1329447846605631492",
+      "text": "Технологии, с которыми приходилось работать на этих проектах, чем конкретно вы занимались и чего удалось достигнуть… https://t.co/LXyI0UbaIy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LXyI0UbaIy",
+            "expanded_url": "https://twitter.com/i/web/status/1329447846605631492",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447844168786000,
+      "in_reply_to_status_id_str": "1329447844168785925",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:01 +0000 2020",
+      "id": 1329447848023384000,
+      "id_str": "1329447848023384077",
+      "text": "Бывают очень бодрые кандидаты и с ними довольно просто общаться, считаю что сам к таким отношусь. Но правда с таким… https://t.co/GOlUyv7XS8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GOlUyv7XS8",
+            "expanded_url": "https://twitter.com/i/web/status/1329447848023384077",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447846605631500,
+      "in_reply_to_status_id_str": "1329447846605631492",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:01 +0000 2020",
+      "id": 1329447849583632400,
+      "id_str": "1329447849583632390",
+      "text": "Обычно же кандидат волнуется. От волнуется немного до забывания слов. В этом нет ничего страшного, но это создает н… https://t.co/e5Euk0oRDk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e5Euk0oRDk",
+            "expanded_url": "https://twitter.com/i/web/status/1329447849583632390",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447848023384000,
+      "in_reply_to_status_id_str": "1329447848023384077",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:02 +0000 2020",
+      "id": 1329447851106193400,
+      "id_str": "1329447851106193408",
+      "text": "Поэтому я всегда пытаюсь создать комфортную атмосферу. Прощупываю кандидата лайтовыми шутками, рассказываю о недавн… https://t.co/mi6Cj1IYBG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mi6Cj1IYBG",
+            "expanded_url": "https://twitter.com/i/web/status/1329447851106193408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447849583632400,
+      "in_reply_to_status_id_str": "1329447849583632390",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:02 +0000 2020",
+      "id": 1329447852595146800,
+      "id_str": "1329447852595146758",
+      "text": "1. Мы хотим побольше узнать о твоем опыте, расскажи пожалуйста какие интересные задачи тебе приходилось решать ране… https://t.co/S995x0EhYY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/S995x0EhYY",
+            "expanded_url": "https://twitter.com/i/web/status/1329447852595146758",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447851106193400,
+      "in_reply_to_status_id_str": "1329447851106193408",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:03 +0000 2020",
+      "id": 1329447854033801200,
+      "id_str": "1329447854033801216",
+      "text": "2. Спасибо за рассказ о твоем опыте, как ты смотришь на то, чтобы порешать пару технических задач? Нам важно увидет… https://t.co/0Q2XOTSDiI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0Q2XOTSDiI",
+            "expanded_url": "https://twitter.com/i/web/status/1329447854033801216",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447852595146800,
+      "in_reply_to_status_id_str": "1329447852595146758",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:03 +0000 2020",
+      "id": 1329447855522766800,
+      "id_str": "1329447855522766858",
+      "text": "3. Спасибо за интервью, теперь настала твоя очередь задавать вопросы. Мы готовы ответить на любые: процессы, технол… https://t.co/eF0gD9qqBu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eF0gD9qqBu",
+            "expanded_url": "https://twitter.com/i/web/status/1329447855522766858",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447854033801200,
+      "in_reply_to_status_id_str": "1329447854033801216",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:03 +0000 2020",
+      "id": 1329447857083064300,
+      "id_str": "1329447857083064321",
+      "text": "На каждом из этапов важно не только узнать от кандидата побольше информации о его опыте, но и проверить правдивость… https://t.co/6G6hgVOWfh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6G6hgVOWfh",
+            "expanded_url": "https://twitter.com/i/web/status/1329447857083064321",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447855522766800,
+      "in_reply_to_status_id_str": "1329447855522766858",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:04 +0000 2020",
+      "id": 1329447858559398000,
+      "id_str": "1329447858559397894",
+      "text": "Собеседование это всегда большой стресс для обеих сторон, но для кандидата он сильнее, потому что в какой-то момент… https://t.co/dC88mY1VET",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dC88mY1VET",
+            "expanded_url": "https://twitter.com/i/web/status/1329447858559397894",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447857083064300,
+      "in_reply_to_status_id_str": "1329447857083064321",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:04 +0000 2020",
+      "id": 1329447860090380300,
+      "id_str": "1329447860090380296",
+      "text": "и не стесняетесь делать предположения. Скидка на стресс делается всегда, но если человек полностью замыкается и мол… https://t.co/gy3pGIgcTs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gy3pGIgcTs",
+            "expanded_url": "https://twitter.com/i/web/status/1329447860090380296",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447858559398000,
+      "in_reply_to_status_id_str": "1329447858559397894",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:04 +0000 2020",
+      "id": 1329447861646467000,
+      "id_str": "1329447861646467074",
+      "text": "поэтому я всегда стараюсь кандидату помочь довести решение задачи до конца. Возможно эта маленькая победа его рассл… https://t.co/60k3vaMgKU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/60k3vaMgKU",
+            "expanded_url": "https://twitter.com/i/web/status/1329447861646467074",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447860090380300,
+      "in_reply_to_status_id_str": "1329447860090380296",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:05 +0000 2020",
+      "id": 1329447863135428600,
+      "id_str": "1329447863135428608",
+      "text": "Что происходит после интервью? Если нет очевидного решения вроде \"он крутой!\" или \"зеленоват для нашей вакансии\", т… https://t.co/2r4BzxOYif",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2r4BzxOYif",
+            "expanded_url": "https://twitter.com/i/web/status/1329447863135428608",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447861646467000,
+      "in_reply_to_status_id_str": "1329447861646467074",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:05 +0000 2020",
+      "id": 1329447865526194200,
+      "id_str": "1329447865526194176",
+      "text": "Это история часа на два, когда кандидату предстоит решить более-менее серьезную задачу и рассказать ход мыслей инте… https://t.co/1pf65d1ZyS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1pf65d1ZyS",
+            "expanded_url": "https://twitter.com/i/web/status/1329447865526194176",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447863135428600,
+      "in_reply_to_status_id_str": "1329447863135428608",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:06 +0000 2020",
+      "id": 1329447866964844500,
+      "id_str": "1329447866964844546",
+      "text": "На каждом из этапов важно относиться к кандидату с уважением, потому что интервьювер это лицо компании для кандидат… https://t.co/9v34mIBnEg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9v34mIBnEg",
+            "expanded_url": "https://twitter.com/i/web/status/1329447866964844546",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447865526194200,
+      "in_reply_to_status_id_str": "1329447865526194176",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:06 +0000 2020",
+      "id": 1329447868592234500,
+      "id_str": "1329447868592234506",
+      "text": "Может, ты и классный спец, но после такого у кандидата будет плохое впечатление от собеседования, скорее всего расс… https://t.co/4mzKmhJMKu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4mzKmhJMKu",
+            "expanded_url": "https://twitter.com/i/web/status/1329447868592234506",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447866964844500,
+      "in_reply_to_status_id_str": "1329447866964844546",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:06 +0000 2020",
+      "id": 1329447870102200300,
+      "id_str": "1329447870102200321",
+      "text": "Ну и последний этап, финальное собеседование. Здесь 2 цели: выложить перед кандидатом все потенциальные трудности р… https://t.co/ES1a93lisQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ES1a93lisQ",
+            "expanded_url": "https://twitter.com/i/web/status/1329447870102200321",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447868592234500,
+      "in_reply_to_status_id_str": "1329447868592234506",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:34:07 +0000 2020",
+      "id": 1329447871549214700,
+      "id_str": "1329447871549214722",
+      "text": "Кажется, пора немного остановиться, задавайте вопросы, делитесь своим опытом, а я выдохну и попробую рассказать о с… https://t.co/XVdbZyxdLW",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XVdbZyxdLW",
+            "expanded_url": "https://twitter.com/i/web/status/1329447871549214722",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447870102200300,
+      "in_reply_to_status_id_str": "1329447870102200321",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:44:51 +0000 2020",
+      "id": 1329450575482728400,
+      "id_str": "1329450575482728450",
+      "text": "@andrey_sitnik Зависит от потока кандидатов, если он действительно большой, а на код не посмотреть, то почему бы и нет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329450253762891800,
+      "in_reply_to_status_id_str": "1329450253762891776",
+      "in_reply_to_user_id": 62229769,
+      "in_reply_to_user_id_str": "62229769",
+      "in_reply_to_screen_name": "andrey_sitnik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:49:13 +0000 2020",
+      "id": 1329451672645595100,
+      "id_str": "1329451672645595139",
+      "text": "@Semenov Потому что хочется оставить хорошее впечатление о себе, тут же как на свидании, все в равных условиях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Semenov",
+            "name": "Владэк Вернулся",
+            "id": 5249341,
+            "id_str": "5249341",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329449273247871000,
+      "in_reply_to_status_id_str": "1329449273247870982",
+      "in_reply_to_user_id": 5249341,
+      "in_reply_to_user_id_str": "5249341",
+      "in_reply_to_screen_name": "Semenov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:51:50 +0000 2020",
+      "id": 1329452333009424400,
+      "id_str": "1329452333009424390",
+      "text": "@andrey_sitnik По-сути это даже первый этап, но как выстроить эффективное собеседование через эл. почту у меня ни опыта ни представления нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329450843796607000,
+      "in_reply_to_status_id_str": "1329450843796606977",
+      "in_reply_to_user_id": 62229769,
+      "in_reply_to_user_id_str": "62229769",
+      "in_reply_to_screen_name": "andrey_sitnik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:53:22 +0000 2020",
+      "id": 1329452719292158000,
+      "id_str": "1329452719292157956",
+      "text": "@andrey_sitnik Конкретно в мою команду поток маленький и по резюме еще ни разу не зарезали (хотя пару раз было сожа… https://t.co/m1xEqaZMey",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/m1xEqaZMey",
+            "expanded_url": "https://twitter.com/i/web/status/1329452719292157956",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329451083354267600,
+      "in_reply_to_status_id_str": "1329451083354267649",
+      "in_reply_to_user_id": 62229769,
+      "in_reply_to_user_id_str": "62229769",
+      "in_reply_to_screen_name": "andrey_sitnik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:55:40 +0000 2020",
+      "id": 1329453294729752600,
+      "id_str": "1329453294729752576",
+      "text": "@Joe_terminal Часто важна самостоятельность, ввиду некоторого наследия старых процессов, когда один человек мог зан… https://t.co/yPT9tlWkom",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Joe_terminal",
+            "name": "Малыш Джо",
+            "id": 1232070882861949000,
+            "id_str": "1232070882861948928",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yPT9tlWkom",
+            "expanded_url": "https://twitter.com/i/web/status/1329453294729752576",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329451512620327000,
+      "in_reply_to_status_id_str": "1329451512620326913",
+      "in_reply_to_user_id": 1232070882861949000,
+      "in_reply_to_user_id_str": "1232070882861948928",
+      "in_reply_to_screen_name": "Joe_terminal",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 15:58:14 +0000 2020",
+      "id": 1329453941344653300,
+      "id_str": "1329453941344653312",
+      "text": "@andrey_sitnik Это хороший вопрос! Скажу честно, пока причина где-то на границе недоверия и страха из-за этого недо… https://t.co/v1YnCWp3ON",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/v1YnCWp3ON",
+            "expanded_url": "https://twitter.com/i/web/status/1329453941344653312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329453240212140000,
+      "in_reply_to_status_id_str": "1329453240212140035",
+      "in_reply_to_user_id": 62229769,
+      "in_reply_to_user_id_str": "62229769",
+      "in_reply_to_screen_name": "andrey_sitnik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 16:13:59 +0000 2020",
+      "id": 1329457907222646800,
+      "id_str": "1329457907222646786",
+      "text": "@ottey_xela Но они же не совсем прикладные",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ottey_xela",
+            "name": "ottey xela",
+            "id": 801126588,
+            "id_str": "801126588",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329456758973223000,
+      "in_reply_to_status_id_str": "1329456758973222913",
+      "in_reply_to_user_id": 801126588,
+      "in_reply_to_user_id_str": "801126588",
+      "in_reply_to_screen_name": "ottey_xela",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:17:44 +0000 2020",
+      "id": 1329489047711051800,
+      "id_str": "1329489047711051779",
+      "text": "@JorJe_GonZa Ну, я же схематично обозначил, а нюансы не знаю, да и не положено мне. Могу только предположить, что к… https://t.co/giEXMexQ17",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JorJe_GonZa",
+            "name": "JorJe_G",
+            "id": 507059279,
+            "id_str": "507059279",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/giEXMexQ17",
+            "expanded_url": "https://twitter.com/i/web/status/1329489047711051779",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329463943853699000,
+      "in_reply_to_status_id_str": "1329463943853699077",
+      "in_reply_to_user_id": 507059279,
+      "in_reply_to_user_id_str": "507059279",
+      "in_reply_to_screen_name": "JorJe_GonZa",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:18:55 +0000 2020",
+      "id": 1329489347213717500,
+      "id_str": "1329489347213717507",
+      "text": "@mesilov Например в чаты с бывшими коллегами или чаты с фронтендерами. Обычно кидаю в те чаты, в которых чувствую с… https://t.co/ZlOfoyeqCG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mesilov",
+            "name": "Mesilov Maxim",
+            "id": 94592573,
+            "id_str": "94592573",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZlOfoyeqCG",
+            "expanded_url": "https://twitter.com/i/web/status/1329489347213717507",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329488143096144000,
+      "in_reply_to_status_id_str": "1329488143096143873",
+      "in_reply_to_user_id": 94592573,
+      "in_reply_to_user_id_str": "94592573",
+      "in_reply_to_screen_name": "mesilov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:41 +0000 2020",
+      "id": 1329498599718330400,
+      "id_str": "1329498599718330371",
+      "text": "Что-то перерыв затянулся.\nИтак, что же я думаю про процесс найма, когда нахожусь в роли соискателя? Рекрутеры, если… https://t.co/yW8czsHVF8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yW8czsHVF8",
+            "expanded_url": "https://twitter.com/i/web/status/1329498599718330371",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329447871549214700,
+      "in_reply_to_status_id_str": "1329447871549214722",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:42 +0000 2020",
+      "id": 1329498601324748800,
+      "id_str": "1329498601324748800",
+      "text": "Вот мне HR Таня из Райка написала очень персонализированное письмо и мне сразу захотелось узнать, классно ли там ра… https://t.co/zskXe1bMPk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zskXe1bMPk",
+            "expanded_url": "https://twitter.com/i/web/status/1329498601324748800",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498599718330400,
+      "in_reply_to_status_id_str": "1329498599718330371",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:42 +0000 2020",
+      "id": 1329498602809520000,
+      "id_str": "1329498602809520128",
+      "text": "Но ладно, у нас же канал про фронтенд. На что я буду смотреть, при выборе работодателя? У меня, как и у многих, ест… https://t.co/Nag456yK9u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Nag456yK9u",
+            "expanded_url": "https://twitter.com/i/web/status/1329498602809520128",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498601324748800,
+      "in_reply_to_status_id_str": "1329498601324748800",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:42 +0000 2020",
+      "id": 1329498604285939700,
+      "id_str": "1329498604285939718",
+      "text": "Почему не финтех в общем случае? Финтех это большая денежная ответственность, из которой вырастают излишние меры бе… https://t.co/YZ5YyMvsjz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YZ5YyMvsjz",
+            "expanded_url": "https://twitter.com/i/web/status/1329498604285939718",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498602809520000,
+      "in_reply_to_status_id_str": "1329498602809520128",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:43 +0000 2020",
+      "id": 1329498606563373000,
+      "id_str": "1329498606563373057",
+      "text": "Почему не аутсорс? Я люблю, когда я на одной стороне с заказчиком, когда он всегда доступен и настроен на конструкт… https://t.co/w4knKEHJo9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/w4knKEHJo9",
+            "expanded_url": "https://twitter.com/i/web/status/1329498606563373057",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498604285939700,
+      "in_reply_to_status_id_str": "1329498604285939718",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:43 +0000 2020",
+      "id": 1329498608081703000,
+      "id_str": "1329498608081702913",
+      "text": "С деятельностью компании разобрались, что дальше? В тематических чатах, где могут быть сотрудники этой компании, на… https://t.co/l86lPSpamU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/l86lPSpamU",
+            "expanded_url": "https://twitter.com/i/web/status/1329498608081702913",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498606563373000,
+      "in_reply_to_status_id_str": "1329498606563373057",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:44 +0000 2020",
+      "id": 1329498609755230200,
+      "id_str": "1329498609755230209",
+      "text": "Какую информацию я жду от рекрутера? (Сейчас будет немного доковидный взгляд) Как компания относится к эпизодическо… https://t.co/z7Y4rolgcQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z7Y4rolgcQ",
+            "expanded_url": "https://twitter.com/i/web/status/1329498609755230209",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498608081703000,
+      "in_reply_to_status_id_str": "1329498608081702913",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:44 +0000 2020",
+      "id": 1329498611361656800,
+      "id_str": "1329498611361656832",
+      "text": "Когда просят рассказать о себе, то выбираю интересную задачу за последнее время, где я внес больше всего импакта и… https://t.co/VMhe1m7FSD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VMhe1m7FSD",
+            "expanded_url": "https://twitter.com/i/web/status/1329498611361656832",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498609755230200,
+      "in_reply_to_status_id_str": "1329498609755230209",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:44 +0000 2020",
+      "id": 1329498612863266800,
+      "id_str": "1329498612863266818",
+      "text": "Потом техническая часть и все как в тумане. Если это было собеседование на английском по скайпу, то все как в туман… https://t.co/0YHVCCvkd7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0YHVCCvkd7",
+            "expanded_url": "https://twitter.com/i/web/status/1329498612863266818",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498611361656800,
+      "in_reply_to_status_id_str": "1329498611361656832",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:45 +0000 2020",
+      "id": 1329498614415102000,
+      "id_str": "1329498614415101953",
+      "text": "Что я пытаюсь узнать о компании, когда мне дают право голоса? На сколько нормированный рабочий день, как выбираются… https://t.co/1Z2V95g8Gu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1Z2V95g8Gu",
+            "expanded_url": "https://twitter.com/i/web/status/1329498614415101953",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498612863266800,
+      "in_reply_to_status_id_str": "1329498612863266818",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:45 +0000 2020",
+      "id": 1329498616050933800,
+      "id_str": "1329498616050933769",
+      "text": "И тут часто могут слиться и сказать \"нет, почти не увольняются\". Когда в компании штат 300+ человек, то они точно у… https://t.co/8oSc97TPaF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8oSc97TPaF",
+            "expanded_url": "https://twitter.com/i/web/status/1329498616050933769",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498614415102000,
+      "in_reply_to_status_id_str": "1329498614415101953",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:45 +0000 2020",
+      "id": 1329498617590247400,
+      "id_str": "1329498617590247425",
+      "text": "И вот оффера не случилось, или он оказался на меньшую сумму, чем хотелось бы. Ну ок, бывает. Зато случился полезный… https://t.co/NkOaMYEXAg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NkOaMYEXAg",
+            "expanded_url": "https://twitter.com/i/web/status/1329498617590247425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498616050933800,
+      "in_reply_to_status_id_str": "1329498616050933769",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:46 +0000 2020",
+      "id": 1329498619083436000,
+      "id_str": "1329498619083436033",
+      "text": "А если вы собрались релоцироваться в первый раз, то это вообще весело. У ваших родственников может оказаться весьма… https://t.co/A0HLldYg6B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/A0HLldYg6B",
+            "expanded_url": "https://twitter.com/i/web/status/1329498619083436033",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498617590247400,
+      "in_reply_to_status_id_str": "1329498617590247425",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:46 +0000 2020",
+      "id": 1329498620543062000,
+      "id_str": "1329498620543062020",
+      "text": "В общем ходить на собеседования это почти всегда полезно, хотя бы раз в год. Так вы можете разведать ситуацию на ры… https://t.co/0uEK8AKLWA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0uEK8AKLWA",
+            "expanded_url": "https://twitter.com/i/web/status/1329498620543062020",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498619083436000,
+      "in_reply_to_status_id_str": "1329498619083436033",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:55:47 +0000 2020",
+      "id": 1329498622086549500,
+      "id_str": "1329498622086549505",
+      "text": "А заодно и потренироваться в навыке собеседоваться, кто знает когда он внезапно может потребоваться. И добавить еще… https://t.co/9mFrR8n2x3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9mFrR8n2x3",
+            "expanded_url": "https://twitter.com/i/web/status/1329498622086549505",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498620543062000,
+      "in_reply_to_status_id_str": "1329498620543062020",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 18:57:52 +0000 2020",
+      "id": 1329499149767757800,
+      "id_str": "1329499149767757825",
+      "text": "@SanichKotikov Всмысле реально на 30 минут, или кажущимися на 30 минут? Люди на собеседовании за 30 минут иногда с… https://t.co/IOGtfKpZjC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IOGtfKpZjC",
+            "expanded_url": "https://twitter.com/i/web/status/1329499149767757825",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329498715812475000,
+      "in_reply_to_status_id_str": "1329498715812474882",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:05:42 +0000 2020",
+      "id": 1329501121518465000,
+      "id_str": "1329501121518465025",
+      "text": "@SanichKotikov А приведи пример задания на 30 мин, по которому можно что-то интересное понять?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329500396742733800,
+      "in_reply_to_status_id_str": "1329500396742733834",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:06:27 +0000 2020",
+      "id": 1329501310295691300,
+      "id_str": "1329501310295691265",
+      "text": "@SanichKotikov Не, такое то понятно фигня",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329501184118431700,
+      "in_reply_to_status_id_str": "1329501184118431751",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:20:00 +0000 2020",
+      "id": 1329504719446962200,
+      "id_str": "1329504719446962176",
+      "text": "@Fair_Ly Интересно, нет ли исследований скрипты vs персонализированные тексты: по какому сценарию быстрее происходит найм",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fair_Ly",
+            "name": "Опа, клирик!",
+            "id": 2485796025,
+            "id_str": "2485796025",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329503920155222000,
+      "in_reply_to_status_id_str": "1329503920155222016",
+      "in_reply_to_user_id": 2485796025,
+      "in_reply_to_user_id_str": "2485796025",
+      "in_reply_to_screen_name": "Fair_Ly",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:20:58 +0000 2020",
+      "id": 1329504962028691500,
+      "id_str": "1329504962028691461",
+      "text": "@SanichKotikov Уверен, что исключения есть! А так же в банках часто практикуют квартальные и годовые бонусы, да и в… https://t.co/toeevl3doV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SanichKotikov",
+            "name": "Sanich",
+            "id": 1158117386,
+            "id_str": "1158117386",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/toeevl3doV",
+            "expanded_url": "https://twitter.com/i/web/status/1329504962028691461",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329504373769179100,
+      "in_reply_to_status_id_str": "1329504373769179139",
+      "in_reply_to_user_id": 1158117386,
+      "in_reply_to_user_id_str": "1158117386",
+      "in_reply_to_screen_name": "SanichKotikov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:22:14 +0000 2020",
+      "id": 1329505278270824400,
+      "id_str": "1329505278270824453",
+      "text": "@Fair_Ly Кстати, частично поэтому всегда стараюсь ответить мол \"сорян, но сейчас не планирую работу менять\", если в… https://t.co/zdZFfuezEp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fair_Ly",
+            "name": "Опа, клирик!",
+            "id": 2485796025,
+            "id_str": "2485796025",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zdZFfuezEp",
+            "expanded_url": "https://twitter.com/i/web/status/1329505278270824453",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329504753307541500,
+      "in_reply_to_status_id_str": "1329504753307541505",
+      "in_reply_to_user_id": 2485796025,
+      "in_reply_to_user_id_str": "2485796025",
+      "in_reply_to_screen_name": "Fair_Ly",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:29:41 +0000 2020",
+      "id": 1329507154714357800,
+      "id_str": "1329507154714357764",
+      "text": "@i_kabirov Если 100% не собираешься менять место работы, то пожалуй не стоит. По крайней мере точно никому не стоит… https://t.co/i6hmXfnSyH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_kabirov",
+            "name": "Ilyas Kabirov",
+            "id": 1028321065666322400,
+            "id_str": "1028321065666322433",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i6hmXfnSyH",
+            "expanded_url": "https://twitter.com/i/web/status/1329507154714357764",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329505589735592000,
+      "in_reply_to_status_id_str": "1329505589735591936",
+      "in_reply_to_user_id": 1028321065666322400,
+      "in_reply_to_user_id_str": "1028321065666322433",
+      "in_reply_to_screen_name": "i_kabirov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:30:52 +0000 2020",
+      "id": 1329507454011498500,
+      "id_str": "1329507454011498498",
+      "text": "@m0rg0t @Fair_Ly О, в соседней ветке оч похожий вопрос. Как по мне, то мало кто бывает в 100% уверенности, что менять работу не планирует.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "m0rg0t",
+            "name": "Anton Lenev",
+            "id": 65431885,
+            "id_str": "65431885",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "Fair_Ly",
+            "name": "Опа, клирик!",
+            "id": 2485796025,
+            "id_str": "2485796025",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329507116164522000,
+      "in_reply_to_status_id_str": "1329507116164521989",
+      "in_reply_to_user_id": 65431885,
+      "in_reply_to_user_id_str": "65431885",
+      "in_reply_to_screen_name": "m0rg0t",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 19:32:00 +0000 2020",
+      "id": 1329507737651327000,
+      "id_str": "1329507737651326978",
+      "text": "@m0rg0t @Fair_Ly Опять же можно так и ответить: я вообще менять работу не планирую, но если настаиваете, то можно п… https://t.co/v8euXAQcq7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "m0rg0t",
+            "name": "Anton Lenev",
+            "id": 65431885,
+            "id_str": "65431885",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "Fair_Ly",
+            "name": "Опа, клирик!",
+            "id": 2485796025,
+            "id_str": "2485796025",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/v8euXAQcq7",
+            "expanded_url": "https://twitter.com/i/web/status/1329507737651326978",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329507345995608000,
+      "in_reply_to_status_id_str": "1329507345995608065",
+      "in_reply_to_user_id": 65431885,
+      "in_reply_to_user_id_str": "65431885",
+      "in_reply_to_screen_name": "m0rg0t",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 20:14:21 +0000 2020",
+      "id": 1329518394673127400,
+      "id_str": "1329518394673127424",
+      "text": "@i_kabirov Но это может быть эпизодическое ощущение. Но очевидно, что универсального рецепта не будет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_kabirov",
+            "name": "Ilyas Kabirov",
+            "id": 1028321065666322400,
+            "id_str": "1028321065666322433",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329516695480901600,
+      "in_reply_to_status_id_str": "1329516695480901639",
+      "in_reply_to_user_id": 1028321065666322400,
+      "in_reply_to_user_id_str": "1028321065666322433",
+      "in_reply_to_screen_name": "i_kabirov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
