@@ -13,46 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 8640,
+  "followers_count": 8644,
   "friends_count": 582,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6401,
+  "favourites_count": 6403,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43265,
+  "statuses_count": 43283,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 19 20:14:21 +0000 2020",
-    "id": 1329518394673127400,
-    "id_str": "1329518394673127424",
-    "text": "@i_kabirov Но это может быть эпизодическое ощущение. Но очевидно, что универсального рецепта не будет.",
-    "truncated": false,
+    "created_at": "Fri Nov 20 16:01:57 +0000 2020",
+    "id": 1329817266389704700,
+    "id_str": "1329817266389704714",
+    "text": "@alyonagrigor Ну чего началось то? =) Не, тут же вообще другой формат происходящего. Одно дело, когда пытаешься что… https://t.co/siXa2hxfDr",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "i_kabirov",
-          "name": "Ilyas Kabirov",
-          "id": 1028321065666322400,
-          "id_str": "1028321065666322433",
+          "screen_name": "alyonagrigor",
+          "name": "Молодая острослова",
+          "id": 90351815,
+          "id_str": "90351815",
           "indices": [
             0,
-            10
+            13
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/siXa2hxfDr",
+          "expanded_url": "https://twitter.com/i/web/status/1329817266389704714",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1329516695480901600,
-    "in_reply_to_status_id_str": "1329516695480901639",
-    "in_reply_to_user_id": 1028321065666322400,
-    "in_reply_to_user_id_str": "1028321065666322433",
-    "in_reply_to_screen_name": "i_kabirov",
+    "in_reply_to_status_id": 1329813147889397800,
+    "in_reply_to_status_id_str": "1329813147889397769",
+    "in_reply_to_user_id": 90351815,
+    "in_reply_to_user_id_str": "90351815",
+    "in_reply_to_screen_name": "alyonagrigor",
     "geo": null,
     "coordinates": null,
     "place": null,
