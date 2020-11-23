@@ -1,0 +1,438 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 23 12:55:18 +0000 2020",
+      "id": 1330857456537362400,
+      "id_str": "1330857456537362436",
+      "text": "Привет хакеры! Всю эту неделю я буду ващим MC из мира разработки компиляторов.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 49,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 14:36:21 +0000 2020",
+      "id": 1330882884882862000,
+      "id_str": "1330882884882862080",
+      "text": "@xufocoder Это не то, это занудно, это мертво...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xufocoder",
+            "name": "Сергей Ufocoder",
+            "id": 474880609,
+            "id_str": "474880609",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330874506643206100,
+      "in_reply_to_status_id_str": "1330874506643206146",
+      "in_reply_to_user_id": 474880609,
+      "in_reply_to_user_id_str": "474880609",
+      "in_reply_to_screen_name": "xufocoder",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:09:29 +0000 2020",
+      "id": 1330891226413994000,
+      "id_str": "1330891226413993991",
+      "text": "Тут буквально на днях я работал над webassembly в JavaScriptCore. JavaScriptCore это движок для JS и webassembly в… https://t.co/7fOhAOUFqH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7fOhAOUFqH",
+            "expanded_url": "https://twitter.com/i/web/status/1330891226413993991",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:10:03 +0000 2020",
+      "id": 1330891368387006500,
+      "id_str": "1330891368387006464",
+      "text": "Я уже привык что код на c++, да еще и в больших проектах не блещет новыми идеями и фишками из новых стандартов, раз… https://t.co/1KZ5vikSZi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1KZ5vikSZi",
+            "expanded_url": "https://twitter.com/i/web/status/1330891368387006464",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330891226413994000,
+      "in_reply_to_status_id_str": "1330891226413993991",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:11:43 +0000 2020",
+      "id": 1330891786580070400,
+      "id_str": "1330891786580070400",
+      "text": "Посмотрите на эту кучу макросов: https://t.co/D5VWkFGj5z,\nWASM_PARSER_FAIL_IF(!parseVarUInt32(elementCount), \"can't… https://t.co/DOCaCAy5nt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/D5VWkFGj5z",
+            "expanded_url": "https://webkit-search.igalia.com/webkit/source/Source/JavaScriptCore/wasm/WasmSectionParser.cpp#374",
+            "display_url": "webkit-search.igalia.com/webkit/source/…",
+            "indices": [
+              33,
+              56
+            ]
+          },
+          {
+            "url": "https://t.co/DOCaCAy5nt",
+            "expanded_url": "https://twitter.com/i/web/status/1330891786580070400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330891368387006500,
+      "in_reply_to_status_id_str": "1330891368387006464",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 23 15:12:51 +0000 2020",
+      "id": 1330892071302013000,
+      "id_str": "1330892071302012928",
+      "text": "Спустя буквально пару часов я прозрел, блин, а это удобно. Не надо как в Go писать каждый раз if not error, просто… https://t.co/84pMef2Dnv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/84pMef2Dnv",
+            "expanded_url": "https://twitter.com/i/web/status/1330892071302012928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330891786580070400,
+      "in_reply_to_status_id_str": "1330891786580070400",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:13:20 +0000 2020",
+      "id": 1330892193255592000,
+      "id_str": "1330892193255591936",
+      "text": "Посмотрите как функция объявлена, auto SectionParser::parseElement() -&gt; PartialResult, это же в прямом виде rail wa… https://t.co/OlOnuk5K9w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OlOnuk5K9w",
+            "expanded_url": "https://twitter.com/i/web/status/1330892193255591936",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330892071302013000,
+      "in_reply_to_status_id_str": "1330892071302012928",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 23 15:13:35 +0000 2020",
+      "id": 1330892257923375000,
+      "id_str": "1330892257923375104",
+      "text": "Также Андрей Александреску предлагал внести похожий способ обработки ошибок в c++: https://t.co/FN2PsnVqiT.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FN2PsnVqiT",
+            "expanded_url": "https://www.youtube.com/watch?v=CGwk3i1bGQI",
+            "display_url": "youtube.com/watch?v=CGwk3i…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330892193255592000,
+      "in_reply_to_status_id_str": "1330892193255591936",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:14:00 +0000 2020",
+      "id": 1330892360549609500,
+      "id_str": "1330892360549609474",
+      "text": "Возвращаясь к своей задаче я написал пару функций для парсинга в стиле:\nPartialResult WARN_UNUSED_RETURN parseElemK… https://t.co/uQiyvk93gq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uQiyvk93gq",
+            "expanded_url": "https://twitter.com/i/web/status/1330892360549609474",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330892193255592000,
+      "in_reply_to_status_id_str": "1330892193255591936",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:17:41 +0000 2020",
+      "id": 1330893290837840000,
+      "id_str": "1330893290837839873",
+      "text": "Вот к слову и патч в JSC который добавляет поддержку обновленной секции elements и reference-type proposal: https://t.co/rUr4vP9TvC.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rUr4vP9TvC",
+            "expanded_url": "https://bugs.webkit.org/attachment.cgi?id=414651&action=diff",
+            "display_url": "bugs.webkit.org/attachment.cgi…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330892257923375000,
+      "in_reply_to_status_id_str": "1330892257923375104",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
