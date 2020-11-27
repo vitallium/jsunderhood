@@ -1701,6 +1701,192 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 01:29:45 +0000 2020",
+      "id": 1331772097954242600,
+      "id_str": "1331772097954242562",
+      "text": "@bashorov btw: он есть в https://t.co/qa5Avst4tx как лучшая рекомендация по компиляторам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bashorov",
+            "name": "zalim",
+            "id": 338920494,
+            "id_str": "338920494",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qa5Avst4tx",
+            "expanded_url": "https://teachyourselfcs.com/",
+            "display_url": "teachyourselfcs.com",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1331751564147650600,
+      "in_reply_to_status_id_str": "1331751564147650560",
+      "in_reply_to_user_id": 338920494,
+      "in_reply_to_user_id_str": "338920494",
+      "in_reply_to_screen_name": "bashorov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 11:36:39 +0000 2020",
+      "id": 1331924827880501200,
+      "id_str": "1331924827880501248",
+      "text": "👍 https://t.co/iii9yaoJXK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iii9yaoJXK",
+            "expanded_url": "https://twitter.com/littledan/status/1331582979370577921",
+            "display_url": "twitter.com/littledan/stat…",
+            "indices": [
+              2,
+              25
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1331582979370578000,
+      "quoted_status_id_str": "1331582979370577921",
+      "quoted_status": {
+        "created_at": "Wed Nov 25 12:58:16 +0000 2020",
+        "id": 1331582979370578000,
+        "id_str": "1331582979370577921",
+        "text": "@devongovett @threepointone @buildsghost @thomasankcorn I just presented on the topic of bundling and JavaScript, w… https://t.co/MKKK1JWbQT",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "devongovett",
+              "name": "Devon Govett",
+              "id": 15687937,
+              "id_str": "15687937",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "threepointone",
+              "name": "Nasty Claus",
+              "id": 1593171,
+              "id_str": "1593171",
+              "indices": [
+                13,
+                27
+              ]
+            },
+            {
+              "screen_name": "buildsghost",
+              "name": "Jamie Kyle",
+              "id": 1175464650395111400,
+              "id_str": "1175464650395111424",
+              "indices": [
+                28,
+                40
+              ]
+            },
+            {
+              "screen_name": "thomasankcorn",
+              "name": "Thomas🐕",
+              "id": 985648271476580400,
+              "id_str": "985648271476580352",
+              "indices": [
+                41,
+                55
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MKKK1JWbQT",
+              "expanded_url": "https://twitter.com/i/web/status/1331582979370577921",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1331581613466116000,
+        "in_reply_to_status_id_str": "1331581613466116105",
+        "in_reply_to_user_id": 15687937,
+        "in_reply_to_user_id_str": "15687937",
+        "in_reply_to_screen_name": "devongovett",
+        "user": {
+          "id": 12763482,
+          "id_str": "12763482"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }

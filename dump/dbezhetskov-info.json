@@ -13,45 +13,58 @@
     }
   },
   "protected": false,
-  "followers_count": 8716,
+  "followers_count": 8714,
   "friends_count": 582,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6413,
+  "favourites_count": 6416,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43367,
+  "statuses_count": 43369,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 25 14:02:40 +0000 2020",
-    "id": 1331599184659673000,
-    "id_str": "1331599184659673095",
-    "text": "А что вы посоветуете?",
+    "created_at": "Thu Nov 26 11:36:39 +0000 2020",
+    "id": 1331924827880501200,
+    "id_str": "1331924827880501248",
+    "text": "👍 https://t.co/iii9yaoJXK",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/iii9yaoJXK",
+          "expanded_url": "https://twitter.com/littledan/status/1331582979370577921",
+          "display_url": "twitter.com/littledan/stat…",
+          "indices": [
+            2,
+            25
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1331599182164004900,
-    "in_reply_to_status_id_str": "1331599182164004867",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1331582979370578000,
+    "quoted_status_id_str": "1331582979370577921",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
