@@ -1887,6 +1887,455 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Fri Nov 27 07:47:27 +0000 2020",
+      "id": 1332229536235262000,
+      "id_str": "1332229536235261953",
+      "text": "#wasm очень интересная технология, но мне кажется что ей недостает фокуса на правильных вещах. Для себя я выделил 3… https://t.co/Bm5sqEt10i",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "wasm",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Bm5sqEt10i",
+            "expanded_url": "https://twitter.com/i/web/status/1332229536235261953",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 10:58:19 +0000 2020",
+      "id": 1332277567307518000,
+      "id_str": "1332277567307517955",
+      "text": "@smartass3000 wasm не умеет напрямую с api браузера общаться, так что это будет работать через js, что несомненно о… https://t.co/EHkR8vXUwn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smartass3000",
+            "name": "Maksim",
+            "id": 958280404020187100,
+            "id_str": "958280404020187137",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EHkR8vXUwn",
+            "expanded_url": "https://twitter.com/i/web/status/1332277567307517955",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332261045512122400,
+      "in_reply_to_status_id_str": "1332261045512122371",
+      "in_reply_to_user_id": 958280404020187100,
+      "in_reply_to_user_id_str": "958280404020187137",
+      "in_reply_to_screen_name": "smartass3000",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 11:00:10 +0000 2020",
+      "id": 1332278034519511000,
+      "id_str": "1332278034519511040",
+      "text": "@subzey Не такой уж wasm и безопасный:\nhttps://t.co/lIRl8b29UL\nhttps://t.co/imy4xFE4RO\n\nОдин из примеров, в C есть… https://t.co/Mffr5szUKa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subzey",
+            "name": "subzey",
+            "id": 161396680,
+            "id_str": "161396680",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lIRl8b29UL",
+            "expanded_url": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann",
+            "display_url": "usenix.org/conference/use…",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/imy4xFE4RO",
+            "expanded_url": "https://www.wingolog.org/archives/2020/10/15/on-binary-security-of-webassembly",
+            "display_url": "wingolog.org/archives/2020/…",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "url": "https://t.co/Mffr5szUKa",
+            "expanded_url": "https://twitter.com/i/web/status/1332278034519511040",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332271212672716800,
+      "in_reply_to_status_id_str": "1332271212672716800",
+      "in_reply_to_user_id": 161396680,
+      "in_reply_to_user_id_str": "161396680",
+      "in_reply_to_screen_name": "subzey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 11:03:49 +0000 2020",
+      "id": 1332278952455442400,
+      "id_str": "1332278952455442435",
+      "text": "@timofeipl Спасибо, это очень правильный и осторожный ответ, я бы добавил что для wasm нужна скорость, иначе если о… https://t.co/7ZOvOZRcIC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timofeipl",
+            "name": "Tim Pλotnikov",
+            "id": 484358903,
+            "id_str": "484358903",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ZOvOZRcIC",
+            "expanded_url": "https://twitter.com/i/web/status/1332278952455442435",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332267842557907000,
+      "in_reply_to_status_id_str": "1332267842557906946",
+      "in_reply_to_user_id": 484358903,
+      "in_reply_to_user_id_str": "484358903",
+      "in_reply_to_screen_name": "timofeipl",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 14:19:26 +0000 2020",
+      "id": 1332328179990737000,
+      "id_str": "1332328179990736896",
+      "text": "1/3 Десктопные приложения которые сложно поставлять и которые одновременно требуют производительности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332229536235262000,
+      "in_reply_to_status_id_str": "1332229536235261953",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 14:19:26 +0000 2020",
+      "id": 1332328182842863600,
+      "id_str": "1332328182842863618",
+      "text": "1/3 Идеальный пример это https://t.co/QNanKjEik9. Это IDE для генетиков пользователями которой являются студенты. П… https://t.co/6mtou8IOsP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QNanKjEik9",
+            "expanded_url": "http://ugene.net/",
+            "display_url": "ugene.net",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "url": "https://t.co/6mtou8IOsP",
+            "expanded_url": "https://twitter.com/i/web/status/1332328182842863618",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332328179990737000,
+      "in_reply_to_status_id_str": "1332328179990736896",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 14:19:27 +0000 2020",
+      "id": 1332328185338470400,
+      "id_str": "1332328185338470400",
+      "text": "1/3 В итоге получаем отличную IDE для генетиков, которая не тащит за собой Qt и работает сразу в браузере и причем… https://t.co/s2X4KENFAw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s2X4KENFAw",
+            "expanded_url": "https://twitter.com/i/web/status/1332328185338470400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332328182842863600,
+      "in_reply_to_status_id_str": "1332328182842863618",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 14:19:28 +0000 2020",
+      "id": 1332328187787964400,
+      "id_str": "1332328187787964418",
+      "text": "2/3 Игры. Вспомните сколько было прекрасных игр на flash. Да, технология оказалась небезопасной, но все же. Как тол… https://t.co/H1CDcN9gvy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H1CDcN9gvy",
+            "expanded_url": "https://twitter.com/i/web/status/1332328187787964418",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332328185338470400,
+      "in_reply_to_status_id_str": "1332328185338470400",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 27 14:19:28 +0000 2020",
+      "id": 1332328190266708000,
+      "id_str": "1332328190266707975",
+      "text": "3/3 язык для экспериментов для web. Эмуляция различных языков, эксперименты с отказом от JS в браузере и переписыва… https://t.co/H8MFRd1yHL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H8MFRd1yHL",
+            "expanded_url": "https://twitter.com/i/web/status/1332328190266707975",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1332328187787964400,
+      "in_reply_to_status_id_str": "1332328187787964418",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
