@@ -13,22 +13,22 @@
     }
   },
   "protected": false,
-  "followers_count": 8713,
+  "followers_count": 8716,
   "friends_count": 582,
   "listed_count": 231,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6420,
+  "favourites_count": 6417,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43378,
+  "statuses_count": 43386,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 27 14:19:28 +0000 2020",
-    "id": 1332328190266708000,
-    "id_str": "1332328190266707975",
-    "text": "3/3 язык для экспериментов для web. Эмуляция различных языков, эксперименты с отказом от JS в браузере и переписыва… https://t.co/H8MFRd1yHL",
+    "created_at": "Sat Nov 28 13:37:36 +0000 2020",
+    "id": 1332680041696727000,
+    "id_str": "1332680041696727041",
+    "text": "Не хотите SpiderMonkey, есть JSC (https://t.co/cGsuVKaRHd), есть chromium (https://t.co/0BNazThRvj), llvm и другие.… https://t.co/E1JcdPBT6l",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -36,8 +36,26 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/H8MFRd1yHL",
-          "expanded_url": "https://twitter.com/i/web/status/1332328190266707975",
+          "url": "https://t.co/cGsuVKaRHd",
+          "expanded_url": "https://bugs.webkit.org/",
+          "display_url": "bugs.webkit.org",
+          "indices": [
+            34,
+            57
+          ]
+        },
+        {
+          "url": "https://t.co/0BNazThRvj",
+          "expanded_url": "https://bugs.chromium.org/p/chromium/issues/list?q=Hotlist%3DGoodFirstBug&can=2",
+          "display_url": "bugs.chromium.org/p/chromium/iss…",
+          "indices": [
+            75,
+            98
+          ]
+        },
+        {
+          "url": "https://t.co/E1JcdPBT6l",
+          "expanded_url": "https://twitter.com/i/web/status/1332680041696727041",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,8 +65,8 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1332328187787964400,
-    "in_reply_to_status_id_str": "1332328187787964418",
+    "in_reply_to_status_id": 1332680039142465500,
+    "in_reply_to_status_id_str": "1332680039142465536",
     "in_reply_to_user_id": 3014054307,
     "in_reply_to_user_id_str": "3014054307",
     "in_reply_to_screen_name": "jsunderhood",
@@ -58,9 +76,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
