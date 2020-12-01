@@ -36,53 +36,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8718,
-  "friends_count": 582,
+  "followers_count": 8717,
+  "friends_count": 583,
   "listed_count": 232,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6416,
+  "favourites_count": 6431,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43423,
+  "statuses_count": 43444,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 30 11:40:24 +0000 2020",
-    "id": 1333375321278734300,
-    "id_str": "1333375321278734336",
-    "text": "tinyhttp - веб-фреймоворк, автор @v1rtl \nhttps://t.co/f8cLsxusAE",
+    "created_at": "Mon Nov 30 22:12:51 +0000 2020",
+    "id": 1333534484839489500,
+    "id_str": "1333534484839489539",
+    "text": "На эту тему на последнем @HolyJSconf был отличный доклад Павла  @nodkz Черторогова. https://t.co/fSjIQJCvZs",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "v1rtl",
-          "name": "ｖ１ｒｔｌ⛧",
-          "id": 3092921789,
-          "id_str": "3092921789",
+          "screen_name": "HolyJSconf",
+          "name": "HolyJS",
+          "id": 720566256663969800,
+          "id_str": "720566256663969792",
           "indices": [
-            33,
-            39
+            25,
+            36
+          ]
+        },
+        {
+          "screen_name": "nodkz",
+          "name": "nodkz 🇰🇿 Paul Damnhorns",
+          "id": 15203804,
+          "id_str": "15203804",
+          "indices": [
+            64,
+            70
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/f8cLsxusAE",
-          "expanded_url": "https://github.com/talentlessguy/tinyhttp",
-          "display_url": "github.com/talentlessguy/…",
+          "url": "https://t.co/fSjIQJCvZs",
+          "expanded_url": "https://holyjs-moscow.ru/2020/msk/talks/5xx2i0vcleyeatztadt6ap/",
+          "display_url": "holyjs-moscow.ru/2020/msk/talks…",
           "indices": [
-            41,
-            64
+            84,
+            107
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1333374782566506500,
-    "in_reply_to_status_id_str": "1333374782566506497",
+    "in_reply_to_status_id": 1333534054206091300,
+    "in_reply_to_status_id_str": "1333534054206091264",
     "in_reply_to_user_id": 3014054307,
     "in_reply_to_user_id_str": "3014054307",
     "in_reply_to_screen_name": "jsunderhood",
@@ -91,12 +101,12 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
