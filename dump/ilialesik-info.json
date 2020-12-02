@@ -36,76 +36,116 @@
     }
   },
   "protected": false,
-  "followers_count": 8717,
+  "followers_count": 8716,
   "friends_count": 583,
-  "listed_count": 232,
+  "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6431,
+  "favourites_count": 6459,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43444,
+  "statuses_count": 43534,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 30 22:12:51 +0000 2020",
-    "id": 1333534484839489500,
-    "id_str": "1333534484839489539",
-    "text": "На эту тему на последнем @HolyJSconf был отличный доклад Павла  @nodkz Черторогова. https://t.co/fSjIQJCvZs",
+    "created_at": "Tue Dec 01 22:28:41 +0000 2020",
+    "id": 1333900854693392400,
+    "id_str": "1333900854693392384",
+    "text": "RT @EmergencyDragon: @jsunderhood Если абстрагироваться  от стейт-менеджеров и сконцентрироваться именно на хранении бизнес-логики, то мне…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "HolyJSconf",
-          "name": "HolyJS",
-          "id": 720566256663969800,
-          "id_str": "720566256663969792",
+          "screen_name": "EmergencyDragon",
+          "name": "СерёжаТощилин.NotLikeThis",
+          "id": 837996732214558700,
+          "id_str": "837996732214558723",
           "indices": [
-            25,
-            36
+            3,
+            19
           ]
         },
         {
-          "screen_name": "nodkz",
-          "name": "nodkz 🇰🇿 Paul Damnhorns",
-          "id": 15203804,
-          "id_str": "15203804",
+          "screen_name": "jsunderhood",
+          "name": "jsunderhood",
+          "id": 3014054307,
+          "id_str": "3014054307",
           "indices": [
-            64,
-            70
+            21,
+            33
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/fSjIQJCvZs",
-          "expanded_url": "https://holyjs-moscow.ru/2020/msk/talks/5xx2i0vcleyeatztadt6ap/",
-          "display_url": "holyjs-moscow.ru/2020/msk/talks…",
-          "indices": [
-            84,
-            107
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1333534054206091300,
-    "in_reply_to_status_id_str": "1333534054206091264",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 01 22:25:33 +0000 2020",
+      "id": 1333900067732934700,
+      "id_str": "1333900067732934656",
+      "text": "@jsunderhood Если абстрагироваться  от стейт-менеджеров и сконцентрироваться именно на хранении бизнес-логики, то м… https://t.co/iVfDAcHt4Q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iVfDAcHt4Q",
+            "expanded_url": "https://twitter.com/i/web/status/1333900067732934656",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1333888010958614500,
+      "in_reply_to_status_id_str": "1333888010958614529",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 12,
+    "retweet_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
