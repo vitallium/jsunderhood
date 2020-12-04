@@ -40,38 +40,89 @@
   "friends_count": 583,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6469,
+  "favourites_count": 6479,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43598,
+  "statuses_count": 43638,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 02 20:55:36 +0000 2020",
-    "id": 1334239820277837800,
-    "id_str": "1334239820277837824",
-    "text": "Либо Keynote - в нем проще накидывать, но в Шовер - это код, со всеми преимуществами, можно сделать любой эмбед",
+    "created_at": "Thu Dec 03 20:01:37 +0000 2020",
+    "id": 1334588620674568200,
+    "id_str": "1334588620674568192",
+    "text": "RT @andrey_sitnik: Только 34% разработчиков на Гитхабе из Северной Америке. Почему же мы говорим только про политику США в опенсорсе?\nhttps…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "andrey_sitnik",
+          "name": "Андрей Ситник",
+          "id": 62229769,
+          "id_str": "62229769",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1334239542329684000,
-    "in_reply_to_status_id_str": "1334239542329683975",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 03 16:01:06 +0000 2020",
+      "id": 1334528092006658000,
+      "id_str": "1334528092006658050",
+      "text": "Только 34% разработчиков на Гитхабе из Северной Америке. Почему же мы говорим только про политику США в опенсорсе?… https://t.co/e0CuYe58UN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e0CuYe58UN",
+            "expanded_url": "https://twitter.com/i/web/status/1334528092006658050",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
