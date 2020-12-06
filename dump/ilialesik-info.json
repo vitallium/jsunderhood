@@ -36,45 +36,132 @@
     }
   },
   "protected": false,
-  "followers_count": 8726,
+  "followers_count": 8730,
   "friends_count": 583,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6482,
+  "favourites_count": 6483,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43685,
+  "statuses_count": 43712,
   "lang": null,
   "status": {
-    "created_at": "Fri Dec 04 17:21:27 +0000 2020",
-    "id": 1334910703040401400,
-    "id_str": "1334910703040401411",
-    "text": "Если что-то не попало в список, не значит, что оно было хуже. Всех спикеров кто у нас выступал, мы ценим.☝️",
+    "created_at": "Sat Dec 05 21:58:28 +0000 2020",
+    "id": 1335342803874930700,
+    "id_str": "1335342803874930689",
+    "text": "RT @DmitryMakhnev: Happy 25th birthday #JavaScript 🎉🎉🎉\n\nIncredible history timeline https://t.co/z1UP4vDUQa from Netscape to space by @jetb…",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "JavaScript",
+          "indices": [
+            39,
+            50
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "DmitryMakhnev",
+          "name": "Dmitry Makhnev",
+          "id": 98732570,
+          "id_str": "98732570",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z1UP4vDUQa",
+          "expanded_url": "https://www.jetbrains.com/lp/javascript-25/",
+          "display_url": "jetbrains.com/lp/javascript-…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1334910168124035000,
-    "in_reply_to_status_id_str": "1334910168124035073",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 03 13:26:39 +0000 2020",
+      "id": 1334489226709266400,
+      "id_str": "1334489226709266435",
+      "text": "Happy 25th birthday #JavaScript 🎉🎉🎉\n\nIncredible history timeline https://t.co/z1UP4vDUQa from Netscape to space by… https://t.co/YMKah8wlrr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "JavaScript",
+            "indices": [
+              20,
+              31
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z1UP4vDUQa",
+            "expanded_url": "https://www.jetbrains.com/lp/javascript-25/",
+            "display_url": "jetbrains.com/lp/javascript-…",
+            "indices": [
+              65,
+              88
+            ]
+          },
+          {
+            "url": "https://t.co/YMKah8wlrr",
+            "expanded_url": "https://twitter.com/i/web/status/1334489226709266435",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 22,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
