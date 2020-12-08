@@ -3,40 +3,17 @@
   "id_str": "3014054307",
   "name": "jsunderhood",
   "screen_name": "jsunderhood",
-  "location": "Tver, Russia",
+  "location": "Saint P.",
   "profile_location": null,
-  "description": "Илья Лесик — Основатель & Software Engineer @lessmessdev. Организатор @_tverio. Основной контрибутор https://t.co/hQsgAaIRQS. TW: @ilialesik",
-  "url": "https://t.co/4yDZMbdUhw",
+  "description": "Александр Богачёв @rm_baad\nВедущий подкаста Фронтенд Юность @frontend_u",
+  "url": null,
   "entities": {
-    "url": {
-      "urls": [
-        {
-          "url": "https://t.co/4yDZMbdUhw",
-          "expanded_url": "http://lesik.dev",
-          "display_url": "lesik.dev",
-          "indices": [
-            0,
-            23
-          ]
-        }
-      ]
-    },
     "description": {
-      "urls": [
-        {
-          "url": "https://t.co/hQsgAaIRQS",
-          "expanded_url": "http://github.com/react-figma",
-          "display_url": "github.com/react-figma",
-          "indices": [
-            101,
-            124
-          ]
-        }
-      ]
+      "urls": []
     }
   },
   "protected": false,
-  "followers_count": 8725,
+  "followers_count": 8754,
   "friends_count": 582,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -45,36 +22,47 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 43805,
+  "statuses_count": 43874,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 06 20:59:17 +0000 2020",
-    "id": 1335690298542989300,
-    "id_str": "1335690298542989312",
-    "text": "Happy coding! 🙌",
+    "created_at": "Mon Dec 07 19:34:42 +0000 2020",
+    "id": 1336031397732114400,
+    "id_str": "1336031397732114435",
+    "text": "@two_in_one Спасибо, Влада) меня просто немного понесло) пишу во время еды и отдыха от еды 😄",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "two_in_one",
+          "name": "Владислава Т.",
+          "id": 144757072,
+          "id_str": "144757072",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1335690219602010000,
-    "in_reply_to_status_id_str": "1335690219602010123",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1336026230458642400,
+    "in_reply_to_status_id_str": "1336026230458642433",
+    "in_reply_to_user_id": 144757072,
+    "in_reply_to_user_id_str": "144757072",
+    "in_reply_to_screen_name": "two_in_one",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -83,8 +71,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1333318359421755392/qlxX7XgO_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333318359421755392/qlxX7XgO_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1335873520140738560/Hqnwe1KW_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335873520140738560/Hqnwe1KW_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1607332229",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
