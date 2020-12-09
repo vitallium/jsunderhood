@@ -9458,6 +9458,1429 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 14:14:42 +0000 2020",
+      "id": 1336313256282124300,
+      "id_str": "1336313256282124301",
+      "text": "Странно поставлен вопрос. Во-первых компаний, которые нанимают джунов явно больше одной. Во-вторых это обычно указы… https://t.co/gzsbAokxTY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gzsbAokxTY",
+            "expanded_url": "https://twitter.com/i/web/status/1336313256282124301",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1336311142336110600,
+      "quoted_status_id_str": "1336311142336110595",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 14:06:18 +0000 2020",
+        "id": 1336311142336110600,
+        "id_str": "1336311142336110595",
+        "text": "@jsunderhood Ты вопрос прочти грамотно)) ну знаешь ты JS. ну уже и фремворки знаешь! уже написал свою админку, один… https://t.co/Mj8uvv20yY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Mj8uvv20yY",
+              "expanded_url": "https://twitter.com/i/web/status/1336311142336110595",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1336245093360164900,
+        "in_reply_to_status_id_str": "1336245093360164865",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 34904346,
+          "id_str": "34904346"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 14:15:16 +0000 2020",
+      "id": 1336313397336551400,
+      "id_str": "1336313397336551431",
+      "text": "На мой взгляд вариантов тут как минимум несколько:\n1. Искать компанию, которая берёт джунов без опыта\n2. Идти на ст… https://t.co/T1qPSVF67G",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T1qPSVF67G",
+            "expanded_url": "https://twitter.com/i/web/status/1336313397336551431",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336313256282124300,
+      "in_reply_to_status_id_str": "1336313256282124301",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 14:40:16 +0000 2020",
+      "id": 1336319690042294300,
+      "id_str": "1336319690042294272",
+      "text": "Мы так один раз чела на мидла взяли без опыта во фронте https://t.co/l3v6o9qyPy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/l3v6o9qyPy",
+            "expanded_url": "https://twitter.com/Flex2424/status/1336316103107153920",
+            "display_url": "twitter.com/Flex2424/statu…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1336316103107154000,
+      "quoted_status_id_str": "1336316103107153920",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 14:26:01 +0000 2020",
+        "id": 1336316103107154000,
+        "id_str": "1336316103107153920",
+        "text": "@Severenit @jsunderhood Врать про опыт. Что мешает придумать ноунем-вебстудию и приписать себе пару месяцев работы… https://t.co/Vw7BhSiJdx",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Severenit",
+              "name": "zAr",
+              "id": 34904346,
+              "id_str": "34904346",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Vw7BhSiJdx",
+              "expanded_url": "https://twitter.com/i/web/status/1336316103107153920",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1336311142336110600,
+        "in_reply_to_status_id_str": "1336311142336110595",
+        "in_reply_to_user_id": 34904346,
+        "in_reply_to_user_id_str": "34904346",
+        "in_reply_to_screen_name": "Severenit",
+        "user": {
+          "id": 592078398,
+          "id_str": "592078398"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 14:42:41 +0000 2020",
+      "id": 1336320300686876700,
+      "id_str": "1336320300686876687",
+      "text": "@ottey_xela Как минимум под другим предлогом да, но вообще, если тобой будут довольны, то смысла в этом нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ottey_xela",
+            "name": "ottey xela",
+            "id": 801126588,
+            "id_str": "801126588",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336318016548601900,
+      "in_reply_to_status_id_str": "1336318016548601859",
+      "in_reply_to_user_id": 801126588,
+      "in_reply_to_user_id_str": "801126588",
+      "in_reply_to_screen_name": "ottey_xela",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 14:45:05 +0000 2020",
+      "id": 1336320904414986200,
+      "id_str": "1336320904414986243",
+      "text": "@codeninja_ru @Severenit Согласен",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "codeninja_ru",
+            "name": "Vitaliy Mayorov",
+            "id": 179298554,
+            "id_str": "179298554",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Severenit",
+            "name": "zAr",
+            "id": 34904346,
+            "id_str": "34904346",
+            "indices": [
+              14,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336320765067624400,
+      "in_reply_to_status_id_str": "1336320765067624455",
+      "in_reply_to_user_id": 179298554,
+      "in_reply_to_user_id_str": "179298554",
+      "in_reply_to_screen_name": "codeninja_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 15:01:49 +0000 2020",
+      "id": 1336325114284056600,
+      "id_str": "1336325114284056576",
+      "text": "@Flex2424 Да, вообще отлично",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Flex2424",
+            "name": "Dmitriy Zyuzin",
+            "id": 592078398,
+            "id_str": "592078398",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336320942151090200,
+      "in_reply_to_status_id_str": "1336320942151090176",
+      "in_reply_to_user_id": 592078398,
+      "in_reply_to_user_id_str": "592078398",
+      "in_reply_to_screen_name": "Flex2424",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 15:10:38 +0000 2020",
+      "id": 1336327333033037800,
+      "id_str": "1336327333033037826",
+      "text": "RT @basvasilich: @Severenit @jsunderhood Можно пройти стажировку в крупной компании, например Яндекс (сам брал стажеров не один раз к себе)…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "basvasilich",
+            "name": "basvasilich",
+            "id": 10679432,
+            "id_str": "10679432",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "Severenit",
+            "name": "zAr",
+            "id": 34904346,
+            "id_str": "34904346",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 08 15:03:43 +0000 2020",
+        "id": 1336325593856524300,
+        "id_str": "1336325593856524288",
+        "text": "@Severenit @jsunderhood Можно пройти стажировку в крупной компании, например Яндекс (сам брал стажеров не один раз… https://t.co/IJEmfUZlkh",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Severenit",
+              "name": "zAr",
+              "id": 34904346,
+              "id_str": "34904346",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                11,
+                23
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IJEmfUZlkh",
+              "expanded_url": "https://twitter.com/i/web/status/1336325593856524288",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1336311142336110600,
+        "in_reply_to_status_id_str": "1336311142336110595",
+        "in_reply_to_user_id": 34904346,
+        "in_reply_to_user_id_str": "34904346",
+        "in_reply_to_screen_name": "Severenit",
+        "user": {
+          "id": 10679432,
+          "id_str": "10679432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 15:11:54 +0000 2020",
+      "id": 1336327652764835800,
+      "id_str": "1336327652764835840",
+      "text": "RT @mursya_ru: Если вы разработчик с опытом работы в 3-4 компаниях (локация неважна; СНГ + заграница будет плюсом), и вы готовы уделить 1ча…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mursya_ru",
+            "name": "Елена Джетпыспаева",
+            "id": 68250765,
+            "id_str": "68250765",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 08 14:33:09 +0000 2020",
+        "id": 1336317899716219000,
+        "id_str": "1336317899716218888",
+        "text": "Если вы разработчик с опытом работы в 3-4 компаниях (локация неважна; СНГ + заграница будет плюсом), и вы готовы уд… https://t.co/MyKV9oZtjB",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/MyKV9oZtjB",
+              "expanded_url": "https://twitter.com/i/web/status/1336317899716218888",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 68250765,
+          "id_str": "68250765"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 16:54:39 +0000 2020",
+      "id": 1336353511253176300,
+      "id_str": "1336353511253176320",
+      "text": "@shved270189 Ничего сверхъестественного. Про то как работает JS, вакансия была не на фреймворк. Чел изучил спеку",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shved270189",
+            "name": "shved",
+            "id": 350442764,
+            "id_str": "350442764",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336335892210827300,
+      "in_reply_to_status_id_str": "1336335892210827276",
+      "in_reply_to_user_id": 350442764,
+      "in_reply_to_user_id_str": "350442764",
+      "in_reply_to_screen_name": "shved270189",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 16:56:02 +0000 2020",
+      "id": 1336353857811730400,
+      "id_str": "1336353857811730436",
+      "text": "@SilentImp Спасибо за разъяснение) теперь понятно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336353286715289600,
+      "in_reply_to_status_id_str": "1336353286715289602",
+      "in_reply_to_user_id": 71016924,
+      "in_reply_to_user_id_str": "71016924",
+      "in_reply_to_screen_name": "SilentImp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 16:58:59 +0000 2020",
+      "id": 1336354599872114700,
+      "id_str": "1336354599872114688",
+      "text": "@SilentImp Ага",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336354311299797000,
+      "in_reply_to_status_id_str": "1336354311299796993",
+      "in_reply_to_user_id": 71016924,
+      "in_reply_to_user_id_str": "71016924",
+      "in_reply_to_screen_name": "SilentImp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 17:02:37 +0000 2020",
+      "id": 1336355513685209000,
+      "id_str": "1336355513685209094",
+      "text": "RT @SilentImp: @jsunderhood Кстати, довольно полезная книга при работе с людьми из разных культур: https://t.co/hCNfebCi9j",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hCNfebCi9j",
+            "expanded_url": "https://www.litres.ru/erin-meyer-17553327/karta-kulturnyh-razlichiy-kak-ludi-dumaut-rukovodyat-i/chitat-onlayn/",
+            "display_url": "litres.ru/erin-meyer-175…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 08 17:02:01 +0000 2020",
+        "id": 1336355363944272000,
+        "id_str": "1336355363944271882",
+        "text": "@jsunderhood Кстати, довольно полезная книга при работе с людьми из разных культур: https://t.co/hCNfebCi9j",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/hCNfebCi9j",
+              "expanded_url": "https://www.litres.ru/erin-meyer-17553327/karta-kulturnyh-razlichiy-kak-ludi-dumaut-rukovodyat-i/chitat-onlayn/",
+              "display_url": "litres.ru/erin-meyer-175…",
+              "indices": [
+                84,
+                107
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1336354599872114700,
+        "in_reply_to_status_id_str": "1336354599872114688",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 71016924,
+          "id_str": "71016924"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 17:02:42 +0000 2020",
+      "id": 1336355536867090400,
+      "id_str": "1336355536867090436",
+      "text": "@SilentImp Спасибо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SilentImp",
+            "name": "Тихий Бес",
+            "id": 71016924,
+            "id_str": "71016924",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336355363944272000,
+      "in_reply_to_status_id_str": "1336355363944271882",
+      "in_reply_to_user_id": 71016924,
+      "in_reply_to_user_id_str": "71016924",
+      "in_reply_to_screen_name": "SilentImp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 19:53:41 +0000 2020",
+      "id": 1336398566458318800,
+      "id_str": "1336398566458318851",
+      "text": "@shved270189 Это было на другом месте)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shved270189",
+            "name": "shved",
+            "id": 350442764,
+            "id_str": "350442764",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336361492040528000,
+      "in_reply_to_status_id_str": "1336361492040527872",
+      "in_reply_to_user_id": 350442764,
+      "in_reply_to_user_id_str": "350442764",
+      "in_reply_to_screen_name": "shved270189",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 19:57:03 +0000 2020",
+      "id": 1336399413061808000,
+      "id_str": "1336399413061808130",
+      "text": "Я такое только для реакт-компонентов сделал) https://t.co/DDr8Pfv5dF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DDr8Pfv5dF",
+            "expanded_url": "https://twitter.com/codeninja_ru/status/1336379194918440961",
+            "display_url": "twitter.com/codeninja_ru/s…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1336379194918441000,
+      "quoted_status_id_str": "1336379194918440961",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 18:36:43 +0000 2020",
+        "id": 1336379194918441000,
+        "id_str": "1336379194918440961",
+        "text": "@jsunderhood Сниппеты ide/vim/emacs для генерации типовых кусков кода проекта. \n\nКогда лень каждый раз писать специ… https://t.co/LD6nokkN8l",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/LD6nokkN8l",
+              "expanded_url": "https://twitter.com/i/web/status/1336379194918440961",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1336271521128583200,
+        "in_reply_to_status_id_str": "1336271521128583175",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 179298554,
+          "id_str": "179298554"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 19:57:44 +0000 2020",
+      "id": 1336399582868201500,
+      "id_str": "1336399582868201473",
+      "text": "О, выглядит интересно https://t.co/7Og8hdSfmn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7Og8hdSfmn",
+            "expanded_url": "https://twitter.com/codeninja_ru/status/1336380538299555840",
+            "display_url": "twitter.com/codeninja_ru/s…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1336380538299555800,
+      "quoted_status_id_str": "1336380538299555840",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 18:42:03 +0000 2020",
+        "id": 1336380538299555800,
+        "id_str": "1336380538299555840",
+        "text": "@jsunderhood Генерация того же самого бойлерплейта через консоль. Когда надо создать несколько типовых файлов.\n\nИсп… https://t.co/rMZJSnFTEt",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rMZJSnFTEt",
+              "expanded_url": "https://twitter.com/i/web/status/1336380538299555840",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1336271521128583200,
+        "in_reply_to_status_id_str": "1336271521128583175",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 179298554,
+          "id_str": "179298554"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 19:57:53 +0000 2020",
+      "id": 1336399619765514200,
+      "id_str": "1336399619765514242",
+      "text": "@codeninja_ru Красиво!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "codeninja_ru",
+            "name": "Vitaliy Mayorov",
+            "id": 179298554,
+            "id_str": "179298554",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1336380939153395700,
+      "in_reply_to_status_id_str": "1336380939153395712",
+      "in_reply_to_user_id": 179298554,
+      "in_reply_to_user_id_str": "179298554",
+      "in_reply_to_screen_name": "codeninja_ru",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 20:33:53 +0000 2020",
+      "id": 1336408682037469200,
+      "id_str": "1336408682037469184",
+      "text": "Мы наследуемся от common клиента в котором все настройки и абстракция над http-клиентом. Генерируем только входные/… https://t.co/byzLFM6BrN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/byzLFM6BrN",
+            "expanded_url": "https://twitter.com/i/web/status/1336408682037469184",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1336403172793921500,
+      "quoted_status_id_str": "1336403172793921539",
+      "quoted_status": {
+        "created_at": "Tue Dec 08 20:12:00 +0000 2020",
+        "id": 1336403172793921500,
+        "id_str": "1336403172793921539",
+        "text": "@jsunderhood Как раз недавно искал такое, но как-то ничего не вдохновило. Во многих кодгенах была проблема, что как… https://t.co/0DnRJGRdEa",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/0DnRJGRdEa",
+              "expanded_url": "https://twitter.com/i/web/status/1336403172793921539",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1336288787610144800,
+        "in_reply_to_status_id_str": "1336288787610144774",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 755459162423853000,
+          "id_str": "755459162423853057"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 08 21:44:26 +0000 2020",
+      "id": 1336426435981029400,
+      "id_str": "1336426435981029376",
+      "text": "RT @goodhoopoe: @MikeYermolayev @jsunderhood Openapi generator же. Там прямо можно указать что вместо фетча использовать. Не говоря о разно…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "goodhoopoe",
+            "name": "Ilya Blinov",
+            "id": 492108844,
+            "id_str": "492108844",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "MikeYermolayev",
+            "name": "Mike Yermolayev",
+            "id": 755459162423853000,
+            "id_str": "755459162423853057",
+            "indices": [
+              16,
+              31
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              32,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Dec 08 20:48:01 +0000 2020",
+        "id": 1336412237041426400,
+        "id_str": "1336412237041426434",
+        "text": "@MikeYermolayev @jsunderhood Openapi generator же. Там прямо можно указать что вместо фетча использовать. Не говоря… https://t.co/s3cwJLWJYG",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MikeYermolayev",
+              "name": "Mike Yermolayev",
+              "id": 755459162423853000,
+              "id_str": "755459162423853057",
+              "indices": [
+                0,
+                15
+              ]
+            },
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                16,
+                28
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/s3cwJLWJYG",
+              "expanded_url": "https://twitter.com/i/web/status/1336412237041426434",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1336403172793921500,
+        "in_reply_to_status_id_str": "1336403172793921539",
+        "in_reply_to_user_id": 755459162423853000,
+        "in_reply_to_user_id_str": "755459162423853057",
+        "in_reply_to_screen_name": "MikeYermolayev",
+        "user": {
+          "id": 492108844,
+          "id_str": "492108844"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
