@@ -13,86 +13,58 @@
     }
   },
   "protected": false,
-  "followers_count": 8753,
+  "followers_count": 8756,
   "friends_count": 582,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6489,
+  "favourites_count": 6490,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44105,
+  "statuses_count": 44132,
   "lang": null,
   "status": {
-    "created_at": "Thu Dec 10 22:01:53 +0000 2020",
-    "id": 1337155602951364600,
-    "id_str": "1337155602951364611",
-    "text": "@aksenovdev @nanot1m @evilj0e Да, но ты тут перечисляешь что у “a” такой тип, а у “b” другой, а я хотел чтобы были… https://t.co/NvVyR7KH0G",
-    "truncated": true,
+    "created_at": "Fri Dec 11 19:56:25 +0000 2020",
+    "id": 1337486416729804800,
+    "id_str": "1337486416729804802",
+    "text": "😱 https://t.co/7dKCIn2FHe",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "aksenovdev",
-          "name": "Sergei Aksenov",
-          "id": 977798676633571300,
-          "id_str": "977798676633571328",
-          "indices": [
-            0,
-            11
-          ]
-        },
-        {
-          "screen_name": "nanot1m",
-          "name": "Timur Khazamov",
-          "id": 97977250,
-          "id_str": "97977250",
-          "indices": [
-            12,
-            20
-          ]
-        },
-        {
-          "screen_name": "evilj0e",
-          "name": "Anton Konev",
-          "id": 1061863806601777200,
-          "id_str": "1061863806601777152",
-          "indices": [
-            21,
-            29
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NvVyR7KH0G",
-          "expanded_url": "https://twitter.com/i/web/status/1337155602951364611",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/7dKCIn2FHe",
+          "expanded_url": "https://twitter.com/5minreact/status/1337484540256858114",
+          "display_url": "twitter.com/5minreact/stat…",
           "indices": [
-            116,
-            139
+            2,
+            25
           ]
         }
       ]
     },
     "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 1337148746786893800,
-    "in_reply_to_status_id_str": "1337148746786893824",
-    "in_reply_to_user_id": 977798676633571300,
-    "in_reply_to_user_id_str": "977798676633571328",
-    "in_reply_to_screen_name": "aksenovdev",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1337484540256858000,
+    "quoted_status_id_str": "1337484540256858114",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
