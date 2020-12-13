@@ -13,40 +13,41 @@
     }
   },
   "protected": false,
-  "followers_count": 8756,
+  "followers_count": 8749,
   "friends_count": 582,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6490,
+  "favourites_count": 6491,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44132,
+  "statuses_count": 44234,
   "lang": null,
   "status": {
-    "created_at": "Fri Dec 11 19:56:25 +0000 2020",
-    "id": 1337486416729804800,
-    "id_str": "1337486416729804802",
-    "text": "😱 https://t.co/7dKCIn2FHe",
+    "created_at": "Sat Dec 12 22:32:08 +0000 2020",
+    "id": 1337887990497075200,
+    "id_str": "1337887990497075200",
+    "text": "RT @krlsrg: Математик и отец американской криптографии Уильям Фридман был страстным фанатом кодировать сообщения: в рисунках, текста и даже…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/7dKCIn2FHe",
-          "expanded_url": "https://twitter.com/5minreact/status/1337484540256858114",
-          "display_url": "twitter.com/5minreact/stat…",
+          "screen_name": "krlsrg",
+          "name": "Sergey Korol",
+          "id": 15667098,
+          "id_str": "15667098",
           "indices": [
-            2,
-            25
+            3,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -56,15 +57,52 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1337484540256858000,
-    "quoted_status_id_str": "1337484540256858114",
-    "retweet_count": 0,
-    "favorite_count": 4,
+    "retweeted_status": {
+      "created_at": "Sat Dec 12 18:30:30 +0000 2020",
+      "id": 1337827182358515700,
+      "id_str": "1337827182358515714",
+      "text": "Математик и отец американской криптографии Уильям Фридман был страстным фанатом кодировать сообщения: в рисунках, т… https://t.co/sY5Y1zwpFk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sY5Y1zwpFk",
+            "expanded_url": "https://twitter.com/i/web/status/1337827182358515714",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 63,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
