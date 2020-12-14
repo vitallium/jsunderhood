@@ -1,0 +1,540 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 14 07:36:27 +0000 2020",
+      "id": 1338387360686497800,
+      "id_str": "1338387360686497792",
+      "text": "Доброе утречко понедельника! Всю эту незабываемую (или нет) неделю с вами проведу я, @ShibaCodes",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ShibaCodes",
+            "name": "Lena Rashkovan",
+            "id": 38638448,
+            "id_str": "38638448",
+            "indices": [
+              85,
+              96
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:37:17 +0000 2020",
+      "id": 1338387571055997000,
+      "id_str": "1338387571055996928",
+      "text": "Как вы понимаете, в область моих интересов входят как шибы, так и программирование, а сама я — невероятно разносторонняя личность",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338387360686497800,
+      "in_reply_to_status_id_str": "1338387360686497792",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:41:22 +0000 2020",
+      "id": 1338388596366205000,
+      "id_str": "1338388596366204929",
+      "text": "Вот, кстати, и мотивирующая шиба дня: \nhttps://t.co/cYvx19orvw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cYvx19orvw",
+            "expanded_url": "https://twitter.com/valeranazzarov/status/1302863322971209728?s=20",
+            "display_url": "twitter.com/valeranazzarov…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338387571055997000,
+      "in_reply_to_status_id_str": "1338387571055996928",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1302863322971209700,
+      "quoted_status_id_str": "1302863322971209728",
+      "quoted_status": {
+        "created_at": "Mon Sep 07 06:56:36 +0000 2020",
+        "id": 1302863322971209700,
+        "id_str": "1302863322971209728",
+        "text": "Лучшее мотивирующее видео что я видел https://t.co/sbNKK717s0",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1302863216230375400,
+              "id_str": "1302863216230375427",
+              "indices": [
+                38,
+                61
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302863216230375427/pu/img/4tIppsYvRz44mWHL.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302863216230375427/pu/img/4tIppsYvRz44mWHL.jpg",
+              "url": "https://t.co/sbNKK717s0",
+              "display_url": "pic.twitter.com/sbNKK717s0",
+              "expanded_url": "https://twitter.com/valeranazzarov/status/1302863322971209728/video/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1302863216230375400,
+              "id_str": "1302863216230375427",
+              "indices": [
+                38,
+                61
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302863216230375427/pu/img/4tIppsYvRz44mWHL.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302863216230375427/pu/img/4tIppsYvRz44mWHL.jpg",
+              "url": "https://t.co/sbNKK717s0",
+              "display_url": "pic.twitter.com/sbNKK717s0",
+              "expanded_url": "https://twitter.com/valeranazzarov/status/1302863322971209728/video/1",
+              "type": "video",
+              "sizes": {
+                "medium": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 448,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  15,
+                  14
+                ],
+                "duration_millis": 29600,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1302863216230375427/pu/vid/480x448/SzzEuUVpG3L_4pu4.mp4?tag=10"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1302863216230375427/pu/pl/6v627qaGEnEc066P.m3u8?tag=10"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1302863216230375427/pu/vid/288x270/J0Ag3vUyaHIVregg.mp4?tag=10"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 139326896,
+          "id_str": "139326896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 96,
+        "favorite_count": 443,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:41:56 +0000 2020",
+      "id": 1338388742655053800,
+      "id_str": "1338388742655053824",
+      "text": "Давайте я для начала представлюсь, да? Да.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338388596366205000,
+      "in_reply_to_status_id_str": "1338388596366204929",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:42:30 +0000 2020",
+      "id": 1338388882547728400,
+      "id_str": "1338388882547728385",
+      "text": "Меня зовут Лена Рашкован, я фронтенд-разработчица в Авиасейлс.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338388742655053800,
+      "in_reply_to_status_id_str": "1338388742655053824",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:42:30 +0000 2020",
+      "id": 1338388883910881300,
+      "id_str": "1338388883910881286",
+      "text": "Авиасейлс, поиск дешевых авиабилетов!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338388882547728400,
+      "in_reply_to_status_id_str": "1338388882547728385",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:44:13 +0000 2020",
+      "id": 1338389315433488400,
+      "id_str": "1338389315433488385",
+      "text": "До Сала я поработала в МегаФоне специалистом по информационной безопасности и фронтом в Контуре и Яндексе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338388883910881300,
+      "in_reply_to_status_id_str": "1338388883910881286",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:44:39 +0000 2020",
+      "id": 1338389424770609200,
+      "id_str": "1338389424770609153",
+      "text": "@RazumovEvgeni Нативно вышло, да?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RazumovEvgeni",
+            "name": "Евгений Разумов",
+            "id": 702484674908651500,
+            "id_str": "702484674908651521",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338389058934849500,
+      "in_reply_to_status_id_str": "1338389058934849536",
+      "in_reply_to_user_id": 702484674908651500,
+      "in_reply_to_user_id_str": "702484674908651521",
+      "in_reply_to_screen_name": "RazumovEvgeni",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:45:38 +0000 2020",
+      "id": 1338389670670033000,
+      "id_str": "1338389670670032897",
+      "text": "Самые охуительные истории у меня, конечно, из МегаФона. Есть securityunderhood какой-нибудь? Позовите меня",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338389315433488400,
+      "in_reply_to_status_id_str": "1338389315433488385",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:46:09 +0000 2020",
+      "id": 1338389801771339800,
+      "id_str": "1338389801771339777",
+      "text": "Кстати, если у вас вдруг проблемы с иронией, эта неделя будет сложной(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338389670670033000,
+      "in_reply_to_status_id_str": "1338389670670032897",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 14 07:46:19 +0000 2020",
+      "id": 1338389845425746000,
+      "id_str": "1338389845425745920",
+      "text": "Для вас",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1338389801771339800,
+      "in_reply_to_status_id_str": "1338389801771339777",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}
