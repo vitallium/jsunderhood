@@ -7842,6 +7842,1381 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:17:01 +0000 2020",
+      "id": 1339499833346941000,
+      "id_str": "1339499833346940928",
+      "text": "@advocad15 Освежила в памяти https://t.co/14EBqgScmb да и все\nЗадачки на литкоде еще можно порешать)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "advocad15",
+            "name": "Алексей",
+            "id": 822969774,
+            "id_str": "822969774",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/14EBqgScmb",
+            "expanded_url": "http://learn.javascript.ru",
+            "display_url": "learn.javascript.ru",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339321647564804000,
+      "in_reply_to_status_id_str": "1339321647564804101",
+      "in_reply_to_user_id": 822969774,
+      "in_reply_to_user_id_str": "822969774",
+      "in_reply_to_screen_name": "advocad15",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:28:16 +0000 2020",
+      "id": 1339502662010736600,
+      "id_str": "1339502662010736642",
+      "text": "Доброе утречко четверга! https://t.co/Ntj0lu1mf6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1339500647150973000,
+            "id_str": "1339500647150972929",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpbcvdnW8AEg9l8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpbcvdnW8AEg9l8.jpg",
+            "url": "https://t.co/Ntj0lu1mf6",
+            "display_url": "pic.twitter.com/Ntj0lu1mf6",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1339502662010736642/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 736,
+                "h": 723,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 668,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 736,
+                "h": 723,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1339500647150973000,
+            "id_str": "1339500647150972929",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpbcvdnW8AEg9l8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpbcvdnW8AEg9l8.jpg",
+            "url": "https://t.co/Ntj0lu1mf6",
+            "display_url": "pic.twitter.com/Ntj0lu1mf6",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1339502662010736642/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 736,
+                "h": 723,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 668,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 736,
+                "h": 723,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:28:16 +0000 2020",
+      "id": 1339502663633875000,
+      "id_str": "1339502663633874946",
+      "text": "Сегодня я хочу поделиться, как знания, полученные на конференциях и митапах, помогли мне в работе и послушать ваши истории)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339502662010736600,
+      "in_reply_to_status_id_str": "1339502662010736642",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:28:16 +0000 2020",
+      "id": 1339502664921526300,
+      "id_str": "1339502664921526274",
+      "text": "На Питерский HolyJS 2018 приезжал @DavidKPiano и рассказывал про XState и как с помощью стейт-машин можно управлять… https://t.co/4BspSpkuZj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DavidKPiano",
+            "name": "David K. 🎹",
+            "id": 992126114,
+            "id_str": "992126114",
+            "indices": [
+              34,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4BspSpkuZj",
+            "expanded_url": "https://twitter.com/i/web/status/1339502664921526274",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339502663633875000,
+      "in_reply_to_status_id_str": "1339502663633874946",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:31:16 +0000 2020",
+      "id": 1339503418189164500,
+      "id_str": "1339503418189164544",
+      "text": "Ну или 2019, у меня беды с башкой",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339502664921526300,
+      "in_reply_to_status_id_str": "1339502664921526274",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:31:16 +0000 2020",
+      "id": 1339503419556589600,
+      "id_str": "1339503419556589569",
+      "text": "Суть в том, чтобы избегать вот такой лапши https://t.co/xOYwRIiI9B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xOYwRIiI9B",
+            "expanded_url": "https://twitter.com/ShibaCodes/status/1132279532466184193",
+            "display_url": "twitter.com/ShibaCodes/sta…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339503418189164500,
+      "in_reply_to_status_id_str": "1339503418189164544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1132279532466184200,
+      "quoted_status_id_str": "1132279532466184193",
+      "quoted_status": {
+        "created_at": "Sat May 25 13:37:31 +0000 2019",
+        "id": 1132279532466184200,
+        "id_str": "1132279532466184193",
+        "text": "Действительно #HolyJS https://t.co/1Nv1Syzo9L",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "HolyJS",
+              "indices": [
+                14,
+                21
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1132279526241837000,
+              "id_str": "1132279526241837056",
+              "indices": [
+                22,
+                45
+              ],
+              "media_url": "http://pbs.twimg.com/media/D7aqOuQXoAAQfQ2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D7aqOuQXoAAQfQ2.jpg",
+              "url": "https://t.co/1Nv1Syzo9L",
+              "display_url": "pic.twitter.com/1Nv1Syzo9L",
+              "expanded_url": "https://twitter.com/mylovelymadness/status/1132279532466184193/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1132279526241837000,
+              "id_str": "1132279526241837056",
+              "indices": [
+                22,
+                45
+              ],
+              "media_url": "http://pbs.twimg.com/media/D7aqOuQXoAAQfQ2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D7aqOuQXoAAQfQ2.jpg",
+              "url": "https://t.co/1Nv1Syzo9L",
+              "display_url": "pic.twitter.com/1Nv1Syzo9L",
+              "expanded_url": "https://twitter.com/mylovelymadness/status/1132279532466184193/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1536,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 38638448,
+          "id_str": "38638448"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:31:17 +0000 2020",
+      "id": 1339503421464973300,
+      "id_str": "1339503421464973314",
+      "text": "(кстати, на слайде есть мат, и зуб даю чуваку никто не сказал, что его это не красит, ну да ладно)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339503419556589600,
+      "in_reply_to_status_id_str": "1339503419556589569",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:32:59 +0000 2020",
+      "id": 1339503851955744800,
+      "id_str": "1339503851955744768",
+      "text": "Прелесть стейт-машин в том, что они могут из набора данных вывести нужное состояние",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339503421464973300,
+      "in_reply_to_status_id_str": "1339503421464973314",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:35:50 +0000 2020",
+      "id": 1339504568955224000,
+      "id_str": "1339504568955224065",
+      "text": "Я в то время работала над Яндекс.Лицеем, это образовательный проект для обучения старшеклассников программированию",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339503851955744800,
+      "in_reply_to_status_id_str": "1339503851955744768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:35:51 +0000 2020",
+      "id": 1339504570330955800,
+      "id_str": "1339504570330955779",
+      "text": "Лето в образовании — всегда горячая пора, надо нахерачить фич к новому учебному году\n\nА еще летом сезон поступления в Лицей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339504568955224000,
+      "in_reply_to_status_id_str": "1339504568955224065",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:38:42 +0000 2020",
+      "id": 1339505289821872000,
+      "id_str": "1339505289821872128",
+      "text": "У нас была система поступления, написанная из говна и палок. Все в мыле, все занятые. И тут мы решаем, что было бы… https://t.co/gqa05WHsNI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gqa05WHsNI",
+            "expanded_url": "https://twitter.com/i/web/status/1339505289821872128",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339504570330955800,
+      "in_reply_to_status_id_str": "1339504570330955779",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:38:42 +0000 2020",
+      "id": 1339505291323453400,
+      "id_str": "1339505291323453442",
+      "text": "Проверено ли его тестовое, можно ли записываться на собес и когда, если он записан — когда и куда ему нужно подойти… https://t.co/uAyX9l8f5u",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uAyX9l8f5u",
+            "expanded_url": "https://twitter.com/i/web/status/1339505291323453442",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339505289821872000,
+      "in_reply_to_status_id_str": "1339505289821872128",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:39:56 +0000 2020",
+      "id": 1339505600078737400,
+      "id_str": "1339505600078737408",
+      "text": "Бэкендер занят, так что выводить это состояние нужно было на фронте из набора флажков\n\nИ тут в моей голове щелкнуло… https://t.co/XVuL70vrIC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XVuL70vrIC",
+            "expanded_url": "https://twitter.com/i/web/status/1339505600078737408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339505291323453400,
+      "in_reply_to_status_id_str": "1339505291323453442",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:42:24 +0000 2020",
+      "id": 1339506220198219800,
+      "id_str": "1339506220198219778",
+      "text": "Покурила документацию и породила на основе XState прекрасную страничку https://t.co/PvPWWrlXbn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1339506021455290400,
+            "id_str": "1339506021455290374",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpbhoSdW4AY3Bp9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpbhoSdW4AY3Bp9.jpg",
+            "url": "https://t.co/PvPWWrlXbn",
+            "display_url": "pic.twitter.com/PvPWWrlXbn",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1339506220198219778/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 507,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 894,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 954,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1339506021455290400,
+            "id_str": "1339506021455290374",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpbhoSdW4AY3Bp9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpbhoSdW4AY3Bp9.jpg",
+            "url": "https://t.co/PvPWWrlXbn",
+            "display_url": "pic.twitter.com/PvPWWrlXbn",
+            "expanded_url": "https://twitter.com/jsunderhood/status/1339506220198219778/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 507,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 894,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 954,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339505600078737400,
+      "in_reply_to_status_id_str": "1339505600078737408",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:44:24 +0000 2020",
+      "id": 1339506725964165000,
+      "id_str": "1339506725964165120",
+      "text": "Вот такая саксес-стори. Расскажите теперь и вы мне что-нибудь :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339506220198219800,
+      "in_reply_to_status_id_str": "1339506220198219778",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:53:08 +0000 2020",
+      "id": 1339508921866829800,
+      "id_str": "1339508921866829827",
+      "text": "Ах да, XState прекрасна своей визуализацией.\n\nВот какая-то версия моего автомата\nhttps://t.co/eDjap11SIt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eDjap11SIt",
+            "expanded_url": "https://xstate.js.org/viz/?gist=6948971dbd11bbba07335d79fcf823dd",
+            "display_url": "xstate.js.org/viz/?gist=6948…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339506220198219800,
+      "in_reply_to_status_id_str": "1339506220198219778",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 09:53:50 +0000 2020",
+      "id": 1339509096278610000,
+      "id_str": "1339509096278609925",
+      "text": "@pavelpatrin Это комплимент нашему менеджеру разработки с опытом дизайна))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelpatrin",
+            "name": "Patrin Pavel",
+            "id": 68389072,
+            "id_str": "68389072",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339508431384948700,
+      "in_reply_to_status_id_str": "1339508431384948737",
+      "in_reply_to_user_id": 68389072,
+      "in_reply_to_user_id_str": "68389072",
+      "in_reply_to_screen_name": "pavelpatrin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 10:43:06 +0000 2020",
+      "id": 1339521495136133000,
+      "id_str": "1339521495136133128",
+      "text": "@stuffed_seal Красота!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stuffed_seal",
+            "name": "Kir",
+            "id": 142563204,
+            "id_str": "142563204",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339520827612651500,
+      "in_reply_to_status_id_str": "1339520827612651521",
+      "in_reply_to_user_id": 142563204,
+      "in_reply_to_user_id_str": "142563204",
+      "in_reply_to_screen_name": "stuffed_seal",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 10:46:42 +0000 2020",
+      "id": 1339522403123257300,
+      "id_str": "1339522403123257351",
+      "text": "Визуализатор помогает задокументировать и оттестировать логику, даже не начиная писать юай",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339508921866829800,
+      "in_reply_to_status_id_str": "1339508921866829827",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 10:47:20 +0000 2020",
+      "id": 1339522563538608000,
+      "id_str": "1339522563538608128",
+      "text": "А еще\nhttps://t.co/DaGV6cEE9U",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DaGV6cEE9U",
+            "expanded_url": "https://twitter.com/stuffed_seal/status/1339519536865964035",
+            "display_url": "twitter.com/stuffed_seal/s…",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339522403123257300,
+      "in_reply_to_status_id_str": "1339522403123257351",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1339519536865964000,
+      "quoted_status_id_str": "1339519536865964035",
+      "quoted_status": {
+        "created_at": "Thu Dec 17 10:35:19 +0000 2020",
+        "id": 1339519536865964000,
+        "id_str": "1339519536865964035",
+        "text": "@jsunderhood Новый инспектор выглядит в разы круче",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1339508921866829800,
+        "in_reply_to_status_id_str": "1339508921866829827",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 142563204,
+          "id_str": "142563204"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 10:55:15 +0000 2020",
+      "id": 1339524556042752000,
+      "id_str": "1339524556042752000",
+      "text": "Хоба https://t.co/8qkFIvegiX https://t.co/3zAYPLJJNl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8qkFIvegiX",
+            "expanded_url": "https://www.youtube.com/watch?v=o84Xw8qiTCw",
+            "display_url": "youtube.com/watch?v=o84Xw8…",
+            "indices": [
+              5,
+              28
+            ]
+          },
+          {
+            "url": "https://t.co/3zAYPLJJNl",
+            "expanded_url": "https://twitter.com/sergey_crossbow/status/1339523154075668480",
+            "display_url": "twitter.com/sergey_crossbo…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1339523154075668500,
+      "quoted_status_id_str": "1339523154075668480",
+      "quoted_status": {
+        "created_at": "Thu Dec 17 10:49:41 +0000 2020",
+        "id": 1339523154075668500,
+        "id_str": "1339523154075668480",
+        "text": "@jsunderhood вот бы еще линк на доклад",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1339503419556589600,
+        "in_reply_to_status_id_str": "1339503419556589569",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 158048474,
+          "id_str": "158048474"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 11:48:28 +0000 2020",
+      "id": 1339537947285205000,
+      "id_str": "1339537947285204993",
+      "text": "@vani11a_wave Тоже их люблю) Динамика только в переходах — можно, перейдя в состояние, сходить за данными и решить,… https://t.co/lutBJCtif2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vani11a_wave",
+            "name": "Омельницкий Роман",
+            "id": 945871896880525300,
+            "id_str": "945871896880525312",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lutBJCtif2",
+            "expanded_url": "https://twitter.com/i/web/status/1339537947285204993",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1339524781901828000,
+      "in_reply_to_status_id_str": "1339524781901828097",
+      "in_reply_to_user_id": 945871896880525300,
+      "in_reply_to_user_id_str": "945871896880525312",
+      "in_reply_to_screen_name": "vani11a_wave",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Dec 17 11:49:51 +0000 2020",
+      "id": 1339538292929417200,
+      "id_str": "1339538292929417217",
+      "text": "RT @stuffed_seal: @jsunderhood Ещё с помощью пакета xstate/test можно генерировать тесты по модели. Так же с помощью стейтчартов можно опис…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stuffed_seal",
+            "name": "Kir",
+            "id": 142563204,
+            "id_str": "142563204",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "jsunderhood",
+            "name": "jsunderhood",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Dec 17 11:02:18 +0000 2020",
+        "id": 1339526328329056300,
+        "id_str": "1339526328329056257",
+        "text": "@jsunderhood Ещё с помощью пакета xstate/test можно генерировать тесты по модели. Так же с помощью стейтчартов можн… https://t.co/b21hsfz6nf",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "jsunderhood",
+              "name": "jsunderhood",
+              "id": 3014054307,
+              "id_str": "3014054307",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/b21hsfz6nf",
+              "expanded_url": "https://twitter.com/i/web/status/1339526328329056257",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1339508921866829800,
+        "in_reply_to_status_id_str": "1339508921866829827",
+        "in_reply_to_user_id": 3014054307,
+        "in_reply_to_user_id_str": "3014054307",
+        "in_reply_to_screen_name": "jsunderhood",
+        "user": {
+          "id": 142563204,
+          "id_str": "142563204"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
