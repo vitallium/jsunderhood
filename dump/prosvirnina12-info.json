@@ -13,128 +13,76 @@
     }
   },
   "protected": false,
-  "followers_count": 8872,
-  "friends_count": 583,
+  "followers_count": 8871,
+  "friends_count": 582,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6540,
+  "favourites_count": 6544,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44568,
+  "statuses_count": 44606,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 22 20:43:08 +0000 2020",
-    "id": 1341484437092126700,
-    "id_str": "1341484437092126721",
-    "text": "RT @xufocoder: @jsunderhood https://t.co/fgPXWBjCBS",
-    "truncated": false,
+    "created_at": "Wed Dec 23 21:26:12 +0000 2020",
+    "id": 1341857665610346500,
+    "id_str": "1341857665610346499",
+    "text": "@_bmsdave @NetflixUIE Таких подробностей по доставке нативного приложения не знаю. У вендора базовая основа всегда… https://t.co/T6kMrJJPVO",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "xufocoder",
-          "name": "Сергей Ufocoder",
-          "id": 474880609,
-          "id_str": "474880609",
+          "screen_name": "_bmsdave",
+          "name": "Vadim Gorbachev",
+          "id": 3697351276,
+          "id_str": "3697351276",
           "indices": [
-            3,
-            13
+            0,
+            9
           ]
         },
         {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
+          "screen_name": "NetflixUIE",
+          "name": "Netflix UI Engineers",
+          "id": 3018765357,
+          "id_str": "3018765357",
           "indices": [
-            15,
-            27
+            10,
+            21
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/fgPXWBjCBS",
-          "expanded_url": "https://coub.com/view/z424g",
-          "display_url": "coub.com/view/z424g",
+          "url": "https://t.co/T6kMrJJPVO",
+          "expanded_url": "https://twitter.com/i/web/status/1341857665610346499",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            28,
-            51
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1341856874698842000,
+    "in_reply_to_status_id_str": "1341856874698842118",
+    "in_reply_to_user_id": 3697351276,
+    "in_reply_to_user_id_str": "3697351276",
+    "in_reply_to_screen_name": "_bmsdave",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Dec 22 20:42:19 +0000 2020",
-      "id": 1341484234305908700,
-      "id_str": "1341484234305908736",
-      "text": "@jsunderhood https://t.co/fgPXWBjCBS",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/fgPXWBjCBS",
-            "expanded_url": "https://coub.com/view/z424g",
-            "display_url": "coub.com/view/z424g",
-            "indices": [
-              13,
-              36
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1341436536433352700,
-      "in_reply_to_status_id_str": "1341436536433352704",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "und"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
