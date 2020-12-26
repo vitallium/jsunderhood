@@ -13,114 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 8869,
+  "followers_count": 8871,
   "friends_count": 582,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6548,
+  "favourites_count": 6549,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44614,
+  "statuses_count": 44629,
   "lang": null,
   "status": {
-    "created_at": "Thu Dec 24 14:01:34 +0000 2020",
-    "id": 1342108158811140000,
-    "id_str": "1342108158811140096",
-    "text": "RT @m0rg0t: @jsunderhood Еще сам к примеру использую на стыке косплея, крафта и выступлений (и даже с использованием js, а не только C и ar…",
+    "created_at": "Fri Dec 25 13:25:27 +0000 2020",
+    "id": 1342461454566486000,
+    "id_str": "1342461454566486017",
+    "text": "Использовать можно уже сейчас🙂 \nЗаработает только в Chrome😔\nНо никак не помешает остальным🙂",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "m0rg0t",
-          "name": "Anton Lenev",
-          "id": 65431885,
-          "id_str": "65431885",
-          "indices": [
-            3,
-            10
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            12,
-            24
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1342460816587706400,
+    "in_reply_to_status_id_str": "1342460816587706368",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Dec 24 14:00:22 +0000 2020",
-      "id": 1342107853348331500,
-      "id_str": "1342107853348331523",
-      "text": "@jsunderhood Еще сам к примеру использую на стыке косплея, крафта и выступлений (и даже с использованием js, а не т… https://t.co/KdDTa1yfoJ",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/KdDTa1yfoJ",
-            "expanded_url": "https://twitter.com/i/web/status/1342107853348331523",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": 1342097132602482700,
-      "in_reply_to_status_id_str": "1342097132602482688",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
