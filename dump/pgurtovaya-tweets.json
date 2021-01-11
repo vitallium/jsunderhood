@@ -1,0 +1,135 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 11 08:05:02 +0000 2021",
+      "id": 1348541415828156400,
+      "id_str": "1348541415828156416",
+      "text": "Всем привет. На этой неделе с вами будет @pgurtovaya . Я занимаюсь фронтом примерно пять лет, несколько из них в Зл… https://t.co/Ldu0KD7KLt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pgurtovaya",
+            "name": "Polina Gurtovaya",
+            "id": 508397296,
+            "id_str": "508397296",
+            "indices": [
+              41,
+              52
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ldu0KD7KLt",
+            "expanded_url": "https://twitter.com/i/web/status/1348541415828156416",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 11 08:05:03 +0000 2021",
+      "id": 1348541417673650200,
+      "id_str": "1348541417673650176",
+      "text": "Немножко расскажу о себе:\nДолгое время программирование было моим хобби и мне даже не приходило в голову заниматься этим профессионально.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1348541415828156400,
+      "in_reply_to_status_id_str": "1348541415828156416",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 11 08:05:04 +0000 2021",
+      "id": 1348541421536608300,
+      "id_str": "1348541421536608257",
+      "text": "В какой-то момент мне стало скучно разрабатывать всякие железяки и захотелось поработать в области, где можно решат… https://t.co/UBprgh3uKB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UBprgh3uKB",
+            "expanded_url": "https://twitter.com/i/web/status/1348541421536608257",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1348541417673650200,
+      "in_reply_to_status_id_str": "1348541417673650176",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
