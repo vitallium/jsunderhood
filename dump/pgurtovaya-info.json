@@ -13,52 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 8946,
+  "followers_count": 9043,
   "friends_count": 581,
   "listed_count": 233,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6524,
+  "favourites_count": 6520,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44640,
+  "statuses_count": 44654,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 11 08:05:04 +0000 2021",
-    "id": 1348541421536608300,
-    "id_str": "1348541421536608257",
-    "text": "В какой-то момент мне стало скучно разрабатывать всякие железяки и захотелось поработать в области, где можно решат… https://t.co/UBprgh3uKB",
-    "truncated": true,
+    "created_at": "Mon Jan 11 19:48:01 +0000 2021",
+    "id": 1348718327707922400,
+    "id_str": "1348718327707922434",
+    "text": "@terbiyarchitect Правильно ставить \"елочки\". Можно посмотреть на https://t.co/gzLAHeTP3e  там много прикольных правил",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "terbiyarchitect",
+          "name": "terbiyarchitect",
+          "id": 219059640,
+          "id_str": "219059640",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/UBprgh3uKB",
-          "expanded_url": "https://twitter.com/i/web/status/1348541421536608257",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/gzLAHeTP3e",
+          "expanded_url": "https://github.com/typograf/typograf",
+          "display_url": "github.com/typograf/typog…",
           "indices": [
-            117,
-            140
+            65,
+            88
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1348541417673650200,
-    "in_reply_to_status_id_str": "1348541417673650176",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1348707042807189500,
+    "in_reply_to_status_id_str": "1348707042807189511",
+    "in_reply_to_user_id": 219059640,
+    "in_reply_to_user_id_str": "219059640",
+    "in_reply_to_screen_name": "terbiyarchitect",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
