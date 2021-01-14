@@ -13,42 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 9075,
+  "followers_count": 9082,
   "friends_count": 582,
   "listed_count": 234,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6519,
+  "favourites_count": 6525,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44680,
+  "statuses_count": 44694,
   "lang": null,
   "status": {
-    "created_at": "Tue Jan 12 21:57:32 +0000 2021",
-    "id": 1349113305932173300,
-    "id_str": "1349113305932173316",
-    "text": "@zagazat Если это интересно, то конечно же расскажу. И даже напишу :) Но сначала хочу еще немножко поресечить. С те… https://t.co/eW2DSiuNmG",
+    "created_at": "Wed Jan 13 17:06:11 +0000 2021",
+    "id": 1349402375556100000,
+    "id_str": "1349402375556100097",
+    "text": "@maxkhog1 Он не плох, но под крышкой у него mongo-like запросы к redux-store из которых генерируются GraphQL типы и… https://t.co/8LxUPLVCNV",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "zagazat",
-          "name": "Azat",
-          "id": 173553020,
-          "id_str": "173553020",
+          "screen_name": "maxkhog1",
+          "name": "Максим Хогоев",
+          "id": 778476445198852100,
+          "id_str": "778476445198852100",
           "indices": [
             0,
-            8
+            9
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/eW2DSiuNmG",
-          "expanded_url": "https://twitter.com/i/web/status/1349113305932173316",
+          "url": "https://t.co/8LxUPLVCNV",
+          "expanded_url": "https://twitter.com/i/web/status/1349402375556100097",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -58,11 +58,11 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1349107511438282800,
-    "in_reply_to_status_id_str": "1349107511438282758",
-    "in_reply_to_user_id": 173553020,
-    "in_reply_to_user_id_str": "173553020",
-    "in_reply_to_screen_name": "zagazat",
+    "in_reply_to_status_id": 1349374268136632300,
+    "in_reply_to_status_id_str": "1349374268136632320",
+    "in_reply_to_user_id": 778476445198852100,
+    "in_reply_to_user_id_str": "778476445198852100",
+    "in_reply_to_screen_name": "maxkhog1",
     "geo": null,
     "coordinates": null,
     "place": null,
