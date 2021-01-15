@@ -3743,6 +3743,1616 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:47 +0000 2021",
+      "id": 1349646129198203000,
+      "id_str": "1349646129198202880",
+      "text": "Сегодня поговорим про коммуникацию между людьми и сервисами.\nНачнем с того что посложнее – общения с людьми и code… https://t.co/tfusjylyyS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tfusjylyyS",
+            "expanded_url": "https://twitter.com/i/web/status/1349646129198202880",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 72,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:47 +0000 2021",
+      "id": 1349646131349872600,
+      "id_str": "1349646131349872642",
+      "text": "Каждый раз когда я делаю git commit, я предполагаю что его будут ревьюить и поэтому стараюсь упростить жизнь людям,… https://t.co/7yUSVIVJPr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7yUSVIVJPr",
+            "expanded_url": "https://twitter.com/i/web/status/1349646131349872642",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646129198203000,
+      "in_reply_to_status_id_str": "1349646129198202880",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:48 +0000 2021",
+      "id": 1349646133489004500,
+      "id_str": "1349646133489004544",
+      "text": "При ревью я первым делом смотрю на историю коммитов,  поэтому, отдавая свой код на ревью я стараюсь чтобы это дейст… https://t.co/MudmL48o3O",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MudmL48o3O",
+            "expanded_url": "https://twitter.com/i/web/status/1349646133489004544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646131349872600,
+      "in_reply_to_status_id_str": "1349646131349872642",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:48 +0000 2021",
+      "id": 1349646135699320800,
+      "id_str": "1349646135699320837",
+      "text": "Хорошо бы сделать так, чтобы переключившись на любой коммит из вашего PR ничего не ломалось и было явно видно какой… https://t.co/PoQSLOShZL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PoQSLOShZL",
+            "expanded_url": "https://twitter.com/i/web/status/1349646135699320837",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646133489004500,
+      "in_reply_to_status_id_str": "1349646133489004544",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:49 +0000 2021",
+      "id": 1349646137897136000,
+      "id_str": "1349646137897136130",
+      "text": "В процессе разработки (особенно если пилится что-то большое или мы делаем какой-то сложный рефакторинг) история и с… https://t.co/QrN3p5IPB0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QrN3p5IPB0",
+            "expanded_url": "https://twitter.com/i/web/status/1349646137897136130",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646135699320800,
+      "in_reply_to_status_id_str": "1349646135699320837",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:49 +0000 2021",
+      "id": 1349646140153716700,
+      "id_str": "1349646140153716741",
+      "text": "Я считаю хорошей практикой готовить свой код для ревью. И для этого нужна всего одна простая команда - `git rebase`",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646137897136000,
+      "in_reply_to_status_id_str": "1349646137897136130",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:14:50 +0000 2021",
+      "id": 1349646142313803800,
+      "id_str": "1349646142313803776",
+      "text": "Я часто слышу что rebase и последующий forcepush это опасно и ужасно. На самом деле все ровно наоборот. Ребейзить и… https://t.co/ehupC9YvHg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ehupC9YvHg",
+            "expanded_url": "https://twitter.com/i/web/status/1349646142313803776",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646140153716700,
+      "in_reply_to_status_id_str": "1349646140153716741",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:18:32 +0000 2021",
+      "id": 1349647074397139000,
+      "id_str": "1349647074397138944",
+      "text": "Мне очень нравятся митапы @_tverio . В них прикольно участвовать как в качестве докладчика так и в качестве слушате… https://t.co/UO5AKV8ht9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_tverio",
+            "name": "tver.io",
+            "id": 1175869392560803800,
+            "id_str": "1175869392560803840",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UO5AKV8ht9",
+            "expanded_url": "https://twitter.com/i/web/status/1349647074397138944",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1349639757572223000,
+      "quoted_status_id_str": "1349639757572222976",
+      "quoted_status": {
+        "created_at": "Thu Jan 14 08:49:27 +0000 2021",
+        "id": 1349639757572223000,
+        "id_str": "1349639757572222976",
+        "text": "🚨 Онлайн-митап по фронтенд-перформансу докладами от @xufocoder и @mlfrg уже через неделю! Нажми \"Я иду\", подпишись… https://t.co/tBJ2VfsrDn",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "xufocoder",
+              "name": "Sergey Ufocoder",
+              "id": 474880609,
+              "id_str": "474880609",
+              "indices": [
+                52,
+                62
+              ]
+            },
+            {
+              "screen_name": "mlfrg",
+              "name": "Alexey Taktarov",
+              "id": 529701883,
+              "id_str": "529701883",
+              "indices": [
+                65,
+                71
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/tBJ2VfsrDn",
+              "expanded_url": "https://twitter.com/i/web/status/1349639757572222976",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1175869392560803800,
+          "id_str": "1175869392560803840"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 31,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:19:39 +0000 2021",
+      "id": 1349647353691693000,
+      "id_str": "1349647353691693056",
+      "text": "@pavelpatrin Конечно же были :) Я расскажу как с ними правильно поступать чуть попозже",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelpatrin",
+            "name": "Patrin Pavel",
+            "id": 68389072,
+            "id_str": "68389072",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646936232628200,
+      "in_reply_to_status_id_str": "1349646936232628224",
+      "in_reply_to_user_id": 68389072,
+      "in_reply_to_user_id_str": "68389072",
+      "in_reply_to_screen_name": "pavelpatrin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:47:47 +0000 2021",
+      "id": 1349654436847747000,
+      "id_str": "1349654436847747073",
+      "text": "Я почти всегда делаю rebase c флагом --onto. Просто потому что не помню как работают другие варианты синтаксиса :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349646142313803800,
+      "in_reply_to_status_id_str": "1349646142313803776",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:47:48 +0000 2021",
+      "id": 1349654439012003800,
+      "id_str": "1349654439012003842",
+      "text": "Перед тем как сделать PR я делаю интерактивный rebase. При этом я переименовываю часть коммитов, разбиваю на части… https://t.co/wDq5b2Fbyg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wDq5b2Fbyg",
+            "expanded_url": "https://twitter.com/i/web/status/1349654439012003842",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349654436847747000,
+      "in_reply_to_status_id_str": "1349654436847747073",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:47:48 +0000 2021",
+      "id": 1349654441474064400,
+      "id_str": "1349654441474064384",
+      "text": "Форспушить в общую с коллегой ветку тоже можно, но тут нужно быть аккуратнее и использовать флаг --force-with-lease… https://t.co/dXrbvXqj7v",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dXrbvXqj7v",
+            "expanded_url": "https://twitter.com/i/web/status/1349654441474064384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349654439012003800,
+      "in_reply_to_status_id_str": "1349654439012003842",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 09:47:49 +0000 2021",
+      "id": 1349654443676086300,
+      "id_str": "1349654443676086272",
+      "text": "Есть удобный трюк с флагом --fixup. Вы делаете коммит (когда угодно в вашей ветке) примерно так:\n`git commit --fixu… https://t.co/RDUQ27nlzy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RDUQ27nlzy",
+            "expanded_url": "https://twitter.com/i/web/status/1349654443676086272",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349654441474064400,
+      "in_reply_to_status_id_str": "1349654441474064384",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 11:03:52 +0000 2021",
+      "id": 1349673583325360000,
+      "id_str": "1349673583325360128",
+      "text": "@MZamkevich Переписать историю, форспушнуть",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MZamkevich",
+            "name": "Misha Zamkevich",
+            "id": 794881016729108500,
+            "id_str": "794881016729108480",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349669235090403300,
+      "in_reply_to_status_id_str": "1349669235090403334",
+      "in_reply_to_user_id": 794881016729108500,
+      "in_reply_to_user_id_str": "794881016729108480",
+      "in_reply_to_screen_name": "MZamkevich",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 11:04:34 +0000 2021",
+      "id": 1349673757330309000,
+      "id_str": "1349673757330309120",
+      "text": "@pavelsilin Хорошую историю легко ревьюить. Ревью улучшает качество твоего кода :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelsilin",
+            "name": "Pavel",
+            "id": 33166826,
+            "id_str": "33166826",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349660275511844900,
+      "in_reply_to_status_id_str": "1349660275511844864",
+      "in_reply_to_user_id": 33166826,
+      "in_reply_to_user_id_str": "33166826",
+      "in_reply_to_screen_name": "pavelsilin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 11:05:32 +0000 2021",
+      "id": 1349674003288514600,
+      "id_str": "1349674003288514560",
+      "text": "@avivasyuta Обычно я просто тыкаю кнопочку \"squash and merge\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avivasyuta",
+            "name": "❌ Aleksey Ivasyuta 🌈",
+            "id": 1220741139508138000,
+            "id_str": "1220741139508137984",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349663182403608600,
+      "in_reply_to_status_id_str": "1349663182403608576",
+      "in_reply_to_user_id": 1220741139508138000,
+      "in_reply_to_user_id_str": "1220741139508137984",
+      "in_reply_to_screen_name": "avivasyuta",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 12:14:12 +0000 2021",
+      "id": 1349691284055842800,
+      "id_str": "1349691284055842819",
+      "text": "@MZamkevich Нормальный вариант :) Но часто коммит оказывается не последним",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MZamkevich",
+            "name": "Misha Zamkevich",
+            "id": 794881016729108500,
+            "id_str": "794881016729108480",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349675808097509400,
+      "in_reply_to_status_id_str": "1349675808097509377",
+      "in_reply_to_user_id": 794881016729108500,
+      "in_reply_to_user_id_str": "794881016729108480",
+      "in_reply_to_screen_name": "MZamkevich",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:22:46 +0000 2021",
+      "id": 1349708536046088200,
+      "id_str": "1349708536046088193",
+      "text": "@shuvalov_js @iamizzypizzy Первая строчка вежливее, потому что во втором случае нужно будет проверить что не удалилось что-нибудь важное :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Фронтенд Фуко",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "iamizzypizzy",
+            "name": "éмильен 🔥",
+            "id": 1913385014,
+            "id_str": "1913385014",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349701034097086500,
+      "in_reply_to_status_id_str": "1349701034097086473",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:07 +0000 2021",
+      "id": 1349710639535681500,
+      "id_str": "1349710639535681539",
+      "text": "В отдельном тредике обсудим что делать, если фича которую предстоит отдать на ревью очень большая.\nЕсли такое произ… https://t.co/r9aXFurDYi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/r9aXFurDYi",
+            "expanded_url": "https://twitter.com/i/web/status/1349710639535681539",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:07 +0000 2021",
+      "id": 1349710641293045800,
+      "id_str": "1349710641293045760",
+      "text": "Когда я начинаю работать над новой задачей, то первое что я пытаюсь сделать – разбить ее на мелкие, но логичные ите… https://t.co/aOOrZ77Nuu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aOOrZ77Nuu",
+            "expanded_url": "https://twitter.com/i/web/status/1349710641293045760",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710639535681500,
+      "in_reply_to_status_id_str": "1349710639535681539",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:08 +0000 2021",
+      "id": 1349710642748530700,
+      "id_str": "1349710642748530690",
+      "text": "Ревью предыдущих итераций не блокер для дальнейшей разработки, ведь не обязательно открывать PR прямо в основную ветку.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710641293045800,
+      "in_reply_to_status_id_str": "1349710641293045760",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:08 +0000 2021",
+      "id": 1349710644006817800,
+      "id_str": "1349710644006817792",
+      "text": "Если фича состоит, скажем, из двух итераций: 'Компонент Вертолет' и 'Взрывающийся Вертолет', то можно открывать PR… https://t.co/yqbWCLSnWM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yqbWCLSnWM",
+            "expanded_url": "https://twitter.com/i/web/status/1349710644006817792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710642748530700,
+      "in_reply_to_status_id_str": "1349710642748530690",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:08 +0000 2021",
+      "id": 1349710645416104000,
+      "id_str": "1349710645416103937",
+      "text": "То же самое можно делать если уже есть 10к строк готового кода. Разбиваем его на кусочки, запихиваем каждый кусочек… https://t.co/t9I9wWdjvZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t9I9wWdjvZ",
+            "expanded_url": "https://twitter.com/i/web/status/1349710645416103937",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710644006817800,
+      "in_reply_to_status_id_str": "1349710644006817792",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:09 +0000 2021",
+      "id": 1349710646854758400,
+      "id_str": "1349710646854758404",
+      "text": "Примерно так же удобно работать если в новой фиче есть и бекенд и фронтенд и вы живете в одном репозитории. Тогда в… https://t.co/dhfJ96MzFA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dhfJ96MzFA",
+            "expanded_url": "https://twitter.com/i/web/status/1349710646854758404",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710645416104000,
+      "in_reply_to_status_id_str": "1349710645416103937",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:31:09 +0000 2021",
+      "id": 1349710648507297800,
+      "id_str": "1349710648507297793",
+      "text": "Иногда бывает удобно создать PR из основной ветки в пустой или какой-то специальный коммит. Эта ветка никогда никуд… https://t.co/VhpGIKtIto",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VhpGIKtIto",
+            "expanded_url": "https://twitter.com/i/web/status/1349710648507297793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349710646854758400,
+      "in_reply_to_status_id_str": "1349710646854758404",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:04 +0000 2021",
+      "id": 1349714904975110100,
+      "id_str": "1349714904975110145",
+      "text": "Вот еще несколько полезностей для code review",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:04 +0000 2021",
+      "id": 1349714906493431800,
+      "id_str": "1349714906493431808",
+      "text": "1. Настроить автоматический деплой всех веток. Обычно я провожу ревью в 2 этапа. На первом просто смотрю код, а на… https://t.co/6FhS8yroBG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6FhS8yroBG",
+            "expanded_url": "https://twitter.com/i/web/status/1349714906493431808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349714904975110100,
+      "in_reply_to_status_id_str": "1349714904975110145",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:05 +0000 2021",
+      "id": 1349714908137578500,
+      "id_str": "1349714908137578496",
+      "text": "2. Не использовать человеческие ресурсы для проверок с которыми могут справиться наши линтеры или другие полезные инструменты",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349714906493431800,
+      "in_reply_to_status_id_str": "1349714906493431808",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:05 +0000 2021",
+      "id": 1349714909488160800,
+      "id_str": "1349714909488160768",
+      "text": "3. Настроить хуки и держать в страшной тайне флаг --no-verify.\nВ марсианах мы так любим хуки, что даже запилили спе… https://t.co/Um3HVhU7Cx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Um3HVhU7Cx",
+            "expanded_url": "https://twitter.com/i/web/status/1349714909488160768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349714908137578500,
+      "in_reply_to_status_id_str": "1349714908137578496",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:06 +0000 2021",
+      "id": 1349714911920857000,
+      "id_str": "1349714911920857089",
+      "text": "Самое простое повесить все проверки на pre-commit, но это не всегда оказывается удобным. Я люблю делать мелкие комм… https://t.co/AVRnOZTRgK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AVRnOZTRgK",
+            "expanded_url": "https://twitter.com/i/web/status/1349714911920857089",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349714909488160800,
+      "in_reply_to_status_id_str": "1349714909488160768",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 13:48:50 +0000 2021",
+      "id": 1349715099414655000,
+      "id_str": "1349715099414654977",
+      "text": "@yourihdx Лучше чтобы были рабочими :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yourihdx",
+            "name": "yourihdx",
+            "id": 81843572,
+            "id_str": "81843572",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349713465011802000,
+      "in_reply_to_status_id_str": "1349713465011802113",
+      "in_reply_to_user_id": 81843572,
+      "in_reply_to_user_id_str": "81843572",
+      "in_reply_to_screen_name": "yourihdx",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 14:15:16 +0000 2021",
+      "id": 1349721752197324800,
+      "id_str": "1349721752197324801",
+      "text": "@pavelsilin Важно все :) По истории можно понять примерную структуру изменений. Например, если мы делаем какой-нибу… https://t.co/0DFmQRQBkx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelsilin",
+            "name": "Pavel",
+            "id": 33166826,
+            "id_str": "33166826",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0DFmQRQBkx",
+            "expanded_url": "https://twitter.com/i/web/status/1349721752197324801",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349720076203778000,
+      "in_reply_to_status_id_str": "1349720076203778048",
+      "in_reply_to_user_id": 33166826,
+      "in_reply_to_user_id_str": "33166826",
+      "in_reply_to_screen_name": "pavelsilin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 14:45:27 +0000 2021",
+      "id": 1349729344940249000,
+      "id_str": "1349729344940249094",
+      "text": "@denyspopov21 Зависит от проекта. Набор довольно стандартный:\nЛинтеры (code-style, graphQL валидации)\nТайпчекеры (t… https://t.co/2EtQ5uRCAc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "denyspopov21",
+            "name": "Denys Popov",
+            "id": 1013554021754441700,
+            "id_str": "1013554021754441728",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2EtQ5uRCAc",
+            "expanded_url": "https://twitter.com/i/web/status/1349729344940249094",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349724165708759000,
+      "in_reply_to_status_id_str": "1349724165708759047",
+      "in_reply_to_user_id": 1013554021754441700,
+      "in_reply_to_user_id_str": "1013554021754441728",
+      "in_reply_to_screen_name": "denyspopov21",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 15:03:27 +0000 2021",
+      "id": 1349733874683678700,
+      "id_str": "1349733874683678723",
+      "text": "@max_vynohradov У нас таких нет :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "max_vynohradov",
+            "name": "Max Vinogradov",
+            "id": 912403426277052400,
+            "id_str": "912403426277052416",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349729690643099600,
+      "in_reply_to_status_id_str": "1349729690643099651",
+      "in_reply_to_user_id": 912403426277052400,
+      "in_reply_to_user_id_str": "912403426277052416",
+      "in_reply_to_screen_name": "max_vynohradov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 15:13:51 +0000 2021",
+      "id": 1349736493871362000,
+      "id_str": "1349736493871362048",
+      "text": "@MeFCorvi Тут может теоретически помочь еще один дополнительный финальный PR где можно посмотреть на всю картину в целом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MeFCorvi",
+            "name": "Bulat Aykaev",
+            "id": 41120860,
+            "id_str": "41120860",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1349736021311672300,
+      "in_reply_to_status_id_str": "1349736021311672326",
+      "in_reply_to_user_id": 41120860,
+      "in_reply_to_user_id_str": "41120860",
+      "in_reply_to_screen_name": "MeFCorvi",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 14 17:13:41 +0000 2021",
+      "id": 1349766650787201000,
+      "id_str": "1349766650787201025",
+      "text": "Переходим к коммуникации с внешними источниками данных. Для начала общий опрос-вопрос: как бы вы описали бекенд(ы) вашего текущего проекта?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
