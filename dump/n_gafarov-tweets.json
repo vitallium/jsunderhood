@@ -1,0 +1,58 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 18 08:38:11 +0000 2021",
+      "id": 1351086469818015700,
+      "id_str": "1351086469818015749",
+      "text": "Всем привет. Меня зовут Гафаров Назим @n_gafarov\nВы могли видеть меня в качестве докладчика на Яндексовых мероприят… https://t.co/IzrKjzAjAU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n_gafarov",
+            "name": "Gafarov Nassim",
+            "id": 1340252040086380500,
+            "id_str": "1340252040086380544",
+            "indices": [
+              38,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IzrKjzAjAU",
+            "expanded_url": "https://twitter.com/i/web/status/1351086469818015749",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
