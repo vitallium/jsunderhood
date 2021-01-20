@@ -13,42 +13,40 @@
     }
   },
   "protected": false,
-  "followers_count": 9148,
+  "followers_count": 9144,
   "friends_count": 582,
-  "listed_count": 236,
+  "listed_count": 237,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6552,
+  "favourites_count": 6566,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44876,
+  "statuses_count": 44900,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 18 22:45:31 +0000 2021",
-    "id": 1351299711173615600,
-    "id_str": "1351299711173615616",
-    "text": "@andrey_sitnik Ребята, которые разрабатывали продукты на CoffeeScript, тоже контролировали его версию. Как там у ни… https://t.co/AcF1X6HxJQ",
+    "created_at": "Tue Jan 19 17:14:44 +0000 2021",
+    "id": 1351578853702041600,
+    "id_str": "1351578853702041600",
+    "text": "GraphQL отлично зайдет если вы начинаете проект с нуля. В этом случае вы просто берете https://t.co/QTXmteQyfV и ув… https://t.co/lu5gd20XxQ",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "andrey_sitnik",
-          "name": "Андрей Ситник",
-          "id": 62229769,
-          "id_str": "62229769",
-          "indices": [
-            0,
-            14
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/AcF1X6HxJQ",
-          "expanded_url": "https://twitter.com/i/web/status/1351299711173615616",
+          "url": "https://t.co/QTXmteQyfV",
+          "expanded_url": "https://hasura.io",
+          "display_url": "hasura.io",
+          "indices": [
+            87,
+            110
+          ]
+        },
+        {
+          "url": "https://t.co/lu5gd20XxQ",
+          "expanded_url": "https://twitter.com/i/web/status/1351578853702041600",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -58,20 +56,21 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1351298836464103400,
-    "in_reply_to_status_id_str": "1351298836464103424",
-    "in_reply_to_user_id": 62229769,
-    "in_reply_to_user_id_str": "62229769",
-    "in_reply_to_screen_name": "andrey_sitnik",
+    "in_reply_to_status_id": 1351578779395756000,
+    "in_reply_to_status_id_str": "1351578779395756032",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -83,7 +82,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/1351086009262473219/Kxn_2CdO_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351086009262473219/Kxn_2CdO_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1610351822",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014054307/1611057030",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
