@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9166,
+  "followers_count": 9175,
   "friends_count": 583,
   "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
@@ -22,43 +22,54 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 44998,
+  "statuses_count": 44999,
   "lang": null,
   "status": {
-    "created_at": "Sat Jan 23 14:55:55 +0000 2021",
-    "id": 1352993470584123400,
-    "id_str": "1352993470584123394",
-    "text": "6. Надо быть очень отважным, чтобы отправить компартии скан своего паспорта при регистрации в Huawei AppGallery\n- н… https://t.co/SyZ79d0tM4",
+    "created_at": "Sun Jan 24 18:57:06 +0000 2021",
+    "id": 1353416553497153500,
+    "id_str": "1353416553497153536",
+    "text": "Неделя подходит к концу. Надеюсь вам понравилось.\nЕсли да, то подписывайтесь на меня тут @n_gafarov или пишите на… https://t.co/o86WOWjcii",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "n_gafarov",
+          "name": "Gafarov Nassim",
+          "id": 1340252040086380500,
+          "id_str": "1340252040086380544",
+          "indices": [
+            89,
+            99
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/SyZ79d0tM4",
-          "expanded_url": "https://twitter.com/i/web/status/1352993470584123394",
+          "url": "https://t.co/o86WOWjcii",
+          "expanded_url": "https://twitter.com/i/web/status/1353416553497153536",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            115,
+            138
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1352993469300617200,
-    "in_reply_to_status_id_str": "1352993469300617226",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
