@@ -3,7 +3,8 @@ const authorId = require('./helpers/author-id');
 // prettier-ignore
 module.exports = authorId([
   // post: false
-  { username: 'n_gafarov'       , start: '18 Jan 2021', first: '1351086469818015749', post: false },
+  { username: 'korery'          , start: '25 Jan 2021', first: '1353608529551257600', post: false },
+  { username: 'n_gafarov'       , start: '18 Jan 2021', first: '1351086469818015749' },
   { username: 'pgurtovaya'      , start: '11 Jan 2021', first: '1348541415828156416' },
   { username: 'prosvirnina12'   , start: '21 Dec 2020', first: '1340952265465749505' },
   { username: 'ShibaCodes'      , start: '14 Dec 2020', first: '1338387360686497792' },
