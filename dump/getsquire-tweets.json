@@ -1,0 +1,101 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 01 07:52:12 +0000 2021",
+      "id": 1356148331265798100,
+      "id_str": "1356148331265798144",
+      "text": "Всем привет! 👋\nЭту неделю вам вещать буду я - Тимофей Плотников, engineering manager @getsquire. Особого порядка по… https://t.co/0Sg8OPT7lu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "getsquire",
+            "name": "Squire Technologies",
+            "id": 2468712126,
+            "id_str": "2468712126",
+            "indices": [
+              85,
+              95
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0Sg8OPT7lu",
+            "expanded_url": "https://twitter.com/i/web/status/1356148331265798144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 08:05:19 +0000 2021",
+      "id": 1356151631595921400,
+      "id_str": "1356151631595921408",
+      "text": "Вот список некоторых тем, которые я постараюсь осветить на этой неделе:\n- Будущее веба, разработки и ЯП\n- WebAssemb… https://t.co/DcN8ZKVhUF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DcN8ZKVhUF",
+            "expanded_url": "https://twitter.com/i/web/status/1356151631595921408",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
