@@ -13,31 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 9189,
+  "followers_count": 9181,
   "friends_count": 584,
   "listed_count": 236,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 6829,
+  "favourites_count": 6869,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 45198,
+  "statuses_count": 45251,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 01 18:59:56 +0000 2021",
-    "id": 1356316370993115100,
-    "id_str": "1356316370993115142",
-    "text": "Но с другой стороны, изменения синтаксиса OCaml в сторону...непонятно чего. Постоянные переделки этого самого синта… https://t.co/4YmCjvX5q1",
+    "created_at": "Tue Feb 02 21:49:47 +0000 2021",
+    "id": 1356721500447981600,
+    "id_str": "1356721500447981568",
+    "text": "@petyappetrov Не, это не то) В кложе у вас есть репл - живой процесс, в который вы загружаете весь свой код. Предст… https://t.co/tX3bjm1t5L",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "petyappetrov",
+          "name": "Petya Petrov",
+          "id": 383528208,
+          "id_str": "383528208",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/4YmCjvX5q1",
-          "expanded_url": "https://twitter.com/i/web/status/1356316370993115142",
+          "url": "https://t.co/tX3bjm1t5L",
+          "expanded_url": "https://twitter.com/i/web/status/1356721500447981568",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,18 +58,18 @@
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1356316369273421800,
-    "in_reply_to_status_id_str": "1356316369273421824",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1356719297314369500,
+    "in_reply_to_status_id_str": "1356719297314369537",
+    "in_reply_to_user_id": 383528208,
+    "in_reply_to_user_id_str": "383528208",
+    "in_reply_to_screen_name": "petyappetrov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
