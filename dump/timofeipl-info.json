@@ -13,112 +13,62 @@
     }
   },
   "protected": false,
-  "followers_count": 9191,
-  "friends_count": 584,
-  "listed_count": 237,
+  "followers_count": 9190,
+  "friends_count": 583,
+  "listed_count": 238,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 7023,
+  "favourites_count": 7053,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 45362,
+  "statuses_count": 45385,
   "lang": null,
   "status": {
-    "created_at": "Fri Feb 05 20:57:24 +0000 2021",
-    "id": 1357795484996403200,
-    "id_str": "1357795484996403203",
-    "text": "RT @doyouusevim: @jsunderhood Делал приложение для трекинга расходов на обслуживание велосипеда, с конструированием 3D модели, визуальной з…",
-    "truncated": false,
+    "created_at": "Sat Feb 06 16:19:13 +0000 2021",
+    "id": 1358087863922008000,
+    "id_str": "1358087863922008071",
+    "text": "@kitos_kirsanov Простите, я видимо неверно передал свои мысли в первом твите. Понятное дело что js ЕСТЬ compilation… https://t.co/CopbYzrpIk",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "doyouusevim",
-          "name": "Oleg",
-          "id": 286005894,
-          "id_str": "286005894",
+          "screen_name": "kitos_kirsanov",
+          "name": "Nikita Kirsanov",
+          "id": 3741650235,
+          "id_str": "3741650235",
           "indices": [
-            3,
+            0,
             15
-          ]
-        },
-        {
-          "screen_name": "jsunderhood",
-          "name": "jsunderhood",
-          "id": 3014054307,
-          "id_str": "3014054307",
-          "indices": [
-            17,
-            29
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CopbYzrpIk",
+          "expanded_url": "https://twitter.com/i/web/status/1358087863922008071",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1358083206164193300,
+    "in_reply_to_status_id_str": "1358083206164193281",
+    "in_reply_to_user_id": 3741650235,
+    "in_reply_to_user_id_str": "3741650235",
+    "in_reply_to_screen_name": "kitos_kirsanov",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Feb 05 20:46:51 +0000 2021",
-      "id": 1357792827481161700,
-      "id_str": "1357792827481161735",
-      "text": "@jsunderhood Делал приложение для трекинга расходов на обслуживание велосипеда, с конструированием 3D модели, визуа… https://t.co/rjKUytyHzh",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "jsunderhood",
-            "name": "jsunderhood",
-            "id": 3014054307,
-            "id_str": "3014054307",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/rjKUytyHzh",
-            "expanded_url": "https://twitter.com/i/web/status/1357792827481161735",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 1357609390929551400,
-      "in_reply_to_status_id_str": "1357609390929551361",
-      "in_reply_to_user_id": 3014054307,
-      "in_reply_to_user_id_str": "3014054307",
-      "in_reply_to_screen_name": "jsunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
