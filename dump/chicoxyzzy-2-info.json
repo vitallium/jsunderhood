@@ -13,8 +13,8 @@
     }
   },
   "protected": false,
-  "followers_count": 9266,
-  "friends_count": 582,
+  "followers_count": 9264,
+  "friends_count": 583,
   "listed_count": 239,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 7224,
@@ -22,46 +22,48 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 46048,
+  "statuses_count": 46052,
   "lang": null,
   "status": {
-    "created_at": "Fri Feb 26 23:04:15 +0000 2021",
-    "id": 1365437551222349800,
-    "id_str": "1365437551222349831",
-    "text": "@D_Lihner ой, они обычно слишком сладкие)",
-    "truncated": false,
+    "created_at": "Sat Feb 27 10:38:02 +0000 2021",
+    "id": 1365612147364028400,
+    "id_str": "1365612147364028417",
+    "text": "Я тут посоветовать ничего не могу. Мне ооочень редко бывает прям плохо, поэтому призываю на помощь тех, кто разбира… https://t.co/zgzKa3efE4",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "D_Lihner",
-          "name": "Dmitry Lihner",
-          "id": 239461467,
-          "id_str": "239461467",
+          "url": "https://t.co/zgzKa3efE4",
+          "expanded_url": "https://twitter.com/i/web/status/1365612147364028417",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1365407957706539000,
-    "in_reply_to_status_id_str": "1365407957706539011",
-    "in_reply_to_user_id": 239461467,
-    "in_reply_to_user_id_str": "239461467",
-    "in_reply_to_screen_name": "D_Lihner",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1365611436202991600,
+    "quoted_status_id_str": "1365611436202991620",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
