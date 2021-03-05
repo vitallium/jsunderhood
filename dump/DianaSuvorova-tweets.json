@@ -2450,6 +2450,754 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 14:51:24 +0000 2021",
+      "id": 1367487846911737900,
+      "id_str": "1367487846911737867",
+      "text": "Давайте сегодня про хорошее. Расскажите про ваших менторов  и чему вы научились от них. Что было вам неочевидно в начале вашей карьеры?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:11:13 +0000 2021",
+      "id": 1367492837886095400,
+      "id_str": "1367492837886095375",
+      "text": "@pasynkov Про микрофронтэнды было в другой ветке :) но в целом да - больше про них не собиралась 😊",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pasynkov",
+            "name": "Nikolay Pasynkov",
+            "id": 205933871,
+            "id_str": "205933871",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367489713565823000,
+      "in_reply_to_status_id_str": "1367489713565822986",
+      "in_reply_to_user_id": 205933871,
+      "in_reply_to_user_id_str": "205933871",
+      "in_reply_to_screen_name": "pasynkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "45cadd6ef118ec9f",
+        "url": "https://api.twitter.com/1.1/geo/id/45cadd6ef118ec9f.json",
+        "place_type": "city",
+        "name": "Sunnyvale",
+        "full_name": "Sunnyvale, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.065206,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.4267257
+              ],
+              [
+                -122.065206,
+                37.4267257
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:13:29 +0000 2021",
+      "id": 1367493406512078800,
+      "id_str": "1367493406512078850",
+      "text": "@dimaip Ну так есть такие моменты когда начинаешь работать с людьми и когда тебе какое-то осознание открывает новый… https://t.co/swkgIT4iF8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dimaip",
+            "name": "Dmitri Pisarev 🇷🇺",
+            "id": 240638492,
+            "id_str": "240638492",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/swkgIT4iF8",
+            "expanded_url": "https://twitter.com/i/web/status/1367493406512078850",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367490183692746800,
+      "in_reply_to_status_id_str": "1367490183692746772",
+      "in_reply_to_user_id": 240638492,
+      "in_reply_to_user_id_str": "240638492",
+      "in_reply_to_screen_name": "dimaip",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "45cadd6ef118ec9f",
+        "url": "https://api.twitter.com/1.1/geo/id/45cadd6ef118ec9f.json",
+        "place_type": "city",
+        "name": "Sunnyvale",
+        "full_name": "Sunnyvale, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.065206,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.4267257
+              ],
+              [
+                -122.065206,
+                37.4267257
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:15:37 +0000 2021",
+      "id": 1367493943420739600,
+      "id_str": "1367493943420739593",
+      "text": "@fetis26 Нет, спасибо за рекомендацию - посмотрю",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fetis26",
+            "name": "sf = sergey fetiskin",
+            "id": 35003819,
+            "id_str": "35003819",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367388498987274200,
+      "in_reply_to_status_id_str": "1367388498987274246",
+      "in_reply_to_user_id": 35003819,
+      "in_reply_to_user_id_str": "35003819",
+      "in_reply_to_screen_name": "fetis26",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "45cadd6ef118ec9f",
+        "url": "https://api.twitter.com/1.1/geo/id/45cadd6ef118ec9f.json",
+        "place_type": "city",
+        "name": "Sunnyvale",
+        "full_name": "Sunnyvale, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.065206,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.4267257
+              ],
+              [
+                -122.065206,
+                37.4267257
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:19:19 +0000 2021",
+      "id": 1367494872421261300,
+      "id_str": "1367494872421261312",
+      "text": "@N_Lopin Коммуницировать - это я про рантами. Если вы нажали на кнопочку в одном модуле - другой должен как-то отре… https://t.co/APMQrbWidC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "N_Lopin",
+            "name": "Ник Лопин",
+            "id": 327797419,
+            "id_str": "327797419",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/APMQrbWidC",
+            "expanded_url": "https://twitter.com/i/web/status/1367494872421261312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367171038455476200,
+      "in_reply_to_status_id_str": "1367171038455476225",
+      "in_reply_to_user_id": 327797419,
+      "in_reply_to_user_id_str": "327797419",
+      "in_reply_to_screen_name": "N_Lopin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "45cadd6ef118ec9f",
+        "url": "https://api.twitter.com/1.1/geo/id/45cadd6ef118ec9f.json",
+        "place_type": "city",
+        "name": "Sunnyvale",
+        "full_name": "Sunnyvale, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.065206,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.4267257
+              ],
+              [
+                -122.065206,
+                37.4267257
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:21:29 +0000 2021",
+      "id": 1367495421354983400,
+      "id_str": "1367495421354983434",
+      "text": "@pasynkov Уточнюсь - тема в принципе в коммьюнити не раскрыта. У меня ответов нет , есть только вопросы и увереннос… https://t.co/eJQMYkVQaD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pasynkov",
+            "name": "Nikolay Pasynkov",
+            "id": 205933871,
+            "id_str": "205933871",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eJQMYkVQaD",
+            "expanded_url": "https://twitter.com/i/web/status/1367495421354983434",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367489713565823000,
+      "in_reply_to_status_id_str": "1367489713565822986",
+      "in_reply_to_user_id": 205933871,
+      "in_reply_to_user_id_str": "205933871",
+      "in_reply_to_screen_name": "pasynkov",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "45cadd6ef118ec9f",
+        "url": "https://api.twitter.com/1.1/geo/id/45cadd6ef118ec9f.json",
+        "place_type": "city",
+        "name": "Sunnyvale",
+        "full_name": "Sunnyvale, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.065206,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.3300682
+              ],
+              [
+                -121.982475,
+                37.4267257
+              ],
+              [
+                -122.065206,
+                37.4267257
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 15:25:02 +0000 2021",
+      "id": 1367496313340854300,
+      "id_str": "1367496313340854273",
+      "text": "@fetis26 Поняла. Это круто что есть компании в которых можно на обоих писать. Я предполагаю большая компания",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fetis26",
+            "name": "sf = sergey fetiskin",
+            "id": 35003819,
+            "id_str": "35003819",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367387624965607400,
+      "in_reply_to_status_id_str": "1367387624965607424",
+      "in_reply_to_user_id": 35003819,
+      "in_reply_to_user_id_str": "35003819",
+      "in_reply_to_screen_name": "fetis26",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 17:30:45 +0000 2021",
+      "id": 1367527952146002000,
+      "id_str": "1367527952146001922",
+      "text": "@ScriptedAlchemy @theKashey @ScriptedAlchemy I looked at the MicroLib looks very promising, thank for giving it to… https://t.co/f6Kvncv1Pz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ScriptedAlchemy",
+            "name": "Zack Jackson",
+            "id": 1006610672220889100,
+            "id_str": "1006610672220889088",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "theKashey",
+            "name": "Anton Korzunov",
+            "id": 97456304,
+            "id_str": "97456304",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "screen_name": "ScriptedAlchemy",
+            "name": "Zack Jackson",
+            "id": 1006610672220889100,
+            "id_str": "1006610672220889088",
+            "indices": [
+              28,
+              44
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/f6Kvncv1Pz",
+            "expanded_url": "https://twitter.com/i/web/status/1367527952146001922",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1366848032294142000,
+      "in_reply_to_status_id_str": "1366848032294141956",
+      "in_reply_to_user_id": 1006610672220889100,
+      "in_reply_to_user_id_str": "1006610672220889088",
+      "in_reply_to_screen_name": "ScriptedAlchemy",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Mar 04 17:33:08 +0000 2021",
+      "id": 1367528549918249000,
+      "id_str": "1367528549918248962",
+      "text": "@ScriptedAlchemy @theKashey 1. Do you think it is a right way to approach micro-frontends in general ? 2. Does the… https://t.co/ELLQX2baeC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ScriptedAlchemy",
+            "name": "Zack Jackson",
+            "id": 1006610672220889100,
+            "id_str": "1006610672220889088",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "theKashey",
+            "name": "Anton Korzunov",
+            "id": 97456304,
+            "id_str": "97456304",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ELLQX2baeC",
+            "expanded_url": "https://twitter.com/i/web/status/1367528549918248962",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1367527952146002000,
+      "in_reply_to_status_id_str": "1367527952146001922",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Mar 04 18:49:05 +0000 2021",
+      "id": 1367547662308761600,
+      "id_str": "1367547662308761604",
+      "text": "@NotionFlow Поздравляю! Это большая удача. Согласно в начале карьеры гораздо легче найти людей от которых можно чему-то научиться.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NotionFlow",
+            "name": "notion.flow();",
+            "id": 2556525858,
+            "id_str": "2556525858",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1367511585749667800,
+      "in_reply_to_status_id_str": "1367511585749667855",
+      "in_reply_to_user_id": 2556525858,
+      "in_reply_to_user_id_str": "2556525858",
+      "in_reply_to_screen_name": "NotionFlow",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 04 19:19:32 +0000 2021",
+      "id": 1367555327395197000,
+      "id_str": "1367555327395196928",
+      "text": "@N_Lopin @N_Lopin Спасибо большое - это очень похоже на наш кейс! 👍🙌\n\n@ScriptedAlchemy Have you seen this  from new… https://t.co/AwY0QFR6Nb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "N_Lopin",
+            "name": "Ник Лопин",
+            "id": 327797419,
+            "id_str": "327797419",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "N_Lopin",
+            "name": "Ник Лопин",
+            "id": 327797419,
+            "id_str": "327797419",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "screen_name": "ScriptedAlchemy",
+            "name": "Zack Jackson",
+            "id": 1006610672220889100,
+            "id_str": "1006610672220889088",
+            "indices": [
+              70,
+              86
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AwY0QFR6Nb",
+            "expanded_url": "https://twitter.com/i/web/status/1367555327395196928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1367529555242680300,
+      "in_reply_to_status_id_str": "1367529555242680322",
+      "in_reply_to_user_id": 327797419,
+      "in_reply_to_user_id_str": "327797419",
+      "in_reply_to_screen_name": "N_Lopin",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
     }
   ]
 }
