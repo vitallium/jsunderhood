@@ -13,62 +13,31 @@
     }
   },
   "protected": false,
-  "followers_count": 9322,
+  "followers_count": 9323,
   "friends_count": 587,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 7295,
+  "favourites_count": 7296,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 46178,
+  "statuses_count": 46180,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 04 19:19:32 +0000 2021",
-    "id": 1367555327395197000,
-    "id_str": "1367555327395196928",
-    "text": "@N_Lopin @N_Lopin Спасибо большое - это очень похоже на наш кейс! 👍🙌\n\n@ScriptedAlchemy Have you seen this  from new… https://t.co/AwY0QFR6Nb",
+    "created_at": "Fri Mar 05 16:51:22 +0000 2021",
+    "id": 1367880427080360000,
+    "id_str": "1367880427080359938",
+    "text": "Самый out-of-body experience- когда скроллишь Твиттер и видишь своё лицо напротив классной мысли. И думаешь- ну я м… https://t.co/Dwjgy3okme",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "N_Lopin",
-          "name": "Ник Лопин",
-          "id": 327797419,
-          "id_str": "327797419",
-          "indices": [
-            0,
-            8
-          ]
-        },
-        {
-          "screen_name": "N_Lopin",
-          "name": "Ник Лопин",
-          "id": 327797419,
-          "id_str": "327797419",
-          "indices": [
-            9,
-            17
-          ]
-        },
-        {
-          "screen_name": "ScriptedAlchemy",
-          "name": "Zack Jackson",
-          "id": 1006610672220889100,
-          "id_str": "1006610672220889088",
-          "indices": [
-            70,
-            86
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/AwY0QFR6Nb",
-          "expanded_url": "https://twitter.com/i/web/status/1367555327395196928",
+          "url": "https://t.co/Dwjgy3okme",
+          "expanded_url": "https://twitter.com/i/web/status/1367880427080359938",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -77,22 +46,55 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1367529555242680300,
-    "in_reply_to_status_id_str": "1367529555242680322",
-    "in_reply_to_user_id": 327797419,
-    "in_reply_to_user_id_str": "327797419",
-    "in_reply_to_screen_name": "N_Lopin",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1367880426044289000,
+    "in_reply_to_status_id_str": "1367880426044289025",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "7d62cffe6f98f349",
+      "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+      "place_type": "city",
+      "name": "San Jose",
+      "full_name": "San Jose, CA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.035311,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.469154
+            ],
+            [
+              -122.035311,
+              37.469154
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,

@@ -3198,6 +3198,148 @@
       "favorited": false,
       "retweeted": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Fri Mar 05 16:51:22 +0000 2021",
+      "id": 1367880426044289000,
+      "id_str": "1367880426044289025",
+      "text": "Сегодня мой последний рабочий день с вами. Спасибо всем огромное за такое комьюнити, организаторам- за предоставленную возможность🙏",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7d62cffe6f98f349",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+        "place_type": "city",
+        "name": "San Jose",
+        "full_name": "San Jose, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.035311,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.469154
+              ],
+              [
+                -122.035311,
+                37.469154
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Mar 05 16:51:22 +0000 2021",
+      "id": 1367880427080360000,
+      "id_str": "1367880427080359938",
+      "text": "Самый out-of-body experience- когда скроллишь Твиттер и видишь своё лицо напротив классной мысли. И думаешь- ну я м… https://t.co/Dwjgy3okme",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dwjgy3okme",
+            "expanded_url": "https://twitter.com/i/web/status/1367880427080359938",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1367880426044289000,
+      "in_reply_to_status_id_str": "1367880426044289025",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7d62cffe6f98f349",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+        "place_type": "city",
+        "name": "San Jose",
+        "full_name": "San Jose, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.035311,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.469154
+              ],
+              [
+                -122.035311,
+                37.469154
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
