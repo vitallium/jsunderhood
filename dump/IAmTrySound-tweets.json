@@ -1,0 +1,48 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 08 08:19:22 +0000 2021",
+      "id": 1368838742098784300,
+      "id_str": "1368838742098784257",
+      "text": "Привет! На этой неделе с вами будет TrySound.\nЯ занимаюсь svgo и избавляюсь от node_modules.\nМой гитхаб https://t.co/Dl6SVOp0Jx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dl6SVOp0Jx",
+            "expanded_url": "https://github.com/TrySound",
+            "display_url": "github.com/TrySound",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
