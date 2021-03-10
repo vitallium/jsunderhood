@@ -1253,6 +1253,1532 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 08:19:16 +0000 2021",
+      "id": 1369201105545093000,
+      "id_str": "1369201105545093122",
+      "text": "@exdeniz Пока не было времени мигрировать. Скоро открою пул реквест.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "exdeniz",
+            "name": "exdeniz",
+            "id": 14585677,
+            "id_str": "14585677",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369167794101751800,
+      "in_reply_to_status_id_str": "1369167794101751810",
+      "in_reply_to_user_id": 14585677,
+      "in_reply_to_user_id_str": "14585677",
+      "in_reply_to_screen_name": "exdeniz",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:16:01 +0000 2021",
+      "id": 1369245586017448000,
+      "id_str": "1369245586017447936",
+      "text": "Сегодня расскажу как я мигрировал больше приложение с express на нативный нодовый сервер.\n\nИдея пришла когда я взгл… https://t.co/4J9cvvjKmL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4J9cvvjKmL",
+            "expanded_url": "https://twitter.com/i/web/status/1369245586017447936",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:19:09 +0000 2021",
+      "id": 1369246374089416700,
+      "id_str": "1369246374089416704",
+      "text": "Express патчит req и res своими пропертями и даже перезаписывает нативные. Такая конструкция очень напоминает дженг… https://t.co/BMEJdZpetj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BMEJdZpetj",
+            "expanded_url": "https://twitter.com/i/web/status/1369246374089416704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369245586017448000,
+      "in_reply_to_status_id_str": "1369245586017447936",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:20:43 +0000 2021",
+      "id": 1369246768454590500,
+      "id_str": "1369246768454590464",
+      "text": "Например, вот JSON ответ\n\nres.writeHead(200, { 'Content-Type': 'application/json' })\nres.end(JSON.stringify(data))… https://t.co/P9hIRfpvqo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P9hIRfpvqo",
+            "expanded_url": "https://twitter.com/i/web/status/1369246768454590464",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369246374089416700,
+      "in_reply_to_status_id_str": "1369246374089416704",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 11:22:21 +0000 2021",
+      "id": 1369247180146491400,
+      "id_str": "1369247180146491396",
+      "text": "У редиректа аналогичная структура\n\nres.writeHead(302, { Location: url })\nres.end()\n\nДля большинства случаев двух ме… https://t.co/qXDG4h668j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qXDG4h668j",
+            "expanded_url": "https://twitter.com/i/web/status/1369247180146491396",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369246768454590500,
+      "in_reply_to_status_id_str": "1369246768454590464",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Mar 09 11:25:23 +0000 2021",
+      "id": 1369247940376752000,
+      "id_str": "1369247940376752129",
+      "text": "Самая неприятная проблема express это отсутствие поддержки async/await. Middleware как бы могут быть асинхронными,… https://t.co/JG5ltQa961",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JG5ltQa961",
+            "expanded_url": "https://twitter.com/i/web/status/1369247940376752129",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369247180146491400,
+      "in_reply_to_status_id_str": "1369247180146491396",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:27:06 +0000 2021",
+      "id": 1369248372310343700,
+      "id_str": "1369248372310343680",
+      "text": "Решают эту проблему оборачивая каждый роут в try/catch, что, конечно, не очень практично и легко забыть.\n\nconst mid… https://t.co/xTwb2RGW15",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xTwb2RGW15",
+            "expanded_url": "https://twitter.com/i/web/status/1369248372310343680",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369247940376752000,
+      "in_reply_to_status_id_str": "1369247940376752129",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 11:30:38 +0000 2021",
+      "id": 1369249263562162200,
+      "id_str": "1369249263562162180",
+      "text": "Вернемся к началу, как создать нодовый сервер. Для примера буду использовать http. Конфигурация https не сильно отл… https://t.co/4n4HiU9rQA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4n4HiU9rQA",
+            "expanded_url": "https://twitter.com/i/web/status/1369249263562162180",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369248372310343700,
+      "in_reply_to_status_id_str": "1369248372310343680",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 11:34:20 +0000 2021",
+      "id": 1369250193342861300,
+      "id_str": "1369250193342861313",
+      "text": "appRoute сам обрабатывает ошибки и может быть асинхронным. Весь код оборачивается в общий try/catch как централизов… https://t.co/MejWILhZ2e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MejWILhZ2e",
+            "expanded_url": "https://twitter.com/i/web/status/1369250193342861313",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369249263562162200,
+      "in_reply_to_status_id_str": "1369249263562162180",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 11:35:32 +0000 2021",
+      "id": 1369250498382028800,
+      "id_str": "1369250498382028802",
+      "text": "Если использовать пакет вроде https://t.co/VU6IpM2TQd или кастомные ошибки, можно подменять код с фолбеком на 500\nr… https://t.co/0Fgp5hiEQ9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VU6IpM2TQd",
+            "expanded_url": "https://github.com/jshttp/http-errors",
+            "display_url": "github.com/jshttp/http-er…",
+            "indices": [
+              30,
+              53
+            ]
+          },
+          {
+            "url": "https://t.co/0Fgp5hiEQ9",
+            "expanded_url": "https://twitter.com/i/web/status/1369250498382028802",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369250193342861300,
+      "in_reply_to_status_id_str": "1369250193342861313",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:40:12 +0000 2021",
+      "id": 1369251671411462100,
+      "id_str": "1369251671411462146",
+      "text": "Если код ни один роут не сработал, выкидываем 404.\nres.headersSent - полпулярный способ проверки, отправился ли рес… https://t.co/kKYPcVK2xL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kKYPcVK2xL",
+            "expanded_url": "https://twitter.com/i/web/status/1369251671411462146",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369250498382028800,
+      "in_reply_to_status_id_str": "1369250498382028802",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 11:42:03 +0000 2021",
+      "id": 1369252134718423000,
+      "id_str": "1369252134718423052",
+      "text": "@shuvalov_js Типы, слишком сложная обработка ошибок и свора зависимостей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Long Island AST",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369250884144656400,
+      "in_reply_to_status_id_str": "1369250884144656385",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:47:06 +0000 2021",
+      "id": 1369253406381064200,
+      "id_str": "1369253406381064192",
+      "text": "@shuvalov_js Да и просто совершенно ненужная абстракция",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Long Island AST",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369252134718423000,
+      "in_reply_to_status_id_str": "1369252134718423052",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 11:59:11 +0000 2021",
+      "id": 1369256446907531300,
+      "id_str": "1369256446907531269",
+      "text": "Теперь приступим к роутам.\n\nОтделим желток от белка\n\nconst [pathname, search] = req.url.split('?')\n\nи взобьем венчи… https://t.co/PpFBqTg4hO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PpFBqTg4hO",
+            "expanded_url": "https://twitter.com/i/web/status/1369256446907531269",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369251671411462100,
+      "in_reply_to_status_id_str": "1369251671411462146",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 12:00:49 +0000 2021",
+      "id": 1369256860470173700,
+      "id_str": "1369256860470173697",
+      "text": "Однако бывают требования с параметрами в роутах, к примеру, /user/:id. Воспользуемся старым добрым регэкспом\n\nconst… https://t.co/FZjUqpG1KE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FZjUqpG1KE",
+            "expanded_url": "https://twitter.com/i/web/status/1369256860470173697",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369256446907531300,
+      "in_reply_to_status_id_str": "1369256446907531269",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 12:04:29 +0000 2021",
+      "id": 1369257784148123600,
+      "id_str": "1369257784148123664",
+      "text": "Если приложение большое и параметров много, можно воспользоваться микро роутером, с которым можно подстраивать под… https://t.co/ogWoeQDguH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ogWoeQDguH",
+            "expanded_url": "https://twitter.com/i/web/status/1369257784148123664",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369256860470173700,
+      "in_reply_to_status_id_str": "1369256860470173697",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:10:49 +0000 2021",
+      "id": 1369259376536674300,
+      "id_str": "1369259376536674309",
+      "text": "Альтернатива req.query\n\nВ ноде уже давно появилcz совместимыq с вебом класс URLSearchParams. Он проще с точки зрени… https://t.co/fPALiFDan1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fPALiFDan1",
+            "expanded_url": "https://twitter.com/i/web/status/1369259376536674309",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369257784148123600,
+      "in_reply_to_status_id_str": "1369257784148123664",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:11:58 +0000 2021",
+      "id": 1369259666132398000,
+      "id_str": "1369259666132398083",
+      "text": "const [pathname, search] = req.url.split('?')\nconst searchParams = new URLSearchParams(search)\nsearchParams.get('id… https://t.co/KsAeKWM8qY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KsAeKWM8qY",
+            "expanded_url": "https://twitter.com/i/web/status/1369259666132398083",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369259376536674300,
+      "in_reply_to_status_id_str": "1369259376536674309",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Mar 09 12:19:13 +0000 2021",
+      "id": 1369261489186553900,
+      "id_str": "1369261489186553859",
+      "text": "Альтернатива req.body\n\nКаждый роут знает в каком формате и какие данные ему необходимы. К примеру данные переданы п… https://t.co/xKLUFF60tk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xKLUFF60tk",
+            "expanded_url": "https://twitter.com/i/web/status/1369261489186553859",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369259666132398000,
+      "in_reply_to_status_id_str": "1369259666132398083",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:20:10 +0000 2021",
+      "id": 1369261730476474400,
+      "id_str": "1369261730476474369",
+      "text": "@webholt Это конечно было бы прекрасно, но req.url не включает origin без которого URL не может парсить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369260246754074600,
+      "in_reply_to_status_id_str": "1369260246754074624",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:23:55 +0000 2021",
+      "id": 1369262671581839400,
+      "id_str": "1369262671581839361",
+      "text": "И наконец, что если необходимо переиспользовать готовый express middleware.\n\nawait new Promise((resolve, reject) =&gt;… https://t.co/age8Y9wRey",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/age8Y9wRey",
+            "expanded_url": "https://twitter.com/i/web/status/1369262671581839361",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369261489186553900,
+      "in_reply_to_status_id_str": "1369261489186553859",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 12:25:24 +0000 2021",
+      "id": 1369263047617941500,
+      "id_str": "1369263047617941507",
+      "text": "очепятка\nconst data = JSON.parse(await getStream(req))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369261489186553900,
+      "in_reply_to_status_id_str": "1369261489186553859",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 09 12:44:49 +0000 2021",
+      "id": 1369267930983264300,
+      "id_str": "1369267930983264261",
+      "text": "@7rulnik Неа, отталкивался от ситуации. express не решал проблем - выкинул. У нас graphql апи, и не так много роутов.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369265953037557800,
+      "in_reply_to_status_id_str": "1369265953037557762",
+      "in_reply_to_user_id": 449464925,
+      "in_reply_to_user_id_str": "449464925",
+      "in_reply_to_screen_name": "7rulnik",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:50:36 +0000 2021",
+      "id": 1369269386381385700,
+      "id_str": "1369269386381385729",
+      "text": "И в заключение немного мнения. Не стоит использовать абстракции, если доступны простые решения. Разбираться в черно… https://t.co/3QcMuzpDT3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3QcMuzpDT3",
+            "expanded_url": "https://twitter.com/i/web/status/1369269386381385729",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369262671581839400,
+      "in_reply_to_status_id_str": "1369262671581839361",
+      "in_reply_to_user_id": 3014054307,
+      "in_reply_to_user_id_str": "3014054307",
+      "in_reply_to_screen_name": "jsunderhood",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:54:16 +0000 2021",
+      "id": 1369270310231498800,
+      "id_str": "1369270310231498752",
+      "text": "@maxxcorp @shuvalov_js А декораторы по какой спеке заимплеменчены?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxxcorp",
+            "name": "Max",
+            "id": 170233883,
+            "id_str": "170233883",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Long Island AST",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369264580548063200,
+      "in_reply_to_status_id_str": "1369264580548063236",
+      "in_reply_to_user_id": 170233883,
+      "in_reply_to_user_id_str": "170233883",
+      "in_reply_to_screen_name": "maxxcorp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 12:55:59 +0000 2021",
+      "id": 1369270744174198800,
+      "id_str": "1369270744174198788",
+      "text": "@shuvalov_js А вы нанимаете react/angular разработчиков без знаниия js? В нативном сервере нет никакой магии. Все е… https://t.co/Dppog4Y2KM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Long Island AST",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Dppog4Y2KM",
+            "expanded_url": "https://twitter.com/i/web/status/1369270744174198788",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369254610058231800,
+      "in_reply_to_status_id_str": "1369254610058231819",
+      "in_reply_to_user_id": 214580679,
+      "in_reply_to_user_id_str": "214580679",
+      "in_reply_to_screen_name": "shuvalov_js",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 13:09:29 +0000 2021",
+      "id": 1369274141245857800,
+      "id_str": "1369274141245857794",
+      "text": "@kamyshev_code Сравнение не совсем корректное. Нодовый сервер доуступен из коробки. Это не кастомное решение. В тре… https://t.co/sKYmnobuLa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sKYmnobuLa",
+            "expanded_url": "https://twitter.com/i/web/status/1369274141245857794",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369258063975182300,
+      "in_reply_to_status_id_str": "1369258063975182339",
+      "in_reply_to_user_id": 556089858,
+      "in_reply_to_user_id_str": "556089858",
+      "in_reply_to_screen_name": "kamyshev_code",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 13:12:15 +0000 2021",
+      "id": 1369274836552458200,
+      "id_str": "1369274836552458242",
+      "text": "@webholt Да, из хедеров можно собрать origin. Мы так и делаем в нашем приложении. Но это лишняя логика если после э… https://t.co/t7FBVNbJW2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "webholt",
+            "name": "Vlad :: gwer",
+            "id": 97894369,
+            "id_str": "97894369",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t7FBVNbJW2",
+            "expanded_url": "https://twitter.com/i/web/status/1369274836552458242",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369264026371436500,
+      "in_reply_to_status_id_str": "1369264026371436547",
+      "in_reply_to_user_id": 97894369,
+      "in_reply_to_user_id_str": "97894369",
+      "in_reply_to_screen_name": "webholt",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 13:15:19 +0000 2021",
+      "id": 1369275607511629800,
+      "id_str": "1369275607511629824",
+      "text": "@kamyshev_code Если много мидлвар которые специально создавались с возможностью использования без express… https://t.co/QR3hkSsHnl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QR3hkSsHnl",
+            "expanded_url": "https://twitter.com/i/web/status/1369275607511629824",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369263261636571100,
+      "in_reply_to_status_id_str": "1369263261636571138",
+      "in_reply_to_user_id": 556089858,
+      "in_reply_to_user_id_str": "556089858",
+      "in_reply_to_screen_name": "kamyshev_code",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 13:17:14 +0000 2021",
+      "id": 1369276090842296300,
+      "id_str": "1369276090842296320",
+      "text": "@anyxem А сейчас оно надо? Нативные методы очень даже хороши.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "anyxem",
+            "name": "Sergey Chystiakov",
+            "id": 32996783,
+            "id_str": "32996783",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369274789966315500,
+      "in_reply_to_status_id_str": "1369274789966315525",
+      "in_reply_to_user_id": 32996783,
+      "in_reply_to_user_id_str": "32996783",
+      "in_reply_to_screen_name": "anyxem",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 13:21:28 +0000 2021",
+      "id": 1369277155549544400,
+      "id_str": "1369277155549544458",
+      "text": "@maxxcorp @shuvalov_js Обработка ошибок стала значительно проще. express просто не давал возможность обработать все… https://t.co/73Qn2O4JCl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxxcorp",
+            "name": "Max",
+            "id": 170233883,
+            "id_str": "170233883",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "shuvalov_js",
+            "name": "Long Island AST",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/73Qn2O4JCl",
+            "expanded_url": "https://twitter.com/i/web/status/1369277155549544458",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369274188280832000,
+      "in_reply_to_status_id_str": "1369274188280832003",
+      "in_reply_to_user_id": 170233883,
+      "in_reply_to_user_id_str": "170233883",
+      "in_reply_to_screen_name": "maxxcorp",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 16:39:55 +0000 2021",
+      "id": 1369327098335289300,
+      "id_str": "1369327098335289353",
+      "text": "@kamyshev_code Я предложил микро роутер если хочется. У него нет проблем с поддержкой async/await и обработкой ошиб… https://t.co/GSDdixT3Hx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kamyshev_code",
+            "name": "Igor Kamyshev",
+            "id": 556089858,
+            "id_str": "556089858",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GSDdixT3Hx",
+            "expanded_url": "https://twitter.com/i/web/status/1369327098335289353",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369287041364549600,
+      "in_reply_to_status_id_str": "1369287041364549635",
+      "in_reply_to_user_id": 556089858,
+      "in_reply_to_user_id_str": "556089858",
+      "in_reply_to_screen_name": "kamyshev_code",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 09 21:40:48 +0000 2021",
+      "id": 1369402816788324400,
+      "id_str": "1369402816788324352",
+      "text": "@theKashey Я имею ввиду что абстракции часто не нужны. В самой ноде достаточно фич для базового и среднего приложен… https://t.co/qVd6Z7x3zE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "theKashey",
+            "name": "Anton Korzunov",
+            "id": 97456304,
+            "id_str": "97456304",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qVd6Z7x3zE",
+            "expanded_url": "https://twitter.com/i/web/status/1369402816788324352",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369391925757943800,
+      "in_reply_to_status_id_str": "1369391925757943815",
+      "in_reply_to_user_id": 97456304,
+      "in_reply_to_user_id_str": "97456304",
+      "in_reply_to_screen_name": "theKashey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

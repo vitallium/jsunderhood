@@ -13,31 +13,42 @@
     }
   },
   "protected": false,
-  "followers_count": 9332,
+  "followers_count": 9337,
   "friends_count": 588,
   "listed_count": 240,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
-  "favourites_count": 7300,
+  "favourites_count": 7302,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 46207,
+  "statuses_count": 46240,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 08 12:40:13 +0000 2021",
-    "id": 1368904388337688600,
-    "id_str": "1368904388337688578",
-    "text": "Работа конечная, но обширная. К тому же со временем svg может все таки продолжит развиваться, а новые идеи оптимиза… https://t.co/3px4Bq0L7a",
+    "created_at": "Tue Mar 09 21:40:48 +0000 2021",
+    "id": 1369402816788324400,
+    "id_str": "1369402816788324352",
+    "text": "@theKashey Я имею ввиду что абстракции часто не нужны. В самой ноде достаточно фич для базового и среднего приложен… https://t.co/qVd6Z7x3zE",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "theKashey",
+          "name": "Anton Korzunov",
+          "id": 97456304,
+          "id_str": "97456304",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/3px4Bq0L7a",
-          "expanded_url": "https://twitter.com/i/web/status/1368904388337688578",
+          "url": "https://t.co/qVd6Z7x3zE",
+          "expanded_url": "https://twitter.com/i/web/status/1369402816788324352",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,23 +58,20 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1368903470275821600,
-    "in_reply_to_status_id_str": "1368903470275821570",
-    "in_reply_to_user_id": 3014054307,
-    "in_reply_to_user_id_str": "3014054307",
-    "in_reply_to_screen_name": "jsunderhood",
+    "in_reply_to_status_id": 1369391925757943800,
+    "in_reply_to_status_id_str": "1369391925757943815",
+    "in_reply_to_user_id": 97456304,
+    "in_reply_to_user_id_str": "97456304",
+    "in_reply_to_screen_name": "theKashey",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1368845532412711000,
-    "quoted_status_id_str": "1368845532412710912",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
