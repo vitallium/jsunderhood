@@ -13,56 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 9337,
+  "followers_count": 9341,
   "friends_count": 588,
-  "listed_count": 240,
+  "listed_count": 241,
   "created_at": "Tue Feb 03 07:35:41 +0000 2015",
   "favourites_count": 7302,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 46240,
+  "statuses_count": 46246,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 09 21:40:48 +0000 2021",
-    "id": 1369402816788324400,
-    "id_str": "1369402816788324352",
-    "text": "@theKashey Я имею ввиду что абстракции часто не нужны. В самой ноде достаточно фич для базового и среднего приложен… https://t.co/qVd6Z7x3zE",
+    "created_at": "Wed Mar 10 12:32:39 +0000 2021",
+    "id": 1369627257124364300,
+    "id_str": "1369627257124364293",
+    "text": "@JiLiZART А так сложно? Я не спорю, что у fastify есть очень полезные фичи для многих приложений. Однако ставить в… https://t.co/4k9mf8llRo",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "theKashey",
-          "name": "Anton Korzunov",
-          "id": 97456304,
-          "id_str": "97456304",
+          "screen_name": "JiLiZART",
+          "name": "Nikolay Kost 🎸 JS Devundefined",
+          "id": 20395262,
+          "id_str": "20395262",
           "indices": [
             0,
-            10
+            9
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/qVd6Z7x3zE",
-          "expanded_url": "https://twitter.com/i/web/status/1369402816788324352",
+          "url": "https://t.co/4k9mf8llRo",
+          "expanded_url": "https://twitter.com/i/web/status/1369627257124364293",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1369391925757943800,
-    "in_reply_to_status_id_str": "1369391925757943815",
-    "in_reply_to_user_id": 97456304,
-    "in_reply_to_user_id_str": "97456304",
-    "in_reply_to_screen_name": "theKashey",
+    "in_reply_to_status_id": 1369584413282078700,
+    "in_reply_to_status_id_str": "1369584413282078720",
+    "in_reply_to_user_id": 20395262,
+    "in_reply_to_user_id_str": "20395262",
+    "in_reply_to_screen_name": "JiLiZART",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,6 +72,7 @@
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

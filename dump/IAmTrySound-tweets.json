@@ -2779,6 +2779,341 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 10 08:53:15 +0000 2021",
+      "id": 1369572042849345500,
+      "id_str": "1369572042849345538",
+      "text": "@JiLiZART 1. Я уже не раз написал что большая проблема была в невозможности централизованно обработать ошибки\n\n2. Т… https://t.co/NoCDRKJB61",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JiLiZART",
+            "name": "Nikolay Kost 🎸 JS Devundefined",
+            "id": 20395262,
+            "id_str": "20395262",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NoCDRKJB61",
+            "expanded_url": "https://twitter.com/i/web/status/1369572042849345538",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369445413464445000,
+      "in_reply_to_status_id_str": "1369445413464444930",
+      "in_reply_to_user_id": 20395262,
+      "in_reply_to_user_id_str": "20395262",
+      "in_reply_to_screen_name": "JiLiZART",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 10 08:54:27 +0000 2021",
+      "id": 1369572346776985600,
+      "id_str": "1369572346776985602",
+      "text": "@infodusha Десятка два или три",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "infodusha",
+            "name": "Твиттерский никнейм",
+            "id": 602123935,
+            "id_str": "602123935",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369534000759455700,
+      "in_reply_to_status_id_str": "1369534000759455747",
+      "in_reply_to_user_id": 602123935,
+      "in_reply_to_user_id_str": "602123935",
+      "in_reply_to_screen_name": "infodusha",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Mar 10 09:03:07 +0000 2021",
+      "id": 1369574526095351800,
+      "id_str": "1369574526095351811",
+      "text": "@theKashey @icelabaratory @oleg008 @icelabaratory Micro кстати через WeakMap body шарит",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "theKashey",
+            "name": "Anton Korzunov",
+            "id": 97456304,
+            "id_str": "97456304",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "icelabaratory",
+            "name": "Ivan Starkov",
+            "id": 928439106,
+            "id_str": "928439106",
+            "indices": [
+              11,
+              25
+            ]
+          },
+          {
+            "screen_name": "oleg008",
+            "name": "Oleg",
+            "id": 69033784,
+            "id_str": "69033784",
+            "indices": [
+              26,
+              34
+            ]
+          },
+          {
+            "screen_name": "icelabaratory",
+            "name": "Ivan Starkov",
+            "id": 928439106,
+            "id_str": "928439106",
+            "indices": [
+              35,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369495889237090300,
+      "in_reply_to_status_id_str": "1369495889237090305",
+      "in_reply_to_user_id": 97456304,
+      "in_reply_to_user_id_str": "97456304",
+      "in_reply_to_screen_name": "theKashey",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Mar 10 09:34:58 +0000 2021",
+      "id": 1369582544589586400,
+      "id_str": "1369582544589586432",
+      "text": "@JiLiZART С async/await нет, потому что express уже много лет не развивается и не адаптируется под современные возм… https://t.co/0a7HQQiGNq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JiLiZART",
+            "name": "Nikolay Kost 🎸 JS Devundefined",
+            "id": 20395262,
+            "id_str": "20395262",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0a7HQQiGNq",
+            "expanded_url": "https://twitter.com/i/web/status/1369582544589586432",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369580168164094000,
+      "in_reply_to_status_id_str": "1369580168164093952",
+      "in_reply_to_user_id": 20395262,
+      "in_reply_to_user_id_str": "20395262",
+      "in_reply_to_screen_name": "JiLiZART",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 10 12:10:08 +0000 2021",
+      "id": 1369621590103691300,
+      "id_str": "1369621590103691266",
+      "text": "@alexahdp1 Производительность осталась такой же. express оверхеда не добавлял. Однако время стартапа сократилось. А… https://t.co/4nZhWqEYCf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alexahdp1",
+            "name": "Александр",
+            "id": 993087570,
+            "id_str": "993087570",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4nZhWqEYCf",
+            "expanded_url": "https://twitter.com/i/web/status/1369621590103691266",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369619557699174400,
+      "in_reply_to_status_id_str": "1369619557699174401",
+      "in_reply_to_user_id": 993087570,
+      "in_reply_to_user_id_str": "993087570",
+      "in_reply_to_screen_name": "alexahdp1",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 10 12:32:39 +0000 2021",
+      "id": 1369627257124364300,
+      "id_str": "1369627257124364293",
+      "text": "@JiLiZART А так сложно? Я не спорю, что у fastify есть очень полезные фичи для многих приложений. Однако ставить в… https://t.co/4k9mf8llRo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JiLiZART",
+            "name": "Nikolay Kost 🎸 JS Devundefined",
+            "id": 20395262,
+            "id_str": "20395262",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4k9mf8llRo",
+            "expanded_url": "https://twitter.com/i/web/status/1369627257124364293",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1369584413282078700,
+      "in_reply_to_status_id_str": "1369584413282078720",
+      "in_reply_to_user_id": 20395262,
+      "in_reply_to_user_id_str": "20395262",
+      "in_reply_to_screen_name": "JiLiZART",
+      "user": {
+        "id": 3014054307,
+        "id_str": "3014054307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
